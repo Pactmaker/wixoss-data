@@ -1,0 +1,23 @@
+{
+  "card_effect": "【升阶】放置在我方1只红色精灵上方（不满足该条件的话不能将该精灵出场）\n【出】《红》: 以对方场上1只力量为8000以下的精灵为对象，将其破坏。\n【起】《红》《红》: 直到回合结束为止，该精灵获得【双重击溃】能力。（攻击给予伤害之际击溃2张生命护甲）",
+  "card_lines": "如果不叫的话　就消失吧　杜鹃",
+  "card_lrig_type": "",
+  "card_name": "红将姬 信长",
+  "card_no": "WXN04-SC071",
+  "card_sprite_type": "奏像/武勇",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "13000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJGDSZ9PZPC07JS7FM9D"
+}

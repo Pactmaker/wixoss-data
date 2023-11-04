@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】:  只要我方场上有驾驶状态的精灵，该精灵的力量+4000。\n（只要分身骑乘精灵，即为驾驶状态。）",
+  "card_lines": "让我送你一程吧。～特急电车～",
+  "card_lrig_type": "",
+  "card_name": "骑乘代号 特急电车",
+  "card_no": "WXD05-SC017-R",
+  "card_sprite_type": "精械/乘机",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSSTCG 简体中文版起始牌组 05 暗焰狂喜 dark flame rapture",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "8000",
+  "rarity": "ST",
+  "story": "",
+  "team": "",
+  "uid": "01H7X20AGS12NBGAYWH6V9JDW7"
+}

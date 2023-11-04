@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】《横置》: 以对方场上1只力量为2000以下的精灵为对象，将其破坏。若该精灵力量为5000以上，改为以对方场上1只力量为5000以下的精灵为对象，将其破坏。",
+  "card_lines": "「我的力量即使用尽了也会继续燃烧。」",
+  "card_lrig_type": "",
+  "card_name": "红将 岳举",
+  "card_no": "WXN04-SC103",
+  "card_sprite_type": "奏像/武勇",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "2000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJN1B6DFFKVFPXMWWACX"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 对方的魔法牌的使用费用增加【无1】。\n【自】: 我方使用魔法牌时，直到回合结束为止，我方场上所有<原子>精灵的力量+2000。\n【起】将2只竖置状态的<原子>精灵横置: 以对方场上1只精灵为对象，将其破坏。\n【生命爆发】: 抽1张牌。那之后，若我方场上有<原子>精灵，以对方场上1只精灵为对象，将其破坏。",
+  "card_lines": "我有第一名的实力！～Ne～",
+  "card_lrig_type": "",
+  "card_name": "罗原姬 Ne",
+  "card_no": "WXN01-SC105",
+  "card_sprite_type": "精罗/原子",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3WT9AH1WF92AP82FCZGK"
+}

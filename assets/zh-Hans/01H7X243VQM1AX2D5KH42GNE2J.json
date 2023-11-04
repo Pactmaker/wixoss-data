@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：该精灵攻击时，若该精灵的力量为3000以上，将我方牌组顶1张牌放置到能量区。",
+  "card_lines": "嗷！喵！～白虎～",
+  "card_lrig_type": "",
+  "card_name": "幻兽 白虎",
+  "card_no": "WXD02-SC028-M",
+  "card_sprite_type": "精生/地兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文-起始牌组",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "1000",
+  "rarity": "ST",
+  "story": "",
+  "team": "",
+  "uid": "01H7X243VQM1AX2D5KH42GNE2J"
+}

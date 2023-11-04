@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】丢弃1张手牌: 获得《硬币》。\n【出】: 查看我方牌组顶4张牌。可以将其中1张牌作为【种子】在我方精灵区出场。剩下的牌洗切并放置到牌组底。\n（1个精灵区只能放置最多1张以背面表示作为【种子】的牌，开花时将会变为精灵）",
+  "card_lines": "崭新的装束。～雪～",
+  "card_lrig_type": "伊绪奈",
+  "card_name": "花影之巫女 雪",
+  "card_no": "WXC03-SC015",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "白",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版角色强化包03 万花镜映",
+  "grow_price": "白0",
+  "level": "1",
+  "limit": "2",
+  "power": "",
+  "rarity": "LC",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMA65V8E2E77Y2MJDZCG61"
+}

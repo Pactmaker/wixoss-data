@@ -1,0 +1,23 @@
+{
+  "card_effect": "【队伍】＜No Limit＞\n【队伍自】: 我方的攻击阶段开始时，若此回合中我方因效果抽2张以上的牌，以场上1只等级2以下的精灵为对象，可以支付《蓝》《无》。若如此做，将其放置到牌组底。\n【出】: 抽1张牌并【能量填充1】。\n【起】《游戏1》将2只竖置状态的等级2的分身横置 : 丢弃所有手牌。对方丢弃与用此方法丢弃的蓝色牌相同张数的手牌。",
+  "card_lines": "「尽情发挥我的力量吧。」",
+  "card_lrig_type": "令",
+  "card_name": "向着至高飞翔 令",
+  "card_no": "WXN04-SC041",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "蓝2",
+  "level": "3",
+  "limit": "6",
+  "power": "",
+  "rarity": "LC",
+  "story": "",
+  "team": "No Limit",
+  "uid": "01H7VMAJDEKPJKGY504HTHDZ1T"
+}

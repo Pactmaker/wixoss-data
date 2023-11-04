@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】将我方1只等级1的精灵和1只等级2的精灵从场上放置到废弃区 ：以对方场上1只精灵为对象，将其放置到废弃区。\n生命爆发：以我方废弃区1张等级2以下的黑色精灵牌为对象，将其加入手牌或将其出场。",
+  "card_lines": "王不再只满足于听故事，而是沉迷于角色扮演。",
+  "card_lrig_type": "",
+  "card_name": "千夜的五夜 山努亚",
+  "card_no": "SPEX1-SC053",
+  "card_sprite_type": "精像/恶魔",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 夏日套装SPEX01（子件）",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "7000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H8NEEK2EGS24A7DZFM741248"
+}

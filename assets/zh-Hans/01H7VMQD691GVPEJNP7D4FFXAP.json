@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该精灵被破坏时，以对方场上1只精灵为对象，将其冻结。\n（被冻结的精灵在下个自己的竖置阶段不能竖置）",
+  "card_lines": "注满空水槽，A口要１０分钟，B口要２０分钟。开１分钟A口，然后A，B口一起开，多久能满呢。",
+  "card_lrig_type": "",
+  "card_name": "溜英的蛇口 进排水问题",
+  "card_no": "WXN02-SC173",
+  "card_sprite_type": "精像/英知",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "2000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQD691GVPEJNP7D4FFXAP"
+}

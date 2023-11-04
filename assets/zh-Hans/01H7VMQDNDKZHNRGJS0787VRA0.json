@@ -1,0 +1,23 @@
+{
+  "card_effect": "下注—【硬币】\n以对方场上1只等级3以下的精灵为对象，将其返回手牌。若我方已下注，改为以对方场上1只精灵为对象，将其返回手牌。",
+  "card_lines": "出发吧，这也是选择之一。～雪芽～",
+  "card_lrig_type": "",
+  "card_name": "硬币界限",
+  "card_no": "WXN02-SC033",
+  "card_sprite_type": "",
+  "card_type": "必杀",
+  "coin": "",
+  "color": "白",
+  "cost": "白1无1",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "LC",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQDNDKZHNRGJS0787VRA0"
+}

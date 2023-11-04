@@ -1,0 +1,23 @@
+{
+  "card_effect": "再演－《硬币》（可以追加支付再演费用使用。若如此做，该牌追加获得「将该牌返回分身牌组。」）\n\n查看我方牌组顶4张牌。将其中1张牌加入手牌，1张牌成为【节拍】，剩下的牌按照任意顺序放置到牌组底。那之后，以对方场上1只等级与用此方法成为【节拍】的精灵牌等级相同的精灵为对象，将其破坏。",
+  "card_lines": "Fill in，看点要来咯。～塔维尔～",
+  "card_lrig_type": "",
+  "card_name": "回心转火",
+  "card_no": "WXC02-SC019",
+  "card_sprite_type": "",
+  "card_type": "必杀",
+  "coin": "",
+  "color": "红",
+  "cost": "红1",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版角色强化包02深渊歌叹",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "LC",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMNSSJG6VWQ2JCQFZWV49W"
+}

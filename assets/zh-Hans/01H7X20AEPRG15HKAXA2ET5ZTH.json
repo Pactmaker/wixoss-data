@@ -1,0 +1,23 @@
+{
+  "card_effect": "以对方场上1只精灵为对象，直到回合结束为止，其力量-15000。\n（力量为0以下的精灵会因规则而破坏）",
+  "card_lines": "已经不在了吗？真快呢。",
+  "card_lrig_type": "",
+  "card_name": "永恒放逐",
+  "card_no": "WXD05-SCP02",
+  "card_sprite_type": "",
+  "card_type": "必杀",
+  "coin": "",
+  "color": "黑",
+  "cost": "黑3",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSSTCG 简体中文版起始牌组 05 暗焰狂喜 dark flame rapture",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "SP",
+  "story": "",
+  "team": "",
+  "uid": "01H7X20AEPRG15HKAXA2ET5ZTH"
+}

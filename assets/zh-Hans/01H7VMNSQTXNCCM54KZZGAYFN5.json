@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】《回合1 》《主要阶段》《攻击阶段》《蓝0 》: 将对象的对方废弃区1张牌放置到对方牌组底。若如此做，可以将对象的场上1只精灵配置到其他的精灵区。（不能配置到已经有精灵的精灵区）\n生命爆发: 【能量填充1】",
+  "card_lines": "来吧，派对要开始咯！～温哥华～",
+  "card_lrig_type": "",
+  "card_name": "迷宫代号 温哥华",
+  "card_no": "WXC02-SC094",
+  "card_sprite_type": "精械/迷宫",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版角色强化包02深渊歌叹",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "3000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMNSQTXNCCM54KZZGAYFN5"
+}

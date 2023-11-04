@@ -1,0 +1,23 @@
+{
+  "card_effect": "下注—【硬币】【硬币】【硬币】\n以对方场上1只精灵为对象，将其横置，抽1张牌。若我方已下注，改为以对方场上3只精灵为对象，将其横置，抽3张牌。",
+  "card_lines": "这份光辉，将会在某人手上传颂。",
+  "card_lrig_type": "",
+  "card_name": "禁止响应",
+  "card_no": "WXN02-SC020",
+  "card_sprite_type": "",
+  "card_type": "必杀",
+  "coin": "",
+  "color": "蓝",
+  "cost": "蓝2",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "LR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQDBTV9QNGX3TF624JJFS"
+}

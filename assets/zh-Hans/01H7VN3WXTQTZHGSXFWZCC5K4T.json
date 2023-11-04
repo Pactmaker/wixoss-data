@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该精灵被破坏时，可以支付《红》。若如此做，将牌组1张等级1的<武勇>精灵牌展示并加入手牌，洗切牌组。",
+  "card_lines": "大贤良师就是我～张角～",
+  "card_lrig_type": "",
+  "card_name": "札术的黄长 张角",
+  "card_no": "WXN01-SC198",
+  "card_sprite_type": "精像/武勇",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "5000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3WXTQTZHGSXFWZCC5K4T"
+}

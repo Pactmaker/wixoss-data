@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该精灵攻击时，若此回合中我方已使用必杀牌，可以支付【绿】【绿】【绿】。若如此做，将我牌组顶1张牌加入生命护甲。",
+  "card_lines": "找寻树木，蚕食森林。",
+  "card_lrig_type": "",
+  "card_name": "幻怪 贝希摩斯",
+  "card_no": "WXC01-SC087",
+  "card_sprite_type": "精生/怪异",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "Wixoss简体中文版 角色强化包01森罗轰咆",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "10000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM7FY42ZNHECFC5MFWD6V2"
+}

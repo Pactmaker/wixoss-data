@@ -1,0 +1,23 @@
+{
+  "card_effect": "【成长】我方主分身卡牌名含有《玉》\n【起】【回合1】超越1（白色牌）: 以对方场上1只精灵为对象，将其返回手牌。\n【起】【回合1】超越1（红色牌）: 以对方场上1只力量为15000以下的精灵为对象，将其破坏。\n【起】超越2（白色和红色牌）: 从我方牌组检索<武装>和<武器>精灵牌各1张并将其出场，洗切牌组。",
+  "card_lines": "嘿哈！～小玉～",
+  "card_lrig_type": "小玉",
+  "card_name": "炎·玉依姬·伍",
+  "card_no": "WXN02-SC003",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "红1白1",
+  "level": "5",
+  "limit": "12",
+  "power": "",
+  "rarity": "LR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQDACKKKVTN898G8PB0DV"
+}

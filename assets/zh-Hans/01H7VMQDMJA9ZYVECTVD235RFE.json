@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 对方场上的精灵的力量因对方的效果增加的情况下，改为减少。\n【起】将我方场上1只<毒牙>精灵放置到废弃区: 以对方场上1只精灵为对象，直到回合结束为止，用此方法放置到废弃区的精灵的等级每有1级，其力量-2000。\n生命爆发: 将对象的我方废弃区1张<毒牙>精灵牌加入手牌，直到回合结束为止，对象的对方场上1只精灵的力量-8000。",
+  "card_lines": "世界正在逐渐枯萎，我，该如何...～绿姬～",
+  "card_lrig_type": "",
+  "card_name": "Vier＝薇克丝",
+  "card_no": "WXN02-SC111",
+  "card_sprite_type": "精武/毒牙",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQDMJA9ZYVECTVD235RFE"
+}

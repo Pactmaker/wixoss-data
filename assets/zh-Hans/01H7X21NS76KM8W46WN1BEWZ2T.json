@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：该精灵攻击时，展示我方牌组顶1张牌。若其为等级4的精灵牌，将其放置到能量区或加入手牌。\n生命爆发：抽1张牌。",
+  "card_lines": "走进温泉就能领略自转的感觉哦。~≡宇宙回转温泉≡~",
+  "card_lrig_type": "",
+  "card_name": "罗星 ≡宇宙回转温泉≡",
+  "card_no": "WXD06-SCP010",
+  "card_sprite_type": "精罗/宇宙",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSSTCG简体中文版起始牌组06星宇宙之轮演",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "2000",
+  "rarity": "SP",
+  "story": "",
+  "team": "",
+  "uid": "01H7X21NS76KM8W46WN1BEWZ2T"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "此回合中，只要我方场上的精灵正前方的精灵力量为12000以上，其获得【暗杀】能力。\n（使用该必杀后出场的精灵也会受到此效果影响）\n（持有【暗杀】能力的精灵攻击时不与其正前方的精灵战斗，改为对对方造成伤害）",
+  "card_lines": "嘿咻！～游月～",
+  "card_lrig_type": "",
+  "card_name": "炎志贯彻",
+  "card_no": "WXD02-SCP05",
+  "card_sprite_type": "",
+  "card_type": "必杀",
+  "coin": "",
+  "color": "红",
+  "cost": "红3无2",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文-起始牌组",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SP",
+  "story": "",
+  "team": "",
+  "uid": "01H7X243S1ZNBMCZM316SDC13D"
+}

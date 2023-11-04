@@ -1,0 +1,23 @@
+{
+  "card_effect": "以对方场上1只精灵为对象，直到回合结束为止，其力量-4000。\n（力量为0以下的精灵会因规则而破坏）",
+  "card_lines": "许愿者越优秀受到的伤害越大。",
+  "card_lrig_type": "",
+  "card_name": "完全漆黑",
+  "card_no": "WXD05-SC029-U",
+  "card_sprite_type": "",
+  "card_type": "魔法",
+  "coin": "",
+  "color": "黑",
+  "cost": "黑1",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSSTCG 简体中文版起始牌组 05 暗焰狂喜 dark flame rapture",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "ST",
+  "story": "",
+  "team": "",
+  "uid": "01H7X20AHR6AVXEBPYAB21J6MF"
+}

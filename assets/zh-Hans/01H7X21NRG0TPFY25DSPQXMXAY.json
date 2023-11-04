@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出现条件】【主要阶段】将我方场上2只不为共鸣且等级2以下的<宇宙>精灵放置到废弃区\n【出】：从我方牌组检索1张等级1 的精灵并将其出场，洗切牌组。\n【出】：下一个对方的主要阶段中，对方的主分身界限减1。",
+  "card_lines": "微小星尘的光辉指引着我们。~海王星~",
+  "card_lrig_type": "",
+  "card_name": "白罗星 海王星",
+  "card_no": "WXD06-SCP001",
+  "card_sprite_type": "精罗/宇宙",
+  "card_type": "共鸣",
+  "coin": "",
+  "color": "白",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSSTCG简体中文版起始牌组06星宇宙之轮演",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "7000",
+  "rarity": "SP",
+  "story": "",
+  "team": "",
+  "uid": "01H7X21NRG0TPFY25DSPQXMXAY"
+}

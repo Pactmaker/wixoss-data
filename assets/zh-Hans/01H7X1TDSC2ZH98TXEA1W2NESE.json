@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】【绿】：以我方场上1只精灵为对象，将该牌从能量区成为其【附属】。\n【常】：被该精灵附属的<调理>精灵的力量+5000。\n生命爆发：抽1张牌。",
+  "card_lines": "变得好吃吧。番茄番茄酱♪～番茄酱～",
+  "card_lrig_type": "",
+  "card_name": "食用代号 番茄酱",
+  "card_no": "WXD03-SC027-M",
+  "card_sprite_type": "精械/调理",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSSTCG简体中文版起始牌组03绯翠追忆memory of red & green",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "5000",
+  "rarity": "ST",
+  "story": "",
+  "team": "",
+  "uid": "01H7X1TDSC2ZH98TXEA1W2NESE"
+}

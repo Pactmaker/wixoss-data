@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】《横置》: 此回合中，因我的1个效果参照我方牌组的<宇宙>精灵牌的等级的情况下，可以视为等级4。",
+  "card_lines": "一起去观测黄金太阳吧。～≡水泽VLBI观测所≡～",
+  "card_lrig_type": "",
+  "card_name": "罗星 ≡水泽VLBI观测所≡",
+  "card_no": "WXN04-SC139",
+  "card_sprite_type": "精罗/宇宙",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "10000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJRE3KBZDWWSKBE6B1Q5"
+}

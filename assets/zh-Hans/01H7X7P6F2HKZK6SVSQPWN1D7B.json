@@ -1,0 +1,23 @@
+{
+  "card_effect": "该牌只能在我方主分身为等级4以下的情况下使用。\n直到回合结束为止，我方主分身获得「【自】: 该分身攻击时，若此回合中我方没有使用《弧光・毁灭》以外的必杀牌，可以将该分身下2张牌放置到分身废弃区。若如此做，将该分身竖置。」的能力。",
+  "card_lines": "全力……进攻！～莉露～",
+  "card_lrig_type": "",
+  "card_name": "弧光·毁灭",
+  "card_no": "PR-SC190",
+  "card_sprite_type": "",
+  "card_type": "必杀",
+  "coin": "",
+  "color": "白",
+  "cost": "白1无2",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 店赛PR包11",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "PR",
+  "story": "",
+  "team": "",
+  "uid": "01H7X7P6F2HKZK6SVSQPWN1D7B"
+}

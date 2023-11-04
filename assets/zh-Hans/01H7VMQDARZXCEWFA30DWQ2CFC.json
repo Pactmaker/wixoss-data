@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出现条件】【主要阶段】将我方手牌和场上合计3张不为共鸣的<宇宙>精灵牌放置到废弃区\n【常】: 我方场上其他的共鸣不受对方的精灵牌效果影响。\n【出】: 直到下个我方回合为止，对方在各个精灵攻击步骤中精灵合计只能攻击一次。",
+  "card_lines": "远别临行时，身披天羽衣。～满月～",
+  "card_lrig_type": "",
+  "card_name": "白罗星 满月",
+  "card_no": "WXN02-SC009A",
+  "card_sprite_type": "精罗/宇宙",
+  "card_type": "共鸣",
+  "coin": "",
+  "color": "白",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "15000",
+  "rarity": "LR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQDARZXCEWFA30DWQ2CFC"
+}

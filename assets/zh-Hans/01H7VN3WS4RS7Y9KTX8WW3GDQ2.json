@@ -1,0 +1,23 @@
+{
+  "card_effect": "我方场上每有1只<迷宫>精灵，该魔法牌的使用费用减少【白1】。\n以对方场上1只精灵为对象，将其返回对方牌组，对方将其牌组洗切。\n【生命爆发】: 丢弃手牌1张<迷宫>精灵。若如此做，对方将对象的自己场上的1只精灵放置到废弃区。",
+  "card_lines": "哎呀，是重生的预感！",
+  "card_lrig_type": "",
+  "card_name": "试做型信号灵",
+  "card_no": "WXN01-SC092",
+  "card_sprite_type": "",
+  "card_type": "魔法",
+  "coin": "",
+  "color": "白",
+  "cost": "白3无2",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3WS4RS7Y9KTX8WW3GDQ2"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】: 将我方场上1个【陷阱】放置到废弃区。若如此做，查看我方牌组顶3张牌，将其中1张作为【陷阱】在我方精灵区设置，剩下的牌按任意顺序放置到牌组底。",
+  "card_lines": "「今天放学后请到体育馆里来。我等你。」～伪情书～",
+  "card_lrig_type": "",
+  "card_name": "中罠 伪情书",
+  "card_no": "WXC03-SC082",
+  "card_sprite_type": "精武/机关",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版角色强化包03 万花镜映",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "5000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMA6G3GJR3C2B5BJ7JYYT2"
+}

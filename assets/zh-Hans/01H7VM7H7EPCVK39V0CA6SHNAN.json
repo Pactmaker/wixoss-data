@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】【蓝】: 抽1张牌。\n【常】：只要我方手牌比对方多2张以上，我方场上所有<水兽>精灵的力量+2000。\n【生命爆发】: 选择其中1项。①抽1张牌。②不查看对方手牌的情况下挑选其中1张，将其丢弃。",
+  "card_lines": "啊——真是的，螺旋之力！～斯派拉尔～",
+  "card_lrig_type": "",
+  "card_name": "幻水姬 斯派拉尔·卡米拉",
+  "card_no": "WXC01-SC041",
+  "card_sprite_type": "精生/水兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "Wixoss简体中文版 角色强化包01森罗轰咆",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM7H7EPCVK39V0CA6SHNAN"
+}

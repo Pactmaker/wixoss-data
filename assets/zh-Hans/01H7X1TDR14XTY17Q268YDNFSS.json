@@ -1,0 +1,23 @@
+{
+  "card_effect": "下注—《硬币》《硬币》\n以我方能量区最多3张绿色牌为对象，将其加入手牌。若我方已下注，追加将手牌最多3张绿色精灵牌出场，其【出】能力不能发动。",
+  "card_lines": "嗯！～梅露～",
+  "card_lrig_type": "",
+  "card_name": "试行错误",
+  "card_no": "WXD03-SC013-M",
+  "card_sprite_type": "",
+  "card_type": "必杀",
+  "coin": "",
+  "color": "绿",
+  "cost": "绿1",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSSTCG简体中文版起始牌组03绯翠追忆memory of red & green",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "ST",
+  "story": "",
+  "team": "",
+  "uid": "01H7X1TDR14XTY17Q268YDNFSS"
+}

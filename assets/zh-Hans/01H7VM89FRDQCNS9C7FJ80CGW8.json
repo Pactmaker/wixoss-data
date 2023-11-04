@@ -1,0 +1,23 @@
+{
+  "card_effect": "《交错》《幻兽　龟》的左侧\n【交错常】: 该精灵的基本力量变为15000。\n【起】《回合1》《绿》: 以我方能量区1张牌为对象，将其加入手牌。\n【交错自】: 该精灵达成《heaven 》时，直到回合结束为止，我方场上所有精灵的力量变为2倍。\n生命爆发: 以对方场上1只力量为8000以上的精灵为对象，将其破坏。",
+  "card_lines": "故事即将开始，胜利将属于我。~兔子~",
+  "card_lrig_type": "",
+  "card_name": "幻兽 兔子",
+  "card_no": "WXN03-SC071",
+  "card_sprite_type": "精生/地兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包03",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM89FRDQCNS9C7FJ80CGW8"
+}

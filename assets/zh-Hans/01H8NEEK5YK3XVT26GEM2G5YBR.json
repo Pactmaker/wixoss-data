@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该精灵攻击时，可以丢弃手牌1张&lt;宇宙&gt;精灵牌。那之后，以对方场上1只与用此方法丢弃的精灵牌等级相同的精灵为对象，将其破坏。\n【出】《红》《无》: 从我方牌组检索最多3张等级合计为8的&lt;宇宙&gt;精灵牌将其展示并加入手牌，洗切牌组。\n生命爆发: 展示我方牌组顶1张牌。那之后，若其为等级4的精灵牌，以对方场上1只精灵为对象，将其破坏。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "罗星姬 卑弥呼",
+  "card_no": "SPEX1-SC038S",
+  "card_sprite_type": "精罗/宇宙",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 夏日套装SPEX01（子件）",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SEC",
+  "story": "",
+  "team": "",
+  "uid": "01H8NEEK5YK3XVT26GEM2G5YBR"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该精灵攻击时，以对方场上1只力量为3000以下的精灵为对象，若我方的主分身等级为对方的主分身等级以下，将其破坏。\n【自】: 该精灵攻击时，若我方的主分身等级比对方的主分身等级低，抽1张牌，直到回合结束为止，该精灵的力量+7000。\n生命爆发: 选择其中1项。①抽1张牌。②以对方场上1只力量为7000以下的精灵为对象，将其破坏。",
+  "card_lines": "迄今为止的经历，都将构成闪闪发光的回忆。",
+  "card_lrig_type": "",
+  "card_name": "罗原姬 Mdia",
+  "card_no": "WXC04-SC033S",
+  "card_sprite_type": "精罗/原子",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 角色强化包04-隐异爆发",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "5000",
+  "rarity": "SEC",
+  "story": "",
+  "team": "",
+  "uid": "01HBBTJ9BH5P4EQJVHAQD9GEF0"
+}

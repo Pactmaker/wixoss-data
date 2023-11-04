@@ -1,0 +1,23 @@
+{
+  "card_effect": "将对方场上所有精灵横置并冻结。（被冻结的精灵在下一个自己的竖置阶段不能竖置）\n【生命爆发】: 以对方场上最多2只精灵为对象，将其横置并冻结。（被冻结的精灵在下一个自己的竖置阶段不能竖置）",
+  "card_lines": "哐当！",
+  "card_lrig_type": "",
+  "card_name": "FREEZE",
+  "card_no": "WXN01-SC218",
+  "card_sprite_type": "",
+  "card_type": "魔法",
+  "coin": "",
+  "color": "蓝",
+  "cost": "蓝1",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3WZM508AW50QS4SC2BPM"
+}

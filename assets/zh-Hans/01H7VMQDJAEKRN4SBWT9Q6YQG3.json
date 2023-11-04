@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 我方回合结束时，我方丢弃1张手牌。\n【自】: 我方使用魔法牌时，将该精灵竖置。\n【起】【横置】: 直到回合结束为止，该精灵获得【双重击溃】能力。\n【起】【赤】【横置】: 以对方场上1只力量为该精灵力量以下的精灵为对象，将其破坏。\n生命爆发: 抽1张牌。那之后，展示牌组顶1张牌，若其为<矿石>或<宝石>精灵牌，将其加入手牌。",
+  "card_lines": "就算历经风雨，彩虹总会升起。～彩虹玛瑙～",
+  "card_lrig_type": "",
+  "card_name": "罗石 彩虹玛瑙",
+  "card_no": "WXN02-SC092",
+  "card_sprite_type": "精罗/矿石",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQDJAEKRN4SBWT9Q6YQG3"
+}

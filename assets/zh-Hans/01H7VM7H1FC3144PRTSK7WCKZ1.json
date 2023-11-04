@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】丢弃手牌1张<水兽>精灵牌: 我方宣言1个卡牌名。对方展示自己牌组顶1张牌。若其为宣言的牌，将其放置到废弃区，我方抽2张牌。若其不为宣言的牌，我方抽1张牌。\n【生命爆发】: 抽1张牌，查看对方牌组顶1张牌和对方生命护甲最上方1张牌。",
+  "card_lines": "咻——。～射水鱼～",
+  "card_lrig_type": "",
+  "card_name": "幻水 射水鱼",
+  "card_no": "WXC01-SC062",
+  "card_sprite_type": "精生/水兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "Wixoss简体中文版 角色强化包01森罗轰咆",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "7000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM7H1FC3144PRTSK7WCKZ1"
+}

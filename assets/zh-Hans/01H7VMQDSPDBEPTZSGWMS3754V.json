@@ -1,0 +1,23 @@
+{
+  "card_effect": "【连锁】【黑】【白】（此回合中，我方下次使用必杀的情况下，其使用费用减少【黑1】【白1】）\n从以下3项选择1项。\n①以对方场上1只等级3以下的精灵为对象，将其返回手牌。\n②以对方场上1只精灵为对象，直到回合结束为止，其力量-12000。\n③以我方废弃区合计最多2张白色或黑色精灵牌为对象，将其加入手牌。",
+  "card_lines": "吾名，乌托鲁斯。生灵万物，均在吾之锁链的桎梏之中。～乌托鲁斯～",
+  "card_lrig_type": "",
+  "card_name": "乌托鲁斯连锁",
+  "card_no": "PR-SC130",
+  "card_sprite_type": "",
+  "card_type": "必杀",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "黑2白1",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "PR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQDSPDBEPTZSGWMS3754V"
+}

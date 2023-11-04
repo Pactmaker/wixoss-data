@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】《绿0》：以我方场上1只精灵为对象，将该牌从能量区成为其【附属】。\n【自】：该精灵牌成为等级2以下的<调理>精灵的【附属】时，抽1张牌。\n【自】：该精灵牌成为等级3以上的<调理>精灵的【附属】时，将我方牌组顶1张牌放置到能量区。",
+  "card_lines": "加了酱油的和风口味也很棒呢。～金枪鱼蛋黄酱～",
+  "card_lrig_type": "",
+  "card_name": "食用代号 金枪鱼蛋黄酱",
+  "card_no": "SPEX1-SC064",
+  "card_sprite_type": "精械/调理",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 夏日套装SPEX01（子件）",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "5000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H8NEEK3BHT2PV97MR3W6MEE1"
+}

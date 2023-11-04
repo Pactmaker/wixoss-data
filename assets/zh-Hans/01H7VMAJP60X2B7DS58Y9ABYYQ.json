@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】《绿x0》: 以我方1只精灵为对象，将该牌从能量区成为其【附属】。\n【常】: 被该牌附属的<调理>精灵获得「【常】: 该精灵正前方的精灵可以攻击的情况下必须攻击。」的能力。（必须在其他精灵攻击之前攻击）",
+  "card_lines": "不用在意这些刺。来吃吧。～奶油栗子～",
+  "card_lrig_type": "",
+  "card_name": "食用代号 奶油栗子",
+  "card_no": "WXN04-SC116",
+  "card_sprite_type": "精械/调理",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "2000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJP60X2B7DS58Y9ABYYQ"
+}

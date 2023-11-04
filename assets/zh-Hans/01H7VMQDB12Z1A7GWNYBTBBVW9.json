@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出现条件】【主要阶段】将我方手牌和能量区和场上合计3张不为共鸣的<游具>精灵牌放置到废弃区\n【自】: 我方1只精灵攻击时，将我方牌组顶1张牌放置到能量区。\n【出】: 直到回合结束为止，我方场上所有的<游具>精灵获得「【自】: 该精灵将对方1只精灵破坏时，将该精灵竖置。」的能力。",
+  "card_lines": "谁能在越野田径史刻下新的传说！？",
+  "card_lrig_type": "",
+  "card_name": "绿肆之游 越野田径【ＨＡＲＤ】",
+  "card_no": "WXN02-SC012A",
+  "card_sprite_type": "精武/游具",
+  "card_type": "共鸣",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "15000",
+  "rarity": "LR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQDB12Z1A7GWNYBTBBVW9"
+}

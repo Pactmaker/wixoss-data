@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 因我方效果将对方能量区1张牌放置到废弃区时，可以将该精灵从废弃区出场。\n【自】: 该精灵被破坏时，以对方场上1只力量为10000以下的精灵为对象，可以将其破坏。\n【生命爆发】: 以我方废弃区最多2张<龙兽>精灵牌为对象，将其加入手牌。",
+  "card_lines": "吾为不灭！在烈火中重生！～凤凰～",
+  "card_lrig_type": "",
+  "card_name": "幻龙 凤凰",
+  "card_no": "WXC01-SC038",
+  "card_sprite_type": "精生/龙兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "Wixoss简体中文版 角色强化包01森罗轰咆",
+  "grow_price": "",
+  "level": "5",
+  "limit": "",
+  "power": "12001",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM7H7645BTQRRMT44S1713"
+}

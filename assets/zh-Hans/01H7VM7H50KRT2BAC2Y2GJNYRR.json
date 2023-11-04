@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】: 从以下2项选择1项。\n①此回合中，我方下一次使用绿色必杀牌的情况下，其使用费用减少【无1】。\n②以我方场上最多2只与该精灵相邻的我方精灵为对象，直到回合结束为止，其力量各+3000。",
+  "card_lines": "大家都成为我的养分吧。～爱娜温～",
+  "card_lrig_type": "",
+  "card_name": "幻怪 爱娜温",
+  "card_no": "WXC01-SC068",
+  "card_sprite_type": "精生/怪异",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "Wixoss简体中文版 角色强化包01森罗轰咆",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "3000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM7H50KRT2BAC2Y2GJNYRR"
+}

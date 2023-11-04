@@ -1,0 +1,23 @@
+{
+  "card_effect": "以对方场上2只精灵为对象，直到回合结束为止，其力量各-15000。（只有1只精灵的情况下不能使用）",
+  "card_lines": "这里可没有头脸攻击禁止哦！~乌莉丝~",
+  "card_lrig_type": "",
+  "card_name": "血腥猛击",
+  "card_no": "WXD10-SCP003",
+  "card_sprite_type": "",
+  "card_type": "必杀",
+  "coin": "",
+  "color": "黑",
+  "cost": "黑3无3",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版起始牌组10 ",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "SP",
+  "story": "",
+  "team": "",
+  "uid": "01H7X1Q2DV3GTWZ2D68RGZDB9E"
+}

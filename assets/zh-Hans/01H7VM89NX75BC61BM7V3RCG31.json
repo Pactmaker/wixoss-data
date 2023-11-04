@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该精灵攻击时，展示我方牌组顶1张牌。若其为＜武器＞精灵牌，将其放置到能量区。\n生命爆发: 【能量填充1】",
+  "card_lines": "生命之树，你应该很感兴趣吧？~创造之书~",
+  "card_lrig_type": "",
+  "card_name": "小书 创造之书",
+  "card_no": "WXN03-SC118",
+  "card_sprite_type": "精武/武器",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包03",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "1000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM89NX75BC61BM7V3RCG31"
+}

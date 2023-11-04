@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该牌因我方效果从手牌展示时，以对方场上1只精灵为对象，可以支付《绿》《绿》《无》《无》并丢弃手牌1张《幻水　邓氏鱼》。若如此做，将其破坏。",
+  "card_lines": "强韧的古代战士，于此复活！",
+  "card_lrig_type": "",
+  "card_name": "幻水 邓氏鱼",
+  "card_no": "WXN03-SC152",
+  "card_sprite_type": "精生/水兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包03",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "10000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM89VF0Q1VXAFCWJDK9686"
+}

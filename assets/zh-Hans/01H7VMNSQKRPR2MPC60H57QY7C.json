@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】《蓝》将该精灵从场上放置到废弃区 : 对方以自己场上1只精灵和自己能量区最多2张牌为对象，将对象的能量区的牌和手牌合计2张牌放置到牌组顶，否则将对象的那只精灵放置到牌组顶 。",
+  "card_lines": "安静地沉睡吧。～安特里特～",
+  "card_lrig_type": "",
+  "card_name": "迷宫代号 阿特里特",
+  "card_no": "WXC02-SC091",
+  "card_sprite_type": "精械/迷宫",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版角色强化包02深渊歌叹",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "10000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMNSQKRPR2MPC60H57QY7C"
+}

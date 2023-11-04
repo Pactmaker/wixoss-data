@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】: 将对象的我方废弃区3张<美巧>精灵牌加入牌组并洗切。若用此方法将《星银的童话 银元》和《星银的童话 面包》加入牌组，直到回合结束为止，对象的对方场上1只精灵的力量-8000。\n（力量为0以下的精灵会因规则而破坏）",
+  "card_lines": "愿神明的祝福与你同在！～罩衫～",
+  "card_lrig_type": "",
+  "card_name": "星银的童话 罩衫",
+  "card_no": "WXC02-SC102",
+  "card_sprite_type": "精像/美巧",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版角色强化包02深渊歌叹",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "10000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMNSRANM45WD6PZSYPG469"
+}

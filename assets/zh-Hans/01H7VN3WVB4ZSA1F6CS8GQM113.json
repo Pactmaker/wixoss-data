@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 我方1只<美巧>精灵被破坏时，可以支付《绿》《白》。若如此做，将其从能量区出场。\n【自】: 我方将对方主分身的攻击【防御】，或用效果将对方精灵的攻击无效时，将我方牌组顶1张牌放置到能量区。\n【生命爆发】: 我方牌组顶1张牌放置到能量区。此回合中，下一次主分身或精灵攻击时，将那次攻击无效。",
+  "card_lines": "看好了，这就是传统的一击！～水墨～",
+  "card_lrig_type": "",
+  "card_name": "高尚的一笔 水墨",
+  "card_no": "WXN01-SC117",
+  "card_sprite_type": "精像/美巧",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3WVB4ZSA1F6CS8GQM113"
+}

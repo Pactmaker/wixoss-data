@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：只要我方废弃区的牌为25张以上，该精灵获得【暗杀】能力。\n【自】：该牌从手牌或牌组放置到废弃区时，可以将我方牌组顶3张牌放置到废弃区。",
+  "card_lines": "魔鹿真的追上来了吗!?",
+  "card_lrig_type": "",
+  "card_name": "疾走的魔鹿 弗法",
+  "card_no": "PR-SC108",
+  "card_sprite_type": "精像/恶魔",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》线下店铺比赛物料卡（银包）",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "2000",
+  "rarity": "PR",
+  "story": "",
+  "team": "",
+  "uid": "01H818JTBMX90QYYTTB56CVETE"
+}

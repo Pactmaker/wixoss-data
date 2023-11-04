@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】: 在对方场上1个精灵区放置1个【门】。抽1张牌。\n【自】: 对方的攻击阶段开始时，对方展示牌组顶1张牌。若其不持有【生命爆发】，此回合中，对方场上存在于有【门】的精灵区的精灵不能攻击。\n【起】《游戏1 》根源之力《硬币》: 对方将自己场上所有存在于有【门】的精灵区的精灵加入牌组并洗切。\n",
+  "card_lines": "吾应允了，若此即为汝之意志。～乌姆尔～",
+  "card_lrig_type": "乌姆尔",
+  "card_name": "奏世之键主 乌姆尔=Fyra",
+  "card_no": "WXC02-SC002",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "3",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版角色强化包02深渊歌叹",
+  "grow_price": "蓝0",
+  "level": "4",
+  "limit": "11",
+  "power": "",
+  "rarity": "LR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMNTS23WW14V3M7FPMMK0Z"
+}

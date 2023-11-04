@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该精灵攻击时，可以支付《蓝》。若如此做，宣言1个卡牌名。查看对方所有手牌并挑选其中1张宣言的牌，将其丢弃。\n【出】将手牌1张<天使>精灵牌放置到能量区 : 查看对方所有手牌。\n生命爆发: 选择其中1项。①抽1张牌。②对方丢弃1张手牌。",
+  "card_lines": "浪花、海风畅游于吾的耳畔。～蓬托斯～",
+  "card_lrig_type": "",
+  "card_name": "大海的苍天 蓬托斯",
+  "card_no": "WXC04-SC056",
+  "card_sprite_type": "精像/天使",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 角色强化包04-隐异爆发",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "7000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01HBBTJ969KP6JQ26D4KN227BJ"
+}

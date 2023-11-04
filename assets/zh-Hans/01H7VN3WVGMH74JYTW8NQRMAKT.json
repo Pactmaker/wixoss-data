@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 只要该精灵被附属，获得【枪兵】能力。\n【常】: 只要该精灵被《食用代号 牛排酱》附属，该精灵的力量+3000，不受对方精灵牌的效果影响。\n【生命爆发】: 选择其中1项。①以对方场上1只力量为12000以上的精灵为对象，将其破坏。②【能量填充2】",
+  "card_lines": "我看上去很美味吧。请用餐。～牛排～",
+  "card_lrig_type": "",
+  "card_name": "点单代号 牛排",
+  "card_no": "WXN01-SC119",
+  "card_sprite_type": "精械/调理",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3WVGMH74JYTW8NQRMAKT"
+}

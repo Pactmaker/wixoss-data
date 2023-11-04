@@ -1,0 +1,23 @@
+{
+  "card_effect": "【升阶】放置到我方场上1只《轰左炮 多拉》和1只《弩中炮 古斯塔夫》和1只《轰右炮 多斯拉夫》上方\n【常】: 【暗杀】【双重击溃】\n【常】: 该精灵不会因对方的效果破坏或横置。\n【自】《回合1》: 该精灵击溃对方1张生命护甲时，给予对方伤害。\n生命爆发: 以对方场上1只精灵为对象，将其破坏。",
+  "card_lines": "古斯塔夫炮军团是我培养起来的。~古斯克虏~",
+  "card_lrig_type": "",
+  "card_name": "击弩炮 古斯克虏",
+  "card_no": "WXN03-SC093",
+  "card_sprite_type": "精武/武器",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包03",
+  "grow_price": "",
+  "level": "5",
+  "limit": "",
+  "power": "15000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM89J4R9WPYJT26NMCSX34"
+}

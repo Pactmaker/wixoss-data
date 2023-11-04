@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 我方的攻击阶段开始时，若此回合中对方的牌因我方效果有4张以上移动到牌组，抽1张牌。\n【自】: 该精灵攻击时，若此回合中对方的牌因我方效果有1张以上移动到牌组，抽1张牌。\n生命爆发: 抽1张牌。",
+  "card_lines": "差不多到散步时间了哦～小樽～",
+  "card_lrig_type": "",
+  "card_name": "迷宫代号 小樽",
+  "card_no": "WXC02-SC066",
+  "card_sprite_type": "精械/迷宫",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版角色强化包02深渊歌叹",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "7000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMNTZSYR4GCCFHPR6BBBQS"
+}

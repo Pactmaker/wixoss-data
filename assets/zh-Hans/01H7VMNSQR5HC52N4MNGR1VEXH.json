@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该精灵攻击时，以对方场上1只精灵为对象，若此回合中因我方效果将对方1张以上的牌移动到对方牌组，直到回合结束为止，其力量-5000。若移动了4张以上，改为直到回合结束为止，其力量-12000。\n生命爆发: 选择其中1项。①抽1张牌。②对方丢弃1张手牌。",
+  "card_lines": "欢迎来到蓝与白的世界。～圣托里尼岛～",
+  "card_lrig_type": "",
+  "card_name": "迷宫代号 圣托里尼岛",
+  "card_no": "WXC02-SC093",
+  "card_sprite_type": "精械/迷宫",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版角色强化包02深渊歌叹",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "7000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMNSQR5HC52N4MNGR1VEXH"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】《横置》丢弃手牌1张<毒牙>精灵牌 : 以对方1只精灵为对象，直到回合结束为止，其力量-5000。\n（力量为0以下的精灵会因为规则而破坏）",
+  "card_lines": "可能有一点点…为时已晚了？ ～塔崩～",
+  "card_lrig_type": "",
+  "card_name": "Zwei=塔崩",
+  "card_no": "WXN04-SC176",
+  "card_sprite_type": "精武/毒牙",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "5000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJVRAN6QZ43EMJ0D4R0V"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 我方所有领域的＜怪异＞精灵牌持有【生命爆发】「以对方场上1只精灵为对象，将其放置到废弃区。」。",
+  "card_lines": "打扫，要打扫。~棕精灵~",
+  "card_lrig_type": "",
+  "card_name": "幻怪 棕精灵",
+  "card_no": "WXN03-SC122",
+  "card_sprite_type": "精生/怪异",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "白",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包03",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "3000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM89P8KT1KD8B5W2Q8GNJQ"
+}

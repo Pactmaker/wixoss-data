@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 只要我方场上有3只<英知>精灵，该精灵可以对该精灵正前方相邻的1个对方的精灵区攻击。\n（对精灵区攻击时，不会给予对方伤害）",
+  "card_lines": "我思故我在。～笛卡尔～",
+  "card_lrig_type": "",
+  "card_name": "哲英的数式 #笛卡尔#",
+  "card_no": "WXN04-SC165",
+  "card_sprite_type": "精像/英知",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "5000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJTSMRETDEDQ80353GX8"
+}

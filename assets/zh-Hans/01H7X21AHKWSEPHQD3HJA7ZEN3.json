@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出现条件】【攻击阶段】将我方能量区2张<凶虫>精灵牌放置到废弃区\n【常】：该精灵被破坏的情况下，返回分身牌组改为放置到分身废弃区。\n【出】：以对方场上1只精灵为对象，将对方牌组顶1张牌成为其【魅饰】。此回合中，对方若不支付【无】【无】【无】则那只精灵不能攻击。",
+  "card_lines": "吵死啦，让人家多睡会嘛。~水熊虫~",
+  "card_lrig_type": "",
+  "card_name": "黑幻虫 水熊虫",
+  "card_no": "WXD07-SCP006",
+  "card_sprite_type": "精生/凶虫",
+  "card_type": "共鸣",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSSTCG简体中文版起始牌组07千嗤万蠷",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "8000",
+  "rarity": "SP",
+  "story": "",
+  "team": "",
+  "uid": "01H7X21AHKWSEPHQD3HJA7ZEN3"
+}

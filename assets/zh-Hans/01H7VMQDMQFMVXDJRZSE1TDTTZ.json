@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 攻击阶段中，该精灵被破坏或因效果从场上放置到废弃区时，以场上1只精灵为对象，将其竖置或横置。\n【起】【攻击阶段】《黑》《黑》丢弃手牌2张<游具>精灵牌: 将该精灵牌从我方废弃区以横置状态出场。（该能力只能在该精灵牌存在于废弃区的情况下使用）\n生命爆发: 以我方废弃区1张<游具>精灵牌为对象，将其加入手牌或出场。",
+  "card_lines": "跟上你的节奏，一起尽情律动吧！！～†超体感†～",
+  "card_lrig_type": "",
+  "card_name": "死之游姬 †超体感†",
+  "card_no": "WXN02-SC113",
+  "card_sprite_type": "精武/游具",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQDMQFMVXDJRZSE1TDTTZ"
+}

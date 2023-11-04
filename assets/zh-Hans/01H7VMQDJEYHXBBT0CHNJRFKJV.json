@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该精灵攻击时，以对方场上1只冻结状态的精灵为对象，可以支付《蓝》。若如此做，将其破坏。\n【出】《蓝》: 将我方牌组底1张牌放置到检查区。若其为精灵牌，可以将其出场。不出场的情况下，将其放置到废弃区。\n生命爆发: 以对方场上最多2只精灵为对象，将其横置并冻结。",
+  "card_lines": "我～可～是天才哦。～阿基米德～",
+  "card_lrig_type": "",
+  "card_name": "浴英的发现 阿基米德",
+  "card_no": "WXN02-SC094",
+  "card_sprite_type": "精像/英知",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQDJEYHXBBT0CHNJRFKJV"
+}

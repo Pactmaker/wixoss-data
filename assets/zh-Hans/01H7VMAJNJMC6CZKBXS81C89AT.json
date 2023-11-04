@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】: 以我方场上其他1只精灵为对象，将该精灵与其位置交换。\n【自】《回合1》: 因我方效果将场上的该精灵移动到其他精灵区时，对方展示其牌组顶1张牌。我方可以将其放置到对方牌组底。\n生命爆发: 以对方场上1只精灵为对象，将其横置并冻结。抽1张牌。",
+  "card_lines": "「哔，哔。」",
+  "card_lrig_type": "",
+  "card_name": "迷宫代号 高空大圆环",
+  "card_no": "WXN04-SC109",
+  "card_sprite_type": "奏械/迷宫",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "8000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJNJMC6CZKBXS81C89AT"
+}

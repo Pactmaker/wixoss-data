@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该精灵攻击时，以对方场上1只精灵为对象，将我方牌组底4张牌放置到废弃区。若用此方法将4张等级各不相同的精灵牌放置到废弃区，将其破坏。",
+  "card_lines": "福尔摩斯！先别管那个了，有紧急情况！~华生~",
+  "card_lrig_type": "",
+  "card_name": "最英之伙伴 华生",
+  "card_no": "WXN03-SC103",
+  "card_sprite_type": "精像/英知",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包03",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "7000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM89JYHYJSTV6HQX6EP8ZS"
+}

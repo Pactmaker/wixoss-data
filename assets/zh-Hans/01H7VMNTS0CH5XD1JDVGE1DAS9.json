@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】《节拍》［等级１～４各１张以上 ］: 我方的攻击阶段开始时，抽1张牌或【能量填充１】。\n【起】《回合1 》将场上1只精灵成为【节拍】 : 抽1张牌。\n【起】《游戏1 》《攻击阶段》根源之力《硬币》将分身牌组1张红色必杀牌放置到分身废弃区 : 以我方废弃区最多3张<恶魔>精灵牌为对象，将其出场。",
+  "card_lines": "歌唱吧，以救世之名。～塔维尔～",
+  "card_lrig_type": "塔维尔",
+  "card_name": "奏鸣者 塔维尔=Fyra",
+  "card_no": "WXC02-SC001",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "2",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版角色强化包02深渊歌叹",
+  "grow_price": "红0",
+  "level": "4",
+  "limit": "11",
+  "power": "",
+  "rarity": "LR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMNTS0CH5XD1JDVGE1DAS9"
+}

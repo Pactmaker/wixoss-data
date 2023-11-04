@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该精灵击溃对方1张生命护甲时，以对方场上1只精灵为对象，直到回合结束为止，其力量-10000。\n【出】《黑》《黑》《黑》: 以我方废弃区最多2张等级为3以下的<恶魔>精灵牌为对象，将其出场。\n【生命爆发】: 选择其中1项。①将场上所有<天使>精灵破坏。②以我方废弃区1张<恶魔>精灵牌为对象，将其加入手牌或出场。",
+  "card_lines": "堕落了呢——。～路西法～",
+  "card_lrig_type": "",
+  "card_name": "堕落的才女 路西法",
+  "card_no": "WXN01-SC121",
+  "card_sprite_type": "精像/恶魔",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3WVPA9KEHNTYWTZZ49FH"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【升阶】放置到我方场上1只等级1的红色精灵上方。\n【出】: 以对方场上1只力量为1000以下的精灵为对象，将其破坏。\n【出】: 抽1张牌。",
+  "card_lines": "圣杯啊，给我约定的胜利吧。～亚瑟～",
+  "card_lrig_type": "",
+  "card_name": "胜利的圆桌 亚瑟",
+  "card_no": "WXN01-SC199",
+  "card_sprite_type": "精像/武勇",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "5000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3WXXK9HXKYMNM05P73VY"
+}

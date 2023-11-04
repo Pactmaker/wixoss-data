@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 若我方手牌为0张，该精灵不会被对方的效果破坏。\n【出】丢弃2张手牌: 展示我方牌组顶5张牌。将其中最多2张<恶魔>精灵牌出场，剩下的牌放置到废弃区。\n【生命爆发】: 以对方场上最多2只精灵为对象，将其横置并冻结。",
+  "card_lines": "让我把你刺穿吧。～虎克船长～",
+  "card_lrig_type": "",
+  "card_name": "魔海的钩爪 虎克船长",
+  "card_no": "WXN01-SC109",
+  "card_sprite_type": "精像/恶魔",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3WTMK2BZNFY3E04MQZV6"
+}

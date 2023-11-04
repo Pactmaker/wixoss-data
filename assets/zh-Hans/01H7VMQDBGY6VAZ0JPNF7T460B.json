@@ -1,0 +1,23 @@
+{
+  "card_effect": "以对方场上1只精灵为对象，击溃我方1张生命护甲。若如此做，将其破坏。若我方主分身为<游月>且用此方法击溃的牌持有【生命爆发】，将我方牌组顶1张牌加入生命护甲。（生命爆发在必杀处理后发动）",
+  "card_lines": "龙！导！波！～游月～",
+  "card_lrig_type": "",
+  "card_name": "龙导波",
+  "card_no": "WXN02-SC017",
+  "card_sprite_type": "",
+  "card_type": "必杀",
+  "coin": "",
+  "color": "红",
+  "cost": "红1绿1",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "LR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQDBGY6VAZ0JPNF7T460B"
+}

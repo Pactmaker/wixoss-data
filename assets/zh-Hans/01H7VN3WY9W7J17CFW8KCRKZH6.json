@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该精灵被破坏时，可以支付《红》。若如此做，将牌组1张等级2的<武勇>精灵牌展示并加入手牌，洗切牌组。",
+  "card_lines": "张角大人，让我们来引领黄巾军！～黄巾～",
+  "card_lrig_type": "",
+  "card_name": "一揆的黄兵 黄巾",
+  "card_no": "WXN01-SC203",
+  "card_sprite_type": "精像/武勇",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "2000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3WY9W7J17CFW8KCRKZH6"
+}

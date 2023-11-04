@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】: 以我方能量区最多3张牌为对象，将其加入手牌。\n【起】《回合1》超越1 : 将我方牌组顶1张牌放置到能量区。\n【起】超越2 : 直到回合结束为止，我方场上所有精灵获得【枪兵】能力。",
+  "card_lines": "涌现而出的这份力量，是的。是你们给我的。~绿姬~",
+  "card_lrig_type": "绿子",
+  "card_name": "四型贯女 绿姬",
+  "card_no": "WXN03-SC007",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包03",
+  "grow_price": "绿3",
+  "level": "4",
+  "limit": "11",
+  "power": "",
+  "rarity": "LR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM899ZVK606T31GWVZAT3V"
+}

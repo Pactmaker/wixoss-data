@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 对方回合中，该精灵被破坏时，对方将1张手牌放置到牌组顶。\n【出】: 以对方废弃区最多2张牌为对象，将其放置到对方牌组底。（放置的顺序由对方选择）",
+  "card_lines": "啊这...这里是...海底！？～巴亚～",
+  "card_lrig_type": "",
+  "card_name": "迷宫代号 巴亚",
+  "card_no": "WXC02-SC068",
+  "card_sprite_type": "精械/迷宫",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版角色强化包02深渊歌叹",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "7000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMNTZXM21R7D48GYT3G0FJ"
+}

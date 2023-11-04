@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 只要我方手牌比对方多，该精灵的基本力量变为8000。\n【出】: 若我方手牌为3张以下，抽1张牌。",
+  "card_lines": "你是不太眼熟的鱼呢！来一起玩吧！~雀鲷~",
+  "card_lrig_type": "",
+  "card_name": "幻水 雀鲷",
+  "card_no": "SP09-SC031",
+  "card_sprite_type": "精生/水兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版兔年礼盒",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "3000",
+  "rarity": "强化包",
+  "story": "",
+  "team": "",
+  "uid": "01H7X171GJFPFK7W17CX0H79Y3"
+}

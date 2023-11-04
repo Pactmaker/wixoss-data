@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】将能量区3张持有各不相同的种族的精灵牌放置到废弃区：以对方场上1只力量为8000以上的精灵为对象，将其破坏。",
+  "card_lines": "——迷茫的时候就把能量区大量不同种族的牌放置到废弃区吧！",
+  "card_lrig_type": "",
+  "card_name": "翠天 阿塔兰忒",
+  "card_no": "WXDi-DSC01-014",
+  "card_sprite_type": "奏像/天使",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA出道牌组01 ANCIENT SURPRISE",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "12000",
+  "rarity": "ST",
+  "story": "",
+  "team": "",
+  "uid": "01H7X1RKH97NJT3367RZPEZGBS"
+}

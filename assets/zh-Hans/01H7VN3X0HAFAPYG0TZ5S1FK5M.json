@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】【绿0】: 以我方场上1只精灵为对象，将该牌从能量区成为其【附属】。\n【常】: 被该牌附属的<调理>精灵获得「【常】: 该精灵不受对方精灵牌的效果影响」能力。\n（1只精灵最多只能添加1张【附属】)",
+  "card_lines": "翻个面还是很简单的～煎蛋～",
+  "card_lrig_type": "",
+  "card_name": "食用代号 煎蛋",
+  "card_no": "WXN01-SC228",
+  "card_sprite_type": "精械/调理",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "5000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3X0HAFAPYG0TZ5S1FK5M"
+}

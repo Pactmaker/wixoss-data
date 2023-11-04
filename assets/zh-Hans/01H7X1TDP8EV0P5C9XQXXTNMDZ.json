@@ -1,0 +1,23 @@
+{
+  "card_effect": "该必杀牌只能在我方主分身的颜色为红色的情况下使用。\n以对方场上1只精灵为对象，将其破坏。丢弃2张手牌。",
+  "card_lines": "放心吧，你已经不会再失败了。～莉露～",
+  "card_lrig_type": "",
+  "card_name": "剑拔弩烧",
+  "card_no": "WXD03-SCP01",
+  "card_sprite_type": "",
+  "card_type": "必杀",
+  "coin": "",
+  "color": "红",
+  "cost": "红0",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSSTCG简体中文版起始牌组03绯翠追忆memory of red & green",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "SP",
+  "story": "",
+  "team": "",
+  "uid": "01H7X1TDP8EV0P5C9XQXXTNMDZ"
+}

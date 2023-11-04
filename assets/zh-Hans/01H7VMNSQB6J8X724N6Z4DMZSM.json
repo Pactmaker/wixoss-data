@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】《节拍》［4张以下］将该精灵成为【节拍】: 以我方废弃区1张等级2的红色<恶魔>精灵牌为对象，将其出场。",
+  "card_lines": "就你这水平，看我啪唧一声就把你踩扁。～阿耆尼～",
+  "card_lrig_type": "",
+  "card_name": "炎魔的走牛 阿耆尼",
+  "card_no": "WXC02-SC087",
+  "card_sprite_type": "精像/恶魔",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版角色强化包02深渊歌叹",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "1000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMNSQB6J8X724N6Z4DMZSM"
+}

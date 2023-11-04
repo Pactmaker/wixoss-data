@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：只要该精灵的力量为10000以上，该精灵获得【枪兵】能力。\n（持有【枪兵】能力的精灵战斗破坏精灵时，击溃对方1张生命护甲）\n生命爆发：以对方场上1只力量为12000以上的精灵为对象，将其破坏。",
+  "card_lines": "Wonderful！尝尝这招吧！～朱雀小姐～",
+  "card_lrig_type": "",
+  "card_name": "幻兽 朱雀小姐",
+  "card_no": "WXD02-SC023-M",
+  "card_sprite_type": "精生/地兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文-起始牌组",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "8000",
+  "rarity": "ST",
+  "story": "",
+  "team": "",
+  "uid": "01H7X243V93MMPYGV6MM5MWDJR"
+}

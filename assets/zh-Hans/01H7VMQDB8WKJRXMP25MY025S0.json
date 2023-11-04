@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出现条件】【主要阶段】将我方手牌和场上合计3张不为共鸣的<凶虫>精灵牌放置到废弃区\n【常】: 对方场上附有【魅饰】的精灵的力量-5000。\n【自】: 该精灵从场上离开时，以我方废弃区最多两张<凶虫>精灵牌为对象，将其加入手牌。\n【出】: 直到回合结束为止，对方场上所有附有【魅饰】的精灵的力量-10000。",
+  "card_lines": "完全武装化（full Armed）！～大王具足虫～",
+  "card_lrig_type": "",
+  "card_name": "黑幻虫 大王具足虫【FA】",
+  "card_no": "WXN02-SC014A",
+  "card_sprite_type": "精生/凶虫",
+  "card_type": "共鸣",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "15000",
+  "rarity": "LR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQDB8WKJRXMP25MY025S0"
+}

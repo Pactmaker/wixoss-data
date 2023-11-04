@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】《回合1》: 因我方效果展示我方1张以上手牌时，可以支付《绿》。若如此做，抽1张牌。\n生命爆发: 抽1张牌。",
+  "card_lines": "那边！~雨蛙~\n好——。~玻璃蛙~",
+  "card_lrig_type": "",
+  "card_name": "幻水 蝌蚪",
+  "card_no": "WXN03-SC112",
+  "card_sprite_type": "精生/水兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包03",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "1000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM89N8ENDYT3NSJZGQGD6S"
+}

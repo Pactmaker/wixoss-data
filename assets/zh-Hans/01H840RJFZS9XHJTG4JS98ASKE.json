@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：对方精灵攻击时，若那只精灵的力量比其正前方的精灵的力量低，将攻击中的那只精灵破坏。\n【出】【黑】：以对方场上1只精灵为对象，将我方废弃区4张等级不同的<古代兵器>精灵牌按照任意顺序放置到牌组底。若如此做，直到回合结束为止，其力量-10000。\n生命爆发：以对方场上1只精灵为对象，直到回合结束为止，其力量-10000。",
+  "card_lines": "不知何人所作的精械，冠以迷宫之名。",
+  "card_lrig_type": "",
+  "card_name": "古兵代号 维摩那",
+  "card_no": "WXD01-SC025-I",
+  "card_sprite_type": "精械/古代兵器",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSSTCG简体中文版起始牌组01黑白穿光light cross by chaos",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "ST",
+  "story": "",
+  "team": "",
+  "uid": "01H840RJFZS9XHJTG4JS98ASKE"
+}

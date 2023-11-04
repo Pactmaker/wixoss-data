@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 只要该精灵存在于中央精灵区，该精灵的力量+4000。\n【出】: 可以将对方场上所有的精灵按照任意方式重新配置。\n生命爆发: 【能量填充1】。此回合中，下次精灵攻击时，将那次攻击无效。",
+  "card_lines": "「我想到了一句！」",
+  "card_lrig_type": "",
+  "card_name": "迷宫代号 清澄庭园",
+  "card_no": "WXN04-SC167",
+  "card_sprite_type": "奏械/迷宫",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "8000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJTZSZHA9FPJN8GZ5JMX"
+}

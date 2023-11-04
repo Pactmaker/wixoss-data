@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 除了卡牌效果以外，对方不能主动将自己的精灵从场上放置到废弃区。\n【起】【横置】: 以对方场上1只精灵为对象，将其冻结。（被冻结的精灵在下一个自己的竖置阶段不能竖置）\n【生命爆发】: 以对方场上1只精灵为对象，将其横置并冻结。抽1张牌。",
+  "card_lines": "每天玩多久游戏都可以！\n～A·C·G～",
+  "card_lrig_type": "",
+  "card_name": "技术代号 A·C·G",
+  "card_no": "WXN01-SC146",
+  "card_sprite_type": "精械/电机",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3X4ADME8FY73RXW6H7FT"
+}

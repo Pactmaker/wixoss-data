@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】《回合1》: 我方回合中，对方1只精灵因为效果离开场上时，【能量填充1】。\n【自】: 该精灵攻击时，以对方场上1只持有我方精灵区的牌数量以下的等级的精灵为对象，可以丢弃1张手牌。若如此做，将其放置到废弃区。\n生命爆发: 以对方场上1只等级3以下的精灵为对象，将其放置到废弃区。",
+  "card_lines": "哎呀，这也是美丽的身姿，不过，要登上舞台还差的远呢。～乌头毒～",
+  "card_lrig_type": "",
+  "card_name": "罗植姬 乌头毒",
+  "card_no": "WXN04-SC062",
+  "card_sprite_type": "精罗/植物",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "白",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJFBN55EE3WJJRC939A6"
+}

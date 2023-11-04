@@ -1,0 +1,23 @@
+{
+  "card_effect": "下注―《硬币》\n若我方已下注，该必杀牌的使用费用变为《绿1》。\n以我方能量区1张＜水兽＞精灵牌为对象，将其出场。直到回合结束为止，其力量+10000。",
+  "card_lines": "冷静下来吧。~游月~",
+  "card_lrig_type": "",
+  "card_name": "遮断装甲",
+  "card_no": "WXN03-SC043",
+  "card_sprite_type": "",
+  "card_type": "必杀",
+  "coin": "",
+  "color": "绿",
+  "cost": "绿2",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包03",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "LC",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM89D6R5EEQMTYM40MDBMS"
+}

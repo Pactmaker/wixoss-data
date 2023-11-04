@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 该精灵只能在我方场上有力量为10000以上的精灵的情况下出场。\n【自】: 该精灵攻击时，将我方牌组顶1张牌放置到能量区。\n【自】【回合1】: 该精灵击溃对方1张生命护甲时，可以支付《绿》《绿》《绿》《绿》《绿》。若如此做，给予对方伤害。",
+  "card_lines": "骁勇的雄鹰无法隐藏利爪的锋芒。",
+  "card_lrig_type": "",
+  "card_name": "幻兽 鹰",
+  "card_no": "WXN02-SC105",
+  "card_sprite_type": "精生/空兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "10000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQDK4TD1C5SWMPQ3SBHHP"
+}

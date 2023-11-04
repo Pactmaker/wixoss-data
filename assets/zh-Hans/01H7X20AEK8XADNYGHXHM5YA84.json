@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】【黑】丢弃手牌1张黑色精灵牌：以对方场上1只精灵为对象，直到回合结束为止，其力量-10000。\n（力量为0以下的精灵会因规则而破坏）",
+  "card_lines": "能和你战斗真是太开心了呢～乌莉丝～",
+  "card_lrig_type": "乌莉丝",
+  "card_name": "无间阎魔 乌莉丝",
+  "card_no": "WXD05-SCP01",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSSTCG 简体中文版起始牌组 05 暗焰狂喜 dark flame rapture",
+  "grow_price": "黑3",
+  "level": "4",
+  "limit": "11",
+  "power": "",
+  "rarity": "SP",
+  "story": "",
+  "team": "",
+  "uid": "01H7X20AEK8XADNYGHXHM5YA84"
+}

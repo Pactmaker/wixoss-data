@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：我方回合中，我方场上的精灵的力量+2000。\n【出】丢弃2张手牌 ：以我方废弃区1张等级3的精灵牌为对象，将其出场。\n生命爆发：以我方废弃区1张不持有【防御】的精灵牌为对象，将其加入手牌或出场。",
+  "card_lines": "――伽俱土→臂铠→皇家铠全部连起来吧！",
+  "card_lrig_type": "",
+  "card_name": "红天 伽俱土",
+  "card_no": "WXDi-DSC02-015",
+  "card_sprite_type": "奏像/天使",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA出道牌组02 No Limit",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "10000",
+  "rarity": "ST",
+  "story": "",
+  "team": "",
+  "uid": "01H7X1RD9F5KVF4ZY5FD70MJ39"
+}

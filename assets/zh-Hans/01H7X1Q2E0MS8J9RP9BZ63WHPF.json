@@ -1,0 +1,23 @@
+{
+  "card_effect": "使用该必杀牌之际，可以追加支付《黑》作为使用费用。\n将对象的对方场上1只等级比我方主分身高1级的精灵放置到废弃区。若已追加支付《黑》，将对象的我方废弃区1张等级比我方主分身低1级的精灵牌出场。",
+  "card_lines": "这就是！眨眼之间的大逆转哦！~无名~",
+  "card_lrig_type": "",
+  "card_name": "死亡之门",
+  "card_no": "WXD10-SCP005",
+  "card_sprite_type": "",
+  "card_type": "必杀",
+  "coin": "",
+  "color": "黑",
+  "cost": "黑2",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版起始牌组10 ",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "SP",
+  "story": "",
+  "team": "",
+  "uid": "01H7X1Q2E0MS8J9RP9BZ63WHPF"
+}

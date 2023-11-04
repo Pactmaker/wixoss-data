@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】: 查看我方牌组顶3张牌。将其中1张持有《附属》的精灵牌放置到能量区，剩余的牌按照任意顺序放置到牌组底。",
+  "card_lines": "呜哇~真好吃！~铃子~\n是难得一品的美味呢。~坂奈~",
+  "card_lrig_type": "",
+  "card_name": "食用代号 芝士挞",
+  "card_no": "SP09-SC037P",
+  "card_sprite_type": "精械/调理",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版兔年礼盒",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "3000",
+  "rarity": "强化包",
+  "story": "",
+  "team": "",
+  "uid": "01H7X171M2M83H0EXS9WAQBYW5"
+}

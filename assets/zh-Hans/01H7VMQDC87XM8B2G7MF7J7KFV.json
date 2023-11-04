@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 我方将对方1只精灵的攻击无效时，以对方场上1只精灵为对象，可以支付《白》并将废弃区的该牌从游戏中除外。若如此做，将其返回手牌。（该能力只能在该精灵存在于废弃区的情况下使用）",
+  "card_lines": "嗯哼。怎么了？～思考者～",
+  "card_lrig_type": "",
+  "card_name": "思索的体现 *思考者*",
+  "card_no": "WXN02-SC119",
+  "card_sprite_type": "精像/美巧",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "白",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "1000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQDC87XM8B2G7MF7J7KFV"
+}

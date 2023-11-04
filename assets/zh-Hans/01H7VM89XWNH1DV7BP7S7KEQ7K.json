@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 我方1只持有《交错》的精灵出场时，可以支付《緑》。若如此做，从我方牌组检索1张牌并将其放置到能量区，洗切牌组。\n【自】: 我方场上的精灵达成《heaven 》时，将我方牌组顶2张牌放置到能量区。\n【起】《白》《横置》: 以对方场上1只精灵为对象，将其返回手牌。该能力只能在我方场上有交错状态的精灵的情况下使用。",
+  "card_lines": "只要和你在一起，待多久都没问题。～安～",
+  "card_lrig_type": "安",
+  "card_name": "连结的廉洁 安=Forth",
+  "card_no": "WXN03-SC178",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包03",
+  "grow_price": "绿3",
+  "level": "4",
+  "limit": "11",
+  "power": "",
+  "rarity": "SEC",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM89XWNH1DV7BP7S7KEQ7K"
+}

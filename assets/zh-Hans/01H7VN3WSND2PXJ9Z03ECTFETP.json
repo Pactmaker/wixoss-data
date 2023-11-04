@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该牌每将对方1张生命护甲击溃时，可以支付《无》。若如此做，将我方牌组1张牌加入手牌，洗切牌组。\n【出】: 以对方场上1只处于中央精灵区的精灵为对象，若对方生命护甲比我方多，将其破坏。\n【生命爆发】: 对方丢弃2张手牌或将对象的能量区2张牌放置到废弃区，否则对方将对象的自己场上的1只精灵放置到废弃区。",
+  "card_lines": "照耀吧，不输给任何人的热度与光芒。",
+  "card_lrig_type": "",
+  "card_name": "罗星姬 ≡造父四≡",
+  "card_no": "WXN01-SC098",
+  "card_sprite_type": "精罗/宇宙",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3WSND2PXJ9Z03ECTFETP"
+}

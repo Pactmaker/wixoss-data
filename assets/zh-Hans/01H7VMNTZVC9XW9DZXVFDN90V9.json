@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】《回合1 》: 该精灵攻击时，宣言1个数字。对方将牌组顶1张牌放置到废弃区。若其为等级与宣言的数字相同的精灵牌，将该精灵竖置。\n生命爆发: 选择其中1项。①抽1张牌。②以对方场上1只等级2以下的精灵为对象，将其横置。",
+  "card_lines": "众神的时间现在开始流转。",
+  "card_lrig_type": "",
+  "card_name": "迷宫代号 索尼斯",
+  "card_no": "WXC02-SC067",
+  "card_sprite_type": "精械/迷宫",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版角色强化包02深渊歌叹",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "7000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMNTZVC9XW9DZXVFDN90V9"
+}

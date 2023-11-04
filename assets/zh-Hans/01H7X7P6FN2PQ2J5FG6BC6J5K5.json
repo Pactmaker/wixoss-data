@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自icon】: 攻击阶段中，该精灵因我方效果从场上放置到废弃区时，以我方废弃区1张《惨之游 †百家乐†》以外的等级3以下的<游具>精灵牌为对象，将其以横置状态出场。",
+  "card_lines": "闲家、庄家，你要下注哪一边？～†百家乐†～",
+  "card_lrig_type": "",
+  "card_name": "惨之游 †百家乐†",
+  "card_no": "PR-SC197",
+  "card_sprite_type": "精武/游具",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 店赛PR包11",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "8000",
+  "rarity": "PR",
+  "story": "",
+  "team": "",
+  "uid": "01H7X7P6FN2PQ2J5FG6BC6J5K5"
+}

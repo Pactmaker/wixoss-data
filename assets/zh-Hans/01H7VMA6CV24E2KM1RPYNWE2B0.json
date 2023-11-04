@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 对方回合中，该精灵被破坏时，查看我方牌组顶1张牌。可以将其作为【种子】在我方精灵区出场。\n【起】将作为【种子】的该牌公开，将能量区2张<植物>精灵牌放置到废弃区 : 将该【种子】开花。\n\n【自】: 该精灵开花时，以对方场上1只精灵为对象，将其返回手牌。",
+  "card_lines": "来吧，尽情起舞吧！~玉蝶花~",
+  "card_lrig_type": "",
+  "card_name": "罗植 玉蝶花",
+  "card_no": "WXC03-SC068",
+  "card_sprite_type": "精罗/植物",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "白",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版角色强化包03 万花镜映",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "10000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMA6CV24E2KM1RPYNWE2B0"
+}

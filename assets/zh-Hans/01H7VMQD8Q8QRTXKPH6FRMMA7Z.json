@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出现条件】【主要阶段】将我方场上3只不为共鸣的<水兽>精灵放置到废弃区。\n【自】: 该精灵攻击时，若我方手牌少于7张，从牌组抽牌直到手牌7张为止。",
+  "card_lines": "好久不见呢，红龙鱼大人。～利薇娅～\n很好，很有精神！～红龙鱼～",
+  "card_lrig_type": "",
+  "card_name": "蓝幻水 利薇娅",
+  "card_no": "WXN02-SC052",
+  "card_sprite_type": "精生/水兽",
+  "card_type": "共鸣",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "LC",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQD8Q8QRTXKPH6FRMMA7Z"
+}

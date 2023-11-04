@@ -1,0 +1,23 @@
+{
+  "card_effect": "对方回合中，该必杀的使用费用变为《绿1》《黑1》《无3》。\n以对方场上1只精灵为对象，将其破坏。破坏的精灵的等级每有1级，我方将我方牌组顶1张牌放置到能量区。",
+  "card_lines": "其选择，为难以忘却的回忆，及所有的体验所促成。",
+  "card_lrig_type": "",
+  "card_name": "枯树生华",
+  "card_no": "WXN04-SC011",
+  "card_sprite_type": "",
+  "card_type": "必杀",
+  "coin": "",
+  "color": "绿",
+  "cost": "绿1黑1无1",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "LR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJAP6PY0RSS86TEA7Z2Y"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该精灵攻击时，将我方牌组顶1张牌放置到能量区。\n【出】: 该精灵在攻击阶段中出场的情况下，将我方牌组顶3张牌放置到能量区。\n生命爆发: 查看我方牌组顶2张牌。将其中1张牌加入手牌或放置到能量区。剩下的牌放置到牌组顶或牌组底。",
+  "card_lines": "愿孩子们都能前途美满。",
+  "card_lrig_type": "",
+  "card_name": "叁之游 五月人偶",
+  "card_no": "WXN02-SC103",
+  "card_sprite_type": "精武/游具",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "7000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQDK01JRNKTFWY1M9SGMQ"
+}

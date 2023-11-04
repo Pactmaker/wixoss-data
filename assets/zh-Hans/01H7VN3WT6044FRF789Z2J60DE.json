@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 我方使用的蓝色魔法牌的费用减少【无1】。\n【出】《蓝》: 对方丢弃1张手牌。\n【起】《蓝》《蓝》: 以我方废弃区1张魔法牌为对象，将其加入手牌。\n【生命爆发】: 对方丢弃1张手牌。",
+  "card_lines": "咚咚，要吸进去了哦——！～V·A·C～",
+  "card_lrig_type": "",
+  "card_name": "核心代号 V·A·C",
+  "card_no": "WXN01-SC104",
+  "card_sprite_type": "精械/电机",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3WT6044FRF789Z2J60DE"
+}

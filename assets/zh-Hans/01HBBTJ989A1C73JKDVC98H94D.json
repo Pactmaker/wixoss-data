@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】《蓝》: 以对方场上1只精灵为对象，直到回合结束为止，其力量-4000。若对方手牌为0张，改为直到回合结束为止，其力量-8000。\n（力量为0以下的精灵会因为规则而破坏）\n生命爆发: 【能量填充1】",
+  "card_lines": "不会让你轻易通过的！～阿尔比恩～",
+  "card_lrig_type": "",
+  "card_name": "城壁的苍天 阿尔比恩",
+  "card_no": "WXC04-SC084",
+  "card_sprite_type": "精像/天使",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 角色强化包04-隐异爆发",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "7000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01HBBTJ989A1C73JKDVC98H94D"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出现条件】【魔法切入】将我方手牌和能量区和场上合计2张不为共鸣的<凶虫>精灵牌放置到废弃区\n【出】: 若对方的检查区有魔法牌，从以下2项选择1项。该【出】能力比那张魔法牌的效果先发动。\n①以对方废弃区最多2张魔法牌为对象，将其从游戏中除外。\n②以我方废弃区最多2只等级3以下的<凶虫>精灵牌为对象，将其加入手牌。",
+  "card_lines": "伸缩鞭化（arm whip）！～大王具足虫～",
+  "card_lrig_type": "",
+  "card_name": "黑幻虫 大王具足虫【HS】",
+  "card_no": "WXN02-SC014B",
+  "card_sprite_type": "精生/凶虫",
+  "card_type": "共鸣",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "5000",
+  "rarity": "LR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQDBA95R9C6WNKZ9CG45A"
+}

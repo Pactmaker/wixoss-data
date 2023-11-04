@@ -1,0 +1,23 @@
+{
+  "card_effect": "【骑乘】（直到回合结束为止，该分身骑乘到对象的我方场上1只<乘机>精灵。此为【红0】的【起】能力，1回合一次，只能在该分身不处于驾驶状态的情况下使用）\n（只要分身骑乘精灵，即为驾驶状态。驾驶状态的分身不能攻击）\n【出】丢弃1张手牌：获得硬币。",
+  "card_lines": "来让我看看你的实力吧～蕾拉～",
+  "card_lrig_type": "蕾拉",
+  "card_name": "蕾拉=传动离合",
+  "card_no": "WXD05-SC004-R",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSSTCG 简体中文版起始牌组 05 暗焰狂喜 dark flame rapture",
+  "grow_price": "红0",
+  "level": "1",
+  "limit": "1",
+  "power": "",
+  "rarity": "ST",
+  "story": "",
+  "team": "",
+  "uid": "01H7X20AFQ2SYAB8V37V4FW7V9"
+}

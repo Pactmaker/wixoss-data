@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】:将我方手牌最多2张脾放置到该精灵下方。\n【自】：该精灵从场上离开时，以我方废弃区中该牌下方最多2张脾为对象，将其加入手牌。",
+  "card_lines": "终于与你相见了，贝阿朵莉丝...\n～但丁～",
+  "card_lrig_type": "",
+  "card_name": "魔界的诗文 但丁",
+  "card_no": "PR-SC042",
+  "card_sprite_type": "精像/恶魔",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》线下店铺比赛物料卡（金包）",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "1000",
+  "rarity": "PR",
+  "story": "",
+  "team": "",
+  "uid": "01H819FSVG6RPEP73P5HS0QK5E"
+}

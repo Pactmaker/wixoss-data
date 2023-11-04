@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 我方主分身获得以下能力。\n【起】超越1（将我方分身下方的1张牌放置到分身废弃区）: 此回合中，对方不能使用等级1的精灵牌进行【防御】。\n【出】: 以对方能量区最多2张无色牌为对象，将其放置到废弃区。\n【起】将场上的该钥匙放置到分身废弃区: 以对方能量区1张牌为对象，将其放置到废弃区。",
+  "card_lines": "把力量借给我吧。全力一击！～游月～",
+  "card_lrig_type": "",
+  "card_name": "燃盛 游月·键",
+  "card_no": "WXC01-SC016",
+  "card_sprite_type": "",
+  "card_type": "钥匙",
+  "coin": "",
+  "color": "红",
+  "cost": "硬币2",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "Wixoss简体中文版 角色强化包01森罗轰咆",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "LC",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM7G0CF617YM2KG5SD4CAZ"
+}

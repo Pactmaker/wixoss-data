@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该精灵攻击时，以对方场上1只精灵为对象，若此回合中因我方效果将对方的牌移动到牌组，可以支付《蓝》。若如此做，直到回合结束为止，其力量-3000。\n（力量为0以下的精灵会因为规则破坏）",
+  "card_lines": "邀请您参加新海洋之旅。～摩纳哥海洋博物馆～",
+  "card_lrig_type": "",
+  "card_name": "迷宫代号 摩纳哥海洋博物馆",
+  "card_no": "WXN04-SC152",
+  "card_sprite_type": "精械/迷宫",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "3000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJSKF3P6KQM9BAMNSFRG"
+}

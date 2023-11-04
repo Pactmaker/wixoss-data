@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 只要该牌在牌组或手牌或废弃区，因我方的1个能力或效果参照该精灵牌的等级的情况下，可以视为1～4其中任意1个等级。\n（实际的等级不会改变。例如因效果视为等级1的精灵牌出场但主分身为等级1的情况下，不能出场）",
+  "card_lines": "既然经过黄道，那就请从十二宫中选一个吧。～盘旋之蛇～",
+  "card_lrig_type": "",
+  "card_name": "罗星 ≡黄道≡",
+  "card_no": "WXN02-SC158",
+  "card_sprite_type": "精罗/宇宙",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "5000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQD58FE6ZNCSMA6E29GKZ"
+}

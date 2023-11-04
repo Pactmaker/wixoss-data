@@ -1,0 +1,23 @@
+{
+  "card_effect": "使用该魔法牌之际，可以追加丢弃1张手牌作为使用费用。\n\n以下2项中选择1项。若追加丢弃了1张手牌，改为选择2项。\n①以我方废弃区1张持有《生命爆发》的牌为对象，将其加入手牌。\n②从我方牌组检索1张持有《生命爆发》的牌，将其展示并加入手牌，洗切牌组。",
+  "card_lines": "哟嚯！~亚弥~\n上钩了捏！~艾尔德拉~",
+  "card_lrig_type": "",
+  "card_name": "FISHING",
+  "card_no": "WXC03-SC061",
+  "card_sprite_type": "",
+  "card_type": "魔法",
+  "coin": "",
+  "color": "蓝",
+  "cost": "蓝1",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版角色强化包03 万花镜映",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMA6A6VV1H19VKN42GT8SD"
+}

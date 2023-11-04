@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】《回合1》：我方1只<游具>精灵从废弃区出场时，可以支付【黑】并将那只精灵从场上放置到废弃区。若如此做，将对象的对方场上1只精灵破坏。\n【出】《硬币》：以我方废弃区最多2只黑色精灵牌为对象，将其出场。",
+  "card_lines": "抱歉让你看到这样不才的我，我会......加油的。~迟钝子~",
+  "card_lrig_type": "迟钝子",
+  "card_name": "成就的驮姬 迟钝子",
+  "card_no": "WXD08-SC009-G",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSSTCG简体中文版起始牌组08开心乐园",
+  "grow_price": "黑3",
+  "level": "4",
+  "limit": "11",
+  "power": "",
+  "rarity": "ST",
+  "story": "",
+  "team": "",
+  "uid": "01H7X210KX2J3V7YPZZCWZZMZE"
+}

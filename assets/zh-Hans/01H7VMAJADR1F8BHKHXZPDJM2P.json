@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】: 从我方牌组检索最多3张牌并将其放置到废弃区，洗切牌组。\n【起】《回合1》超越1 : 以场上1只＜恶魔＞精灵为对象，将其破坏。若如此做，抽2张牌。\n【起】《回合1》《攻击阶段》超越1 : 以我方废弃区1张＜恶魔＞精灵牌为对象，丢弃1张手牌。若如此做，将其出场。",
+  "card_lines": "",
+  "card_lrig_type": "乌莉丝",
+  "card_name": "暗夜血族　穆小泠\n（焦热炎魔 乌莉丝）",
+  "card_no": "WXN04-SC008",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "黑3",
+  "level": "4",
+  "limit": "11",
+  "power": "",
+  "rarity": "LR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJADR1F8BHKHXZPDJM2P"
+}

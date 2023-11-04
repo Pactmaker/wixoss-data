@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该精灵进入驾驶状态时，抽2张牌，丢弃1张手牌。\n【自】: 该精灵攻击时，直到回合结束为止。可以将对象的我方1只主分身骑乘到对象的我方场上1只<乘机>精灵。（若主分身已骑乘其他精灵，换乘）\n生命爆发: 以我方废弃区最多2张<乘机>精灵牌为对象，将其加入手牌。",
+  "card_lines": "前进吧！让我来为你开辟前路！～斗轮挖掘机～",
+  "card_lrig_type": "",
+  "card_name": "加速代号 斗轮挖掘机",
+  "card_no": "WXN02-SC091",
+  "card_sprite_type": "精械/乘机",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQDJ87CRDX93HSB3B2VN1"
+}

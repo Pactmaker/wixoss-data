@@ -1,0 +1,23 @@
+{
+  "card_effect": "从以下3选择1项。\n①若我方手牌为0张，抽2张牌。\n②以对方场上1只精灵为对象，若我方场上没有精灵，将其横置。\n③若该回合为因效果追加的回合，结束该攻击阶段。",
+  "card_lines": "你，刚刚说了什么？～乌莉丝～",
+  "card_lrig_type": "",
+  "card_name": "罚球机会",
+  "card_no": "WXN04-SC059",
+  "card_sprite_type": "",
+  "card_type": "必杀",
+  "coin": "",
+  "color": "无",
+  "cost": "无0",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "LC",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJF10QVBKPWFP7EDEHXK"
+}

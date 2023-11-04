@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 只要对方能量区的牌为4张以下，该精灵获得【双重击溃】能力。\n【自】: 该精灵攻击时，以对方能量区1张牌为对象，将其放置到废弃区。\n【生命爆发】: 将对象的对方能量区1张持有【万花色】的牌放置到废弃区，将对象的对方场上1只力量为8000以下的精灵破坏。",
+  "card_lines": "如痴如醉，欲火焚身。～大蛇～",
+  "card_lrig_type": "",
+  "card_name": "幻龙姬 大蛇",
+  "card_no": "WXC01-SC037",
+  "card_sprite_type": "精生/龙兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "Wixoss简体中文版 角色强化包01森罗轰咆",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM7H739NDBE69YPMCX8BDY"
+}

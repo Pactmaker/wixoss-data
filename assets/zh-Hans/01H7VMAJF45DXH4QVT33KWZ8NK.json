@@ -1,0 +1,23 @@
+{
+  "card_effect": "该必杀牌只能在对方的回合使用。\n\n从以下3项选择最多2项。\n①若对方的手牌为7张以上，我方在不查看对方手牌的情况下挑选其中4张，将其丢弃。\n②对方以自己的能量区5张牌为对象，若对方能量区的牌为10张以上，将其放置到废弃区。\n③将我方牌组顶1张牌放置到能量区。",
+  "card_lines": "哎呀，漂亮得令人心生贪念呢。～嘉年华～",
+  "card_lrig_type": "",
+  "card_name": "By the Way",
+  "card_no": "WXN04-SC060",
+  "card_sprite_type": "",
+  "card_type": "必杀",
+  "coin": "",
+  "color": "无",
+  "cost": "无0",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "LC",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJF45DXH4QVT33KWZ8NK"
+}

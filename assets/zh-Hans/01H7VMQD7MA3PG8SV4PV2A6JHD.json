@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该精灵攻击时，以对方场上1只精灵为对象，可以将我方1只精灵从场上放置到废弃区。若如此做，抽1张牌，直到回合结束为止，其力量-2000。\n生命爆发: 抽1张牌。",
+  "card_lines": "嗷，别按人家的头。～†赤牛†～",
+  "card_lrig_type": "",
+  "card_name": "异血之游 †赤牛†",
+  "card_no": "WXN02-SC194",
+  "card_sprite_type": "精武/游具",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "2000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQD7MA3PG8SV4PV2A6JHD"
+}

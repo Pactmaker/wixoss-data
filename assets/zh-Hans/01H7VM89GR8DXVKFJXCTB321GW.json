@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该精灵攻击时，若我方精灵区的牌有7张以上，击溃对方1张生命护甲。\n【出】《黑》: 以对方场上1只精灵为对象，直到回合结束为止，我方精灵区的牌每有1张，其力量－2000。\n生命爆发: 抽1张牌。若我方生命护甲为4张以下，追加【能量填充1】。",
+  "card_lines": "想要去死后的乐园吗？~亡灵书~",
+  "card_lrig_type": "",
+  "card_name": "弩书 亡灵书",
+  "card_no": "WXN03-SC082",
+  "card_sprite_type": "精武/武器",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包03",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM89GR8DXVKFJXCTB321GW"
+}

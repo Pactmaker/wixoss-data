@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：我方回合中，我方因我方的1个效果抽1张以上的牌时，直到回合结束为止，该精灵的力量+1000。\n【自】：该精灵攻击时，以对方1只力量比该精灵低的精灵为对象，可以从手牌丢弃1张红色精灵牌。若如此做，将其破坏。\n生命爆发：抽1张牌。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "罗原魔 恶魔核心",
+  "card_no": "SP15-SC004",
+  "card_sprite_type": "精罗/恶魔/精罗/原子",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版-新店赛PR包01",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "3000",
+  "rarity": "SP",
+  "story": "",
+  "team": "",
+  "uid": "01HBBTJMB74XS7JY19RH17YTFK"
+}

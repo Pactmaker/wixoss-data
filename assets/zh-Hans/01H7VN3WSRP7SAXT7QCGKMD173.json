@@ -1,0 +1,23 @@
+{
+  "card_effect": "【驾驶常】: 【暗杀】\n【常】: 我方回合中，我方场上所有红色精灵的力量+2000。\n【出】《红》《红》: 将我方牌组1张《加速代号 F1》以外的<乘机>精灵牌出场，洗切牌组。\n【生命爆发】: 以对方场上1只精灵为对象，将其破坏。",
+  "card_lines": "你的排量，气势还有最重要的，速度都完全不够呢！～F1～",
+  "card_lrig_type": "",
+  "card_name": "加速代号 F1",
+  "card_no": "WXN01-SC099",
+  "card_sprite_type": "精械/乘机",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3WSRP7SAXT7QCGKMD173"
+}

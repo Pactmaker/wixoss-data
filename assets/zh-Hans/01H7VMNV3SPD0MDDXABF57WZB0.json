@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该精灵攻击时，以对方废弃区最多2张牌为对象，将其放置到牌组顶。（放置的顺序由对方选择）\n【起】《回合1 》《蓝0 》: 选择最多2名玩家。被选择的玩家将所有手牌加入其牌组并洗切，抽与用此方法加入其牌组的牌相同数量的牌。所有玩家因此效果抽牌最多只能抽到5张牌。\n生命爆发: 抽1张牌。对方将1张手牌放置到牌组顶。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "迷牢代号 亚特兰",
+  "card_no": "WXC02-SC049C",
+  "card_sprite_type": "精械/迷宫",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版角色强化包02深渊歌叹",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMNV3SPD0MDDXABF57WZB0"
+}

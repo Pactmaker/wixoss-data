@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该精灵将对方1只精灵破坏时，以对方能量区1张不持有与对方主分身共通颜色的牌为对象，将其放置到废弃区。\n【出】从手牌丢弃3张红色牌 : 直到回合结束为止，该精灵获得【暗杀】能力。（持有【暗杀】能力的精灵攻击时不与其正前方的精灵战斗，改为给予对方伤害）",
+  "card_lines": "「我要打10个！」",
+  "card_lrig_type": "",
+  "card_name": "红天姬 玛尔斯",
+  "card_no": "WXN04-SC069",
+  "card_sprite_type": "奏像/天使",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJG7XBKGHDK6AGE3ET0J"
+}

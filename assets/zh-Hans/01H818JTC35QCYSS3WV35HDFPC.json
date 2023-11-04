@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起icon】【绿icon】将该精灵从场上放置到废弃区: 以我方废弃区1张无色牌为对象，将其加入手牌。\n生命爆发icon: 抽1张牌。",
+  "card_lines": "头发是女性的生命哦！~山茶花~",
+  "card_lrig_type": "",
+  "card_name": "罗植 山茶花",
+  "card_no": "PR-SC137",
+  "card_sprite_type": "精罗/植物",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》线下店铺比赛物料卡（银包）",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "8000",
+  "rarity": "PR",
+  "story": "",
+  "team": "",
+  "uid": "01H818JTC35QCYSS3WV35HDFPC"
+}

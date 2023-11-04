@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】【回合2 icon】:我方1只持有《的精灵出场时，真到回合结束为止，该精灵的力量+4000。\n【自】：该精灵攻击时，以对方场上只力量比该精灵低的精灵为对象，将其破坏。\n生命爆发：抽1张牌。",
+  "card_lines": "请，请打开国门！～佩里～",
+  "card_lrig_type": "",
+  "card_name": "异国的黑船 佩里",
+  "card_no": "PR-SC024",
+  "card_sprite_type": "精像/武勇",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》线下店铺比赛物料卡（银包）",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "1000",
+  "rarity": "PR",
+  "story": "",
+  "team": "",
+  "uid": "01H818JT8PCJBC5NK164TWM84N"
+}

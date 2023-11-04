@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：只要我方场上存在共鸣精灵，这只精灵的基本力量变为12000。\n【自】：我方回合结束时，可以将该精灵从场上放置到废弃区。若如此做，直到下一个对方回合结束为止，我方主分身获得「【起】【回合1】【攻击阶段】【绿0】: 以对方场上1只力量为12000以上的精灵为对象，将其破坏。」的能力。",
+  "card_lines": "你能跟上我的节奏吗？～呼啦圈～",
+  "card_lrig_type": "",
+  "card_name": "叁之游 呼啦圈",
+  "card_no": "WXN02-SC135",
+  "card_sprite_type": "精武/游具",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "7000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQDD95DG810CYC9Y8VGXE"
+}

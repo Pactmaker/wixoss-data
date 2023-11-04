@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】【横置】丢弃手牌1只<矿石>或<宝石>精灵牌: 以对方场上1只力量6000以下的1只精灵为对象，将其破坏。",
+  "card_lines": "稍微有点碍事呢。～斑铜矿～",
+  "card_lrig_type": "",
+  "card_name": "罗石 斑铜矿",
+  "card_no": "WXN02-SC163",
+  "card_sprite_type": "精罗/矿石",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "5000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQD5J0M1M13HBYQND59E5"
+}

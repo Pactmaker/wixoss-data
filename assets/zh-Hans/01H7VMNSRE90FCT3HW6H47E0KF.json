@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】将场上的该精灵放置到废弃区: 从我方牌组检索1张等级4的黑色精灵牌，将其展示并加入手牌，洗切牌组。\n生命爆发: 抽1张牌。",
+  "card_lines": "神明守望着你。～银元～",
+  "card_lrig_type": "",
+  "card_name": "星银的童话 银元",
+  "card_no": "WXC02-SC104",
+  "card_sprite_type": "精像/美巧",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版角色强化包02深渊歌叹",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "7000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMNSRE90FCT3HW6H47E0KF"
+}

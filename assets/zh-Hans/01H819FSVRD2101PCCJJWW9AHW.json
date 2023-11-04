@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：该精灵攻击时，若该精灵的力量为10000以上，将我方牌组1张持有【附属icon】的牌放置到能量区洗切牌组。\n【出】【绿0 icon】：以我方能量区1张持有【附属icon】的<调理>精灵脾为对象。将其成为该精灵的【附属】。",
+  "card_lines": "和梅干一超吃也可以哦…?～鳗鱼饭～",
+  "card_lrig_type": "",
+  "card_name": "食用代号 鳗鱼饭",
+  "card_no": "PR-SC045",
+  "card_sprite_type": "精械/调理",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》线下店铺比赛物料卡（金包）",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "5000",
+  "rarity": "PR",
+  "story": "",
+  "team": "",
+  "uid": "01H819FSVRD2101PCCJJWW9AHW"
+}

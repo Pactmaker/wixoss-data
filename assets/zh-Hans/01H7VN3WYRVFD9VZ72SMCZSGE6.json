@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】丢弃手牌1张<原子>精灵牌: 展示牌组顶5张牌。将其中1张<原子>精灵牌加入手牌。剩下的牌按照任意顺序放置到牌组最下方。\n【生命爆发】: 【能量填充1】",
+  "card_lines": "最凉快的存在。~Th~",
+  "card_lrig_type": "",
+  "card_name": "罗原 Th",
+  "card_no": "WXN01-SC208",
+  "card_sprite_type": "精罗/原子",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "7000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3WYRVFD9VZ72SMCZSGE6"
+}

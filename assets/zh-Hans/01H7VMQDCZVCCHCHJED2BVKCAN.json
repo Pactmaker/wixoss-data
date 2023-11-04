@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该精灵攻击时，可以支付《蓝》。若如此做，将我方牌组底2张牌放置到废弃区。那之后，以对方场上1只等级与用此方法放置到废弃区的精灵牌等级合计相同的精灵为对象，将其破坏。\n生命爆发：以对方场上1只精灵为对象，将其横置。抽1张牌。",
+  "card_lines": "这是个很有趣的研究题目呢。～诺贝尔～",
+  "card_lrig_type": "",
+  "card_name": "彩英的探求 诺贝尔",
+  "card_no": "WXN02-SC130",
+  "card_sprite_type": "精像/英知",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQDCZVCCHCHJED2BVKCAN"
+}

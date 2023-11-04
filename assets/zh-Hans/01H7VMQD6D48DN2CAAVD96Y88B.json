@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该牌从手牌放置到废弃区时，若我方手牌为3张以下且我方场上有<凶虫>精灵，抽1张牌。\n生命爆发: 抽1张牌。",
+  "card_lines": "落花落花，其二。～§汤花深白蟹§～",
+  "card_lrig_type": "",
+  "card_name": "幻虫 §汤花深白蟹§",
+  "card_no": "WXN02-SC175",
+  "card_sprite_type": "精生/凶虫",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "3000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQD6D48DN2CAAVD96Y88B"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】: 抽1张牌，将1张手牌放置到牌组底。\n【起】【回合1】【蓝0】: 将我方牌组底2张牌放置到废弃区。那之后，若用此方法放置到废弃区的精灵牌的等级合计为4，以对方场上最多2只精灵为对象，将其冻结。\n（被冻结的精灵在下个自己的竖置阶段不能竖置）\n生命爆发: 抽1张牌。",
+  "card_lines": "这个香蕉皮的摩擦系数是......啊！～Iｇ・香蕉皮定理～",
+  "card_lrig_type": "",
+  "card_name": "皮英的润滑 Ig·香蕉皮定理",
+  "card_no": "WXN02-SC170",
+  "card_sprite_type": "精像/英知",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "7000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQD63T4V7SQD4E4MNGGW2"
+}

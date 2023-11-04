@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 只要我方主分身为红色且该精灵存在于中央精灵区，该精灵获得【双重击溃】。",
+  "card_lines": "光芒将以我为中心回旋闪耀。~角闪石~",
+  "card_lrig_type": "",
+  "card_name": "罗石 角闪石",
+  "card_no": "SP09-SC021P",
+  "card_sprite_type": "精罗/矿石",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版兔年礼盒",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "8000",
+  "rarity": "强化包",
+  "story": "",
+  "team": "",
+  "uid": "01H7X171JRCS7C595XTPY74WJJ"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【成长】我方主分身的卡牌名含有《忆》\n【常】: 对方场上的冻结状态的精灵失去能力。\n【起】超越1: 以对方场上1只精灵为对象，将其冻结。若那只精灵已为冻结状态，改为将其破坏。\n【起】【回合1】超越2: 对方场上每有1只冻结状态的精灵，抽1张牌。",
+  "card_lines": "请静享闲适吧。～忆～",
+  "card_lrig_type": "忆/皮璐璐可",
+  "card_name": "占星的巫女 忆·子夜",
+  "card_no": "WXN02-SC001",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "白",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "白2",
+  "level": "5",
+  "limit": "12",
+  "power": "",
+  "rarity": "LR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQDA8MBA4YHFXZQC6H498"
+}

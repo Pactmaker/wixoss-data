@@ -1,0 +1,23 @@
+{
+  "card_effect": "下注―《硬币》\n将我方1只精灵从场上放置到废弃区。\n若如此做，此回合中，对方1只精灵攻击时，若那次攻击为此回合的第一次或第二次攻击，将那次攻击无效。若我方已下注，追加此回合中，对方的主分身攻击时，将那次攻击无效。",
+  "card_lines": "不行的哟。～妈妈～\n",
+  "card_lrig_type": "",
+  "card_name": "避难劝告",
+  "card_no": "WXC03-SC008",
+  "card_sprite_type": "",
+  "card_type": "必杀",
+  "coin": "",
+  "color": "绿",
+  "cost": "绿1",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版角色强化包03 万花镜映",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "LR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMA6571AXGFY4TPX0ATZ8Y"
+}

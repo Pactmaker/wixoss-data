@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 我方的攻击阶段开始时，若此回合中我方已使用3次以上魔法牌，对方丢弃1张手牌。\n【出】: 查看我方牌组顶4张牌。将其中1张蓝色或黑色魔法牌展示并加入手牌。剩下的牌洗切后放置到牌组底。",
+  "card_lines": "充能射击！～Ｅ・Ｂ・Ｌ～",
+  "card_lrig_type": "",
+  "card_name": "技术代号 Ｅ・Ｂ・Ｌ",
+  "card_no": "WXC04-SC054",
+  "card_sprite_type": "精械/电机",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 角色强化包04-隐异爆发",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "10000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01HBBTJ965T2Q0XM3QHY428F5E"
+}

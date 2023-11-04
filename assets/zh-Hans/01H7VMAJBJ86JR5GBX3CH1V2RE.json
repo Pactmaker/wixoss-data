@@ -1,0 +1,23 @@
+{
+  "card_effect": "【队伍】＜No Limit＞\n【队伍常】: 对方回合中，我方中央精灵区的精灵的力量+2000。\n【出】: 抽1张牌并【能量填充1】。\n【起】《游戏1》将2只竖置状态的等级2的分身横置 : 以对方场上最多2只精灵为对象，可以从手牌丢弃1张持有《防御》的牌。若如此做，将其返回手牌。",
+  "card_lines": "「要上了，让你见识一下，我的力量！」",
+  "card_lrig_type": "昭乃",
+  "card_name": "向着勇气前进 昭乃",
+  "card_no": "WXN04-SC021",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "白",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "白2",
+  "level": "3",
+  "limit": "6",
+  "power": "",
+  "rarity": "LC",
+  "story": "",
+  "team": "No Limit",
+  "uid": "01H7VMAJBJ86JR5GBX3CH1V2RE"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【驾驶自】: 该精灵攻击时，将对方场上所有力量为1000以下的精灵破坏。\n（【驾驶自】只能在该精灵处于驾驶状态的情况下有效。）",
+  "card_lines": "简简单单就能追上你。～摩托车～",
+  "card_lrig_type": "",
+  "card_name": "骑乘代号 摩托车",
+  "card_no": "WXN01-SC137",
+  "card_sprite_type": "精械/乘机",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "3000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3X3GWD1JCRRX049GEZY0"
+}

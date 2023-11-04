@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】《横置》: 展示我方牌组顶3张牌。将其中1张＜空兽＞精灵牌和1张＜地兽＞精灵牌加入手牌，剩下的牌放置到废弃区。",
+  "card_lines": "啾啾啾。过来吧。~夜莺~",
+  "card_lrig_type": "",
+  "card_name": "幻兽 夜莺",
+  "card_no": "WXN03-SC105",
+  "card_sprite_type": "精生/空兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包03",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "10000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM89K3JKW1FDGHD5HC4ANQ"
+}

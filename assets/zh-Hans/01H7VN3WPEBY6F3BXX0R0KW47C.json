@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 我方场上持有【升阶】的<武勇>精灵的力量+3000。\n【自】: 我方的主要阶段开始时，查看我方牌组顶1张牌。若其为红色精灵牌，可以将其出场。\n【起】真诚【硬币】: 对方展示所有手牌，那之后，对方挑选自己分身牌组3张牌并将其展示。（若只有2张以下则展示所有牌）",
+  "card_lines": "以此正直之心～莉露～",
+  "card_lrig_type": "莉露",
+  "card_name": "真实的记忆 莉露",
+  "card_no": "WXN01-SC005",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "红3",
+  "level": "4",
+  "limit": "11",
+  "power": "",
+  "rarity": "LR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3WPEBY6F3BXX0R0KW47C"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】【回合1】【绿0】: 以我方场上其他的1只精灵为对象，将其和该精灵的位置交换。\n生命爆发: 抽1张牌。",
+  "card_lines": "真是的！蕾希你太慢啦！～希尔芙～",
+  "card_lrig_type": "",
+  "card_name": "幻怪 希尔芙",
+  "card_no": "WXN02-SC187",
+  "card_sprite_type": "精生/怪异",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "2000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQD75477ZR4TPCTD64C78"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】【横置】: 以对方场上1只力量为2000以下的精灵为对象，将其破坏。该能力只能在我方场上有持有【升阶】的精灵的情况下使用。",
+  "card_lines": "“美丽之手”这种称号，都是过去的事了。～加雷斯～",
+  "card_lrig_type": "",
+  "card_name": "白枪的圆桌 加雷斯",
+  "card_no": "WXN02-SC166",
+  "card_sprite_type": "精像/武勇",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "2000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQD5RP76H4QVX7A8C6AQW"
+}

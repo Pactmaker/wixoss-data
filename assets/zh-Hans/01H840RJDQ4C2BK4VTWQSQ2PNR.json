@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：对方的回合中，我方场上所有精灵的力量+1000。\n生命爆发：以对方场上1只精灵为对象，将其返回手牌。",
+  "card_lines": "小玉，你到底是什么人？～皇家铠～",
+  "card_lrig_type": "",
+  "card_name": "甲胄 皇家铠",
+  "card_no": "WXD01-SCP07",
+  "card_sprite_type": "精武/武装",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "白",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSSTCG简体中文版起始牌组01黑白穿光light cross by chaos",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SP",
+  "story": "",
+  "team": "",
+  "uid": "01H840RJDQ4C2BK4VTWQSQ2PNR"
+}

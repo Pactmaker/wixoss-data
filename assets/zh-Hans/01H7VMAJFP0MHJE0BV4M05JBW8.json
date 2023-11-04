@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 我方的主要阶段开始时，以我方废弃区1张持有《防御》的牌为对象，将该精灵从场上放置到废弃区。若如此做，将其加入手牌。\n【出】丢弃手牌1张持有《防御》的牌 : 以对方场上1只等级2以下的精灵为对象，将其返回手牌。",
+  "card_lines": "「贫僧对操纵侍从颇有心得呢。」",
+  "card_lrig_type": "",
+  "card_name": "圣魔姬 道满",
+  "card_no": "WXN04-SC066",
+  "card_sprite_type": "奏像/恶魔",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "白",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJFP0MHJE0BV4M05JBW8"
+}

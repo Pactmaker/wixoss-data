@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】丢弃2张手牌: 此回合结束时，抽2张牌。（回合结束时该精灵不在场上也可以抽牌。）",
+  "card_lines": "我们可是海贼啊。尽情地花个痛快吧！～德雷克～",
+  "card_lrig_type": "",
+  "card_name": "魔海的船员 德雷克",
+  "card_no": "WXN01-SC150",
+  "card_sprite_type": "精像/恶魔",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "3000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3X4NYQVRKPSVJEF3A51Q"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "《交错》《罗石 月光石》的右侧\n【交错常】: 该精灵的基本力量变为15000。\n【起】丢弃手牌合计3张<矿石>或<宝石>精灵牌 : 击溃我方和对方1张生命护甲。\n【交错自】: 该精灵达成《heaven 》时，直到回合结束为止，该精灵获得【暗杀】能力。\n生命爆发: 以对方场上持有最小力量的1只精灵为对象，将其破坏。",
+  "card_lines": "将热情的太阳能量带给你！~日长石~",
+  "card_lrig_type": "",
+  "card_name": "罗石 日长石",
+  "card_no": "WXN03-SC058",
+  "card_sprite_type": "精罗/宝石",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包03",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM89EP2SGQSKHXSHQFD72T"
+}

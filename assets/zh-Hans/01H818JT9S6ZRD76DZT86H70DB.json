@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】:只要我方废弃区的<龙兽>精灵牌为5张以上，该精灵的基本力量变为12000。\n【出】：以对方场上1只力量为1我方废弃区的<龙兽>精灵牌的张数×1000以下的精灵为对象，将其破坏。\n【起】己丢弃手牌1张<龙兽>精灵牌：从我方牌组检索1张《幻龙 雷龙》以外的<龙兽>精灵牌，将其出场，洗切牌组。",
+  "card_lines": "诶?原来你在那里吗?～雷龙～",
+  "card_lrig_type": "",
+  "card_name": "幻龙 雷龙",
+  "card_no": "PR-SC061",
+  "card_sprite_type": "精生/龙兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》线下店铺比赛物料卡（银包）",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "7000",
+  "rarity": "PR",
+  "story": "",
+  "team": "",
+  "uid": "01H818JT9S6ZRD76DZT86H70DB"
+}

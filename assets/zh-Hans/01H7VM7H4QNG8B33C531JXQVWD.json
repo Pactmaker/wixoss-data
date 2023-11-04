@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】: 该精灵在左边精灵区出场时，【能量填充1】。\n【出】【绿】: 以我方能量区1张精灵牌为对象，将其加入手牌。",
+  "card_lines": "要一起吃吗？～猫娘～",
+  "card_lrig_type": "",
+  "card_name": "幻怪 猫娘",
+  "card_no": "WXC01-SC065",
+  "card_sprite_type": "精生/怪异",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "Wixoss简体中文版 角色强化包01森罗轰咆",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "10000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM7H4QNG8B33C531JXQVWD"
+}

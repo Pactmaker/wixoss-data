@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：对方分身的【起】能力的使用费用增加【无1】。\n【出】：以对方场上1只精灵为对象，将其冻结。\n【起】【无】【无】丢弃手牌1张白色或蓝色精灵牌：以场上1只精灵为对象，将其冻结。\n【起】【横置】：以对方场上1只冻结状态的精灵为对象，将其破坏。",
+  "card_lines": "这场战斗，赢到最后的是我们。～忆～",
+  "card_lrig_type": "忆/皮璐璐可",
+  "card_name": "占星的巫女 忆·夜",
+  "card_no": "WXD04-SCP01",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "白",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSSTCG简体中文版起始牌组04苍之链结connect of blueness",
+  "grow_price": "白1\n蓝2",
+  "level": "4",
+  "limit": "11",
+  "power": "",
+  "rarity": "SP",
+  "story": "",
+  "team": "",
+  "uid": "01H7X20MPKEX2T3AYSQHYK7JTV"
+}

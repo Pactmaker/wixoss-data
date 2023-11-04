@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该牌因我方的效果从手牌展示时，可以支付《绿》《绿》《无》并丢弃手牌1张《幻水 马来鳄》。若用此方法丢弃了《幻水 马来鳄》，以我方废弃区1张等级3以下的<水兽>精灵牌为对象，将其出场。",
+  "card_lines": "哇！我开动了！～马来鳄～",
+  "card_lrig_type": "",
+  "card_name": "幻水 马来鳄",
+  "card_no": "WXN04-SC161",
+  "card_sprite_type": "精生/水兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "10000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJTDF1QNCTT3GM1W0CNW"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】: 若我方场上的精灵下方有牌，【能量填充1】。\n【起】《回合1 》《无》: 以对方场上1只精灵为对象，直到回合结束为止，我方废弃区每有1种不为无色的牌，其力量-1000。\n生命爆发: 抽1张牌。若我方生命护甲为4张以下，追加【能量填充1】。",
+  "card_lines": "将败者的LRIG...。",
+  "card_lrig_type": "",
+  "card_name": "驭夜之暗 黑暗骑士",
+  "card_no": "WXC02-SC055",
+  "card_sprite_type": "精像/美巧",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版角色强化包02深渊歌叹",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMNV45R3JX1NW8TC5B6QN8"
+}

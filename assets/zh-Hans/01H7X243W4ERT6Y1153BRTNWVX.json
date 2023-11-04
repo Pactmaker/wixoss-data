@@ -1,0 +1,23 @@
+{
+  "card_effect": "将对象的我方场上1只竖置状态的精灵横置。若如此做，将对象的对方场上1只力量为其力量以下的精灵破坏。",
+  "card_lines": "没有牺牲就没有破坏！",
+  "card_lrig_type": "",
+  "card_name": "堕络",
+  "card_no": "WXD02-SC033",
+  "card_sprite_type": "",
+  "card_type": "魔法",
+  "coin": "",
+  "color": "绿",
+  "cost": "绿1",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文-起始牌组",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "ST",
+  "story": "",
+  "team": "",
+  "uid": "01H7X243W4ERT6Y1153BRTNWVX"
+}

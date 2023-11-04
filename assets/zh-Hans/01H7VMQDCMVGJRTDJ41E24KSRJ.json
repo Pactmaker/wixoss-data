@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该精灵被升阶时，直到回合结束为止，那只精灵获得「【常】：不会被破坏。」的能力。\n【自】: 该精灵被破坏时，查看我方牌组顶4张牌。将其中1张持有《升阶》的精灵牌公开后加入手牌，剩下的牌按任意顺序放置到牌组最下方。\n生命爆发: 选择其中1项。①抽1张牌。②【能量填充1】",
+  "card_lines": "真田幸村，之后就交给你了...。～才藏～",
+  "card_lrig_type": "",
+  "card_name": "隐密的十勇 才藏",
+  "card_no": "WXN02-SC125",
+  "card_sprite_type": "精像/武勇",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "8000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQDCMVGJRTDJ41E24KSRJ"
+}

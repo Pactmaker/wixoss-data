@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 我方攻击阶段开始时，若我方场上存在力量为20000以上的<毒牙>精灵，抽1张牌，【能量填充1】。\n【起】《回合1》《黑》: 查看对方手牌并挑选其中1张3级以下且不为无色的精灵牌，对方将其出场。其【出】能力不发动。\n生命爆发: 选择其中1项。①抽1张牌。②【能量填充1】",
+  "card_lines": "来吧，别客气，尽情享用吧。～巧克力杀手～",
+  "card_lrig_type": "",
+  "card_name": "Drei=巧克力杀手",
+  "card_no": "WXN04-SC089",
+  "card_sprite_type": "精武/毒牙",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "8000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJKDYT8G9WN6FCWWK82D"
+}

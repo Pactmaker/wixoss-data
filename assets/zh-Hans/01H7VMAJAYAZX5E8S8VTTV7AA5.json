@@ -1,0 +1,23 @@
+{
+  "card_effect": "攻击阶段中，只要我方的主分身等级比对方的主分身等级低，该钥匙牌获得《攻击阶段》。\n【常】: 我方的主分身获得以下能力。\n【起】《魔法切入》超越1 : 以场上1张魔法牌为对象，将其效果取消。\n【起】《攻击阶段》超越2 : 以对方场上1只精灵为对象，将其横置并冻结。\n【出】: 以对方场上1只精灵为对象，将其放置到牌组顶。",
+  "card_lines": "电击作战——！~亚弥~",
+  "card_lrig_type": "",
+  "card_name": "闪击亚弥！",
+  "card_no": "WXN04-SC014",
+  "card_sprite_type": "",
+  "card_type": "钥匙",
+  "coin": "",
+  "color": "蓝",
+  "cost": "硬币2",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "LR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJAYAZX5E8S8VTTV7AA5"
+}

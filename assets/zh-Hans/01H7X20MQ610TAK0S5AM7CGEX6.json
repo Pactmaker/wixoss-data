@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：对方回合结束时，以我方废弃区1张非无色的精灵牌为对象，若我方手牌为0张，将其加入手牌。\n【出】：以对方场上1只精灵为对象，若对方手牌比我方手牌多5张以上，直到回合结束为止，其力量-10000。",
+  "card_lines": "玛巴斯有5个和“5”有关的要素。～古老的魔法书～",
+  "card_lrig_type": "",
+  "card_name": "魔界的五裁 玛巴斯",
+  "card_no": "WXD04-SCP08",
+  "card_sprite_type": "精像/恶魔",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSSTCG简体中文版起始牌组04苍之链结connect of blueness",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "5000",
+  "rarity": "SP",
+  "story": "",
+  "team": "",
+  "uid": "01H7X20MQ610TAK0S5AM7CGEX6"
+}

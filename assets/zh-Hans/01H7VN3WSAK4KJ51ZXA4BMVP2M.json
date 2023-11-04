@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 我方的红色精灵攻击时，直到回合结束为止，其力量+2000。\n【出】《红》: 以对方场上1只力量为7000以下的精灵为对象，将其破坏。\n【起】《红》《红》: 直到回合结束为止，该精灵获得【双重击溃】能力。\n【生命爆发】: 以对方场上1只力量为10000以下的精灵为对象，将其破坏。",
+  "card_lines": "大いなる犠牲の輝き。\n伟大觉悟的光芒。",
+  "card_lrig_type": "",
+  "card_name": "罗辉石 金刚珠玉",
+  "card_no": "WXN01-SC094",
+  "card_sprite_type": "精罗/宝石",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3WSAK4KJ51ZXA4BMVP2M"
+}

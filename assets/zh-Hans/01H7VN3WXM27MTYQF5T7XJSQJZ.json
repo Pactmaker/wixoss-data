@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该精灵被破坏时，可以支付《红》。若如此做，将牌组1张<武勇>精灵牌展示并加入手牌，洗切牌组。",
+  "card_lines": "已经是第六次了啊。还要继续吗？～祝融～",
+  "card_lrig_type": "",
+  "card_name": "炎身的南王 祝融",
+  "card_no": "WXN01-SC196",
+  "card_sprite_type": "精像/武勇",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "8000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3WXM27MTYQF5T7XJSQJZ"
+}

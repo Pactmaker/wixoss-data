@@ -1,0 +1,23 @@
+{
+  "card_effect": "【成长】我方场上主分身的卡牌名含有《安》。\n【出】: 以我方废弃区最多3张<美巧>精灵牌为对象，将其加入手牌。\n【起】超越2: 以对方1只攻击中的精灵为对象，将其1次攻击无效。该能力只能在对方1只精灵正在攻击时使用。\n【起】超越3: 展示我方所有手牌。若用此方法将8种类以上<美巧>精灵牌展示，将对方场上所有精灵返回手牌。",
+  "card_lines": "永久长眠吧！～安～",
+  "card_lrig_type": "安",
+  "card_name": "被侵犯的审判 安=Fifth",
+  "card_no": "WXN01-SC056",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "绿2",
+  "level": "5",
+  "limit": "12",
+  "power": "",
+  "rarity": "LC",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3TPTJG81JRTT8Y8P51JY"
+}

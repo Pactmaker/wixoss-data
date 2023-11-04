@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 我方回合中，只要我方废弃区的<原子>精灵牌为7张以上，该精灵的力量+7000。\n【自】《回合1》: 该精灵破坏对方1只精灵时，可以支付《红》。那之后，若用此方法支付《红》，以对方场上1只力量为该精灵的力量以下的精灵为对象，将其破坏。\n生命爆发: 选择其中1项。①抽1张牌。②【能量填充1】",
+  "card_lines": "研究稍有闲暇就要爆炸了！爆炸！～An～",
+  "card_lrig_type": "",
+  "card_name": "罗原姬 An",
+  "card_no": "WXC04-SC035",
+  "card_sprite_type": "精罗/原子",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 角色强化包04-隐异爆发",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "5000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01HBBTJ94RV1YR16R9ZCETN0Z6"
+}

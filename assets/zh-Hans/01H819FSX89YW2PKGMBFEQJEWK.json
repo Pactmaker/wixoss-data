@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：只要我方场上有3只不持有共通颜色的精灵，该精灵的基本力量变为15000,不会受到对方的效果影响。(无色不含有颜色。场上的精灵为白色、无色、无色的情况，该能力会发动)\n生命爆发：从我方牌组检索1张等级3以下的精灵牌，将其展示并加入手牌，洗切牌组。",
+  "card_lines": "我为游离四方之剑。身染尘世之色。～杜兰德尔～",
+  "card_lrig_type": "",
+  "card_name": "大剑 杜兰德尔",
+  "card_no": "PR-SC110",
+  "card_sprite_type": "精武/武装",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "白",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》线下店铺比赛物料卡（金包）",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "8000",
+  "rarity": "PR",
+  "story": "",
+  "team": "",
+  "uid": "01H819FSX89YW2PKGMBFEQJEWK"
+}

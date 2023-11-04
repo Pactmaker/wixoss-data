@@ -1,0 +1,23 @@
+{
+  "card_effect": "抽3张牌，丢弃1张手牌。\n【陷阱】: 以对方1只精灵为对象，将我方场上其它1张【陷阱】放置到废弃区、可以支付《蓝》。若如此做，将其破坏。\n生命爆发: 从下面选择1项。①抽1张牌。②查看我方牌组顶2张牌将其中任意数量的牌作为【陷阱】在我方精灵区设置，剩下的牌放置到废弃区。",
+  "card_lines": "一 二 三，完成！～亚弥～",
+  "card_lrig_type": "",
+  "card_name": "ＳＬＡＳＨ　ＯＵＴ",
+  "card_no": "WXN04-SC111",
+  "card_sprite_type": "",
+  "card_type": "魔法",
+  "coin": "",
+  "color": "蓝",
+  "cost": "蓝1",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJNR4YR5SSMJFD4ZNH8E"
+}

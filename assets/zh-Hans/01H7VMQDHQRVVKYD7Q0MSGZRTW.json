@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 我方的<武器>精灵击溃对方1张生命护甲时，抽1张牌。\n【出】: 将我方牌组顶3张牌放置到废弃区。那之后，若用此方法放置到废弃区的牌中持有共通等级的精灵牌为2张以上，以对方场上1只精灵为对象，将其破坏。",
+  "card_lines": "拿着黄金枪的女人，说的就是我哦。～黄金枪～",
+  "card_lrig_type": "",
+  "card_name": "弩炮 黄金枪",
+  "card_no": "WXN02-SC088",
+  "card_sprite_type": "精武/武器",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "10000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQDHQRVVKYD7Q0MSGZRTW"
+}

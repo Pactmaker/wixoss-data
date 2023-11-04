@@ -1,0 +1,23 @@
+{
+  "card_effect": "将我方牌组顶4张牌放置到废弃区。那之后，若其中有黑色牌，以我方废弃区1张黑色精灵牌为对象，将其加入手牌；若其中有白色牌，将我方牌组1张白色精灵牌展示并加入手牌，洗切牌组。",
+  "card_lines": "在所有的地域之后，迎来灵魂的救济。",
+  "card_lrig_type": "",
+  "card_name": "黑色危机",
+  "card_no": "WXD01-SC013-I",
+  "card_sprite_type": "",
+  "card_type": "必杀",
+  "coin": "",
+  "color": "黑",
+  "cost": "黑1白1",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSSTCG简体中文版起始牌组01黑白穿光light cross by chaos",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "ST",
+  "story": "",
+  "team": "",
+  "uid": "01H840RJF1QC4ZFAVD7T1QNKBX"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出现条件】【主要阶段】将我方场上3只等级合计为7以上且不为共鸣的<宇宙>精灵放置到废弃区\n【常】: 对方场上最多只能出场2只精灵。（场上已有3只精灵的情况下，将场上的精灵放置到废弃区直到变为2只为止）",
+  "card_lines": "嘿呀！～土星～",
+  "card_lrig_type": "",
+  "card_name": "白罗星 土星",
+  "card_no": "WXN02-SC008",
+  "card_sprite_type": "精罗/宇宙",
+  "card_type": "共鸣",
+  "coin": "",
+  "color": "白",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "15000",
+  "rarity": "LR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQDAP2BC1M1X0X99651JG"
+}

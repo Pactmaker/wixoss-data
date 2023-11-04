@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该精灵攻击时，可以支付《蓝》。若如此做，将我方牌组底1张牌放置到废弃区。那之后，若那张牌为等级2的精灵牌，以对方场上1只等级2以下的精灵为对象，将其破坏。\n生命爆发: 抽1张牌。",
+  "card_lines": "空气的力量很伟大吧。~空气炮~",
+  "card_lrig_type": "",
+  "card_name": "箱英之发射 空气炮",
+  "card_no": "WXN03-SC104",
+  "card_sprite_type": "精像/英知",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包03",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "2000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM89K03PVW8EC3J4HBY7P1"
+}

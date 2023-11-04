@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 我方的攻击阶段开始时，查看牌组顶3张牌。将其中任意张牌按照任意顺序放置到牌组底，剩下的牌按照任意顺序放置到牌组顶。\n【出】《蓝》: 以对方场上最多2只精灵为对象，将其冻结。抽2张牌。\n【起】【游戏1】占星【硬币】: 查看对方手牌和对方生命护甲最上方1张牌。抽2张牌。",
+  "card_lines": "被夹在日记本里不见天日，也挺有趣呢——♪～忆～",
+  "card_lrig_type": "忆",
+  "card_name": "来梦之巫女 忆·午夜",
+  "card_no": "WXN02-SC004",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "2",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "蓝0",
+  "level": "4",
+  "limit": "11",
+  "power": "",
+  "rarity": "LR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQDAE584W2MS83KZN5DZ3"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】: 丢弃手牌1张<调理>精灵牌: 将我方牌组顶2张牌放置到能量区。\n【起】【绿0】: 以我方场上1只精灵为对象，将该牌从能量区成为其【附属】。\n【常】: 被该牌附属的<调理>精灵获得「【自】: 该精灵攻击时，将我方牌组顶1张牌放置到能量区。」的能力。\n【生命爆发】: 【能量填充1】",
+  "card_lines": "变得更美味～牛排酱～",
+  "card_lrig_type": "",
+  "card_name": "食用代号 牛排酱",
+  "card_no": "WXN01-SC162",
+  "card_sprite_type": "精械/调理",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "7000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3X5Q9K11VF234XM6EXE5"
+}

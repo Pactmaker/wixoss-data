@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：我方回合结束时，以我方场上精灵下方最多1张<武器>精灵牌为对象，将其加入手牌。\n【起】《回合1 》《黒×0 》：将对象的我方场上1只精灵放置到对象的我方场上1只<武器>精灵下方。（那只精灵下方的牌也一起移动）",
+  "card_lines": "你在寻求救赎吗？~教义之书~",
+  "card_lrig_type": "",
+  "card_name": "轰书 教义之书",
+  "card_no": "WXD10-SC011",
+  "card_sprite_type": "精械/武器",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版起始牌组10 ",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "7000",
+  "rarity": "ST",
+  "story": "",
+  "team": "",
+  "uid": "01H7X1Q2CY44MFYG0D1WK140SV"
+}

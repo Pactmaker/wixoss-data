@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】: 该精灵在中央精灵区出场的情况下，查看对方手牌并选择其中最多1张不为无色的牌。若选择了1张牌，对方将其放置到牌组底并抽1张牌。\n生命爆发: 抽1张牌。",
+  "card_lines": "让我们在夜里再会吧。～玛丽娜～",
+  "card_lrig_type": "",
+  "card_name": "迷宫代号 玛丽娜",
+  "card_no": "WXC02-SC096",
+  "card_sprite_type": "精械/迷宫",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版角色强化包02深渊歌叹",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "1000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMNSQYSAH2PCYMH22669M5"
+}

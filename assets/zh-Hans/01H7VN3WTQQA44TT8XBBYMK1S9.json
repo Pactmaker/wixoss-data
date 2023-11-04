@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】《蓝》: 以对方场上1只精灵为对象，若我方手牌为0张且在我方回合，将其破坏。\n【起】【回合1】《蓝》: 抽1张牌。\n【生命爆发】: 抽1张牌。若我方生命护甲为4张以下，追加【能量填充1】。",
+  "card_lines": "喝醉了也挺好呢。～酒吞童～",
+  "card_lrig_type": "",
+  "card_name": "魔界的酒鬼 酒吞童",
+  "card_no": "WXN01-SC110",
+  "card_sprite_type": "精像/恶魔",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3WTQQA44TT8XBBYMK1S9"
+}

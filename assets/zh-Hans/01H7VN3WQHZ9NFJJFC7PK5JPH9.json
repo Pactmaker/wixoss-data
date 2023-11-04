@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 只要我方场上有3只<美巧>精灵，我方场上所有精灵力量+2000。\n【自】: 对方1只精灵攻击时，若其正前方没有精灵，可以支付《绿》《无》并丢弃手牌1张<美巧>精灵牌。若如此做，将那次攻击无效。\n【起】《绿》《白》: 将我方牌组1张<美巧>精灵牌展示并加入手牌，洗切牌组。",
+  "card_lines": "诶呀呀。在你的意料之外吧？～安～",
+  "card_lrig_type": "安",
+  "card_name": "战栗的旋律 安=FORTH",
+  "card_no": "WXN01-SC013",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "绿3",
+  "level": "4",
+  "limit": "11",
+  "power": "",
+  "rarity": "LR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3WQHZ9NFJJFC7PK5JPH9"
+}

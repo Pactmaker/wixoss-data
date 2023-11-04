@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】将该精灵从场上放置到废弃区 : 以对方1只精灵为对象，直到回合结束为止，我方主分身的等级每有1级，其力量-2000。\n生命爆发: 选择其中1项。①抽1张牌。②以对方场上1只精灵为对象，直到回合结束为止，其力量-5000。",
+  "card_lines": "暴君尼禄，那是阿尔哈拉&多库哈拉喔。～阿格里皮娜～",
+  "card_lrig_type": "",
+  "card_name": "Drei=阿格里皮娜",
+  "card_no": "WXN04-SC127",
+  "card_sprite_type": "精武/毒牙",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "7000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJQ6SMPY7EVXEEDH0P2P"
+}

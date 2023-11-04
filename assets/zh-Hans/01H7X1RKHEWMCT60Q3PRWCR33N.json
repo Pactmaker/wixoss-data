@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：该精灵攻击时，若该精灵的力量为15000以上，对方丢弃1张手牌。若为20000以上，改为在不查看对方手牌的情况下挑选其中1张，将其丢弃。\n生命爆发：以对方场上1只精灵为对象，将其横置并冻结。抽1张牌。\n（冻结状态下的精灵在下次自己的竖置阶段不能竖置）",
+  "card_lines": "——用亚特和托碧耶尔来提升力量吧！",
+  "card_lrig_type": "",
+  "card_name": "罗石 亚述透镜",
+  "card_no": "WXDi-DSC01-016",
+  "card_sprite_type": "奏罗/宝石",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA出道牌组01 ANCIENT SURPRISE",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "12000",
+  "rarity": "ST",
+  "story": "",
+  "team": "",
+  "uid": "01H7X1RKHEWMCT60Q3PRWCR33N"
+}

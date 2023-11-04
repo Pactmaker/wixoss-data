@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】: 从0至5范围内宣言1个的数字。将我方牌组顶与宣言数字相等张数的牌放置到废弃区。那之后，若用此方法放置到废弃区的牌全部为<武器>精灵牌，以场上1只持有与宣言数字相等等级的精灵为对象，将其破坏。",
+  "card_lines": "大佐，少佐，请多关照...。~烈炎军团大尉~",
+  "card_lrig_type": "",
+  "card_name": "轰炎 烈炎军团大尉",
+  "card_no": "WXN03-SC171",
+  "card_sprite_type": "精武/武器",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包03",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "7000",
+  "rarity": "RE",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM89X971G82ATCNSSF6XBG"
+}

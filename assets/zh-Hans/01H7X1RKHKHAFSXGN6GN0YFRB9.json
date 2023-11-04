@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：只要我方能量区的精灵牌持有的种族合计为3种类以上，该精灵的力量+5000。\n【起】《回合1》《绿》《绿》《无》：以我方场上其他的1只力量为15000的精灵为对象，直到回合结束为止，其获得【枪兵】能力。\n（持有【枪兵】能力的精灵战斗破坏精灵时，击溃对方1张生命护甲）",
+  "card_lines": "——等级3的精灵用亚特+3000的话力量就能达到15000啦！用枪兵来夺得胜利！",
+  "card_lrig_type": "",
+  "card_name": "Zwei =蜂猴",
+  "card_no": "WXDi-DSC01-018",
+  "card_sprite_type": "奏武/毒牙",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA出道牌组01 ANCIENT SURPRISE",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "3000",
+  "rarity": "ST",
+  "story": "",
+  "team": "",
+  "uid": "01H7X1RKHKHAFSXGN6GN0YFRB9"
+}

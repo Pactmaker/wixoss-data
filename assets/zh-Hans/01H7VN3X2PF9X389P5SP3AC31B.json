@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 只要我方场上有其他<迷宫>精灵，该精灵的基础力量变为10000。\n【出】: 可以将对方场上的精灵按照任意方式重新配置。",
+  "card_lines": "你以为会是更远的未来对吧。～晴空塔～",
+  "card_lrig_type": "",
+  "card_name": "迷宫代号 晴空塔",
+  "card_no": "WXN01-SC128",
+  "card_sprite_type": "精械/迷宫",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "白",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "7000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3X2PF9X389P5SP3AC31B"
+}

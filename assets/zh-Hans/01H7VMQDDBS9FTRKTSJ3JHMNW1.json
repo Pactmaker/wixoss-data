@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 成为该精灵附属所需的，能量区的精灵牌的【起】能力的使用费用减少【绿1】。\n【常】: 只要该精灵被附属，该精灵不会被破坏。\n【自】: 各回合结束时，以1张该精灵的\n【附属】为对象，将其放置到废弃区。",
+  "card_lines": "哈哈，这个可以当作补课费吗。～铃子～",
+  "card_lrig_type": "",
+  "card_name": "食用代号 糯米团子",
+  "card_no": "WXN02-SC136",
+  "card_sprite_type": "精械/调理",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "8000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQDDBS9FTRKTSJ3JHMNW1"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "对方回合中，该必杀牌的使用费用变为《红3icon》。\n\n洗切牌组后展示我方牌组顶1张牌。若其为精灵牌，将其出场。若其为<宇宙>精灵牌，追加将该牌返回分身牌组。",
+  "card_lines": "我还没看到你的未来呢。~嘉年华~",
+  "card_lrig_type": "",
+  "card_name": "天变地威",
+  "card_no": "PR-SC206",
+  "card_sprite_type": "",
+  "card_type": "必杀",
+  "coin": "",
+  "color": "红",
+  "cost": "红1",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "PR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAK1S4SC2H3RKVMNJH1VS"
+}

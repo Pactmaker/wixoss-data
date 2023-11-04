@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】《横置》: 以对方场上1只精灵为对象，直到回合结束为止，其力量-5000。若此回合中该精灵因效果从横置状态竖置，改为直到回合结束为止，其力量-7000。\n【起】将1只<毒牙>精灵从场上放置到废弃区 : 将该精灵竖置。",
+  "card_lines": "再·来·一·点·如何？～维利耶～",
+  "card_lrig_type": "",
+  "card_name": "Vier＝维利耶",
+  "card_no": "WXN04-SC175",
+  "card_sprite_type": "精武/毒牙",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "10000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJVP3BPYWR41XCXYJ4XN"
+}

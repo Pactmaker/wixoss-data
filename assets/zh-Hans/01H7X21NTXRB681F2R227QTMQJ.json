@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：只要我方场上有《罗星 常陈一》或《罗星 太微左垣五》，该精灵的基本力量变为5000。\n【出】【白】：从我方牌组检索1张《罗星 常陈一》，将其展示并加入手牌，洗切牌组。",
+  "card_lines": "常陈一，下次在一起玩吧。~牛斗二~",
+  "card_lrig_type": "",
+  "card_name": "罗星 轩辕四",
+  "card_no": "WXD06-SC021-S",
+  "card_sprite_type": "精罗/宇宙",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "白",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSSTCG简体中文版起始牌组06星宇宙之轮演",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "2000",
+  "rarity": "ST",
+  "story": "",
+  "team": "",
+  "uid": "01H7X21NTXRB681F2R227QTMQJ"
+}

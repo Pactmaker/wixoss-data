@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 1张【魅饰】从场上放置到任何一方的废弃区时，以对方场上1只精灵为对象，直到回合结束为止，其力量-4000。\n（力量为0以下的精灵会因规则而破坏）",
+  "card_lines": "那里的水，有点苦呢。~平家萤~",
+  "card_lrig_type": "",
+  "card_name": "幻虫 平家萤",
+  "card_no": "SP09-SC043P",
+  "card_sprite_type": "精生/凶虫",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版兔年礼盒",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "5000",
+  "rarity": "强化包",
+  "story": "",
+  "team": "",
+  "uid": "01H7X171MKQA75JCQ46FMZD1FR"
+}

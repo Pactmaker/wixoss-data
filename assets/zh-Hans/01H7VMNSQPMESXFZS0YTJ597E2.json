@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该精灵攻击时，若此回合中因我方效果将对方2张以上的牌移动到牌组，从我方牌组检索1张蓝色精灵牌展示并加入手牌，洗切牌组。",
+  "card_lines": "哟吼——！当海贼真爽。～皇家港～",
+  "card_lrig_type": "",
+  "card_name": "迷宫代号 皇家港",
+  "card_no": "WXC02-SC092",
+  "card_sprite_type": "精械/迷宫",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版角色强化包02深渊歌叹",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "8000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMNSQPMESXFZS0YTJ597E2"
+}

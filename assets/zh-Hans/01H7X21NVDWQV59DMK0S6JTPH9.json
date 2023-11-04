@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：因我方的1个能力或效果，参照我方手牌或牌组或废弃区的<宇宙>精灵牌的等级的情况下，可以视为1~4其中任意1个等级。\n【自】：该精灵攻击时，将我方牌组顶3张牌放置到废弃区。若用此方法送去废弃区的精灵牌的等级合计为10，将对象的对方场上1只力量为7000以下的精灵破坏。",
+  "card_lines": "不对，太阳才是宇宙的中心。≡地动说≡",
+  "card_lrig_type": "",
+  "card_name": "罗星 ≡地动≡",
+  "card_no": "WXD06-SC027-C",
+  "card_sprite_type": "精罗/宇宙",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSSTCG简体中文版起始牌组06星宇宙之轮演",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "10000",
+  "rarity": "ST",
+  "story": "",
+  "team": "",
+  "uid": "01H7X21NVDWQV59DMK0S6JTPH9"
+}

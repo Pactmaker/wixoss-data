@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】《白》: 将我方牌组1张精灵牌展示并加入手牌，洗切牌组。\n【起】《白》《红》: 以对方场上1只力量为7000以下的精灵为对象，将其破坏。\n【起】《白》《绿》《无》: 以对方场上1只力量为10000以上的精灵为对象，将其破坏。",
+  "card_lines": "那是如黄金般闪耀的邂逅。",
+  "card_lrig_type": "小玉",
+  "card_name": "金木樨之巫女 玉依姬",
+  "card_no": "WXN01-SC002",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "白",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "白1/红1/绿1",
+  "level": "4",
+  "limit": "12",
+  "power": "",
+  "rarity": "LR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3WP5D2QB77HNH1YNKZK2"
+}

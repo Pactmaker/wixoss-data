@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】：以对方场上1只精灵为对象，直到回合结束为止，其力量-1000。\n【自】：该精灵从场上离开时，以对方场上1只精灵为对象，直到回合结束为止，其力量-1000。\n（力量为0以下的精灵会因规则而破坏）",
+  "card_lines": "是我哦，还记得你小时候见过我吗？~黄粉蝶~",
+  "card_lrig_type": "",
+  "card_name": "幻虫 黄粉蝶",
+  "card_no": "WXD07-SC020-M",
+  "card_sprite_type": "精生/凶虫",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSSTCG简体中文版起始牌组07千嗤万蠷",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "3000",
+  "rarity": "ST",
+  "story": "",
+  "team": "",
+  "uid": "01H7X21AKG1VXXAS8DZNJWN4P4"
+}

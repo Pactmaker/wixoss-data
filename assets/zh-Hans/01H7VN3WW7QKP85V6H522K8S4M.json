@@ -1,0 +1,23 @@
+{
+  "card_effect": "此回合中，力量为0以下的精灵被破坏的情况下，将那只精灵放置到能量区改为放置到废弃区。此回合中，我方精灵的效果将对方精灵的力量减少的情况下，改为减少2倍的数值。\n【生命爆发】: 以我方废弃区1张黑色精灵牌为对象，将其加入手牌或出场。",
+  "card_lines": "啊~真的是，让人沉沦的绝世之美！！～乌头毒～",
+  "card_lrig_type": "",
+  "card_name": "暴力飞溅",
+  "card_no": "WXN01-SC125",
+  "card_sprite_type": "",
+  "card_type": "魔法",
+  "coin": "",
+  "color": "黑",
+  "cost": "黑1",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3WW7QKP85V6H522K8S4M"
+}

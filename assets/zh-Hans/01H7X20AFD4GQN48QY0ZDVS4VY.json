@@ -1,0 +1,23 @@
+{
+  "card_effect": "将对象的我方场上1只精灵破坏。若如此做，直到回合结束为止，对象的对方场上1只精灵的力量-8000。\n（力量为0以下的精灵会因规则而破坏）",
+  "card_lines": "真是与漆黑的堕落十分般配呢。",
+  "card_lrig_type": "",
+  "card_name": "Death By Death",
+  "card_no": "WXD05-SCP10",
+  "card_sprite_type": "",
+  "card_type": "魔法",
+  "coin": "",
+  "color": "黑",
+  "cost": "黑0",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSSTCG 简体中文版起始牌组 05 暗焰狂喜 dark flame rapture",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "SP",
+  "story": "",
+  "team": "",
+  "uid": "01H7X20AFD4GQN48QY0ZDVS4VY"
+}

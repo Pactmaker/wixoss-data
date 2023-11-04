@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该精灵攻击时，展示我方牌组顶1张牌。若其为<怪异>精灵牌，将其放置到能量区。\n【生命爆发】: 【能量填充1】",
+  "card_lines": "我会尽全力保护这片森林。～木灵～",
+  "card_lrig_type": "",
+  "card_name": "幻怪 木灵",
+  "card_no": "WXC01-SC070",
+  "card_sprite_type": "精生/怪异",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "Wixoss简体中文版 角色强化包01森罗轰咆",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "1000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM7H55VNHAEVA95FNBYPBD"
+}

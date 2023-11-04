@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该精灵正前方的精灵攻击时，冻结攻击中的那只精灵。（被冻结的精灵在下一个自己的竖置阶段不能竖置）",
+  "card_lines": "オペレーション、Ω発動！　～Ｓ・Ｍ・Ｌ～\n代号Ω，启动！～S·M·L～",
+  "card_lrig_type": "",
+  "card_name": "技术代号 S·M·L",
+  "card_no": "WXN01-SC215",
+  "card_sprite_type": "精械/电机",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "1000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3WZCTCGQ2QK870VT1RG1"
+}

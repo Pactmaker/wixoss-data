@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】: 以对方场上1只精灵为对象，将其冻结。\n（被冻结的精灵在下个自己的竖置阶段不能竖置）\n生命爆发: 以对方场上1只精灵为对象，将其横置并冻结。抽1张牌。",
+  "card_lines": "「上吧，鱼儿们！」",
+  "card_lrig_type": "",
+  "card_name": "幻水 霓虹脂鲤",
+  "card_no": "WXN04-SC108",
+  "card_sprite_type": "奏生/水兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "3000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJNGT3BSCPCYYNRMJBGB"
+}

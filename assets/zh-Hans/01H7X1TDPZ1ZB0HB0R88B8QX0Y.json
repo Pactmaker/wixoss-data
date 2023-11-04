@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】【绿0】：以我方场上1只精灵为对象，将该牌从能量区成为其【附属】。\n【常】：被该精灵附属的<调理>精灵的力量+2000。\n生命爆发抽1张牌。",
+  "card_lines": "喜欢我的人好像被叫做蛋黄酱党呢～蛋黄酱～",
+  "card_lrig_type": "",
+  "card_name": "食用代号 蛋黄酱",
+  "card_no": "WXD03-SCP10",
+  "card_sprite_type": "精械/调理",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSSTCG简体中文版起始牌组03绯翠追忆memory of red & green",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "2000",
+  "rarity": "SP",
+  "story": "",
+  "team": "",
+  "uid": "01H7X1TDPZ1ZB0HB0R88B8QX0Y"
+}

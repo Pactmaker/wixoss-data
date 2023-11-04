@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 对方在其自己的回合中，不能在成长阶段以及抽牌阶段以外抽牌，也不能把牌加入手牌。\n【起】【回合1】丢弃我方所有手牌: 以对方场上1只精灵为对象，若用此方法丢弃的手牌为2张以上，将其破坏。\n【生命爆发】: 以对方场上1只主分身为对象，将其横置并冻结。",
+  "card_lines": "抓拍机会！机不可失！～C·M·R～",
+  "card_lrig_type": "",
+  "card_name": "爱心代号 C·M·R",
+  "card_no": "WXN01-SC103",
+  "card_sprite_type": "精械/电机",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "",
+  "level": "5",
+  "limit": "",
+  "power": "15000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3WT3VM9BYB3BD97M49QY"
+}

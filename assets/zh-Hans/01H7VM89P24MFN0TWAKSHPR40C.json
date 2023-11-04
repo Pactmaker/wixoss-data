@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 只要我方场上没有2只以上＜武装＞精灵，该精灵不能出场。\n【自】: 该精灵破坏对方1只精灵时，可以破坏我方场上其他的1只精灵。若如此做，将该精灵竖置。",
+  "card_lines": "猫拳忍队，第一阵出阵！~角指~",
+  "card_lrig_type": "",
+  "card_name": "大拳 角指",
+  "card_no": "WXN03-SC120",
+  "card_sprite_type": "精武/武装",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "白",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包03",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "12000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM89P24MFN0TWAKSHPR40C"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 对方场上每有1张【魅饰】，该精灵的等级减1级。（该精灵出场前为等级4）\n【常】: 只要该精灵正前方有比该精灵等级高的精灵，该精灵获得【暗杀】能力。\n生命爆发: 下个回合中，我方中央精灵区的精灵，只要其正前方的精灵附有【魅饰】，获得【暗杀】能力。",
+  "card_lines": "哼哼！你也堕落了！～胡蜂～",
+  "card_lrig_type": "",
+  "card_name": "大幻虫 胡蜂",
+  "card_no": "WXN02-SC108",
+  "card_sprite_type": "精生/凶虫",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQDKATQ08NHSFKB04NZJT"
+}

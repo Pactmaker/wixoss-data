@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】《回合1》《黑1》将场上其他1只不为共鸣精灵的＜凶虫＞精灵放置到废弃区 : 以我方废弃区1张魔法为对象，将其加入手牌。",
+  "card_lines": "镰的使用方法可不止横斩。~大刀螳螂~",
+  "card_lrig_type": "",
+  "card_name": "幻虫 大刀螳螂",
+  "card_no": "WXN03-SC161",
+  "card_sprite_type": "精生/凶虫",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包03",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "10000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM89W8SX1T5N61WD4QY0B4"
+}

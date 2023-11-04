@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】【红】: 以对方场上1只力量为5000以下的精灵为对象，将其破坏。\n【起】【绿】: 直到回合结束为止，我方场上所有精灵的力量+5000。",
+  "card_lines": "说不定就连这份思念也能传达到。～游月～",
+  "card_lrig_type": "花代/游月",
+  "card_name": "轰炎罪 游月·叁",
+  "card_no": "WXC01-SC012",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "Wixoss简体中文版 角色强化包01森罗轰咆",
+  "grow_price": "红1绿1",
+  "level": "3",
+  "limit": "7",
+  "power": "",
+  "rarity": "LC",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM7G00D688JFC07SRPAK8W"
+}

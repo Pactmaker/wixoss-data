@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该精灵因对方的效果离开场上时，在不查看对方手牌的情况下挑选其中1张，将其丢弃。\n【自】: 该精灵攻击时，查看对方所有手牌并挑选其中1张，将其丢弃。\n生命爆发: 以我方废弃区2张等级相同的精灵牌为对象，将其加入手牌。",
+  "card_lines": "无论化身为何种姿态，在下仍然是死之天使！～孟凯尔～",
+  "card_lrig_type": "",
+  "card_name": "圣墓的苍天 孟凯尔",
+  "card_no": "WXC04-SC039",
+  "card_sprite_type": "精像/天使",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 角色强化包04-隐异爆发",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01HBBTJ9517PRNPTJRQQ5F84KQ"
+}

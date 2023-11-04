@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】：宣言1个数字。那之后，展示我方牌组顶1张牌，若其为持有与宣言数字相同等级的精灵牌，将其加入手牌。",
+  "card_lines": "星光的指引，照亮我们的前路吧。~北极星~",
+  "card_lrig_type": "",
+  "card_name": "罗星 北极星",
+  "card_no": "WXD06-SC022-S",
+  "card_sprite_type": "精罗/宇宙",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "白",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSSTCG简体中文版起始牌组06星宇宙之轮演",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "1000",
+  "rarity": "ST",
+  "story": "",
+  "team": "",
+  "uid": "01H7X21NV0ZJ4NT0ARGF02RE4F"
+}

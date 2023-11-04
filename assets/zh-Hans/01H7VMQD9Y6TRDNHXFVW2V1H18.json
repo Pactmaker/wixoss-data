@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出现条件】【主要阶段】丢弃我方手牌2张<凶虫>精灵牌\n【出】: 指定对方1个精灵区。此回合和下个回合中，在被指定区域的精灵的力量-7000。（即使该精灵从场上离开，该效果也持续生效）",
+  "card_lines": "是注射的时间咯。哼哼。～蝎子～",
+  "card_lrig_type": "",
+  "card_name": "黑幻虫 蝎子",
+  "card_no": "WXN02-SC074",
+  "card_sprite_type": "精生/凶虫",
+  "card_type": "共鸣",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "10000",
+  "rarity": "LC",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQD9Y6TRDNHXFVW2V1H18"
+}

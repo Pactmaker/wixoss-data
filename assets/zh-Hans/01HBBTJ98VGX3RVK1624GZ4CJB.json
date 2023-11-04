@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】: 以我方场上1只<电机>精灵为对象，将其竖置。\n【起】《回合1》《绿0 》: 以我方废弃区1张<电机>精灵牌为对象，将其放置到能量区。",
+  "card_lines": "稳定的供给是最重要的。～Ｓ・Ｐ・Ｓ～",
+  "card_lrig_type": "",
+  "card_name": "技术代号 Ｓ・Ｐ・Ｓ",
+  "card_no": "WXC04-SC092",
+  "card_sprite_type": "精械/电机",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 角色强化包04-隐异爆发",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "10000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01HBBTJ98VGX3RVK1624GZ4CJB"
+}

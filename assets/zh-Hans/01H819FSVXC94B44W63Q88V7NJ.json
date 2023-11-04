@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：只要我方废弃区的牌为5张以上，该精灵的力量+2000。\n【常】：若我方场上有等级4的<乌莉丝>,该精灵的基本力量变为10000。\n(若两个条件都满足，该精灵的力量变为12000)",
+  "card_lines": "诶诶，我还以为是出口呢。～阿尔玛～",
+  "card_lrig_type": "",
+  "card_name": "墓守小恶 阿尔玛",
+  "card_no": "PR-SC047",
+  "card_sprite_type": "精像/恶魔",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》线下店铺比赛物料卡（金包）",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "3000",
+  "rarity": "PR",
+  "story": "",
+  "team": "",
+  "uid": "01H819FSVXC94B44W63Q88V7NJ"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】《红》: 展示我方牌组顶1张牌。若其为<恶魔>精灵牌，将其加入手牌。",
+  "card_lines": "咕噜咕噜，我可不是坏鬼火哦。\n～塘篝～",
+  "card_lrig_type": "",
+  "card_name": "炎魔的怪火 塘篝",
+  "card_no": "WXC02-SC088",
+  "card_sprite_type": "精像/恶魔",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版角色强化包02深渊歌叹",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "2000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMNSQDN0S4SSDB41THMWX7"
+}

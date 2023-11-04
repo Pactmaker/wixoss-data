@@ -1,0 +1,23 @@
+{
+  "card_effect": "以我方场上1只绿色精灵为对象，直到回合结束为止，其力量+2000，获得【S枪兵】能力。\n（持有【S枪兵】的精灵战斗破坏精灵时，若对方有生命护甲则击溃对方1张生命护甲。若对方没有生命护甲则给予对方伤害）",
+  "card_lines": "明明这样做的话，自己也会受伤！～翠子～",
+  "card_lrig_type": "",
+  "card_name": "贯穿",
+  "card_no": "WXC01-SC071",
+  "card_sprite_type": "",
+  "card_type": "魔法",
+  "coin": "",
+  "color": "绿",
+  "cost": "绿1",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "Wixoss简体中文版 角色强化包01森罗轰咆",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM7H58RJDNACP4DAY8STNB"
+}

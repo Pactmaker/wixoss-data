@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】丢弃1张手牌 : 从我方牌组检索1张等级2的<迷宫>精灵牌，将其展示并加入手牌，洗切牌组。",
+  "card_lines": "决定好房子用什么颜色了吗？～布拉诺～",
+  "card_lrig_type": "",
+  "card_name": "迷宫代号 布拉诺",
+  "card_no": "WXC02-SC099",
+  "card_sprite_type": "精械/迷宫",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版角色强化包02深渊歌叹",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "2000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMNSR4HX5GKH76BM2Y43S0"
+}

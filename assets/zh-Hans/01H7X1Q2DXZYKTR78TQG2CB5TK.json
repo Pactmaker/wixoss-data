@@ -1,0 +1,23 @@
+{
+  "card_effect": "将我方场上精灵的下方合计最多2张牌放置到废弃区。那之后，用此方法放置到废弃区的牌每有1张，以对方场上1只精灵为对象，将其破坏。",
+  "card_lines": "随便就能击碎顽石哦！~无名~",
+  "card_lrig_type": "",
+  "card_name": "俯角阻击",
+  "card_no": "WXD10-SCP004",
+  "card_sprite_type": "",
+  "card_type": "必杀",
+  "coin": "",
+  "color": "黑",
+  "cost": "黑2",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版起始牌组10 ",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "SP",
+  "story": "",
+  "team": "",
+  "uid": "01H7X1Q2DXZYKTR78TQG2CB5TK"
+}

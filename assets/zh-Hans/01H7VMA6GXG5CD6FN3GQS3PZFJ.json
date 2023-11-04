@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】英知=４: 该精灵攻击时，抽1张牌。\n（只有在我方场上的＜英知＞精灵的等级之和合计为4的情况下有效）\n【自】英知=６: 该精灵攻击时，将我方牌组顶1张牌放置到能量区。（只有在我方场上的＜英知＞精灵的等级之和合计为6的情况下有效）\n生命爆发: 抽1张牌。",
+  "card_lines": "问2: 该精灵的右肘的角度为多少度。",
+  "card_lrig_type": "",
+  "card_name": "具英的角测 #量角器#",
+  "card_no": "WXC03-SC091",
+  "card_sprite_type": "精像/英知",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版角色强化包03 万花镜映",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "5000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMA6GXG5CD6FN3GQS3PZFJ"
+}

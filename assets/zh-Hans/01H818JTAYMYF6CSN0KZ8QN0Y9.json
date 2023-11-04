@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】：宣言1个数字。那之后，展示我方牌组顶1张牌。若其为与宣言数字相同等级的精灵牌，将其出场。\n生命爆发:【能量填充1】",
+  "card_lines": "哎呦?又见面了呢。分点，黄道。～≡天津四≡～",
+  "card_lrig_type": "",
+  "card_name": "罗星 ≡天津四≡",
+  "card_no": "PR-SC099",
+  "card_sprite_type": "精罗/宇宙",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》线下店铺比赛物料卡（银包）",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "5000",
+  "rarity": "PR",
+  "story": "",
+  "team": "",
+  "uid": "01H818JTAYMYF6CSN0KZ8QN0Y9"
+}

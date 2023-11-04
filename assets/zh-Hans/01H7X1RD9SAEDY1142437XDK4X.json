@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：该精灵攻击时，若我方场上所有的精灵都为红色，以对方场上1只力量为5000以下的精灵为对象，可以支付《红》。若如此做，将其破坏。",
+  "card_lines": "「绝对！！肯定会出轨的ー！！」",
+  "card_lrig_type": "",
+  "card_name": "红魔 赫拉",
+  "card_no": "WXDi-DSC02-019",
+  "card_sprite_type": "奏像/恶魔",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA出道牌组02 No Limit",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "5000",
+  "rarity": "ST",
+  "story": "",
+  "team": "",
+  "uid": "01H7X1RD9SAEDY1142437XDK4X"
+}

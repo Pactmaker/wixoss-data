@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该精灵攻击时，展示我方牌组顶1张牌。若其为<英知>精灵牌，将其放置到能量区。\n生命爆发：【能量填充1】",
+  "card_lines": "一切都只是为了活下去。～恩格尔系数～",
+  "card_lrig_type": "",
+  "card_name": "食英的系数 恩格尔",
+  "card_no": "WXN02-SC132",
+  "card_sprite_type": "精像/英知",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "1000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQDD317F48GZYKJTTDR7M"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【升阶】放置到我方场上1只等级2以下的红色精灵上方\n【出】: 查看我方牌组顶1张卡。若其为持有【升阶】的<武勇>精灵牌，可以将其出场。\n【自】: 该精灵被升阶时，查看我方组顶1张卡。若其为不持有【升阶】的<武勇>精灵牌，可以将其出场。\n",
+  "card_lines": "嘿嘿，见识一下我的分身术吧！～猿飞～",
+  "card_lrig_type": "",
+  "card_name": "忍猿的十勇 猿飞",
+  "card_no": "WXN02-SC126",
+  "card_sprite_type": "精像/武勇",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "8000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQDCP05WQTJZ72CZWN139"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】《横置》: 从我方牌组检索1张等级3以下《幻怪 座敷童》以外的＜怪异＞精灵牌将其展示并加入手牌，洗切牌组。",
+  "card_lines": "我带来了幸运哦。~座敷童~",
+  "card_lrig_type": "",
+  "card_name": "幻怪 座敷童",
+  "card_no": "WXN03-SC088",
+  "card_sprite_type": "精生/怪异",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "白",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包03",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "7000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM89HATCYNE13ZCHMKVBGH"
+}

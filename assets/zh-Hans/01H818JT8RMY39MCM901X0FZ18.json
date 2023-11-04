@@ -1,0 +1,23 @@
+{
+  "card_effect": "将对象的我方场上1只精灵破坏。若如此做，将对象的对方场上1只力量为10000以下的精灵破坏。",
+  "card_lines": "轰隆隆隆隆!",
+  "card_lrig_type": "",
+  "card_name": "硝烟气焰",
+  "card_no": "PR-SC025",
+  "card_sprite_type": "",
+  "card_type": "魔法",
+  "coin": "",
+  "color": "红",
+  "cost": "红0",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》线下店铺比赛物料卡（银包）",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "PR",
+  "story": "",
+  "team": "",
+  "uid": "01H818JT8RMY39MCM901X0FZ18"
+}

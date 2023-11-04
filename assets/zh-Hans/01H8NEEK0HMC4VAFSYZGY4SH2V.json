@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 对方不能使用费用合计为场上【魅饰】数量以下的魔法牌。\n【自】: 该分身攻击时，以我方废弃区1张<凶虫>精灵牌为对象，将其加入手牌。\n【出】: 从我方分身牌组将1张<凶虫>共鸣精灵牌无视出场条件出场。\n【起】《攻击阶段》超越1 : 以对方场上1只附有【魅饰】的精灵为对象，将其破坏。",
+  "card_lines": "我是缪，不会再迷茫了！～缪～",
+  "card_lrig_type": "缪",
+  "card_name": "缪=翱翔",
+  "card_no": "SPEX1-SC031",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 夏日套装SPEX01（子件）",
+  "grow_price": "黑2",
+  "level": "5",
+  "limit": "12",
+  "power": "",
+  "rarity": "LC",
+  "story": "",
+  "team": "",
+  "uid": "01H8NEEK0HMC4VAFSYZGY4SH2V"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 只要该精灵的力量为20000以上，不会被破坏。\n【出】: 展示我方手牌任意数量的＜水兽＞精灵牌。若用此方法展示了4张以上的精灵牌，直到回合结束为止，该精灵获得【枪兵】能力。若展示了6张以上，改为获得【Ｓ枪兵】能力。\n生命爆发: 以对方场上1只精灵为对象，可以支付《绿1》。若如此做，将其放置到能量区。",
+  "card_lines": "水边果然让人安心呢。~棘龙~",
+  "card_lrig_type": "",
+  "card_name": "幻水 棘龙",
+  "card_no": "WXN03-SC109",
+  "card_sprite_type": "精生/水兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包03",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM89MZ51S8V5XTDBV5EDZJ"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】《节拍》［等级1~4各1张以上］: 我方的攻击阶段开始时，【能量填充1】。\n【自】《节拍》［相同等级4张以上］: 该精灵攻击时，将对方场上所有精灵破坏。\n【出】《节拍》［4张以下］将《炎魔的不正 贝利亚尔》以外的1只精灵成为【节拍】: 抽1张牌。\n生命爆发: 丢弃1张手牌。将对象的对方场上1只精灵破坏。",
+  "card_lines": "我只追求最强的力量。～贝利亚尔～",
+  "card_lrig_type": "",
+  "card_name": "炎魔的不正 贝利亚尔",
+  "card_no": "WXN04-SC097",
+  "card_sprite_type": "精像/恶魔",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJMGPH4W0H40SVVQX1GR"
+}

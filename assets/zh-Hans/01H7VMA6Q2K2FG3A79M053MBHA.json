@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出icon】英知=５：将我方牌组顶1张牌放置到能量区。\n【自icon】英知=８：该精灵攻击时，以对方场上1只等级3以下的精灵为对象，将其放置到能量区。\n【自icon】英知=１０：该精灵攻击时，以我方场上其他的1只精灵为对象，发动其1个【自icon】的【英知】能力。\n生命爆发：【能量填充1】",
+  "card_lines": "是你的话一定会合格的。加油喔♪\n～#及格&合格#～",
+  "card_lrig_type": "",
+  "card_name": "验英的应援　＃及格＃",
+  "card_no": "PR-SC186",
+  "card_sprite_type": "精像/英知",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版角色强化包03 万花镜映",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "5000",
+  "rarity": "PR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMA6Q2K2FG3A79M053MBHA"
+}

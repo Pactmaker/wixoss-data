@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】《蓝×0 》: 以我方废弃区《中罠 可塑炸药》以外最多3张持有《陷阱》的精灵牌为对象，将其加入牌组并洗切。\n\n【陷阱】: 对方将自身废弃区所有的牌加入牌组洗切。那之后，若用此效果将10张以上的牌加入了牌组，可以支付《蓝》。若如此做，以对方场上1只精灵为对象，将其破坏。\n生命爆发: 抽1张牌。",
+  "card_lines": "红色和蓝色都要吞噬！~可塑炸药~",
+  "card_lrig_type": "",
+  "card_name": "中罠 可塑炸药",
+  "card_no": "WXC03-SC084",
+  "card_sprite_type": "精武/机关",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版角色强化包03 万花镜映",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "5000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMA6G9K2Q0WJDFSF8EDMP0"
+}

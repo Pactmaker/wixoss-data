@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 任何玩家在防御步骤以外丢弃1张手牌时，以对方场上1只精灵为对象，直到回合结束为止，其力量-2000。\n【出】丢弃2张手牌 : 抽2张牌。\n生命爆发: 在不查看对方手牌的情况下挑选其中1张，将其丢弃。",
+  "card_lines": "请看看吧…这就是我的…。～阿普萨拉斯～",
+  "card_lrig_type": "",
+  "card_name": "云舞的苍天 阿普萨拉斯",
+  "card_no": "WXC04-SC055",
+  "card_sprite_type": "精像/天使",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 角色强化包04-隐异爆发",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01HBBTJ967090ME63N6X8PM2KT"
+}

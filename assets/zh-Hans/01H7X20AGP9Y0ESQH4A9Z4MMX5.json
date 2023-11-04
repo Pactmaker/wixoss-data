@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：该精灵进入驾驶状态时，以对方场上1只精灵为对象，将其破坏。\n（只要分身骑乘精灵，即为驾驶状态。）",
+  "card_lines": "赶时间吗？那就交给我吧。～路面电车～",
+  "card_lrig_type": "",
+  "card_name": "骑乘代号 路面电车",
+  "card_no": "WXD05-SC016-R",
+  "card_sprite_type": "精械/乘机",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSSTCG 简体中文版起始牌组 05 暗焰狂喜 dark flame rapture",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "10000",
+  "rarity": "ST",
+  "story": "",
+  "team": "",
+  "uid": "01H7X20AGP9Y0ESQH4A9Z4MMX5"
+}

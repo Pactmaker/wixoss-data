@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】:该精灵攻击时，以对方场上1只精灵为对象，若我方废弃区的<天使>精灵牌为3张以上，可以支付《蓝》。若如此做，直到回合结束为止，其力量-2000。\n生命爆发: 抽1张牌。",
+  "card_lines": "将吾之力量铭刻于心吧！～须佐之男～",
+  "card_lrig_type": "",
+  "card_name": "濯义的苍天 须佐之男",
+  "card_no": "WXC04-SC059",
+  "card_sprite_type": "精像/天使",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 角色强化包04-隐异爆发",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "1000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01HBBTJ96G43KYGYMPA26VE5W9"
+}

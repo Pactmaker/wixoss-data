@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 我方1只<原子>精灵因对方的效果离开场上时，在不查看对方手牌的情况下挑选其中1张，将其丢弃。\n【自】: 我方使用对方的魔法牌时，以对方场上1只精灵为对象并将其破坏，或对方丢弃1张手牌。\n【出】《蓝》: 以对方废弃区1张魔法牌为对象，将其视为我方的手牌使用。（支付费用且不能无视限定条件）\n生命爆发: 查看对方手牌并挑选其中1张，将其丢弃。",
+  "card_lines": "危险度NO.1～Be～",
+  "card_lrig_type": "",
+  "card_name": "罗原姬 Be",
+  "card_no": "WXN02-SC096",
+  "card_sprite_type": "精罗/原子",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQDJJ0GAP93M0TXXY4M0P"
+}

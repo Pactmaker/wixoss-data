@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】将场上的该精灵放置到废弃区: 以对方能量区1张持有【万花色】的牌为对象，将其放置到废弃区。\n【生命爆发】: 抽1张牌。",
+  "card_lines": "你看过这情景吗！全部烧焦吧！～厄喀德那～",
+  "card_lrig_type": "",
+  "card_name": "幻龙 厄喀德那",
+  "card_no": "WXC01-SC077",
+  "card_sprite_type": "精生/龙兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "Wixoss简体中文版 角色强化包01森罗轰咆",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "2000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM7FX7HRM157B9P78YD8KZ"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该精灵因费用或效果从场上放置到废弃区时，【能量填充1】。\n【出】: 以我方场上1只精灵为对象，直到回合结束为止，其力量+3000。将我方牌组顶1张牌放置到废弃区。",
+  "card_lines": "「我的塔罗牌是狂暴。」",
+  "card_lrig_type": "",
+  "card_name": "翠魔 瓦沙克",
+  "card_no": "WXN04-SC119",
+  "card_sprite_type": "奏像/恶魔",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "2000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJPFTB44GT21VSCBD1ZK"
+}

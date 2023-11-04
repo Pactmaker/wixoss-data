@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 只要对方手牌为0张，该精灵的基本力量变为10000。\n【出】: 查看对方所有手牌。\n【生命爆发】: 查看对方所有手牌并挑选其中1张，将其丢弃。",
+  "card_lines": "总之先放饭盒里了。～T·A·P的嘟囔～",
+  "card_lrig_type": "",
+  "card_name": "技术代号 T·A·P",
+  "card_no": "WXN01-SC152",
+  "card_sprite_type": "精械/电机",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "2000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3X4TZ2P411T99GHP0QW8"
+}

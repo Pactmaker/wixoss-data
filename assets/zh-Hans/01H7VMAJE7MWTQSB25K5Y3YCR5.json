@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】: 以我方废弃区7张不持有《防御》，持有各不相同的种族的精灵牌为对象，将其加入牌组并洗切。若如此做，将牌组顶1张牌加入生命护甲。",
+  "card_lines": "「即使没有羽翼，也希望这份祈祷能够传达。」",
+  "card_lrig_type": "亚特",
+  "card_name": "亚特=修理",
+  "card_no": "WXN04-SC050",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "无3",
+  "level": "2",
+  "limit": "+1",
+  "power": "",
+  "rarity": "LC",
+  "story": "",
+  "team": "远古惊叹",
+  "uid": "01H7VMAJE7MWTQSB25K5Y3YCR5"
+}

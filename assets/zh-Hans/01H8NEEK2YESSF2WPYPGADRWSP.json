@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】：展示我方牌组顶1张牌。若其为白色或黑色的<天使>精灵牌，将其加入手牌。\n【起】《回合1》《白》将我方场上其他1只<天使>精灵放置到废弃区：以对方场上1只与因此方法放置到废弃区的精灵等级相同的精灵为对象，将其返回手牌。\n生命爆发：【能量填充1】",
+  "card_lines": "生而异端，我很抱歉。～莫斯提马～",
+  "card_lrig_type": "",
+  "card_name": "天界的异端 莫斯提马",
+  "card_no": "SPEX1-SC059",
+  "card_sprite_type": "精像/天使",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "白",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 夏日套装SPEX01（子件）",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "1000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H8NEEK2YESSF2WPYPGADRWSP"
+}

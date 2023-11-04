@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】【回合1 icon】【红icon】:直到回合结束为止人将对象的我方主分身骑乘到对象的我方场上1只<乘机>精灵。(若主分身已骑乘其他精灵，换乘)",
+  "card_lines": "太慢了太慢了。赶紧换乘下一趙。～岛风～",
+  "card_lrig_type": "",
+  "card_name": "骑乘代号 岛风",
+  "card_no": "PR-SC038",
+  "card_sprite_type": "精械/乘机",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》线下店铺比赛物料卡（金包）",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "5000",
+  "rarity": "PR",
+  "story": "",
+  "team": "",
+  "uid": "01H819FSV60F106YV72Y6G5TF3"
+}

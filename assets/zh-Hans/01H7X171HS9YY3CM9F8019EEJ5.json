@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】《回合1》: 该精灵击溃对方1张生命护甲时，以我方废弃区1张等级1的<游具>精灵牌为对象，将其以横置状态出场。",
+  "card_lines": "嘿，一起来跳呆呆的舞蹈不也挺好的吗。～†阿波舞†～",
+  "card_lrig_type": "",
+  "card_name": "异血之游 †阿波舞†",
+  "card_no": "SP09-SC045",
+  "card_sprite_type": "精武/游具",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版兔年礼盒",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "1000",
+  "rarity": "强化包",
+  "story": "",
+  "team": "",
+  "uid": "01H7X171HS9YY3CM9F8019EEJ5"
+}

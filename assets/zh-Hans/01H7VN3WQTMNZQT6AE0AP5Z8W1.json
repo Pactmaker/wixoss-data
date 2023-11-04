@@ -1,0 +1,23 @@
+{
+  "card_effect": "【成长】我方废弃区的黑色牌为10张以上。\n【常】: 能量区以外的领域中，所有的精灵牌颜色变为黑色。\n【起】《黑》将我方能量区1张黑色牌放置到废弃区: 以对方场上1只精灵为对象，将其放置到废弃区。\n【起】【攻击阶段】超越5: 将对方场上的主分身和所有精灵横置。",
+  "card_lines": "这样的小玉，不想被人看见。～小玉～",
+  "card_lrig_type": "小玉",
+  "card_name": "黑点之巫女 玉依姬",
+  "card_no": "WXN01-SC016",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "黑0",
+  "level": "5",
+  "limit": "12",
+  "power": "",
+  "rarity": "LR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3WQTMNZQT6AE0AP5Z8W1"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 对方主分身的等级每有1级，该精灵的力量+1000。\n【自】: 该精灵攻击时，以对方场上1只力量比该精灵低的精灵为对象，若我方的主分身等级为对方的主分身等级以下，将其破坏。\n生命爆发: 【能量填充1】",
+  "card_lines": "逆境也要迎难而上！～C3H8～",
+  "card_lrig_type": "",
+  "card_name": "罗原 C3H8",
+  "card_no": "WXC04-SC079",
+  "card_sprite_type": "精罗/原子",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 角色强化包04-隐异爆发",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "1000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01HBBTJ97XNG09M7A7V3EXESTX"
+}

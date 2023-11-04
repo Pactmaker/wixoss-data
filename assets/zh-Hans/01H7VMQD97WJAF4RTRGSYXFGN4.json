@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出现条件】【主要阶段】将我方场上1只《幻兽 八公》和1只《幻兽 猴》和1只《幻兽 雉鸡》放置到废弃区。\n【常】: 该精灵在攻击阶段中不会被破坏。\n【出】: 将我方牌组顶3张牌放置到能量区。\n【起】《绿》: 直到回合结束为止，该精灵获得【枪兵】。",
+  "card_lines": "是她在呼唤吗，应召而来。～桃太郎～",
+  "card_lrig_type": "",
+  "card_name": "绿幻兽 桃太郎",
+  "card_no": "WXN02-SC060",
+  "card_sprite_type": "精生/空兽/地兽",
+  "card_type": "共鸣",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "10000",
+  "rarity": "LC",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQD97WJAF4RTRGSYXFGN4"
+}

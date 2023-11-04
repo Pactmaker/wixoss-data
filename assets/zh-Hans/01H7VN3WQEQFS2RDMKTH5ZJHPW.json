@@ -1,0 +1,23 @@
+{
+  "card_effect": "【成长】我方场上主分身的卡牌名含有《绿姬》。\n【常】: 该分身持有我方分身废弃区中所有分身牌的【起】能力。\n【出】: 将我方牌组顶1张牌加入生命护甲。\n【起】超越5: 所有玩家将自己能量区中所有的白、红、蓝、绿、黑色牌放置到废弃区。",
+  "card_lines": "啊，能成为你的LRIG真是太好了。\n～绿姬～",
+  "card_lrig_type": "绿子",
+  "card_name": "五型绿姬",
+  "card_no": "WXN01-SC012",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "绿2",
+  "level": "5",
+  "limit": "12",
+  "power": "",
+  "rarity": "LR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3WQEQFS2RDMKTH5ZJHPW"
+}

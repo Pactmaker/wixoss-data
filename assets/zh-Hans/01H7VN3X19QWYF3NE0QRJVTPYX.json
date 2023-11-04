@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 对方的回合中，该精灵与对方等级2以下的精灵战斗时，战斗结束时，将那只对方的精灵破坏。（即使该精灵因战斗被破坏，该能力也能发动）",
+  "card_lines": "啊啊啊，真的是。～沙琳娜～",
+  "card_lrig_type": "",
+  "card_name": "Zwei=沙琳娜",
+  "card_no": "WXN01-SC235",
+  "card_sprite_type": "精武/毒牙",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "1000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3X19QWYF3NE0QRJVTPYX"
+}

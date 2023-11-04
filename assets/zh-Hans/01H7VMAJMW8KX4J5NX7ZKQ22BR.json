@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该精灵攻击时，以我方1只主分身为对象，可以将其从所有精灵上脱离。\n（分身从所有精灵上脱离时分身和精灵不再处于驾驶状态，分身可以进行攻击）\n生命爆发: 抽1张牌。",
+  "card_lines": "卸货就交给我吧！～叉装车～",
+  "card_lrig_type": "",
+  "card_name": "骑乘代号 叉装车",
+  "card_no": "WXN04-SC101",
+  "card_sprite_type": "精械/乘机",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "3000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJMW8KX4J5NX7ZKQ22BR"
+}

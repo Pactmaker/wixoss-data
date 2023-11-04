@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该精灵攻击时，抽1张牌。\n【自】: 我方回合结束时，若此回合中该精灵已攻击，我方丢弃1张手牌。",
+  "card_lines": "没错，我即为神。~荧乌贼~",
+  "card_lrig_type": "",
+  "card_name": "幻水 荧乌贼",
+  "card_no": "SP09-SC033",
+  "card_sprite_type": "精生/水兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版兔年礼盒",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "2000",
+  "rarity": "强化包",
+  "story": "",
+  "team": "",
+  "uid": "01H7X171GQBW4ZQX5WT397ZYYP"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该精灵攻击时，展示我方牌组顶1张牌。那之后，若其为等级1的精灵牌，以我方能量区最多1张牌为对象，将其加入手牌。",
+  "card_lines": "「这里哟，这里！」",
+  "card_lrig_type": "",
+  "card_name": "罗星 孔雀座",
+  "card_no": "WXN04-SC121",
+  "card_sprite_type": "奏罗/宇宙",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "5000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJPNSQN5E7XB06K19K30"
+}

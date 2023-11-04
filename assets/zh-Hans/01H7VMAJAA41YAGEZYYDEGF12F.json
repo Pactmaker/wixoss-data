@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】《回合1》: 对方的战斗阶段中，我方的1只<游具>精灵被破坏时，展示我方牌组顶1张牌。若其为<游具>精灵牌，可以将其出场。\n【出】: 从我方牌组检索1张<游具>精灵牌并将其出场，洗切牌组。\n【起】直击《回合1》《硬币》《硬币》: 此回合中，对方受到伤害时，击溃对方1张生命护甲。",
+  "card_lines": "这个，到底该怎么用呢.....？~迟钝子~",
+  "card_lrig_type": "迟钝子",
+  "card_name": "哀罪的驮姬 迟钝子",
+  "card_no": "WXN04-SC007",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "黑3",
+  "level": "4",
+  "limit": "11",
+  "power": "",
+  "rarity": "LR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJAA41YAGEZYYDEGF12F"
+}

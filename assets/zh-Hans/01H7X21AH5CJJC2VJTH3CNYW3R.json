@@ -1,0 +1,23 @@
+{
+  "card_effect": "【连锁】【蓝】【黑】（此回合中，我方使用下一张必杀牌的情况下，其使用费用减少【蓝1】【黑1】）\n从以下4项选择最多2项。\n①以对方场上1只精灵为对象，直到回合结束为止，其力量-3000。\n②以我方废弃区1张不为无色的精灵牌为对象，将其加入手牌。\n③查看对方所有手牌和对方牌组顶1张牌。\n④抽2张牌，丢弃1张手牌。",
+  "card_lines": "无论哪种颜色都可以应对。\n~皮璐璐可~",
+  "card_lrig_type": "",
+  "card_name": "连锁Ｂ＆Ｂ",
+  "card_no": "WXD07-SCP001",
+  "card_sprite_type": "",
+  "card_type": "必杀",
+  "coin": "",
+  "color": "蓝",
+  "cost": "蓝1黑1",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSSTCG简体中文版起始牌组07千嗤万蠷",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "SP",
+  "story": "",
+  "team": "",
+  "uid": "01H7X21AH5CJJC2VJTH3CNYW3R"
+}

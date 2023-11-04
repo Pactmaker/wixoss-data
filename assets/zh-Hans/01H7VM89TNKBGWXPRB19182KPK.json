@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 每个回合结束时，以对方场上1只精灵为对象，将其冻结。\n【出】: 以对方场上1只精灵为对象，将其冻结。",
+  "card_lines": "我能随意改变攻击的方向。战斗的局势也一样。~雷诺数~",
+  "card_lrig_type": "",
+  "card_name": "流英的粘性 雷诺数",
+  "card_no": "WXN03-SC143",
+  "card_sprite_type": "精像/英知",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包03",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "8000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM89TNKBGWXPRB19182KPK"
+}

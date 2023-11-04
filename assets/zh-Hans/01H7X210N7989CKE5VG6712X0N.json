@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】【横置】将我方能量区1张<游具>精灵牌放置到废弃区：以对方1只精灵为对象，直到回合结束时，其力量-10000。\n（力量为0以下的精灵会因规则而破坏）",
+  "card_lines": "死亡双重回旋！~†悠悠球†~",
+  "card_lrig_type": "",
+  "card_name": "死之游 †悠悠球†",
+  "card_no": "WXD08-SC026-G",
+  "card_sprite_type": "精武/游具",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSSTCG简体中文版起始牌组08开心乐园",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "10000",
+  "rarity": "ST",
+  "story": "",
+  "team": "",
+  "uid": "01H7X210N7989CKE5VG6712X0N"
+}

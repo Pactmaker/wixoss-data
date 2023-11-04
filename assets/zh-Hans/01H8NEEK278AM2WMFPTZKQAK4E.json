@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】《回合1》：我方1张生命护甲被击溃时，以对方场上1只精灵为对象，将其破坏。\n【起】《回合1》《攻击阶段》《无》：从我方牌组检索1张非不为无色的等级4的精灵牌将其展示并加入手牌，洗切牌组。击溃我方1张生命护甲。\n生命爆发：抽1张牌。若我方的生命护甲为0张，将我方牌组顶1张牌加入生命护甲。",
+  "card_lines": "竟然这样对待世界的中心！？～天动～",
+  "card_lrig_type": "",
+  "card_name": "罗星说 天动",
+  "card_no": "SPEX1-SC050",
+  "card_sprite_type": "精罗/宇宙",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 夏日套装SPEX01（子件）",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H8NEEK278AM2WMFPTZKQAK4E"
+}

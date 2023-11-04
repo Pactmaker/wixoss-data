@@ -1,0 +1,23 @@
+{
+  "card_effect": "《陷阱》: 以对方场上1只等级3的精灵为对象，将其返回手牌。\n（对方的精灵攻击时，若其正前方精灵区没有精灵，可以将那个精灵区的【陷阱】翻至正面表示并发动《陷阱》。那之后，将【陷阱】放置到废弃区）\n生命爆发: 【能量填充1】",
+  "card_lines": "胡子和太阳眼镜是",
+  "card_lrig_type": "",
+  "card_name": "中罠 涂鸦",
+  "card_no": "WXC03-SC083",
+  "card_sprite_type": "精武/机关",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版角色强化包03 万花镜映",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "5000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMA6G6XDWK34GQ9D5YFW1C"
+}

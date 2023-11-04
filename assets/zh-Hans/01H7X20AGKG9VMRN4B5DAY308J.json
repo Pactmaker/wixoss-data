@@ -1,0 +1,23 @@
+{
+  "card_effect": "【骑乘常】：该精灵的力量+3000，获得「【自】:  该精灵攻击时，以对方场上1只力量为该精灵以下的精灵为对象，将其破坏」的能力。\n生命爆发：以对方场上1只力量为12000以下的精灵为对象，将其破坏。",
+  "card_lines": "乘山手线出发吧！！～山手线～",
+  "card_lrig_type": "",
+  "card_name": "骑乘代号 山手线",
+  "card_no": "WXD05-SC015-R",
+  "card_sprite_type": "精械/乘机",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSSTCG 简体中文版起始牌组 05 暗焰狂喜 dark flame rapture",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "ST",
+  "story": "",
+  "team": "",
+  "uid": "01H7X20AGKG9VMRN4B5DAY308J"
+}

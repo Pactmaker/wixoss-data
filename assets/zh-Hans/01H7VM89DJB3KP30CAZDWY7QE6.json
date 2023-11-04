@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】: 展示我方牌组顶4张牌。选择其中最多3张绿色牌，将其各自加入手牌或防止到能量区，剩下的牌放置到废弃区。\n【起】《攻击阶段》将场上的该钥匙牌放置到分身废弃区 : 以对方场上1只力量为10000以上的精灵为对象，将其破坏。",
+  "card_lines": "找到你了——！开始攻击——！~艾娅伊~",
+  "card_lrig_type": "",
+  "card_name": "艾娅伊★直击",
+  "card_no": "WXN03-SC047",
+  "card_sprite_type": "",
+  "card_type": "钥匙",
+  "coin": "",
+  "color": "绿",
+  "cost": "硬币1绿1",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包03",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "LC",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM89DJB3KP30CAZDWY7QE6"
+}

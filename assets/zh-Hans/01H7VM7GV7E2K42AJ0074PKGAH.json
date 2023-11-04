@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】【横置】: 将我方1张生命护甲加入手牌。若如此做，将我方牌组顶1张牌加入生命护甲。（将生命护甲的牌移动的情况下，从最上方按顺序增加或减少）\n【生命爆发】: 将我方1张生命护甲加入手牌。若如此做，将1张手牌加入生命护甲。",
+  "card_lines": "愿望的潮汐定会引领我前往浮世之间。～龙宫～",
+  "card_lrig_type": "",
+  "card_name": "幻水 龙宫",
+  "card_no": "WXC01-SC059",
+  "card_sprite_type": "精生/水兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "Wixoss简体中文版 角色强化包01森罗轰咆",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "7000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM7GV7E2K42AJ0074PKGAH"
+}

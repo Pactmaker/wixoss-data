@@ -1,0 +1,23 @@
+{
+  "card_effect": "以对方场上1只精灵为对象，直到回合结束为止，其力量-4000。\n（力量为0以下的精灵会因规则而破坏）",
+  "card_lines": "不行！力量在逐渐流失...",
+  "card_lrig_type": "",
+  "card_name": "完全黑暗",
+  "card_no": "WXD05-SCP09",
+  "card_sprite_type": "",
+  "card_type": "魔法",
+  "coin": "",
+  "color": "黑",
+  "cost": "黑1",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSSTCG 简体中文版起始牌组 05 暗焰狂喜 dark flame rapture",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "SP",
+  "story": "",
+  "team": "",
+  "uid": "01H7X20AFAP6SN0S96RZM4T9XM"
+}

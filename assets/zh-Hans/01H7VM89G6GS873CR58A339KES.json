@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 只要该精灵被附属，不受对方的分身效果影响。\n【出】: 展示我方牌组顶3张牌。将其中所有持有《附属》的精灵牌放置到能量区，剩下的牌放置到废弃区。\n【起】《绿》《绿》《绿》: 直到回合结束为止，我方场上所有＜调理＞精灵获得【枪兵】能力。\n生命爆发: 【能量填充2】",
+  "card_lines": "有必要吃那么急吗？~牛肠锅~",
+  "card_lrig_type": "",
+  "card_name": "点单代号 牛肠锅",
+  "card_no": "WXN03-SC076",
+  "card_sprite_type": "精械/调理",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包03",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM89G6GS873CR58A339KES"
+}

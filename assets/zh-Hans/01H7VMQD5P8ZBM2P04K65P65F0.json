@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】: 以对方场上1只力量为2000以下的精灵为对象，若我方场上有<武装>精灵，将其破坏。\n生命爆发: 抽1张牌。",
+  "card_lines": "来，趁你睡着的时候悄悄地。～麻醉枪～",
+  "card_lrig_type": "",
+  "card_name": "小炮 麻醉枪",
+  "card_no": "WXN02-SC165",
+  "card_sprite_type": "精武/武器",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "1000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQD5P8ZBM2P04K65P65F0"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 只要该精灵在左边或右边的精灵区，该精灵的力量+1000。\n【常】: 只要该精灵在中央精灵区，该精灵不会因对方精灵牌的效果破坏。\n（在与精灵的战斗或力量为0以下的情况下会被破坏）",
+  "card_lines": "即使在原野之上，巨怪也是最强的！～巨怪～",
+  "card_lrig_type": "",
+  "card_name": "幻怪 巨怪",
+  "card_no": "WXC01-SC097",
+  "card_sprite_type": "精生/怪异",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "Wixoss简体中文版 角色强化包01森罗轰咆",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "2000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM7FZ02GEVKSFPDDP0MA6C"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 每个攻击阶段开始时，若对方的手牌为5张以上，对方丢弃1张手牌。\n【出】《无》: 宣言1个精灵牌的卡牌名。持续展示我方牌组顶直到出现宣言的牌为止，将其加入手牌。剩下的牌洗切后放置到牌组底。若用此方法展示的牌为7张以上，丢弃1张手牌。\n生命爆发: 抽3张牌。我方丢弃手牌1张无色牌或丢弃2张牌。",
+  "card_lines": "海龟骑士，参上！~浦岛太郎~",
+  "card_lrig_type": "",
+  "card_name": "幻水姬 浦岛太郎",
+  "card_no": "WXN03-SC065",
+  "card_sprite_type": "精生/水兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包03",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM89F744CPFHQMXKYA4PAW"
+}

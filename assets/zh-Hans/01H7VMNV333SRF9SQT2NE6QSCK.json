@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】《节拍》［等级1～4各1张以上 ］: 该精灵攻击时，击溃对方1张生命护甲。\n【起】《节拍》［3张以下 ］《回合1 》将其他1只精灵成为【节拍】: 从以下2项选择1项。直到回合结束为止，该精灵获得选择的能力。①【暗杀】②【双重击溃】\n生命爆发: 以我方废弃区最多2张<恶魔>精灵牌为对象，将其加入手牌。",
+  "card_lines": "应援的CALL是「Ia！shub！」哦。～莎布=尼古拉丝～",
+  "card_lrig_type": "",
+  "card_name": "炎魔的丰穰 莎布=尼古拉丝",
+  "card_no": "WXC02-SC042",
+  "card_sprite_type": "精像/恶魔",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版角色强化包02深渊歌叹",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMNV333SRF9SQT2NE6QSCK"
+}

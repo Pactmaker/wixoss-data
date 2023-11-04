@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 对方回合中，该精灵获得【暗影（等级2以下的精灵）】的能力。（该精灵不会被对方等级2以下的精灵取为对象）",
+  "card_lines": "「子龙一身是胆。」～刘玄～",
+  "card_lrig_type": "",
+  "card_name": "圣将 赵龙",
+  "card_no": "WXN04-SC095",
+  "card_sprite_type": "奏像/武勇",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "白",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "3000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJMAT36F09XWEJWMZAJB"
+}

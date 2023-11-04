@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：该精灵攻击时，以对方场上1只精灵为对象，可以支付《黑》。若如此做，直到回合结束为止，其力量-1000。若该精灵下方有牌，改为直到回合结束为止，其力量-3000。\n生命爆发：抽1张牌。",
+  "card_lines": "喂—那边的魔法师！我来引导你吧。～魔法之书～",
+  "card_lrig_type": "",
+  "card_name": "小书 魔法之书",
+  "card_no": "SPEX1-SC055",
+  "card_sprite_type": "精武/武器",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 夏日套装SPEX01（子件）",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "1000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H8NEEK2MWQB1HQGQ70QZW11Y"
+}

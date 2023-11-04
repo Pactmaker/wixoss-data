@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 我方的攻击阶段开始时，以我方场上1只不为共鸣的<龙兽>精灵为对象，可以支付《红》或《绿》。若如此做，直到回合结束为止，该精灵除了等级2以外，变为与其相同的牌。（卡牌名、颜色、限定条件、种族、文本、力量、图标都将变化）\n生命爆发: 【能量填充1】",
+  "card_lines": "我刚刚没来这里吗！？～特暴龙～",
+  "card_lrig_type": "",
+  "card_name": "幻龙 特暴龙",
+  "card_no": "WXN04-SC098",
+  "card_sprite_type": "精生/龙兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "1000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJMKT3CGF5SH6YWCWK60"
+}

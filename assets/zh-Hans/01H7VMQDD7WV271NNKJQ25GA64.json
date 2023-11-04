@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该精灵将对方的1只精灵破坏时，可以将该精灵破坏。那之后，若用此效果将该精灵破坏，以我方能量区1张牌为对象，将其加入手牌。\n生命爆发: 选择其中1项。①将我方牌组顶1张牌放置到能量区。②以我方能量区1张牌为对象，将其加入手牌。",
+  "card_lines": "（等待命定之人）～换装人偶～",
+  "card_lrig_type": "",
+  "card_name": "叁之游 换装人偶",
+  "card_no": "WXN02-SC134",
+  "card_sprite_type": "精武/游具",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "8000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQDD7WV271NNKJQ25GA64"
+}

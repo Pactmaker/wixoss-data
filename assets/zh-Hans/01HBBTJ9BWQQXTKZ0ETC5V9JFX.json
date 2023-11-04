@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该精灵攻击时，若我方能量区的等级1～4的<电机>精灵牌各为2张以上，将对象的对方场上1只精灵放置到能量区。若各为3张以上，改为将对方场上所有精灵放置到废弃区。\n【自】: 该牌从废弃区放置到能量区时，可以将该牌从能量区加入手牌。\n生命爆发: 以我方废弃区1张<电机>精灵牌为对象，将其加入手牌或出场。",
+  "card_lines": "好痛…。～V・∀・C～谁叫你一下子抱那么多…。～皮璐璐可～",
+  "card_lrig_type": "",
+  "card_name": "核心代号 Ｖ・∀・Ｃ",
+  "card_no": "WXC04-SC041S",
+  "card_sprite_type": "精械/电机",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 角色强化包04-隐异爆发",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SEC",
+  "story": "",
+  "team": "",
+  "uid": "01HBBTJ9BWQQXTKZ0ETC5V9JFX"
+}

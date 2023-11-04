@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】《红》《无》: 以对方场上1只力量比该精灵低的精灵为对象，将其破坏。\n生命爆发: 以对方场上1只力量为12000以下的精灵为对象，可以支付《红》《无》。若如此做，将其破坏。",
+  "card_lines": "「给我放尊重点！」",
+  "card_lrig_type": "",
+  "card_name": "红魔 比雷特",
+  "card_no": "WXN04-SC143",
+  "card_sprite_type": "奏像/恶魔",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "2000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJRT3PY7A8W9KPED3NMP"
+}

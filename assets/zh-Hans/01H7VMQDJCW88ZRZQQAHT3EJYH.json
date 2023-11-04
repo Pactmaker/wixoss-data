@@ -1,0 +1,23 @@
+{
+  "card_effect": "若我方场上有<武装>和<武器>精灵，该魔法牌的使用费用减少【白1】【红1】。\n将对象的对方场上1只精灵返回手牌，将对象的对方场上1只精灵破坏。\n生命爆发: 丢弃1张牌。那之后，若那张牌为<武装>精灵牌，以对方场上1只精灵为对象，将其返回手牌。若为<武器>精灵牌，以对方场上1只精灵为对象，将其破坏。",
+  "card_lines": "呀哈啊——！～小玉～",
+  "card_lrig_type": "",
+  "card_name": "炎斩的巨刀",
+  "card_no": "WXN02-SC093",
+  "card_sprite_type": "",
+  "card_type": "魔法",
+  "coin": "",
+  "color": "红",
+  "cost": "红2白2无1",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQDJCW88ZRZQQAHT3EJYH"
+}

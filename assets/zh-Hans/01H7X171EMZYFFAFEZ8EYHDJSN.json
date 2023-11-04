@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 只要我方主分身为黑色且该精灵存在于中央精灵区，该精灵获得「【自】: 该精灵攻击时，以对方场上1只精灵为对象，直到回合结束为止，其力量-3000。」的能力。",
+  "card_lines": "3周年刻耳！快乐柏洛斯！~刻耳柏洛斯的右手和左手~",
+  "card_lrig_type": "",
+  "card_name": "三首的连打 刻耳柏洛斯",
+  "card_no": "SP09-SC007",
+  "card_sprite_type": "精像/恶魔",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版兔年礼盒",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "8000",
+  "rarity": "祝福包",
+  "story": "",
+  "team": "",
+  "uid": "01H7X171EMZYFFAFEZ8EYHDJSN"
+}

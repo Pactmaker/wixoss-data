@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】【横置】: 展示我方牌组顶1张牌。若其为<宇宙>精灵牌，将其加入手牌。\n生命爆发：抽1张牌。",
+  "card_lines": "超速穿梭旅行很不错吧。～≡筑波实验机≡～",
+  "card_lrig_type": "",
+  "card_name": "罗星 ≡筑波试验机≡",
+  "card_no": "WXN02-SC121",
+  "card_sprite_type": "精罗/宇宙",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "1000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQDCCH5CY6AG39Z1SPY10"
+}

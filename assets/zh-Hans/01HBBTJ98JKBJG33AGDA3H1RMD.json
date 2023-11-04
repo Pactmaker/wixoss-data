@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 只要对方的手牌为2张以下，该精灵的力量+3000。\n【自】《回合1》: 我方在防御步骤以外丢弃1张手牌时，以对方场上1只精灵为对象，将其冻结。\n（被冻结的精灵在下一个自己的竖置阶段不能竖置）",
+  "card_lines": "不可以小看水哟。～阿帕姆～",
+  "card_lrig_type": "",
+  "card_name": "湖童的苍天 阿帕姆",
+  "card_no": "WXC04-SC088",
+  "card_sprite_type": "精像/天使",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 角色强化包04-隐异爆发",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "2000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01HBBTJ98JKBJG33AGDA3H1RMD"
+}

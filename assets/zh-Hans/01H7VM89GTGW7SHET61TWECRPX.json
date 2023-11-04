@@ -1,0 +1,23 @@
+{
+  "card_effect": "我方场上每有1只＜凶虫＞精灵或对方场上每有1张【魅饰】，该魔法的使用费用减少《黑1》。\n以对方场上1只精灵为对象，将其破坏。此回合和下个回合中，对方不能在其破坏前所在的精灵区配置新的精灵。\n生命爆发: 以对方场上1只精灵为对象，直到回合结束为止，其力量-8000。若其附有【魅饰】，改为-15000。",
+  "card_lines": "......上吧......~缪~",
+  "card_lrig_type": "",
+  "card_name": "虫洞",
+  "card_no": "WXN03-SC083",
+  "card_sprite_type": "",
+  "card_type": "魔法",
+  "coin": "",
+  "color": "黑",
+  "cost": "黑9",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包03",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM89GTGW7SHET61TWECRPX"
+}

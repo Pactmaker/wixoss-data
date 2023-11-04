@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 我方1只持有《交错icon》的精灵出场时，以场上1只精灵为对象，直到回合结束为止，其力量+2000。\n【自】: 我方场上的精灵《heaven icon》时，以我方场上1只精灵为对象，直到回合结束为止，其获得【双重击溃】能力。\n【起】《红icon》《横置icon》: 以对方场上1只力量为12000以下的精灵为对象，将其破坏。该能力只能在我方场上有交错状态的精灵的情况下使用。",
+  "card_lines": "诞生的生命。二者一体。",
+  "card_lrig_type": "小玉",
+  "card_name": "合炎奇炎 玉依姬之肆",
+  "card_no": "PR-SC172",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包03",
+  "grow_price": "红3",
+  "level": "4",
+  "limit": "11",
+  "power": "",
+  "rarity": "PR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM8A1ADSGV6QHK9VGJ2RX8"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：只要我方场上有共鸣精灵，该精灵的基本力量变为15000。\n【出】【黑】：以我方废弃区1张等级2以下的黑色精灵牌为对象，将其出场。\n生命爆发：以对方场上1只精灵为对象，直到回合结束为止，其力量-10000。",
+  "card_lines": "我寻找着比现在更美丽更绚烂的生存之道。~黑足黑守瓜~",
+  "card_lrig_type": "",
+  "card_name": "幻虫 黑凤蝶",
+  "card_no": "WXD07-SCP007",
+  "card_sprite_type": "精生/凶虫",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSSTCG简体中文版起始牌组07千嗤万蠷",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SP",
+  "story": "",
+  "team": "",
+  "uid": "01H7X21AHNS0XA6NQNSDTDSV0V"
+}

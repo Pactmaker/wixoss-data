@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自icon】：该精灵攻击时，以我方废弃区1张本回合从手牌丢弃的＜水兽＞精灵牌为对象，可以支付《绿icon》。若如此做，将其加入手牌。",
+  "card_lines": "集中一点突破！~曲纹唇鱼~",
+  "card_lrig_type": "",
+  "card_name": "幻水 曲纹唇鱼",
+  "card_no": "PR-SC163",
+  "card_sprite_type": "精生/水兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版店赛PR包09",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "8000",
+  "rarity": "PR",
+  "story": "",
+  "team": "",
+  "uid": "01H7X151F31RQ56WHA9XSVZ2PY"
+}

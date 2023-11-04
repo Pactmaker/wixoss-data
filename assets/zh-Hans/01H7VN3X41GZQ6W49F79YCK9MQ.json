@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该精灵攻击时，展示我方牌组顶1张牌。若其为<乘机>精灵牌，将其放置到能量区域。\n【生命爆发】: 【能量填充1】",
+  "card_lines": "诶嘿，买了好多。～购物车～",
+  "card_lrig_type": "",
+  "card_name": "骑乘代号 购物车",
+  "card_no": "WXN01-SC143",
+  "card_sprite_type": "精械/乘机",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "1000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3X41GZQ6W49F79YCK9MQ"
+}

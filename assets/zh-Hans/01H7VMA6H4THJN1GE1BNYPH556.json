@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】英知＝２: 将我方牌组顶1张牌放置到能量区。\n（只有在我方场上的＜英知＞精灵的等级之和合计为２的情况下有效）\n【出】英知＝３: 抽1张牌。\n（只有在我方场上的＜英知＞精灵的等级之和合计为3的情况下有效）\n生命爆发: 【能量填充1】",
+  "card_lines": "问: 求解Ｘ≡６（ｍｏｄ９）。",
+  "card_lrig_type": "",
+  "card_name": "等英的双子 #全等#",
+  "card_no": "WXC03-SC093",
+  "card_sprite_type": "精像/英知",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版角色强化包03 万花镜映",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "1000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMA6H4THJN1GE1BNYPH556"
+}

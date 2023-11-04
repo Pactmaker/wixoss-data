@@ -1,0 +1,23 @@
+{
+  "card_effect": "【队伍】＜远古惊叹＞\n【队伍起】《回合1》《蓝0》: 以我方场上1只精灵为对象，将其配置到其他的1个精灵区。\n【出】: 直到回合结束为止，对方的1个精灵区消失。（将其中所有的牌放置到废弃区。玩家不能在那个精灵区配置精灵）",
+  "card_lines": "「终于轮到我出场了！闪耀吧，这便是舞台！」",
+  "card_lrig_type": "乌姆尔",
+  "card_name": "奏救之键主 乌姆尔=Tre",
+  "card_no": "WXN04-SC038",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "蓝2",
+  "level": "3",
+  "limit": "6",
+  "power": "",
+  "rarity": "LC",
+  "story": "",
+  "team": "远古惊叹",
+  "uid": "01H7VMAJD56RBDSA02JWD3KNKP"
+}

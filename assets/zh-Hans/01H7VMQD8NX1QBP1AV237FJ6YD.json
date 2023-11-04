@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出现条件】【主要阶段】将我方场上1只《核心代号 Ｖ・Ａ・Ｃ》和1只不为共鸣的<电机>精灵放置到废弃区。\n【自】: 我方使用蓝色魔法牌时，以场上1只精灵为对象，将其竖置。\n【出】: 以我方废弃区1张费用合计为3以下的蓝色魔法牌为对象，可以将其不支付费用使用。",
+  "card_lines": "一瞬间就吸进去了哦！～Ｖ・＠・Ｃ～",
+  "card_lrig_type": "",
+  "card_name": "蔚蓝核心代号 Ｖ・＠・Ｃ",
+  "card_no": "WXN02-SC051",
+  "card_sprite_type": "精械/电机",
+  "card_type": "共鸣",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "15000",
+  "rarity": "LC",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQD8NX1QBP1AV237FJ6YD"
+}

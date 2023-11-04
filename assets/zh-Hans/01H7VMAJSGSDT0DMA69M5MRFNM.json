@@ -1,0 +1,23 @@
+{
+  "card_effect": "【陷阱】: 在不查看对方手牌的情况下挑选其中1张，将其丢弃。\n（对方的精灵攻击时，若其正前方精灵区没有精灵，可以将那个精灵区的【陷阱】翻至正面表示并发动《陷阱》。那之后，将【陷阱】放置到废弃区）\n生命爆发: 【能量填充1】",
+  "card_lines": "呐，呐塔维尔。要口香糖吗？～乌姆尔～",
+  "card_lrig_type": "",
+  "card_name": "小罠 整蛊口香糖",
+  "card_no": "WXN04-SC151",
+  "card_sprite_type": "精武/机关",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "2000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJSGSDT0DMA69M5MRFNM"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出现条件】【主要阶段】将我方手牌和场上合计3张不为共鸣的<游具>精灵牌放置到废弃区。\n【自】 : 我方场上1只不为共鸣的精灵击溃对方1张生命护甲时，将该精灵竖置。\n【出】: 展示我方牌组顶3张牌。从其中选择1张牌加入手牌，选择1张牌加入能量区，剩余的牌放置到卡组顶。",
+  "card_lines": "离心力下的空中之泳！～旋转飞椅～",
+  "card_lrig_type": "",
+  "card_name": "绿贰之游 旋转飞椅",
+  "card_no": "WXN02-SC062",
+  "card_sprite_type": "精武/游具",
+  "card_type": "共鸣",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "10000",
+  "rarity": "LC",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQD9BCY5A8E4WZN92J5HZ"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "以对方场上1只精灵为对象，丢弃手牌任意数量的<凶虫>精灵。直到回合结束为止，那只精灵的力量减少用此方法丢弃的精灵牌等级之和x2000。",
+  "card_lines": "我的仆人们？~缪~",
+  "card_lrig_type": "",
+  "card_name": "马卡虫",
+  "card_no": "WXD07-SC006-M",
+  "card_sprite_type": "",
+  "card_type": "必杀",
+  "coin": "",
+  "color": "黑",
+  "cost": "黑1",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSSTCG简体中文版起始牌组07千嗤万蠷",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "ST",
+  "story": "",
+  "team": "",
+  "uid": "01H7X21AJC8BRR89HCC15Z54Q3"
+}

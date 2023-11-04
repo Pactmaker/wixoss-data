@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】《回合1》: 该精灵的力量变为25000以上时，以对方场上1只精灵为对象，将其从游戏中除外。\n【起】丢弃1张手牌 : 直到回合结束为止，该精灵力量+6000。\n生命爆发: 抽1张牌。若我方生命护甲为4张以下，追加【能量填充1】。",
+  "card_lines": "全部都一口吞掉哦！~沧龙~",
+  "card_lrig_type": "",
+  "card_name": "幻水姬 沧龙",
+  "card_no": "WXN03-SC075",
+  "card_sprite_type": "精生/水兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包03",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM89G3KDWEYAYK6MMH77JD"
+}

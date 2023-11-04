@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该精灵攻击时，以对方场上1只等级2以下的精灵为对象，若我方生命护甲比对方多，可以支付《红》。若如此做，将其破坏。\n生命爆发: 选择其中1项。①抽1张牌。②以对方场上1只力量为3000以下的精灵为对象，将其破坏。",
+  "card_lines": "滴答…滴答…滴答…",
+  "card_lrig_type": "",
+  "card_name": "罗原 Tan",
+  "card_no": "WXC04-SC048",
+  "card_sprite_type": "精罗/原子",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 角色强化包04-隐异爆发",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "3000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01HBBTJ95Q4QR8HXRRGD34DF17"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出icon】: 直到回合结束为止，对方场上所有感染状态的精灵的力量-2000。\n【起icon】将该精灵从场上放置到废弃区: 直到回合结束为止，对方场上所有感染状态的精灵的力量-5000。那之后，将对方场上所有的【病毒】去除。",
+  "card_lines": "乳酸菌，有好好摄取吗~？~乳酸菌~",
+  "card_lrig_type": "",
+  "card_name": "罗菌 乳酸菌",
+  "card_no": "PR-SC140",
+  "card_sprite_type": "精罗/微菌",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》线下店铺比赛物料卡（银包）",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "7000",
+  "rarity": "PR",
+  "story": "",
+  "team": "",
+  "uid": "01H818JTCAKJ7FEVCB1NHYV868"
+}

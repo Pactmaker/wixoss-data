@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】将场上的该精灵放置到废弃区: 以对方场上1只精灵为对象，直到回合结束为止，我方主分身的等级每有1级，其力量-1000。（力量为0以下的精灵会因规则而破坏）\n【生命爆发】: 抽1张牌。",
+  "card_lines": "当然，是涂了毒的。～毒匕首～",
+  "card_lrig_type": "",
+  "card_name": "Eins=毒匕首",
+  "card_no": "WXN01-SC238",
+  "card_sprite_type": "精武/毒牙",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "2000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3X1H149AE2MSD4GMZV1V"
+}

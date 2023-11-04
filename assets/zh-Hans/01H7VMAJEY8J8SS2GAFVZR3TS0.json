@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】: 展示我方牌组顶4张牌。选择其中最多3张黑色牌，将其各自加入手牌或放置到能量区，剩下的牌放置到废弃区\n【起】《攻击阶段》将该钥匙牌从场上放置到分身废弃区 : 以我方废弃区1张等级2以下的精灵牌为对象，将其出场。其【出】能力不发动。",
+  "card_lines": "用这一招来停下吧。～无名～",
+  "card_lrig_type": "",
+  "card_name": "无名 键之型",
+  "card_no": "WXN04-SC058",
+  "card_sprite_type": "",
+  "card_type": "钥匙",
+  "coin": "",
+  "color": "黑",
+  "cost": "硬币1黑1",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "LC",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJEY8J8SS2GAFVZR3TS0"
+}

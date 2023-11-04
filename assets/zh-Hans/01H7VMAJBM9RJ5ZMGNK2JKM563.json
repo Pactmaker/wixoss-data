@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】: 以对方场上1只等级1的精灵为对象，将其返回手牌。\n【出】《无》《无》丢弃1张手牌 : 以对方场上1只等级2的精灵为对象，将其返回手牌。\n【出】《无》《无》丢弃2张手牌 : 以对方场上1只等级3的精灵为对象，将其返回手牌。",
+  "card_lines": "「我也想成为大家的一份力量！」",
+  "card_lrig_type": "昭乃",
+  "card_name": "昭乃*好耶",
+  "card_no": "WXN04-SC022",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "白",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "无2",
+  "level": "2",
+  "limit": "+1",
+  "power": "",
+  "rarity": "LC",
+  "story": "",
+  "team": "No Limit",
+  "uid": "01H7VMAJBM9RJ5ZMGNK2JKM563"
+}

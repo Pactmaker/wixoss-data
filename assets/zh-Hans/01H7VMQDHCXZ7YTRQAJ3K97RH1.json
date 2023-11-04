@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 我方场上每有1只<武器>精灵，该精灵的力量+5000。\n【自】: 该精灵攻击时，以对方场上1只力量为该精灵的一半以下的精灵为对象，将其返回手牌。\n【出】【赤】: 从我方牌组检索1张<武器>精灵牌并将其出场，洗切牌组。",
+  "card_lines": "回来了回来了，是6KH大人的大驾光临！～6KH～",
+  "card_lrig_type": "",
+  "card_name": "极剑 6KH",
+  "card_no": "WXN02-SC083",
+  "card_sprite_type": "精武/武装",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "白",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "10000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQDHCXZ7YTRQAJ3K97RH1"
+}

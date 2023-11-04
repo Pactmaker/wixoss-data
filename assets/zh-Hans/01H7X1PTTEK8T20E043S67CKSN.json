@@ -1,0 +1,23 @@
+{
+  "card_effect": "下注―《硬币》\n\n从我方牌组检索1张白色精灵牌将其展示并加入手牌，洗切牌组。若我方已下注，追加从我方牌组检索1张精灵牌将其展示并加入手牌，洗切牌组。",
+  "card_lines": "最后的愿望，让我为你实现吧......~多娜~",
+  "card_lrig_type": "",
+  "card_name": "异界传送",
+  "card_no": "WXD09-SCP003",
+  "card_sprite_type": "",
+  "card_type": "必杀",
+  "coin": "",
+  "color": "白",
+  "cost": "白1",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版起始牌组09",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "SP",
+  "story": "",
+  "team": "",
+  "uid": "01H7X1PTTEK8T20E043S67CKSN"
+}

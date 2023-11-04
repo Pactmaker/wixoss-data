@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】《回合1》《无》: 以我方场上1张【种子】为对象，将其开花。\n【起】《回合1》《白》: 以对方场上1只精灵为对象，直到回合结束为止，其失去能力。\n【起】《游戏1》《攻击阶段》真理《硬币》: 以我方场上1张【种子】为对象，将其开花。",
+  "card_lines": "让播下的种子开花吧，真理绽放！～雪～",
+  "card_lrig_type": "伊绪奈",
+  "card_name": "满开之巫女 雪",
+  "card_no": "WXC03-SC001",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "2",
+  "color": "白",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版角色强化包03 万花镜映",
+  "grow_price": "白0",
+  "level": "4",
+  "limit": "11",
+  "power": "",
+  "rarity": "LR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMA64KZVD2PN793Z96DR4Y"
+}

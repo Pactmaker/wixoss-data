@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】: 展示我方牌组顶2张牌。将其中最多2张<调理>精灵牌加入手牌，剩下的放置到废弃区。\n【起】《回合1》《硬币》: 从我方牌组检索最多2张持有《附属》的精灵牌并将其放置到到能量区，洗切牌组。",
+  "card_lines": "太棒了，玲子，真是让人兴奋不已！~梅露~",
+  "card_lrig_type": "梅露",
+  "card_name": "梅露=金汤力",
+  "card_no": "WXN04-SC005",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "绿0",
+  "level": "4",
+  "limit": "11",
+  "power": "",
+  "rarity": "LR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJA5QHQ82EWVDCD85D1J"
+}

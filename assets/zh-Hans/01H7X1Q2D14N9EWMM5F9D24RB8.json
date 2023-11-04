@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】《黒》：以我方场上精灵下方1张<武器>精灵牌为对象，将其加入手牌。\n生命爆发：【能量填充1】",
+  "card_lines": "这不是普通的书，而是记载了个人密传的探求之书。",
+  "card_lrig_type": "",
+  "card_name": "爆书 影之诗",
+  "card_no": "WXD10-SC012",
+  "card_sprite_type": "精械/武器",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版起始牌组10 ",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "3000",
+  "rarity": "ST",
+  "story": "",
+  "team": "",
+  "uid": "01H7X1Q2D14N9EWMM5F9D24RB8"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】【横置】: 持续展示我方牌组顶直到出现<美巧>精灵牌为止。那之后，将其加入手牌。剩下的牌洗切后放置到牌组底。",
+  "card_lines": "诶~不管从哪里都能看到？不是吧。～立体～",
+  "card_lrig_type": "",
+  "card_name": "无法认清的现实 立体",
+  "card_no": "WXN01-SC160",
+  "card_sprite_type": "精像/美巧",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "7000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3X5HV0MVWKBAE8HN06RX"
+}

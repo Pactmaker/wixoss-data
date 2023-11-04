@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】《回合1》: 我方下注《硬币》时，获得《硬币》。\n【自】《回合1》: 我方1只持有《升阶》的精灵出场时，展示我方牌组顶1张牌。若其为<武勇>精灵牌，将其加入手牌。\n【起】《攻击阶段》《硬币》《硬币》《硬币》: 将场上所有不持有《升阶》的精灵破坏。",
+  "card_lines": "一定能够看到的。～莉露～",
+  "card_lrig_type": "莉露",
+  "card_name": "真心的记忆 莉露",
+  "card_no": "SPEX1-SC019",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "1",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 夏日套装SPEX01（子件）",
+  "grow_price": "红0",
+  "level": "4",
+  "limit": "11",
+  "power": "",
+  "rarity": "LR",
+  "story": "",
+  "team": "",
+  "uid": "01H8NEEJZHAA4ENXM7M2NSB8M9"
+}

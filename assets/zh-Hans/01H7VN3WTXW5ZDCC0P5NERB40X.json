@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 对方的效果不能使精灵的力量增减。\n【常】: 我方场上力量为15000以上的精灵不受对方的魔法牌和精灵牌的效果影响。\n【生命爆发】: 以对方场上1只力量为10000以上的精灵为对象，将我方牌组顶1张牌放置到能量区，将其破坏。",
+  "card_lines": "我就是传闻中的，吼！百兽之王！～狮子王～",
+  "card_lrig_type": "",
+  "card_name": "幻兽神 狮子王",
+  "card_no": "WXN01-SC112",
+  "card_sprite_type": "精生/地兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "",
+  "level": "5",
+  "limit": "",
+  "power": "15000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3WTXW5ZDCC0P5NERB40X"
+}

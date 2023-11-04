@@ -1,0 +1,23 @@
+{
+  "card_effect": "若对方的生命护甲为2张以上，击溃对方1张生命护甲。若我方场上有驾驶状态的精灵，该效果击溃的牌不能发动生命爆发。",
+  "card_lines": "我可没有什么绝招！只靠我的身体就够了！～蕾拉～",
+  "card_lrig_type": "",
+  "card_name": "绝缘的豪爪",
+  "card_no": "WXN01-SC144",
+  "card_sprite_type": "",
+  "card_type": "魔法",
+  "coin": "",
+  "color": "红",
+  "cost": "红3",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3X443NJ4K2ENMMMZ8RD5"
+}

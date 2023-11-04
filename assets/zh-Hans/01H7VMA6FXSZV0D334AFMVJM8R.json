@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】丢弃1张持有《陷阱》的牌 : 从我方牌组检索1张<机关>精灵牌将其展示并加入手牌，洗切卡组。\n\n《陷阱》: 以对方场上1只力量为15000以上的精灵为对象，将其放置到牌组顶。\n生命爆发: 从我方牌组检索1张持有《陷阱》的牌将其展示并加入手牌，洗切卡组。",
+  "card_lines": "芝麻芝麻芝麻开门！~阿里巴巴~",
+  "card_lrig_type": "",
+  "card_name": "大罠 阿里巴巴",
+  "card_no": "WXC03-SC080",
+  "card_sprite_type": "精武/机关",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版角色强化包03 万花镜映",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "7000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMA6FXSZV0D334AFMVJM8R"
+}

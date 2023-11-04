@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该精灵攻击时，可以破坏我方场上1只卡牌名含有《猫猫拳》的精灵。若如此做，将该精灵竖置。\n【自】: 对方回合中，该精灵离开场上时，从我方牌组检索1张卡牌名含有《猫猫拳》的精灵牌将其展示并加入手牌或出场，洗切牌组。",
+  "card_lines": "瞄准死角！精准攻击！~猫猫手套~",
+  "card_lrig_type": "",
+  "card_name": "大拳 猫猫手套",
+  "card_no": "WXN03-SC086",
+  "card_sprite_type": "精武/武装",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "白",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包03",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "8000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM89H3KFR21Y5C0AYM2YNM"
+}

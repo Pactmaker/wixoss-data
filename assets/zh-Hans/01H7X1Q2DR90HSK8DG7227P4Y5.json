@@ -1,0 +1,23 @@
+{
+  "card_effect": "下注―《硬币》（使用该必杀牌之际可以支付《硬币》）\n若我方已下注，该必杀牌的使用费用减少《黒×2 》。\n\n将对象的我方废弃区1张<武器>精灵牌出场，将对象的我方废弃区最多2张精灵牌放置到那只精灵下方。",
+  "card_lines": "这个屏障可不是摆设哦！~无名~",
+  "card_lrig_type": "",
+  "card_name": "炫目屏障",
+  "card_no": "WXD10-SCP002",
+  "card_sprite_type": "",
+  "card_type": "必杀",
+  "coin": "",
+  "color": "黑",
+  "cost": "黑3",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版起始牌组10 ",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "SP",
+  "story": "",
+  "team": "",
+  "uid": "01H7X1Q2DR90HSK8DG7227P4Y5"
+}

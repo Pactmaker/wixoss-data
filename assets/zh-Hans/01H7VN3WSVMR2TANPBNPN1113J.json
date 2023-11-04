@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】【回合1】: 我方场上1只精灵将对方1张生命护甲击溃时，可以将其破坏。若如此做，抽2张牌。\n【出】: 我方回合结束时，可以丢弃1张手牌。若如此做，持续展示我方牌组顶直到出现精灵牌为止。将其出场，剩下的牌放置到废弃区。\n【生命爆发】: 抽1张牌。若我方生命护甲为4张以下，追加【能量填充1】。",
+  "card_lines": "没用没用！全部击溃！～压路机～",
+  "card_lrig_type": "",
+  "card_name": "加速代号 压路机",
+  "card_no": "WXN01-SC100",
+  "card_sprite_type": "精械/乘机",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3WSVMR2TANPBNPN1113J"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】【横置】将能量区1张<武勇>精灵牌放置到废弃区: 以对方场上1只力量为10000以下的精灵为对象，将其破坏。\n【起】【横置】: 以对方场上1只力量为12000以下的精灵为对象，将其破坏。该能力只能在我方场上有【升阶】精灵的情况下使用。",
+  "card_lines": "不过被擒多少次，我都不会投降的！～孟获～",
+  "card_lrig_type": "",
+  "card_name": "四郡的南王 孟获",
+  "card_no": "WXN01-SC195",
+  "card_sprite_type": "精像/武勇",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "10000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3WXHGJYSDMQPPNXCG0NQ"
+}

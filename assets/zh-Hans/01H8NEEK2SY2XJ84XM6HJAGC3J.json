@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】:对方的攻击阶段中，对方抽1张牌时，以对方场上1只精灵为对象，将其横置。\n【自】:该精灵攻击时，以对方场上1只精灵为对象，可以将我方场上1只精灵放置到废弃区。若如此做，将其放置到废弃区。\n生命爆发：展示我方牌组顶4张牌。将其中最多2张<游具>精灵牌加入手牌，剩下的牌放置到废弃区。",
+  "card_lines": "啊啦真讨厌，不是打青天井吗？～†麻将†～",
+  "card_lrig_type": "",
+  "card_name": "死之游 †麻将†",
+  "card_no": "SPEX1-SC057",
+  "card_sprite_type": "精武/游具",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 夏日套装SPEX01（子件）",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H8NEEK2SY2XJ84XM6HJAGC3J"
+}

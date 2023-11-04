@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：我方精灵将对方1只精灵破坏时，以我方能量区1张等级2以下的精灵牌为对象，可以将竖置状态的该精灵横置。若如此做，将其出场。",
+  "card_lines": "我还有3次变身机会哦！~俄罗斯套娃~",
+  "card_lrig_type": "",
+  "card_name": "贰之游 俄罗斯套娃",
+  "card_no": "WXD08-SC020-A",
+  "card_sprite_type": "精武/游具",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSSTCG简体中文版起始牌组08开心乐园",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "3000",
+  "rarity": "ST",
+  "story": "",
+  "team": "",
+  "uid": "01H7X210MTERDPEQCAATH9X1F0"
+}

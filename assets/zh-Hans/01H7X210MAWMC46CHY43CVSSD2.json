@@ -1,0 +1,23 @@
+{
+  "card_effect": "下注-《硬币》\n将对象的对方场上1只等级2以下的精灵放置到废弃区，将对象的我方废弃区1张等级2以下的<游具>精灵牌出场。若我方已下注，改为将对象的对方场上1只精灵放置到废弃区，将对象的我方废弃区1张<游具>精灵牌出场。",
+  "card_lines": "诶，请问，能教一下我该怎么用，吗......~迟钝子~",
+  "card_lrig_type": "",
+  "card_name": "邪恶玩具",
+  "card_no": "WXD08-SC014-G",
+  "card_sprite_type": "",
+  "card_type": "必杀",
+  "coin": "",
+  "color": "黑",
+  "cost": "黑1",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSSTCG简体中文版起始牌组08开心乐园",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "ST",
+  "story": "",
+  "team": "",
+  "uid": "01H7X210MAWMC46CHY43CVSSD2"
+}

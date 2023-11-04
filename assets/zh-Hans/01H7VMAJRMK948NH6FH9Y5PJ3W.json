@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】《回合1》《红》《红》: 以对方场上1只力量为12000以下的精灵为对象，若我方场上有骑乘状态的精灵，将其破坏。\n（只要分身骑乘精灵，即为驾驶状态。）",
+  "card_lines": "给我等着鲁邦！今天绝对不会让你逃掉的。～白色巡逻车～",
+  "card_lrig_type": "",
+  "card_name": "骑乘代号 白色巡逻车",
+  "card_no": "WXN04-SC141",
+  "card_sprite_type": "精械/乘机",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "10000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJRMK948NH6FH9Y5PJ3W"
+}

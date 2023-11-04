@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】将场上的该精灵放置到废弃区: 以我方废弃区1张《白雪的童话 七个小矮人》以外的<美巧>精灵牌为对象，将我方废弃区7张《白雪的童话 七个小矮人》以外的卡牌名不同的<美巧>精灵牌加入牌组并洗切。若如此做，将其出场。",
+  "card_lines": "七个小矮人很早就起床了。",
+  "card_lrig_type": "",
+  "card_name": "白雪的童话 七个小矮人",
+  "card_no": "WXC02-SC101",
+  "card_sprite_type": "精像/美巧",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版角色强化包02深渊歌叹",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "10000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMNSR8R4PDN4RVQB45K5NE"
+}

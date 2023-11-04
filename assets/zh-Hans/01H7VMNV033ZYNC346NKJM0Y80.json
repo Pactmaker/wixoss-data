@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该精灵攻击时，展示我方牌组顶1张牌。若其为<迷宫>精灵牌，将其放置到能量区。\n生命爆发: 【能量填充1】",
+  "card_lines": "不会让悠久的历史就此终结。～萨玛坝～",
+  "card_lrig_type": "",
+  "card_name": "迷宫代号 萨玛坝",
+  "card_no": "WXC02-SC071",
+  "card_sprite_type": "精械/迷宫",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版角色强化包02深渊歌叹",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "1000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMNV033ZYNC346NKJM0Y80"
+}

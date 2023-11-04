@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】：我方丢弃所有手牌，抽丢弃的卡牌张数加1的牌。对方丢弃所有手牌，抽丢弃的卡牌张数减1的牌。\n【出】《无》：以对方场上1只分身为对象，将其冻结。\n（被冻结的分身在下次自己的竖置阶段不能竖置）",
+  "card_lines": "「我们的支援者、来挥动手中的光芒吧！」",
+  "card_lrig_type": "乌姆尔",
+  "card_name": "乌姆尔=清除",
+  "card_no": "WXDi-DSC01-SP004",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA出道牌组01 ANCIENT SURPRISE",
+  "grow_price": "",
+  "level": "2",
+  "limit": "+1",
+  "power": "",
+  "rarity": "SP",
+  "story": "",
+  "team": "远古惊叹",
+  "uid": "01H7X1RKJMWWT3S5DMMHJS768Q"
+}

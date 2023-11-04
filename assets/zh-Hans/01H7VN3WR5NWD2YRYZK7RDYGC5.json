@@ -1,0 +1,23 @@
+{
+  "card_effect": "该必杀牌只能在对方回合中使用。\n下注-【硬币】\n此回合中，我方1只精灵因我方效果以外的方式被破坏时，以对方场上1只精灵为对象，将其破坏。若我方已下注，此回合中，我方场上1只精灵因我方效果以外的方式被破坏时，追加将我方牌组顶1张牌加入生命护甲。",
+  "card_lines": "我很高兴。因为能够分担这份痛楚。～梅露～",
+  "card_lrig_type": "",
+  "card_name": "爱别离苦",
+  "card_no": "WXN01-SC020",
+  "card_sprite_type": "",
+  "card_type": "必杀",
+  "coin": "",
+  "color": "绿",
+  "cost": "绿1",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "LR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3WR5NWD2YRYZK7RDYGC5"
+}

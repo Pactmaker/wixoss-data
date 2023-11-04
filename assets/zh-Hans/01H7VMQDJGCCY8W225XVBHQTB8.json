@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 我方的攻击阶段开始时，以对方场上1只精灵为对象，若此回合中我方在抽卡阶段以外的阶段抽3张牌以上，可以支付《蓝》。若如此做，将其破坏。\n【生命爆发】: 抽1张牌。若我方的生命护甲为4张以下，追加【能量填充1】。",
+  "card_lines": "这个世界由我来调节哦。～市场调节～",
+  "card_lrig_type": "",
+  "card_name": "富英的配分 市场调节",
+  "card_no": "WXN02-SC095",
+  "card_sprite_type": "精像/英知",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQDJGCCY8W225XVBHQTB8"
+}

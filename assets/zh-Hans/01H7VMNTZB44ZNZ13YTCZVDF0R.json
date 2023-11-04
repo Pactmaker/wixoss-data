@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】《回合1 》: 我方其他的牌成为【节拍】时，以对方场上1只力量为12000以下的精灵为对象，可以支付《红》《红》。若如此做，将其破坏。\n【出】《节拍》［4张以下 ］将1只《炎魔的孔雀 卡伊姆》以外的精灵成为【节拍】: 抽1张牌。\n生命爆发: 抽1张牌。",
+  "card_lines": "继续挣扎吧，直到最后。～卡伊姆～",
+  "card_lrig_type": "",
+  "card_name": "炎魔的孔雀 卡伊姆",
+  "card_no": "WXC02-SC059",
+  "card_sprite_type": "精像/恶魔",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版角色强化包02深渊歌叹",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "7000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMNTZB44ZNZ13YTCZVDF0R"
+}

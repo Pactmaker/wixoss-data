@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 只要对方的手牌为2张以下，该精灵的力量+5000。\n【自】《回合1》: 我方在防御步骤以外丢弃1张手牌时，查看我方牌组顶2张牌。将其中任意数量的牌放置到废弃区，剩下的牌按照任意顺序返回牌组顶。",
+  "card_lines": "有出海的觉悟了吗？～玛纳诺～",
+  "card_lrig_type": "",
+  "card_name": "航海的苍天 玛纳诺",
+  "card_no": "WXC04-SC085",
+  "card_sprite_type": "精像/天使",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 角色强化包04-隐异爆发",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "5000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01HBBTJ98BCTENPCSJR2DJ0Q19"
+}

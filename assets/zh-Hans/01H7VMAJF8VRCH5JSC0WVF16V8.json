@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 所有玩家不能使用费用合计为0的魔法牌。\n【自】: 该精灵攻击时，可以将任意一方废弃区1张费用合计为0的魔法牌除外并支付《无》。若如此做，将対象的对方场上1只精灵返回手牌。\n生命爆发: 以对方场上1只精灵为对象，将其返回手牌。",
+  "card_lines": "全怪异　化猫联盟　别小看我喵。～化猫联盟口号～",
+  "card_lrig_type": "",
+  "card_name": "幻怪姬 暴走猫",
+  "card_no": "WXN04-SC061",
+  "card_sprite_type": "精生/怪异",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "白",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJF8VRCH5JSC0WVF16V8"
+}

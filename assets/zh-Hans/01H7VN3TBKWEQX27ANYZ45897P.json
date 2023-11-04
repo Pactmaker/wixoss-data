@@ -1,0 +1,23 @@
+{
+  "card_effect": "【骑乘】（直到回合结束为止，该分身骑乘到对象的我方场上1只<乘机>精灵。此为【红0】的【起】能力，1回合一次，只能在该分身不处于驾驶状态的情况下使用）\n（只要分身骑乘精灵，即为驾驶状态。驾驶状态的分身不能攻击）",
+  "card_lines": "来吧！～蕾拉～",
+  "card_lrig_type": "蕾拉",
+  "card_name": "蕾拉=弯道",
+  "card_no": "WXN01-SC035",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "红1",
+  "level": "2",
+  "limit": "5",
+  "power": "",
+  "rarity": "LC",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3TBKWEQX27ANYZ45897P"
+}

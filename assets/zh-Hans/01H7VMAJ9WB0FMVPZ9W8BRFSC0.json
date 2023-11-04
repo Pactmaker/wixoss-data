@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 成长为该分身之际，若我方的生命护甲为1张以下，成长为该分身所需要的费用变为《红0》《绿0》。\n【出】《红》: 以对方能量区最多2张牌为对象，将其放置到废弃区。\n【出】《绿》: 将我方牌组顶1张牌加入生命护甲。\n【起】《主要阶段》《攻击阶段》超越5 : 将我方能量区所有的牌放置到废弃区，我方丢弃所有手牌。将对方场上所有的精灵破坏。",
+  "card_lines": "来，战个痛快！~游月~",
+  "card_lrig_type": "游月",
+  "card_name": "真·游月·伍",
+  "card_no": "WXN04-SC002",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "红1绿1",
+  "level": "5",
+  "limit": "12",
+  "power": "",
+  "rarity": "LR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJ9WB0FMVPZ9W8BRFSC0"
+}

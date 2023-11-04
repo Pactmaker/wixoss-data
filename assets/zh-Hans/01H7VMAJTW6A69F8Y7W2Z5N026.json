@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】《绿0》: 以我方场上1只精灵为对象，将该牌从能量区成为其【附属】。\n【常】: 被该牌附属的<调理>精灵获得「【自】: 对方回合结束时，可以将该精灵从场上放置到废弃区。若如此做，将我方牌组顶3张牌放置到能量区或抽3张牌。」的能力。",
+  "card_lines": "风风光光地去吧。～萨尔萨酱～",
+  "card_lrig_type": "",
+  "card_name": "食用代号 萨尔萨酱",
+  "card_no": "WXN04-SC166",
+  "card_sprite_type": "精械/调理",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "2000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJTW6A69F8Y7W2Z5N026"
+}

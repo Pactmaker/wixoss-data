@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】:该精灵因费用或效果从场上放置到废弃区时，以对方场上1只力量为10000以下的精灵为对象，可以支付《红》。若如此做，将其破坏。",
+  "card_lines": "不要问为什么。这就是弹无虚发。～Anfo～",
+  "card_lrig_type": "",
+  "card_name": "罗原 Anfo",
+  "card_no": "WXC04-SC072",
+  "card_sprite_type": "精罗/原子",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 角色强化包04-隐异爆发",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "5000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01HBBTJ97D7T0MP5TB1PBTW0AQ"
+}

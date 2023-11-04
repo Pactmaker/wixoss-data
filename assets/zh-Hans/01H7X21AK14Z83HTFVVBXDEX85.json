@@ -1,0 +1,23 @@
+{
+  "card_effect": "下注-《硬币》\n若我方已下注，该必杀牌的使用费用变为【蓝0】。\n以1张魔法牌为对象，将其效果取消。",
+  "card_lines": "我不允许！~皮璐璐可~",
+  "card_lrig_type": "",
+  "card_name": "魔法·遮断",
+  "card_no": "WXD07-SC014-A",
+  "card_sprite_type": "",
+  "card_type": "必杀",
+  "coin": "",
+  "color": "蓝",
+  "cost": "蓝2",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSSTCG简体中文版起始牌组07千嗤万蠷",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "ST",
+  "story": "",
+  "team": "",
+  "uid": "01H7X21AK14Z83HTFVVBXDEX85"
+}

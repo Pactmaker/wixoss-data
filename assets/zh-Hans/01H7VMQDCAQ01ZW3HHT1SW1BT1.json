@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】【横置】: 宣言1个3以外的数字。持续展示我方牌组顶的牌直到出现与宣言数字相同等级的<宇宙>精灵牌为止，将其加入手牌。剩下的牌洗切后放置到牌组底。",
+  "card_lines": "确定宇宙坐标，开始传送！～≡星间飞行≡～",
+  "card_lrig_type": "",
+  "card_name": "罗星 ≡星间飞行≡",
+  "card_no": "WXN02-SC120",
+  "card_sprite_type": "精罗/宇宙",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "7000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQDCAQ01ZW3HHT1SW1BT1"
+}

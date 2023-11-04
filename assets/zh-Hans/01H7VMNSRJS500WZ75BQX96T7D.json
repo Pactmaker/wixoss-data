@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】: 所有玩家将自己牌组顶1张牌放置到废弃区。\n【起】将场上的该精灵放置到废弃区 : 以对方废弃区1张精灵牌为对象，将其以傀儡状态在我方场上出场。\n（傀儡状态的精灵离开场上的的情况下，改为将其放置到其持有者的废弃区。）",
+  "card_lines": "可以哦！给你吧！～面包～",
+  "card_lrig_type": "",
+  "card_name": "星银的童话 面包",
+  "card_no": "WXC02-SC106",
+  "card_sprite_type": "精像/美巧",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版角色强化包02深渊歌叹",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "5000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMNSRJS500WZ75BQX96T7D"
+}

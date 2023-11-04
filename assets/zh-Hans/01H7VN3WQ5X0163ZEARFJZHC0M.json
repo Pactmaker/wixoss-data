@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】: 查看对方手牌，可以挑选其中1张魔法牌，不需要支付费用且无视限定条件，当做从我方手牌使用。\n【起】《蓝》丢弃手牌1张魔法牌和1张<原子>精灵牌: 以对方场上1只精灵为对象，将其破坏。\n【起】【魔法切入】《蓝》《蓝》: 以1张魔法牌为对象，将其效果取消。",
+  "card_lines": "和你的愿望道别吧！\n～米璐璐恩～",
+  "card_lrig_type": "米璐璐恩",
+  "card_name": "米璐璐恩·攸",
+  "card_no": "WXN01-SC010",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "蓝3",
+  "level": "4",
+  "limit": "11",
+  "power": "",
+  "rarity": "LR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3WQ5X0163ZEARFJZHC0M"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】《白》《白》《白》将场上的该精灵放置到废弃区: 以对方场上1只等级3以下的精灵为对象，将其返回牌组。那之后，对方切洗其牌组。",
+  "card_lines": "看上去很小？你真是愚昧呢。～米歇尔～",
+  "card_lrig_type": "",
+  "card_name": "迷宫代号 米歇尔",
+  "card_no": "WXN01-SC192",
+  "card_sprite_type": "精械/迷宫",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "白",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "2000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3WX919T5K4AGXG4B6XY5"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常icon】: 该精灵出场的回合中，该精灵获得自身的【出icon】能力选择的能力。\n【出icon】: 从以下3项选择1项。\n①「【常icon】: 我方场上其他的<英知>精灵的力量不会因对方的效果减少。」\n②「【常icon】: 我方场上其他的<英知>精灵不会因对方的效果从场上移动到手牌。」\n③「【常icon】: 我方场上其他的<英知>精灵不会因对方的效果破坏。」\n生命爆发: 选择其中1项。①抽1张牌。②【能量填充1】",
+  "card_lines": "加油 加油 一定上岸！～#合格#～",
+  "card_lrig_type": "",
+  "card_name": "验英的应援 #合格#",
+  "card_no": "PR-SC195",
+  "card_sprite_type": "精像/英知",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 店赛PR包11",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "7000",
+  "rarity": "PR",
+  "story": "",
+  "team": "",
+  "uid": "01H7X7P6FGRPTGYZWYFQPNDN3E"
+}

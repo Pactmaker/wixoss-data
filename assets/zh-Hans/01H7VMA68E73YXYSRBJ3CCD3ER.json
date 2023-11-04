@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 对方回合中，该精灵被破坏时，可以将该精灵从能量区作为【陷阱】在我方精灵区设置。\n《陷阱》: 以场上1只攻击中的精灵为对象，可以丢弃手牌1张＜机关＞精灵牌。若如此做，那次攻击不会给予我方伤害。\n生命爆发: 从我方牌组检索1张＜机关＞精灵牌将其展示并加入手牌，洗切牌组。",
+  "card_lines": "这家伙偷走了不得了的东西。\n那是你的，攻击呢！\n～白色巡逻车～",
+  "card_lrig_type": "",
+  "card_name": "大罠 鲁邦",
+  "card_no": "WXC03-SC044",
+  "card_sprite_type": "精武/机关",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版角色强化包03 万花镜映",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "8000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMA68E73YXYSRBJ3CCD3ER"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 我方的生命爆发发动时，以对方场上1只精灵为对象，将其放置到牌组顶。\n【自】: 该精灵攻击时，展示我方牌组顶1张牌。若其持有【生命爆发】，将其放置到检查区并发动那个生命爆发。（那之后，将其放置到能量区）\n【生命爆发】: 展示我方牌组顶1张牌。若其持有【生命爆发】，将其加入生命护甲。",
+  "card_lines": "为你献上送别之拥吧。～管眼鱼～",
+  "card_lrig_type": "",
+  "card_name": "幻深水姬 管眼鱼",
+  "card_no": "WXC01-SC040",
+  "card_sprite_type": "精生/水兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "Wixoss简体中文版 角色强化包01森罗轰咆",
+  "grow_price": "",
+  "level": "5",
+  "limit": "",
+  "power": "15000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM7H7BX73GBKH6VGD8QP2J"
+}

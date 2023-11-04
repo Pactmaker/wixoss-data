@@ -1,0 +1,23 @@
+{
+  "card_effect": "【队伍】＜远古惊叹＞\n【队伍自】：我方的攻击阶段开始时，若该精灵的力量为15000以上，以对方场上1只力量为10000以上的精灵为对象，可以支付《绿》《绿》。若如此做，将其破坏。\n【自】：该精灵攻击时，若我方废弃区的精灵牌持有的种族合计为7种类以上，【能量填充1】。",
+  "card_lines": "「不可思议的物语，这是从你这里听到的哦，亚特。」",
+  "card_lrig_type": "",
+  "card_name": "幻怪姬 阿撒托斯",
+  "card_no": "WXDi-DSC01-013",
+  "card_sprite_type": "奏生/怪异",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA出道牌组01 ANCIENT SURPRISE",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "12000",
+  "rarity": "ST",
+  "story": "",
+  "team": "",
+  "uid": "01H7X1RKH6QEEMF0TG99SMBM7G"
+}

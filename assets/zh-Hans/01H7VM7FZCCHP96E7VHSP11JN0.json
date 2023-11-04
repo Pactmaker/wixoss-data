@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】丢弃1张手牌，将牌组顶1张牌放置到废弃区: 以对方场上1只精灵为对象，直到回合结束为止，其力量-3000。\n（力量为0以下的精灵会因规则而破坏）",
+  "card_lines": "这么随意地拿走，可是不行的哦。～薇艾安～",
+  "card_lrig_type": "",
+  "card_name": "幻龙 薇艾安",
+  "card_no": "WXC01-SC101",
+  "card_sprite_type": "精生/龙兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "Wixoss简体中文版 角色强化包01森罗轰咆",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "3000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM7FZCCHP96E7VHSP11JN0"
+}

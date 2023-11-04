@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】丢弃1张手牌: 以对方场上1只精灵为对象，直到回合结束为止，其力量-7000。\n（力量为0以下的精灵会因规则而破坏）",
+  "card_lines": "可能会痛得你笑不出来呢？～乌莉丝～",
+  "card_lrig_type": "乌莉丝",
+  "card_name": "叫唤阎魔 乌莉丝",
+  "card_no": "WXN01-SC069",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "黑2",
+  "level": "3",
+  "limit": "7",
+  "power": "",
+  "rarity": "LC",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3WCA1KJ4MSMMQ43EKMPM"
+}

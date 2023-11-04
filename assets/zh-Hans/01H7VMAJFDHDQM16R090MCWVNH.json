@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 对方回合中，该精灵获得【暗影】能力。（该精灵不会被对方取为对象）\n【出】《白》: 查看我方牌组顶3张牌。将其中1张精灵牌展示后加入手牌，剩下的牌按任意顺序放置到牌组底。\n生命爆发: 选择其中1项。①以对方场上1只竖置状态的精灵为对象，将其返回手牌。②抽1张牌。",
+  "card_lines": "「SO！如此写道，SO！即是如此！」",
+  "card_lrig_type": "",
+  "card_name": "圣天姬 高阶该隐",
+  "card_no": "WXN04-SC063",
+  "card_sprite_type": "奏像/天使",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "白",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJFDHDQM16R090MCWVNH"
+}

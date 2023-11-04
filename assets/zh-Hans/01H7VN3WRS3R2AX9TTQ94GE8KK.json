@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 对方1只精灵攻击时，直到回合结束为止，我方场上所有<迷宫>精灵的力量+1000。那之后，若攻击中的精灵正前方没有精灵，可以将该精灵配置到攻击中的精灵的正前方。\n【生命爆发】: 将我方牌组1张<迷宫>精灵牌展示，将其加入手牌或出场，洗切牌组。",
+  "card_lines": "以此自由与博爱之剑，一刀两断！～皇后～",
+  "card_lrig_type": "",
+  "card_name": "迷牢代号 皇后",
+  "card_no": "WXN01-SC088",
+  "card_sprite_type": "精械/迷宫",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "白",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3WRS3R2AX9TTQ94GE8KK"
+}

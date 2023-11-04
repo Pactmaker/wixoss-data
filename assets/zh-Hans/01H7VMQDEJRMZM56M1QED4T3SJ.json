@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】: 将对方场上所有【魅饰】放置到废弃区。\n【起】【攻击阶段】【黑0】: 将该精灵牌从废弃区出场。该能力只能在对方场上有3张【魅饰】的情况下使用。（该能力只能在该精灵存在于废弃区的情况下使用）",
+  "card_lines": "舔舔，舔舔，粉病菌乌冬真香～！～黄瓢虫～",
+  "card_lrig_type": "",
+  "card_name": "幻虫 黄瓢虫",
+  "card_no": "WXN02-SC142",
+  "card_sprite_type": "精生/凶虫",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "8000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQDEJRMZM56M1QED4T3SJ"
+}

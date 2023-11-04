@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 我方精灵击溃对方1张生命护甲时，将我方牌组顶1张牌放置到能量区。\n【出】: 直到回合结束为止，我方场上所有精灵的力量+5000。",
+  "card_lines": "变得越来越大了哦～熊～",
+  "card_lrig_type": "",
+  "card_name": "幻兽 熊",
+  "card_no": "WXN01-SC157",
+  "card_sprite_type": "精生/地兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "10000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3X59JSJKJHNCEMW78RBW"
+}

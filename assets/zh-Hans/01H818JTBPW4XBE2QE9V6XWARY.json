@@ -1,0 +1,23 @@
+{
+  "card_effect": "从以下2项选择1项。\n①将对象的我方场上1只不为共鸣的精灵破坏。若如此做，将对象的我方废弃区1张<凶虫>精灵牌加入手牌。\n②将对象的我方场上1只共鸣精灵破坏。若如此做，直到回合结束为止，对象的对方场上1只精灵的力量-10000。",
+  "card_lines": "GET。",
+  "card_lrig_type": "",
+  "card_name": "捕获 放生",
+  "card_no": "PR-SC109",
+  "card_sprite_type": "",
+  "card_type": "魔法",
+  "coin": "",
+  "color": "黑",
+  "cost": "黑0",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》线下店铺比赛物料卡（银包）",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "PR",
+  "story": "",
+  "team": "",
+  "uid": "01H818JTBPW4XBE2QE9V6XWARY"
+}

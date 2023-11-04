@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】: 展示我方牌组顶2张牌。将其中1张<武装>精灵牌和1张<武器>精灵牌加入手牌，剩下的牌按照任意顺序返回牌组顶。若用此方法没有将精灵牌加入手牌，将该精灵横置。",
+  "card_lines": "上膛＆开火！～惠氏螺纹炮～",
+  "card_lrig_type": "",
+  "card_name": "弩炮 惠氏螺纹炮",
+  "card_no": "WXN02-SC122",
+  "card_sprite_type": "精武/武器",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "10000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQDCEHX7EE6N2KJHFYZCY"
+}

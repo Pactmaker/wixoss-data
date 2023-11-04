@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】《回合1》: 我方或对方的1张生命护甲放置到废弃区时，抽1张牌。\n【出】: 该精灵因效果出场时，对方将1张生命护甲放置到废弃区。若那张牌持有《生命爆发》，对方将牌组顶1张牌加入生命护甲。\n生命爆发: 将我方1张生命护甲放置到废弃区。若如此做，从我方牌组检索1张牌并将其加入生命护甲，洗切牌组。",
+  "card_lines": "回归于泡沫的才是真正的爱情哟。～亲嘴鱼～",
+  "card_lrig_type": "",
+  "card_name": "幻水 亲嘴鱼",
+  "card_no": "SPEX1-SC040",
+  "card_sprite_type": "精生/水兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 夏日套装SPEX01（子件）",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H8NEEK1CXHKCRET6EYY4DWCY"
+}

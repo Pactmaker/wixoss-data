@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 我方的主要阶段中，对方1只精灵被破坏时，将我方牌组顶1张牌放置到能量区。\n【自】: 我方场上1只竖置的精灵因效果变为横置时，将我方牌组顶1张牌放置到能量区。（效果不包含因支付费用以及攻击而引起的横置）\n【生命爆发】: 将我方牌组顶1张牌放置到能量区。那之后，以我方能量区最多1张牌为对象，将其加入手牌。",
+  "card_lines": "一起来唱花之歌吧。～樱～",
+  "card_lrig_type": "",
+  "card_name": "罗植 樱",
+  "card_no": "WXN01-SC156",
+  "card_sprite_type": "精罗/植物",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3X56G9P54NX76RQWFKHJ"
+}

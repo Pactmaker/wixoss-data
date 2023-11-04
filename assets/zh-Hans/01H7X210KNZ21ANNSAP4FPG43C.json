@@ -1,0 +1,23 @@
+{
+  "card_effect": "使用该必杀牌之际，可以丢弃手牌1张<游具>精灵牌。若如此做，该必杀牌的使用费用减少【绿2】。\n以我方能量区1张绿色精灵为对象，将其出场。",
+  "card_lines": "鼹鼠们都乖乖出来吧！~艾娅伊~",
+  "card_lrig_type": "",
+  "card_name": "神出鬼没",
+  "card_no": "WXD08-SC006-A",
+  "card_sprite_type": "",
+  "card_type": "必杀",
+  "coin": "",
+  "color": "绿",
+  "cost": "绿2",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSSTCG简体中文版起始牌组08开心乐园",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "ST",
+  "story": "",
+  "team": "",
+  "uid": "01H7X210KNZ21ANNSAP4FPG43C"
+}

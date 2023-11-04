@@ -1,0 +1,23 @@
+{
+  "card_effect": "以我方能量区1张精灵牌为对象，将其加入手牌。那之后，若我方场上有共鸣精灵，追加以我方能量区最多1张精灵牌为对象，将其加入手牌。\n生命爆发：将我方牌组顶1张牌放置到能量区。那之后，以我方能量区最多1张精灵牌为对象，将其加入手牌。",
+  "card_lines": "嗯哼♪嗯哼哼哼哼♪",
+  "card_lrig_type": "",
+  "card_name": "赠呈",
+  "card_no": "WXD08-SC025-A",
+  "card_sprite_type": "",
+  "card_type": "魔法",
+  "coin": "",
+  "color": "绿",
+  "cost": "绿0",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSSTCG简体中文版起始牌组08开心乐园",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "ST",
+  "story": "",
+  "team": "",
+  "uid": "01H7X210N4H1RTF77KGP1J67VR"
+}

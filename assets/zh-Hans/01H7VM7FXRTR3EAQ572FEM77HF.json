@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】【攻击阶段】将场上的该精灵放置到废弃区: 抽2张牌，丢弃1张手牌。（持有使用时机的能力，只能在那个使用时机使用）",
+  "card_lines": "现在，我乘在浪潮上哦！～冬鰤鱼～",
+  "card_lrig_type": "",
+  "card_name": "幻水 冬鰤鱼",
+  "card_no": "WXC01-SC083",
+  "card_sprite_type": "精生/水兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "Wixoss简体中文版 角色强化包01森罗轰咆",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "5000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM7FXRTR3EAQ572FEM77HF"
+}

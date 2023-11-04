@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该牌因我方效果从手牌展示时，以我方场上1只精灵为对象，可以丢弃手牌1张《幻水　河马》。若如此做，直到回合结束为止，其力量+5000。",
+  "card_lines": "玩水可是不可或缺的活动！～河马～",
+  "card_lrig_type": "",
+  "card_name": "幻水 河马",
+  "card_no": "WXN03-SC153",
+  "card_sprite_type": "精生/水兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包03",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "8000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM89VH3Y9HC29QVVV9C0GF"
+}

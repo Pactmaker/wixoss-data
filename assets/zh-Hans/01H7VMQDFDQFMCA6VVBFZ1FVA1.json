@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 我方1只共鸣精灵出场时，将该精灵竖置。\n【自】: 该精灵击溃对方1张生命护甲时，以场上1只共鸣精灵为对象，可以支付《白》。若如此做，将其竖置。\n【起】【横置】将场上1只不为共鸣的精灵放置到废弃区: 以对方场上1只与用此方法放置到废弃区的精灵相同等级的精灵为对象，将其返回手牌。\n生命爆发: 将我方分身牌组1张共鸣精灵牌无视出现条件出场。",
+  "card_lines": "MISSION4：将它，平安无事地带回来！～探索者四号～",
+  "card_lrig_type": "",
+  "card_name": "罗星姬 探索者四号",
+  "card_no": "WXN02-SC081",
+  "card_sprite_type": "精罗/宇宙",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "白",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQDFDQFMCA6VVBFZ1FVA1"
+}

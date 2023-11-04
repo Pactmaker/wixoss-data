@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】【回合1】: 我方场上1只精灵被附属时，可以将我方手牌1张<调理>精灵牌放置到能量区。若如此做，抽1张牌。\n（该效果1回合只能发动1次。若选择不将牌放置到能量区，也包含在1次内）\n【生命爆发】: 【能量填充1】",
+  "card_lines": "一起整点汉堡包吧？～炸薯条～",
+  "card_lrig_type": "",
+  "card_name": "食用代号 炸薯条",
+  "card_no": "WXN01-SC167",
+  "card_sprite_type": "精械/调理",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "2000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3X65H2NCS1DB68W5Z8NX"
+}

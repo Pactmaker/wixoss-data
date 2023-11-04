@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该精灵攻击时，若此回合中对方的牌因我方效果有1张以上移动到牌组，从以下3项选择1项。若有3张以上移动到牌组，改为选择最多2项。\n①以对方场上1只精灵为对象，将其破坏。②对方丢弃1张手牌。③抽2张卡。\n生命爆发: 以我方废弃区最多2张<迷宫>精灵为对象，将其加入手牌。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "迷牢代号 犹格=索托斯",
+  "card_no": "WXC02-SC048C",
+  "card_sprite_type": "精械/迷宫",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版角色强化包02深渊歌叹",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMNV3K24T8NEAK0MFDJMSN"
+}

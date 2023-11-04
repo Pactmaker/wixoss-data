@@ -1,0 +1,23 @@
+{
+  "card_effect": "从以下4项选择最多4项。若选择3项以上，选择的数减2的数量每有1，该必杀牌的使用费用增加《无2》。\n①以对方1只主分身为对象，将其横置。\n②以对方1只主分身为对象，将其冻结。\n③以对方场上1只力量为7000以下的精灵为对象，将其破坏\n④以对方场上1只不为共鸣的精灵为对象，将其破坏。我方丢弃1张手牌。",
+  "card_lines": "其选择，乃不计其数的失败，与微乎其微的成功。",
+  "card_lrig_type": "",
+  "card_name": "冰焰射击",
+  "card_no": "WXN04-SC010",
+  "card_sprite_type": "",
+  "card_type": "必杀",
+  "coin": "",
+  "color": "蓝",
+  "cost": "蓝2红1",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "LR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJAK0AY4PK8E6MVPMP0F"
+}

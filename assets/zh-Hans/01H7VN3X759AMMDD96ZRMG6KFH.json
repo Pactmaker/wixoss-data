@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】【横置】: 展示我方牌组顶3张牌。将其中1张<古代兵器>精灵牌加入手牌，剩下的牌放置到废弃区。",
+  "card_lines": "不知从哪里来，也不知从哪里去。也无法理解。～基特拉～",
+  "card_lrig_type": "",
+  "card_name": "古兵代号 基特拉",
+  "card_no": "WXN01-SC172",
+  "card_sprite_type": "精械/古代兵器",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "7000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3X759AMMDD96ZRMG6KFH"
+}

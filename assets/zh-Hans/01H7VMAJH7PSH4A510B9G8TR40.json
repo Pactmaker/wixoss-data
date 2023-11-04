@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】《回合1》: 主要阶段和攻击阶段中，对方抽1张牌时，对方丢弃1张手牌。\n【自】: 该精灵被破坏时，可以丢弃2张手牌。若如此做，该精灵牌从能量区以横置状态出场。\n生命爆发: 以对方场上1只精灵为对象，可以丢弃2张手牌。若如此做，将其破坏。",
+  "card_lines": "「不会让你如此轻易歌唱的，巴黎圣母院！」～缪斯伽～\n「…No Limit！」～平和～",
+  "card_lrig_type": "",
+  "card_name": "迷牢代号 巴黎圣母院",
+  "card_no": "WXN04-SC079",
+  "card_sprite_type": "奏械/迷宫",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "10000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJH7PSH4A510B9G8TR40"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 若我方手牌为0张，我方将要受到来自对方分身的伤害时，改为不会受到那次伤害，直到回合结束为止，失去此能力。\n【起】【游戏1】净罪【硬币】: 直到下一个我方的主要阶段为止，该分身的基础界限变为12且不会受到来自对方分身的伤害。我方的下一个抽牌阶段中，抽牌的数量改为原来的2倍。",
+  "card_lines": "我相信你啊，清衣。～皮璐璐可～",
+  "card_lrig_type": "皮璐璐可",
+  "card_name": "阿洛斯·皮璐璐可 TETRA",
+  "card_no": "WXN01-SC011",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "2",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "蓝0",
+  "level": "4",
+  "limit": "11",
+  "power": "",
+  "rarity": "LR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3WQ8A5ZKXDYX26TMX4ZJ"
+}

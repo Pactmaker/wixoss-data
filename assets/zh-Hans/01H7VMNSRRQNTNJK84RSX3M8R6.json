@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】: 所有玩家将自己牌组顶2张牌放置到废弃区。那之后，若该方法放置到废弃区的所有牌中没有持有相同等级的精灵牌，以对方场上1只精灵为对象，其力量-1000。\n（力量为0以下的精灵会因规则而破坏）",
+  "card_lines": "跟上节奏律动的猫猫...。～猫猫～",
+  "card_lrig_type": "",
+  "card_name": "乐队的童话 猫猫",
+  "card_no": "WXC02-SC110",
+  "card_sprite_type": "精像/美巧",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版角色强化包02深渊歌叹",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "1000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMNSRRQNTNJK84RSX3M8R6"
+}

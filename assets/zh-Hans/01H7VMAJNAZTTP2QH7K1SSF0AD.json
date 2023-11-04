@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】《横置》: 抽1张牌，或将我方1张手牌作为【陷阱】在我方精灵区设置。\n（1个精灵区只能背面表示设置最多1个【陷阱】。对方的精灵攻击时，若其正前方精灵区没有精灵，可以将那个精灵区的【陷阱】翻至正面表示并发动《陷阱》。那之后，将【陷阱】放置到废弃区）",
+  "card_lines": "『请点击这里来帮帮我ー』～艾尔德拉人偶～",
+  "card_lrig_type": "",
+  "card_name": "大罠 点击欺诈",
+  "card_no": "WXN04-SC106",
+  "card_sprite_type": "精武/机关",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "7000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJNAZTTP2QH7K1SSF0AD"
+}

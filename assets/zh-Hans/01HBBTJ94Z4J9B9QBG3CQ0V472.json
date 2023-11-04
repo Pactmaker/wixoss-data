@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该精灵攻击时，以对方场上1只精灵为对象，若我方手牌比对方多4张以上，将其破坏。\n【出】 《蓝》《无》: 抽1张牌。\n【出】 《蓝》《无》: 对方丢弃1张手牌。\n生命爆发: 抽1张牌。若我方的生命护甲为4张以下，追加【能量填充1】",
+  "card_lines": "为母亲大人的平安祈福…～萨基尔～",
+  "card_lrig_type": "",
+  "card_name": "水覆的苍天 萨基尔",
+  "card_no": "WXC04-SC038",
+  "card_sprite_type": "精像/天使",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 角色强化包04-隐异爆发",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01HBBTJ94Z4J9B9QBG3CQ0V472"
+}

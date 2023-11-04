@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 对方回合中，该精灵离开场上的情况下，可以改为将该精灵翻至背面。若如此做，第二个我方的主要阶段开始时，若该牌所在的精灵区没有精灵，将该牌翻至正面，对方丢弃2张手牌。\n生命爆发: 以对方场上1只精灵为对象，可以支付《蓝》《蓝》。若如此做，将其放置到牌组最下方。",
+  "card_lines": "「不可以仰拍呀ー！」",
+  "card_lrig_type": "",
+  "card_name": "群集古兵代号 帕特农",
+  "card_no": "WXN04-SC076",
+  "card_sprite_type": "奏械/古代兵器",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJGWBNR1HDGX4A8RABM3"
+}

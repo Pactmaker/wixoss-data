@@ -1,0 +1,23 @@
+{
+  "card_effect": "丢弃任意张数的手牌，从牌组抽出丢弃张数加1的数量的牌。\n生命爆发：丢弃2张手牌，抽3张牌。",
+  "card_lines": "找到了！",
+  "card_lrig_type": "",
+  "card_name": "TREASURE",
+  "card_no": "WXD04-SCP09",
+  "card_sprite_type": "",
+  "card_type": "魔法",
+  "coin": "",
+  "color": "蓝",
+  "cost": "蓝1",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSSTCG简体中文版起始牌组04苍之链结connect of blueness",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "SP",
+  "story": "",
+  "team": "",
+  "uid": "01H7X20MQ94SC72KEPXTVAGK5N"
+}

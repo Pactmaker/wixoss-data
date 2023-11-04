@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 我方主分身攻击时，可以将该精灵从场上放置到废弃区。若如此做，那次攻击中，被击溃的牌放置到能量区改为放置到废弃区。（生命爆发可以发动）",
+  "card_lines": "连绵弹雨，击穿护盾。",
+  "card_lrig_type": "",
+  "card_name": "轰炮 加特林",
+  "card_no": "WXN02-SC123",
+  "card_sprite_type": "精武/武器",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "8000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQDCGPQ6HKGZYQAPG4DGM"
+}

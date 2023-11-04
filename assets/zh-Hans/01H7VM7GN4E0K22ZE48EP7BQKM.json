@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 我方每有1张生命护甲，该精灵的力量-2000。\n【常】: 只要我方的生命护甲为0张，该精灵不会被破坏。\n【出】: 查看我方生命护甲最上方1张牌。那之后，可以将其击溃。\n【生命爆发】: 若我方生命护甲为0张，将我方牌组顶1张牌加入生命护甲。抽1张牌。",
+  "card_lines": "「接招吧，软体攻击！」\n「怎会如此！」～海参～",
+  "card_lrig_type": "",
+  "card_name": "幻水姬 海参与鲶鱼",
+  "card_no": "WXC01-SC056",
+  "card_sprite_type": "精生/水兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "Wixoss简体中文版 角色强化包01森罗轰咆",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "18000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM7GN4E0K22ZE48EP7BQKM"
+}

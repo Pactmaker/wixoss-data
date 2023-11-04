@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出现条件】【主要阶段】将我方场上1只《手剑 加隈丸》和1只《手弹 绫音爆弹》放置到废弃区。\n【自】: 该精灵正前方的1只精灵被破坏时，可以支付《红》。若这样做，将该精灵竖直。\n【出】《红》《红》: 直到回合结束为止，该精灵获得【双重击溃】能力。若我方主分身为等级4以上，该能力的发动费用减少【红2】。",
+  "card_lines": "咚轰隆轰隆！～加隈绫音～",
+  "card_lrig_type": "",
+  "card_name": "赤爆忍　加隈绫音",
+  "card_no": "WXN02-SC040",
+  "card_sprite_type": "精武/武装/武器",
+  "card_type": "共鸣",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "12000",
+  "rarity": "LC",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQDNV0WCJ63YQ2QYK95EW"
+}

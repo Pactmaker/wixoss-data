@@ -1,0 +1,23 @@
+{
+  "card_effect": "【和声】1只蓝色分身\n【自】: 我方的攻击阶段开始时，若我方场上精灵持有的颜色合计为3种以上且该精灵处于竖置状态，以我方场上1只其他精灵为对象，可以支付《绿》《无》。若如此做，直到回合结束为止，其获得【枪兵】能力。\n【自】《回合1》: 我方回合中，我方场上1只其他精灵被破坏时，【能量填充1】。",
+  "card_lines": "「这就是丰收。」",
+  "card_lrig_type": "",
+  "card_name": "翠天姬 德墨忒尔",
+  "card_no": "WXN04-SC084",
+  "card_sprite_type": "奏像/天使",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJHPZGFVM019B2HA0ZC7"
+}

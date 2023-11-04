@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】: 丢弃手牌1张持有【升阶】的精灵牌: 将我方牌组1张<武勇>精灵牌展示并加入手牌，洗切牌组。\n【生命爆发】: 抽1张牌。",
+  "card_lines": "信长大人，我一直在您身边。～兰丸～",
+  "card_lrig_type": "",
+  "card_name": "二刀的近习 兰丸",
+  "card_no": "WXN01-SC136",
+  "card_sprite_type": "精像/武勇",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "5000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3X3EVE0C3GZ9MWXZR0JR"
+}

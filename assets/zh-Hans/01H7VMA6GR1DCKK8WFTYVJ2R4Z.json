@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】将废弃区的该牌从游戏中除外 : 以我方场上1只精灵为对象，直到回合结束为止，其基本等级变为1~4其中任意1个等级。该能力只能在我方主分身为<妈妈>的情况下使用。",
+  "card_lines": "问: 妈妈26岁，女儿2岁。妈妈的年龄变成女儿的7倍是多少年后？~#年龄#~",
+  "card_lrig_type": "",
+  "card_name": "时英的经过 #年龄#",
+  "card_no": "WXC03-SC089",
+  "card_sprite_type": "精像/英知",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版角色强化包03 万花镜映",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "10000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMA6GR1DCKK8WFTYVJ2R4Z"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "从以下3项选择1项。\n①抽1张牌。\n②对方丢弃1张手牌。\n③将对方场上所有精灵冻结。\n【自】: 对方回合结束时，若我方手牌为0张，可以支付《蓝》。若如此做，将该牌从废弃区加入手牌。\n【生命爆发】: 选择其中1项。①抽1张牌。②【能量填充1】",
+  "card_lines": "每当获得一份力量，便能对光更加知晓。",
+  "card_lrig_type": "",
+  "card_name": "MIRACLE",
+  "card_no": "WXN01-SC111",
+  "card_sprite_type": "",
+  "card_type": "魔法",
+  "coin": "",
+  "color": "蓝",
+  "cost": "蓝1",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3WTT9XMH41XVP6PGAEM7"
+}

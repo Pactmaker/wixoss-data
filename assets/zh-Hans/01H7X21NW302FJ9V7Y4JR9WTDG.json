@@ -1,0 +1,23 @@
+{
+  "card_effect": "以我方场上1只<宇宙>精灵为对象，将其破坏。若如此做，持续展示我方牌组顶直到出现精灵牌为止，将展示的牌洗切并放置到牌组底。\n那之后，若用此方法公开的精灵牌为等级1，抽1张牌。若为等级2，将我方牌组顶1张牌放置到能量区。若为等级3，对方丢弃1张手牌。若为等级4，以我方废弃区1张<宇宙>精灵牌为对象，将其加入手牌。",
+  "card_lines": "请你华丽地与世界告别吧。~嘉年华~",
+  "card_lrig_type": "",
+  "card_name": "磊落的选择",
+  "card_no": "WXD06-SC035-C",
+  "card_sprite_type": "",
+  "card_type": "魔法",
+  "coin": "",
+  "color": "红",
+  "cost": "红0",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSSTCG简体中文版起始牌组06星宇宙之轮演",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "ST",
+  "story": "",
+  "team": "",
+  "uid": "01H7X21NW302FJ9V7Y4JR9WTDG"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "抽1张牌，丢弃1张手牌。\n【自】: 该牌从手牌放置到废弃区时，以对方场上1只精灵为对象，将其横置。\n（使用该魔法牌不能发动该魔法牌自身的【自】能力）",
+  "card_lines": "我是皮璐璐可，是清衣的LRIG。～皮璐璐可～",
+  "card_lrig_type": "",
+  "card_name": "FLASH",
+  "card_no": "WXN02-SC133",
+  "card_sprite_type": "",
+  "card_type": "魔法",
+  "coin": "",
+  "color": "蓝",
+  "cost": "蓝0",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQDD5Z1KQTD37KXE8QY8Q"
+}

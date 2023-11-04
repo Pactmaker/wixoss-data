@@ -1,0 +1,23 @@
+{
+  "card_effect": "【成长】我方场上主分身的卡牌名含有《米璐璐恩》。\n【常】: 对方不能使用魔法牌。\n【起】超越1: 查看我方牌组顶5张牌。将其中任意张牌按照任意顺序放置到牌组底，剩下的牌按照任意顺序返回牌组顶。\n【起】超越2: 可以以对方废弃区1张魔法牌为对象，将其不支付费用且无视限定条件当做从我方手牌使用。",
+  "card_lines": "在未来等着你恩！～米璐璐恩～",
+  "card_lrig_type": "米璐璐恩",
+  "card_name": "米璐璐恩·第谷",
+  "card_no": "WXN01-SC042",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "蓝2",
+  "level": "5",
+  "limit": "12",
+  "power": "",
+  "rarity": "LC",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3TC7CX388JKM8MM6HH3Z"
+}

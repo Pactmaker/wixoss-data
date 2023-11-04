@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】：以对方场上1只精灵为对象，若我方手牌为2张以下，直到回合结束为止，其力量-1000。若我方手牌为0张，改为直到回合结束为止，其力量-5000。\n（力量为0以下的精灵会因规则而破坏）\n生命爆发：抽1张牌。",
+  "card_lines": "美丽也是一种罪过呢。～夏兰丝～",
+  "card_lrig_type": "",
+  "card_name": "魔海的黑枪 夏兰丝",
+  "card_no": "WXD04-SC025-A",
+  "card_sprite_type": "精像/恶魔",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSSTCG简体中文版起始牌组04苍之链结connect of blueness",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "7000",
+  "rarity": "ST",
+  "story": "",
+  "team": "",
+  "uid": "01H7X20MSEB50ND16HKJZXXYJQ"
+}

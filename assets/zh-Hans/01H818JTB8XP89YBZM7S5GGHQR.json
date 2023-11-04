@@ -1,0 +1,23 @@
+{
+  "card_effect": "出：查看我方牌组顶4张牌。将其中3张牌按照任意顺序放置到牌组底，剩下的牌放置到废弃区。",
+  "card_lines": "此时此刻，各位的力量是必须的！\n～众筹～",
+  "card_lrig_type": "",
+  "card_name": "众英的出资 众筹",
+  "card_no": "PR-SC103",
+  "card_sprite_type": "精像/英知",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》线下店铺比赛物料卡（银包）",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "2000",
+  "rarity": "PR",
+  "story": "",
+  "team": "",
+  "uid": "01H818JTB8XP89YBZM7S5GGHQR"
+}

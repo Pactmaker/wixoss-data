@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：1只精灵从我方废弃区出场时，可以将该精灵牌从废弃区出场。若如此做，回合结束时，或该精灵从场上离开的情况下。将该精灵从游戏除外。\n【出】：该精灵从废弃区出场的情况下，以对方场上1只精灵为对象，直到回合结束为止，其力量-5000。",
+  "card_lines": "随便靠过来的话就让你尝点苦头哦！～贝塚～",
+  "card_lrig_type": "",
+  "card_name": "古兵代号 贝塚",
+  "card_no": "PR-SC086",
+  "card_sprite_type": "精械/古代兵器",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》线下店铺比赛物料卡（金包）",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "7000",
+  "rarity": "PR",
+  "story": "",
+  "team": "",
+  "uid": "01H819FSX5TM9EBR64CNFRF7KP"
+}

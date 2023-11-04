@@ -1,0 +1,23 @@
+{
+  "card_effect": "查看我方牌组顶4张牌，将其按照任意顺序返回牌组顶。那之后，展示我方牌组顶1张牌。以对方场上1只与用此方法展示的精灵牌相同等级的精灵为对象，将其破坏。",
+  "card_lines": "啊哈哈～嘉年华～",
+  "card_lrig_type": "",
+  "card_name": "生炎与夺",
+  "card_no": "WXN02-SC044",
+  "card_sprite_type": "",
+  "card_type": "必杀",
+  "coin": "",
+  "color": "红",
+  "cost": "红1",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "LC",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQDNZS41DJMPV9WH8Q8PF"
+}

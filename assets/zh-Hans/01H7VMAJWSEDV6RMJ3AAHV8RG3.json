@@ -1,0 +1,23 @@
+{
+  "card_effect": "使用该必杀牌之际，可以追加支付《红×2icon》或《红×4icon》作为使用费用。\n\n以对方场上1只精灵为对象，将其破坏。若追加支付《红×2icon》，改为以对方场上2只精灵为对象，将其破坏。若追加支付《红×4icon》，改为以对方场上3只精灵为对象，将其破坏。\n此局游戏中，我方的＜蕾拉＞持有的硬币技由《游戏1》变为《游戏2》，我方下次使用硬币技的使用费用减少《硬币×1icon》。",
+  "card_lines": "真棒啊，这股力量...该大闹一场啦，再来再来！~蕾拉~",
+  "card_lrig_type": "",
+  "card_name": "千差爆別",
+  "card_no": "WXN04-SC186",
+  "card_sprite_type": "",
+  "card_type": "必杀",
+  "coin": "",
+  "color": "红",
+  "cost": "红2",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "SEC",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJWSEDV6RMJ3AAHV8RG3"
+}

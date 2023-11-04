@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该精灵攻击时，所有玩家将自己牌组顶3张牌放置到废弃区。\n【出】: 以对方场上1只精灵为对象，直到回合结束为止，所有玩家的废弃区每有4张牌，其力量-1000。\n生命爆发: 若我方主分身为<阿尔芙>，所有玩家将自己牌组顶10张牌放置到废弃区。",
+  "card_lines": "妈妈，我可以教训一下那个孩子吗？～小摇～",
+  "card_lrig_type": "",
+  "card_name": "彷徨变异的小恶 小摇",
+  "card_no": "WXC02-SC080",
+  "card_sprite_type": "精像/恶魔",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版角色强化包02深渊歌叹",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "3000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMNV1REE4HDJ8M9692DVAX"
+}

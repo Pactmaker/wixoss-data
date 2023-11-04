@@ -1,0 +1,23 @@
+{
+  "card_effect": "直到回合结束为止，我方主分身获得「【自】: 该分身攻击时，以我方场上任意数量的精灵为对象，将其放置到废弃区。那之后，用此方法放置到废弃区的精灵每有1只，将牌组顶1张牌加入生命护甲。」的能力。\n【生命爆发】: 以我方废弃区1张黑色精灵牌为对象，将其出场。其【出】能力不能发动。",
+  "card_lines": "斩断过往的无尽之剑。",
+  "card_lrig_type": "",
+  "card_name": "谜言暗气",
+  "card_no": "WXN01-SC126",
+  "card_sprite_type": "",
+  "card_type": "魔法",
+  "coin": "",
+  "color": "黑",
+  "cost": "黑2",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3WWA05ZHDERECD1TKZPX"
+}

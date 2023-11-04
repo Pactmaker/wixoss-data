@@ -1,0 +1,23 @@
+{
+  "card_effect": "从以下2项选择1项。\n①以我方场上1只<恶魔>精灵为对象，将其从场上放置到废弃区。若如此做，丢弃1张手牌，抽2张牌。（不能丢弃手牌时也可以抽2张牌）\n②【能量填充1】",
+  "card_lines": "count是one，two——～塔维尔～",
+  "card_lrig_type": "起",
+  "card_name": "热音的稻光",
+  "card_no": "WXC02-SC090",
+  "card_sprite_type": "",
+  "card_type": "魔法",
+  "coin": "",
+  "color": "红",
+  "cost": "红0",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版角色强化包02深渊歌叹",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMNSQH262D5ZHCNDJ22D96"
+}

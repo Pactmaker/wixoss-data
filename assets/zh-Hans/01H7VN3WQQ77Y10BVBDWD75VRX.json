@@ -1,0 +1,23 @@
+{
+  "card_effect": "【成长】我方生命护甲为1张以下。\n【常】: 跳过我方成长阶段。\n【常】: 所有玩家的抽牌阶段只能抽1张牌。\n【常】: 所有玩家各自只能有1只精灵出场。（若场上已有的精灵为2只以上，必须将精灵放置到废弃区，直到剩下1只为止。）",
+  "card_lines": "啊~，这是...！",
+  "card_lrig_type": "伊绪奈",
+  "card_name": "究极/少女 伊绪奈",
+  "card_no": "WXN01-SC015",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "黑0",
+  "level": "5",
+  "limit": "5",
+  "power": "",
+  "rarity": "LR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3WQQ77Y10BVBDWD75VRX"
+}

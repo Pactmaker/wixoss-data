@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出现条件】【主要阶段】从以下3项选择2项\n①丢弃手牌1张<凶虫>精灵牌\n②将我方能量区2张<凶虫>精灵牌放置到废弃区\n③将我方场上1只不为共鸣的<凶虫>精灵放置到废弃区\n【出】：以对方场上1只等级2以下的精灵为对象，将其破坏。",
+  "card_lines": "好烦，为什么呢。我明明就不想来这里。~马陆~",
+  "card_lrig_type": "",
+  "card_name": "黑幻虫 马陆",
+  "card_no": "WXD07-SC008-M",
+  "card_sprite_type": "精生/凶虫",
+  "card_type": "共鸣",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSSTCG简体中文版起始牌组07千嗤万蠷",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "8000",
+  "rarity": "ST",
+  "story": "",
+  "team": "",
+  "uid": "01H7X21AJH59ZKBYVDDTDPFMB8"
+}

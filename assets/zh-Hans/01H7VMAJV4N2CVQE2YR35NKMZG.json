@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该精灵攻击时，若该精灵的力量为5000以上，【能量填充1】。\n（将我方牌组顶1张牌放置到能量区）",
+  "card_lines": "「ＷＯＷ！ＮＹＡＡＡＯ！」",
+  "card_lrig_type": "",
+  "card_name": "幻兽 白虎虎",
+  "card_no": "WXN04-SC169",
+  "card_sprite_type": "奏生/地兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "2000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJV4N2CVQE2YR35NKMZG"
+}

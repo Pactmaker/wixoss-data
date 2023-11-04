@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：只要我方场上有共鸣精灵，该精灵的基本力量变为12000。\n【常】：我方回合结束时，可以将该精灵从场上放置到废弃区。若如此做，直到下个对方回合结束时，我方主分身获得「【起】《回合1》【攻击阶段】【黑0】：以对方场上1只精灵为对象，直到回合结束为止，其力量-7000。」的能力。",
+  "card_lines": "下次再见吧。~大紫蛱蝶~",
+  "card_lrig_type": "",
+  "card_name": "幻虫 大紫蛱蝶",
+  "card_no": "WXD07-SCP009",
+  "card_sprite_type": "精生/凶虫",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSSTCG简体中文版起始牌组07千嗤万蠷",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "7000",
+  "rarity": "SP",
+  "story": "",
+  "team": "",
+  "uid": "01H7X21AHTKTKA612492GC6Y89"
+}

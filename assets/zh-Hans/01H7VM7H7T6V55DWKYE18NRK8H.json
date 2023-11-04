@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】【回合1】: ：该精灵攻击时，宣言1个卡牌名。对方展示牌组顶1张牌。若其为宣言的牌，将其放置到废弃区，将该精灵竖置。\n【自】: 我方的1只<水兽>精灵因对方的效果从场上离开时，可以抽1张牌。\n【生命爆发】：选择其中1项。①抽1张牌。②以对方场上1只等级3以下的精灵为对象，将其放置到牌组顶。",
+  "card_lines": "这份斑斓，献于你吧。～锦鲤～",
+  "card_lrig_type": "",
+  "card_name": "幻水姬 锦鲤",
+  "card_no": "WXC01-SC045",
+  "card_sprite_type": "精生/水兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "Wixoss简体中文版 角色强化包01森罗轰咆",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM7H7T6V55DWKYE18NRK8H"
+}

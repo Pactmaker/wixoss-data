@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 各攻击阶段开始时，以我方能量区最多1张《幻水姬 多管水母》以外的精灵牌为对象，将其加入手牌。\n【自】: 该精灵攻击时，以对方场上1只精灵为对象，支付《绿》，可以展示手牌中4张名称各不相同的<水兽>精灵牌。若如此做，将其放置到能量区。\n生命爆发: 以我方废弃区最多2张<水兽>精灵牌为对象，将其加入手牌。",
+  "card_lines": "请不要让我太过闪耀。～多管水母～",
+  "card_lrig_type": "",
+  "card_name": "幻水姬 多管水母",
+  "card_no": "WXN04-SC080",
+  "card_sprite_type": "精罗/水兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJHAXS9YVD8BZD1YMZZC"
+}

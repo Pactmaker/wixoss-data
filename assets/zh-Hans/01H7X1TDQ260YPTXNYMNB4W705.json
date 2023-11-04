@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】《硬币》：以对方场上1只力量为12000以下的精灵为对象，将其破坏。\n【起】《回合1》【红】【红】【红】：以我方场上1只持有【升阶】的精灵为对象，直到回合结束为止，其获得「【自】：该精灵正前方的1只精灵破坏时，将该精灵竖置。」的能力。",
+  "card_lines": "赌上你的一切吧。～莉露～",
+  "card_lrig_type": "莉露",
+  "card_name": "决死的记忆 莉露",
+  "card_no": "WXD03-SC001-R",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSSTCG简体中文版起始牌组03绯翠追忆memory of red & green",
+  "grow_price": "红3",
+  "level": "4",
+  "limit": "11",
+  "power": "",
+  "rarity": "ST",
+  "story": "",
+  "team": "",
+  "uid": "01H7X1TDQ260YPTXNYMNB4W705"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【陷阱】: 以对方场上最多2只精灵为对象，将其横置。\n（对方的精灵攻击时，若其正前方精灵区没有精灵，可以将那个精灵区的【陷阱】翻至正面表示并发动《陷阱》。那之后，将【陷阱】放置到废弃区）\n生命爆发: 以对方场上最多2只精灵为对象，将其横置。",
+  "card_lines": "这个陷阱太甜（天真）了！？香蕉的女帝大人～♪～香蕉之歌～",
+  "card_lrig_type": "",
+  "card_name": "超罠 香蕉",
+  "card_no": "WXC03-SC077",
+  "card_sprite_type": "精武/机关",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版角色强化包03 万花镜映",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMA6DPHC3XYF7XFBCBR8N7"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 对方的攻击阶段开始时，宣言1个数字。将对方牌组顶1张牌放置到废弃区。若其为等级与宣言数字相同的精灵牌，抽1张牌。\n【出】《蓝》: 以1只存在于有【门】的精灵区的精灵为对象，将其放置到牌组顶第3张牌。\n生命爆发: 丢弃1张手牌。将对象的对方场上1只精灵放置到牌组顶。",
+  "card_lines": "慢慢来就好了。～龙宫～",
+  "card_lrig_type": "",
+  "card_name": "迷宫代号 龙宫",
+  "card_no": "WXC02-SC047",
+  "card_sprite_type": "精械/迷宫",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版角色强化包02深渊歌叹",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMNV3DAQ4SMFP18C1EFT8C"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】《横置》: 展示我方牌组顶1张牌。若其为<机关>精灵牌，将其加入手牌。\n生命爆发: 抽1张牌。",
+  "card_lines": "这里是八重洲口。哎呀，搞错啦？~地下街~",
+  "card_lrig_type": "",
+  "card_name": "小罠 地下街",
+  "card_no": "WXC03-SC060",
+  "card_sprite_type": "精武/机关",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版角色强化包03 万花镜映",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "1000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMA6A4920ZKD73DB2J1V7Z"
+}

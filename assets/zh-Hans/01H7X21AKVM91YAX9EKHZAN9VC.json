@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：各攻击阶段开始时，可以抽1张牌。若如此做，丢弃1张手牌。\n【自】：我方1只精灵因效果出场时，以对方场上1只精灵为对象，将其横置。\n【出】【蓝】：以我方废弃区最多2张等级3以下的<凶虫>精灵牌为对象，将其加入手牌。若如此做，丢弃1张手牌。",
+  "card_lines": "今年我也如约来了，与飘雪的讯息一同。~§雪虫§~",
+  "card_lrig_type": "",
+  "card_name": "大幻虫 §雪虫§",
+  "card_no": "WXD07-SC024-A",
+  "card_sprite_type": "精生/凶虫",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSSTCG简体中文版起始牌组07千嗤万蠷",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "10000",
+  "rarity": "ST",
+  "story": "",
+  "team": "",
+  "uid": "01H7X21AKVM91YAX9EKHZAN9VC"
+}

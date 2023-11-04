@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 只要该牌在牌组或手牌或废弃区，因我方的1个效果参照该精灵牌的等级的情况下，可以视为等级4。\n【自】: 该精灵攻击时，以对方场上1只力量为1000以下的精灵为对象，展示我方牌组顶1张牌。若那张牌为等级4的精灵牌，将其破坏。",
+  "card_lines": "咕噜咕噜！～圣甲虫～",
+  "card_lrig_type": "",
+  "card_name": "罗星 圣甲虫",
+  "card_no": "WXN04-SC100",
+  "card_sprite_type": "精罗/宇宙",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "2000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJMSC4HNH7NRH0XCY3KJ"
+}

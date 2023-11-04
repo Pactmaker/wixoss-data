@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：该精灵被升阶时，直到回合结束为止，那只精灵的力量+3000。\n【出】【红】：将我方牌组1张持有【升阶】的精灵展示并加入手牌，洗切牌组。",
+  "card_lines": "天竺近在眼前。只可惜是个谎言。～三藏～",
+  "card_lrig_type": "",
+  "card_name": "金山的西藏 三藏",
+  "card_no": "WXD03-SCP04",
+  "card_sprite_type": "精像/武勇",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSSTCG简体中文版起始牌组03绯翠追忆memory of red & green",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "8000",
+  "rarity": "SP",
+  "story": "",
+  "team": "",
+  "uid": "01H7X1TDPGTEK70RPS85HYWMYP"
+}

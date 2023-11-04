@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出现条件】【主要阶段】将我方场上2只不为共鸣的<凶虫>精灵放置到废弃区\n【常】: 对方场上附有【魅饰】的精灵的【起】能力不能使用。\n【自】: 对方的1只精灵出场时，对方将自己牌组顶1张牌成为那只精灵的【魅饰】。\n【自】: 各攻击阶段开始时，对方以自己场上1只附有【魅饰】的精灵为对象，将其破坏。",
+  "card_lines": "要让我陪你好好玩玩吗？～阿拉克涅·蜘蛛～",
+  "card_lrig_type": "",
+  "card_name": "黑幻虫 阿拉克涅·蜘蛛",
+  "card_no": "WXN02-SC013",
+  "card_sprite_type": "精生/凶虫",
+  "card_type": "共鸣",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "15000",
+  "rarity": "LR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQDB5PT670QTG5RRDH9ZH"
+}

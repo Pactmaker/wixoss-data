@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 该精灵的力量因对方的效果而减少的情况下，改为增加。\n【常】: 我方回合中，我方场上其他精灵的力量+5000。\n生命爆发: 【能量填充1】。此回合中，下次我方受到来自精灵的伤害时，改为不受那次伤害。",
+  "card_lines": "这种程度的运动，不做都没有关系。",
+  "card_lrig_type": "",
+  "card_name": "罗菌姬 氨基酸",
+  "card_no": "WXN04-SC082",
+  "card_sprite_type": "奏罗/微菌",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJHGR8GQVP1KQ9FN4K1Q"
+}

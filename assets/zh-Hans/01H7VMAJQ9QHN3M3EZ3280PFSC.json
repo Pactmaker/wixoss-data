@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】《横置》: 展示我方牌组顶3张牌。将其中1张<毒牙>精灵牌出场，剩下的牌按任意顺序放置到牌组底。",
+  "card_lines": "卢克博尔，凯撒博尔，给你们零花钱吧。～罗德博尔～",
+  "card_lrig_type": "",
+  "card_name": "Drei=罗德博尔",
+  "card_no": "WXN04-SC128",
+  "card_sprite_type": "精武/毒牙",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "7000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJQ9QHN3M3EZ3280PFSC"
+}

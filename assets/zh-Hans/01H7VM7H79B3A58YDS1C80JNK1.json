@@ -1,0 +1,23 @@
+{
+  "card_effect": "我方场上每有1只<龙兽>精灵，该魔法牌的使用费用减少【红1】。\n将对象的对方场上1只力量为10000以下的精灵破坏。若如此做，将对象的对方能量区1张牌放置到废弃区。\n【生命爆发】: 将对象的对方能量区1张牌放置到废弃区。若对方能量区的牌为4张以下，将对象的对方场上力量为10000以下的精灵破坏。",
+  "card_lines": "咆哮一闪！大·爆·炸！",
+  "card_lrig_type": "",
+  "card_name": "龙凤之排炎",
+  "card_no": "WXC01-SC039",
+  "card_sprite_type": "",
+  "card_type": "魔法",
+  "coin": "",
+  "color": "红",
+  "cost": "红5",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "Wixoss简体中文版 角色强化包01森罗轰咆",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM7H79B3A58YDS1C80JNK1"
+}

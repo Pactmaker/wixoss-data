@@ -1,0 +1,23 @@
+{
+  "card_effect": "下注―《硬币》《硬币》\n\n以对方废弃区1张精灵牌为对象，将其以傀儡状态在我方场上出场。若我方已下注，改为以对方废弃区2张精灵牌为对象，将其以傀儡状态在我方场上出场。\n（傀儡状态的精灵从场上离开的的情况下，将其放置到其持有者的废弃区。）",
+  "card_lines": "...呼，像微风一样的攻击...。～阿尔芙～",
+  "card_lrig_type": "",
+  "card_name": "时序·钟声",
+  "card_no": "WXC02-SC036",
+  "card_sprite_type": "",
+  "card_type": "必杀",
+  "coin": "",
+  "color": "黑",
+  "cost": "黑2",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版角色强化包02深渊歌叹",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "LC",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMNTRTAB544PA0FQJC2FW9"
+}

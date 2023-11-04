@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】《节拍》［7张以上 ］: 我方的攻击阶段开始时，以我方废弃区1张精灵牌为对象，将其加入手牌。\n【自】《节拍》［等级1、2各1张以上 ］: 该精灵攻击时，【能量填充1】。\n（该能力只有在我方的【节拍】中等级1和等级2的精灵牌各为1张以上时有效）\n生命爆发: 抽1张牌。",
+  "card_lines": "啊，还是把你这种人赶走吧。～阿蒙～",
+  "card_lrig_type": "",
+  "card_name": "炎魔的蛇枭 阿蒙",
+  "card_no": "WXC02-SC061",
+  "card_sprite_type": "精像/恶魔",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版角色强化包02深渊歌叹",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "7000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMNTZFXC5FQ47FZP8J9X0P"
+}

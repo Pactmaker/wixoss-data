@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】【回合1】: 该精灵击溃对方1张生命护甲时，可以支付【黑】。若如此做，将我方牌组顶的牌放置到废弃区直到将3张<龙兽>精灵牌放置到废弃区。那之后，若用此方法将3张<龙兽>精灵牌放置到废弃区，以我方废弃区1张等级3以下的<龙兽>精灵牌为对象，将其加入手牌。\n【生命爆发】: 抽1张牌。",
+  "card_lines": "好大一只火鸡！～某个少年～",
+  "card_lrig_type": "",
+  "card_name": "幻龙 盗龙",
+  "card_no": "WXC01-SC072",
+  "card_sprite_type": "精生/龙兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "Wixoss简体中文版 角色强化包01森罗轰咆",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "5000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM7H5BMZY64V743AK1D0JM"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 我方的攻击阶段开始时，以对方场上1只精灵为对象，若我方场上有绿色和白色的＜美巧＞精灵，将其返回手牌。\n【自】《回合1》: 我方场上的1只＜美巧＞精灵被破坏时，将我方牌组顶1张牌放置到能量区。\n【起】《攻击阶段 》超越4: 将对方场上所有精灵返回手牌。",
+  "card_lines": "去迎接欢快的舞台揭幕吧！～安～",
+  "card_lrig_type": "安",
+  "card_name": "一层的一扫 安=FOURTH",
+  "card_no": "SP09-SC011",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版兔年礼盒",
+  "grow_price": "绿1白1无1",
+  "level": "4",
+  "limit": "11",
+  "power": "",
+  "rarity": "强化包",
+  "story": "",
+  "team": "",
+  "uid": "01H7X171EYDVZ9CWA9NAF2HM42"
+}

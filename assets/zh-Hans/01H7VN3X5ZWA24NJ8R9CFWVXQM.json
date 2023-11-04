@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】【横置】: 挑选白、红、蓝、黑其中1种颜色。展示我方牌组顶1张牌，若其为持有挑选的颜色的精灵牌，将其放置到能量区。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "罗植 仙客来",
+  "card_no": "WXN01-SC165",
+  "card_sprite_type": "精罗/植物",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "1000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3X5ZWA24NJ8R9CFWVXQM"
+}

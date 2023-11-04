@@ -1,0 +1,23 @@
+{
+  "card_effect": "【队伍】＜远古惊叹＞\n【队伍起】《回合1》从手牌丢弃2张红色牌 : 抽2张牌。\n【出】: 查看我方牌组顶3张牌。将其中任意张数红色牌展示并加入手牌，剩下的牌按任意顺序放置到牌组底。",
+  "card_lines": "「这就是　我　独特的姿态」",
+  "card_lrig_type": "塔维尔",
+  "card_name": "觉醒者 塔维尔=Tre",
+  "card_no": "WXN04-SC028",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "红2",
+  "level": "3",
+  "limit": "6",
+  "power": "",
+  "rarity": "LC",
+  "story": "",
+  "team": "远古惊叹",
+  "uid": "01H7VMAJC9AXAZSVBR1X5E7T3D"
+}

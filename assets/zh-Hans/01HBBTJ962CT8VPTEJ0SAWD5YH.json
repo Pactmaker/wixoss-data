@@ -1,0 +1,23 @@
+{
+  "card_effect": "以我方场上任意数量<原子>精灵为对象，将其从场上放置到废弃区，抽1张牌。那之后，若用此方法将2只以上<原子>精灵放置到废弃区，以对方场上1只精灵为对象，将其破坏。若将3只放置到废弃区，追加以对方场上1只精灵为对象，将其破坏。\n生命爆发: 以对方场上1只力量为7000以下的精灵为对象，将其破坏。",
+  "card_lines": "决不允许浪费粮食！～华代～",
+  "card_lrig_type": "",
+  "card_name": "爆烧的连打",
+  "card_no": "WXC04-SC053",
+  "card_sprite_type": "",
+  "card_type": "魔法",
+  "coin": "",
+  "color": "红",
+  "cost": "红1",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 角色强化包04-隐异爆发",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01HBBTJ962CT8VPTEJ0SAWD5YH"
+}

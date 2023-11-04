@@ -1,0 +1,23 @@
+{
+  "card_effect": "《陷阱》: 将对方场上所有力量为2000以下的精灵破坏。\n（对方的精灵攻击时，若其正前方精灵区没有精灵，可以将此精灵区的【陷阱】翻至正面表示并发动《陷阱》。那之后，将【陷阱】放置到废弃区）\n生命爆发: 抽1张牌。",
+  "card_lines": "设置完成！~黑板擦1号~\n补强完成！~黑板擦1号~",
+  "card_lrig_type": "",
+  "card_name": "小罠 黑板擦",
+  "card_no": "WXC03-SC085",
+  "card_sprite_type": "精武/机关",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版角色强化包03 万花镜映",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "2000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMA6GCZKNPRNKQ25NJ51ZQ"
+}

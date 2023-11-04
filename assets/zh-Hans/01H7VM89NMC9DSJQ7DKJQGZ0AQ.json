@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 我方攻击阶段中，该精灵获得该牌下方的等级3以下的黑色＜武器＞精灵牌的【自】能力。\n【起】《回合1》《黑1》: 将对象的我方废弃区1张精灵牌放置到对象的我方场上的1只＜武器＞精灵下方。",
+  "card_lines": "前往天堂之门的邀请函！~以诺书~",
+  "card_lrig_type": "",
+  "card_name": "轰书 以诺书",
+  "card_no": "WXN03-SC115",
+  "card_sprite_type": "精武/武器",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包03",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "8000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM89NMC9DSJQ7DKJQGZ0AQ"
+}

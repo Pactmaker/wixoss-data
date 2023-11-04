@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】《绿1》: 展示我方手牌3张＜水兽＞精灵牌。若如此做，直到回合结束为止，该精灵力量+1000，获得【枪兵】能力。\n生命爆发: 抽1张牌。",
+  "card_lines": "啊——是“大海”呢。~玻璃蛙~",
+  "card_lrig_type": "",
+  "card_name": "幻水 玻璃蛙",
+  "card_no": "WXN03-SC157",
+  "card_sprite_type": "精生/水兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包03",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "1000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM89VXK7XAC4MGAVJQ6CKW"
+}

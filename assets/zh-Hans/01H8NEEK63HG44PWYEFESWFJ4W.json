@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该精灵攻击时，查看我方牌组顶3张牌。将其中1张持有《陷阱》的牌放置到检查区，剩下的牌按任意顺序放置到牌组底。那之后，发动用此方法放置到检查区的牌的《陷阱》。（那之后将那张牌放置到废弃区）\n【陷阱】: 将我方牌组顶2张牌放置到能量区。\n生命爆发: 从以下选择1项。①抽1张牌。②【能量填充1】",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "大罠　吓一跳",
+  "card_no": "SPEX1-SC041S",
+  "card_sprite_type": "精武/机关",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 夏日套装SPEX01（子件）",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "8000",
+  "rarity": "SEC",
+  "story": "",
+  "team": "",
+  "uid": "01H8NEEK63HG44PWYEFESWFJ4W"
+}

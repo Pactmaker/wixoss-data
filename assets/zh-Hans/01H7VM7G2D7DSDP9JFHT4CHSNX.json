@@ -1,0 +1,23 @@
+{
+  "card_effect": "以我方废弃区1张精灵牌为对象，若我方手牌为0张，将其加入手牌。\n若我方能量区没有牌，将我方牌组顶2张牌放置到能量区。\n若我方场上没有精灵，将我方手牌1张精灵牌出场。",
+  "card_lines": "被夺走一切之人，也能被称为幸存之人不是吗？",
+  "card_lrig_type": "",
+  "card_name": "危机·转机",
+  "card_no": "WXC01-SC035",
+  "card_sprite_type": "",
+  "card_type": "必杀",
+  "coin": "",
+  "color": "无",
+  "cost": "硬币2",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "Wixoss简体中文版 角色强化包01森罗轰咆",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "LC",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM7G2D7DSDP9JFHT4CHSNX"
+}

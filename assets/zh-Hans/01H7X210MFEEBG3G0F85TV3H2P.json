@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：我方1只精灵因效果出场时，以对方场上1只力量为15000以上的精灵为对象，可以支付【绿】。若如此做，将其破坏。（该精灵因效果出场时也发动）\n【自】：该精灵牌从我方能量区移动到手牌时，可以将我方手牌1张等级4的精灵牌以横置状态出场。\n生命爆发：以对方场上1只力量为10000以上的精灵为对象，将其破坏。",
+  "card_lines": "秘籍，攀爬架技法！~攀爬架~",
+  "card_lrig_type": "",
+  "card_name": "肆之游 攀爬架",
+  "card_no": "WXD08-SC016-A",
+  "card_sprite_type": "精武/游具",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSSTCG简体中文版起始牌组08开心乐园",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "ST",
+  "story": "",
+  "team": "",
+  "uid": "01H7X210MFEEBG3G0F85TV3H2P"
+}

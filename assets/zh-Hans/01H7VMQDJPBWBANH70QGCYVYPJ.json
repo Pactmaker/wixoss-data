@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 该精灵被破坏的情况下，可以改为丢弃手牌1张魔法牌。\n【出】丢弃手牌1张魔法牌: 以对方场上1只精灵为对象，将其破坏。\n【起】【攻击阶段】丢弃手牌2张魔法牌: 以对方场上1只精灵为对象，将其破坏。\n生命爆发: 展示我方牌组顶5张牌。将其中所有魔法牌加入手牌，剩下的牌按照任意顺序放置到牌组底。",
+  "card_lines": "我是Ｓ・Ｍ・Ｐ，听候您的吩咐。～Ｓ・Ｍ・Ｐ～",
+  "card_lrig_type": "",
+  "card_name": "核心代号 S・W・T",
+  "card_no": "WXN02-SC098",
+  "card_sprite_type": "精械/电机",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQDJPBWBANH70QGCYVYPJ"
+}

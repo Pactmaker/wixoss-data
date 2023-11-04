@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：该精灵将对方1只精灵破坏时，可以支付【无】。若如此做，将该精灵从场上放置到废弃区。那之后，以我方废弃区1张精灵牌为对象，将其以横置状态出场。",
+  "card_lines": "本应被丢弃的人偶...",
+  "card_lrig_type": "",
+  "card_name": "惨之游 †安娜贝尔†",
+  "card_no": "WXD08-SCP007",
+  "card_sprite_type": "精武/游具",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSSTCG简体中文版起始牌组08开心乐园",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "7000",
+  "rarity": "SP",
+  "story": "",
+  "team": "",
+  "uid": "01H7X210JYC36679F0Q9SC3BS7"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】: 以我方场上1只<武器>精灵为对象，查看我方牌组顶2张牌。将其中1张放置到其下方。剩余的牌放置到牌组底。\n（精灵下方放置的牌为正面表示）",
+  "card_lines": "想知道那位精灵的阶级吗？～阿尔玛德～",
+  "card_lrig_type": "",
+  "card_name": "爆书 阿尔玛德",
+  "card_no": "WXN04-SC173",
+  "card_sprite_type": "精武/武器",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "5000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJVGT3XYVCWA4A3ECNWG"
+}

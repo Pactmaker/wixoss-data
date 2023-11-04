@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：只要我方场上有3只力量为15000以上的精灵，该精灵获得【枪兵】和「【自】：该精灵攻击时，以对方场上1只精灵为对象，将其破坏。」的能力。\n生命爆发：以对方场上1只力量为10000以上的精灵为对象，将其破坏。",
+  "card_lines": "唔——很好！让我将你击飞吧！～青龙～",
+  "card_lrig_type": "",
+  "card_name": "幻兽 青龙",
+  "card_no": "WXD02-SC022-M",
+  "card_sprite_type": "精生/地兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文-起始牌组",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "ST",
+  "story": "",
+  "team": "",
+  "uid": "01H7X243V7XNP96393JZZMFDXV"
+}

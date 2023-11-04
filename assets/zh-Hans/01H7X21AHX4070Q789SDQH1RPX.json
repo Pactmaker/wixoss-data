@@ -1,0 +1,23 @@
+{
+  "card_effect": "【防御】（丢弃手牌中的该牌，将分身攻击的伤害防御一次）\n【常】：只要我方主分身不为<缪>，手牌中的该精灵牌失去【防御】。\n生命爆发：【能量填充1】",
+  "card_lines": "虫虫军团也是很可怕的哦！～油虫～",
+  "card_lrig_type": "",
+  "card_name": "幻虫 蚜虫",
+  "card_no": "WXD07-SCP010",
+  "card_sprite_type": "精生/凶虫",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSSTCG简体中文版起始牌组07千嗤万蠷",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "8000",
+  "rarity": "SP",
+  "story": "",
+  "team": "",
+  "uid": "01H7X21AHX4070Q789SDQH1RPX"
+}

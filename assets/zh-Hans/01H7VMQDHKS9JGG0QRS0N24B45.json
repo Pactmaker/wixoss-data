@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该精灵被破坏时，可以丢弃2张手牌。若如此做，将该精灵从能量区出场。\n【出】: 若我方手牌为0张，抽2张牌。\n【出】《红》: 以对方场上1只力量为「我方手牌张数×4000」以下的精灵为对象，将其破坏。\n【生命爆发】: 以对方场上1只力量为「我方手牌张数×4000」以下的精灵为对象，将其破坏。",
+  "card_lines": "破坏与再生...不对，是再破坏！～≡星陨≡～",
+  "card_lrig_type": "",
+  "card_name": "罗星姬 ≡星陨≡",
+  "card_no": "WXN02-SC086",
+  "card_sprite_type": "精罗/宇宙",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQDHKS9JGG0QRS0N24B45"
+}

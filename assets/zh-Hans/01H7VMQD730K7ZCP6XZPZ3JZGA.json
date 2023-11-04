@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 我方使用必杀牌时，可以将该精灵配置到我方其他的1个精灵区。若那个精灵区有精灵，改为将该精灵和那只精灵的位置交换。\n【自】【回合1】: 场上的该精灵移动到其他精灵区时，以我方场上1只精灵为对象，直到回合结束为止，其力量+2000，获得「【常】: 该精灵不受对方的精灵牌效果影响。」的能力。",
+  "card_lines": "欸～...等等人家嘛...。～蕾希～",
+  "card_lrig_type": "",
+  "card_name": "幻怪 蕾希",
+  "card_no": "WXN02-SC186",
+  "card_sprite_type": "精生/怪异",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "7000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQD730K7ZCP6XZPZ3JZGA"
+}

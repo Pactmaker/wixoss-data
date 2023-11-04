@@ -1,0 +1,23 @@
+{
+  "card_effect": "从以下3项选择1项。若我方的生命护甲为2张以下，改为选择最多2项。\n①展示我方牌组顶3张牌。将其中任意数量的不为无色的精灵牌出场，剩下的牌放置到废弃区。其【出】能力不发动。\n②以对方废弃区最多3张牌为对象，将其从游戏中除外。\n③以我方废弃区最多3张牌为对象，将其加入牌组并洗切。抽1张牌。",
+  "card_lines": "恭喜，来继续战斗吧！",
+  "card_lrig_type": "",
+  "card_name": "三重·命运",
+  "card_no": "SP09-SC001",
+  "card_sprite_type": "",
+  "card_type": "必杀",
+  "coin": "",
+  "color": "白/红",
+  "cost": "白1红1无1",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版兔年礼盒",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "特典包",
+  "story": "",
+  "team": "",
+  "uid": "01H7X171E5EZ40ETNWGXCBN8SV"
+}

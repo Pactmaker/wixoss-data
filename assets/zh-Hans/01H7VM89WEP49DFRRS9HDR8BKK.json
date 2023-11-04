@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 该牌上方的＜武器＞精灵获得「【起】《横置》: 以对方场上1只精灵为对象，直到回合结束为止，该精灵等级每有1级，其力量-2000。」的能力。",
+  "card_lines": "是否真实存在，很重要吗？~世界之书~",
+  "card_lrig_type": "",
+  "card_name": "弩书 世界之书",
+  "card_no": "WXN03-SC163",
+  "card_sprite_type": "精武/武器",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包03",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "10000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM89WEP49DFRRS9HDR8BKK"
+}

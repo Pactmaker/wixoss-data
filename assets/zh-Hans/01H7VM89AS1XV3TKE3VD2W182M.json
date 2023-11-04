@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 我方的主分身获得以下能力。\n【起】《回合1》《攻击阶段》超越1 : 将对象的我方1只精灵从场上放置到废弃区。若如此做，将对象的对方场上1只与那只精灵相同等级的精灵破坏。\n【常】: 我方的主分身变为黑色。\n【起】《回合1》《攻击阶段》《黑0》: 以对方场上1只精灵为对象，直到回合结束为止，其等级-1。",
+  "card_lines": "获得救赎后的房间里，闪耀的水滴。",
+  "card_lrig_type": "",
+  "card_name": "添遂的阎魔 乌莉丝",
+  "card_no": "WXN03-SC015",
+  "card_sprite_type": "",
+  "card_type": "钥匙",
+  "coin": "",
+  "color": "黑",
+  "cost": "硬币2",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包03",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "LR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM89AS1XV3TKE3VD2W182M"
+}

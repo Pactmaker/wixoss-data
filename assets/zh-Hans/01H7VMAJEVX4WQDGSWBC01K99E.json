@@ -1,0 +1,23 @@
+{
+  "card_effect": "从以下4项选择最多2项。\n①以对方场上1只精灵为对象，直到回合结束为止，其力量-8000。\n②以我方废弃区最多2张等级2以下的黑色精灵牌为对象，将其加入手牌。\n③所有玩家自己的主分身等级每有1级，将自己牌组顶3张牌放置到废弃区。\n④以对方场上1只精灵为对象，若我方废弃区的牌为25张以上，将其放置到废弃区。",
+  "card_lines": "半径大约50米？紫宝石水花！～阿尔芙～",
+  "card_lrig_type": "",
+  "card_name": "紫色飞溅",
+  "card_no": "WXN04-SC057",
+  "card_sprite_type": "",
+  "card_type": "必杀",
+  "coin": "",
+  "color": "黑",
+  "cost": "黑2无1",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "LC",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJEVX4WQDGSWBC01K99E"
+}

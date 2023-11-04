@@ -1,0 +1,23 @@
+{
+  "card_effect": "【防御】（丢弃手牌中的该牌，将分身攻击的伤害防御一次）\n【常】：【万花色】（支付能量作为费用之际，该牌可以视为任意1种颜色进行支付）\n【生命爆发】：抽1张牌。",
+  "card_lines": "被分类为红色的愿望，\n多数为军事方面的支援。\n被分类为蓝色的愿望，\n多数为政治方面的支援。",
+  "card_lrig_type": "",
+  "card_name": "侍从 D3",
+  "card_no": "WXD09-SC016",
+  "card_sprite_type": "精元",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "无",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版起始牌组09",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "5000",
+  "rarity": "ST",
+  "story": "",
+  "team": "",
+  "uid": "01H7X1PTT1WT84JNK3JFDG9CPN"
+}

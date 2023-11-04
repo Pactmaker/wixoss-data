@@ -1,0 +1,23 @@
+{
+  "card_effect": "从以下3项选择其中1项。\n①所有玩家将自己牌组顶7张牌放置到废弃区。\n②以我方废弃区1张等级3以下的<古代兵器>精灵牌为对象，将其出场。\n③若我方废弃区的牌为10张以上，直到回合结束为止，对方场上所有精灵的力量-5000。若为20张以上，改为直到回合结束为止，对方场上所有精灵的力量-8000。",
+  "card_lines": "伟大的典籍，悠远的真相，你能够理解吗?~乌姆尔~",
+  "card_lrig_type": "",
+  "card_name": "远古惊叹",
+  "card_no": "PR-SC016",
+  "card_sprite_type": "",
+  "card_type": "必杀",
+  "coin": "",
+  "color": "黑",
+  "cost": "黑1无2",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "PR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3XDRA3CR5553VCGCMWNN"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】《节拍》［4张以下 ］将该精灵和其他1只精灵成为【节拍】: 以我方废弃区1张《炎魔的阳杖 托碧耶尔》以外的<恶魔>精灵牌为对象，将其出场。\n（该能力只有在我方的【节拍】为4张以下的情况下有效。因支付费用将【节拍】变为5张以上也能发动。）\n（我方持有【节拍】直到回合结束，之后将其放置到废弃区。）",
+  "card_lines": "我已经等不及了啊！！～托碧耶尔～",
+  "card_lrig_type": "",
+  "card_name": "炎魔的阳杖 托碧耶尔",
+  "card_no": "WXC02-SC057",
+  "card_sprite_type": "精像/恶魔",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版角色强化包02深渊歌叹",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "10000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMNTZ7H1ARYWJTXWFKJVK9"
+}

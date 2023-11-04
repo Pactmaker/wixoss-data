@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 我方场上所有<乘机>精灵的力量+1000。\n【自】【回合1】: 我方1只精灵进入驾驶状态时，直到回合结束为止，我方场上所有<乘机>精灵的力量+2000。",
+  "card_lines": "我来解决他们吧！～吹雪～",
+  "card_lrig_type": "",
+  "card_name": "骑乘代号 吹雪",
+  "card_no": "WXN01-SC134",
+  "card_sprite_type": "精械/乘机",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "7000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3X3705ZNS7YYRRGYV49P"
+}

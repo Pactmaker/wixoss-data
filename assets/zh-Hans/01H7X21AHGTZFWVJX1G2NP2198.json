@@ -1,0 +1,23 @@
+{
+  "card_effect": "若我方生命护甲为2张以下，该必杀牌追加持有【攻击阶段】。\n以我方废弃区3张精灵为对象，若我方场上没有精灵，将其当作不持有能力的精灵出场。回合结束时，将其从场上放置到废弃区。",
+  "card_lines": "讨厌，别过来。~缪~",
+  "card_lrig_type": "",
+  "card_name": "墓穴突袭",
+  "card_no": "WXD07-SCP005",
+  "card_sprite_type": "",
+  "card_type": "必杀",
+  "coin": "",
+  "color": "黑",
+  "cost": "黑1",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSSTCG简体中文版起始牌组07千嗤万蠷",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "SP",
+  "story": "",
+  "team": "",
+  "uid": "01H7X21AHGTZFWVJX1G2NP2198"
+}

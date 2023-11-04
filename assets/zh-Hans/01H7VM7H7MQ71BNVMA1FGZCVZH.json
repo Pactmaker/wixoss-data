@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该精灵攻击时，以对方场上1只精灵为对象，若我方手牌为7张以上，将其放置到牌组顶。\n【起】【蓝】: 对方展示自己牌组顶1张牌。\n【生命爆发】: 以对方场上1只精灵为对象，将其放置到牌组顶。",
+  "card_lines": "先推一下，不行就拉。～红龙鱼～",
+  "card_lrig_type": "",
+  "card_name": "幻水姬 红龙鱼",
+  "card_no": "WXC01-SC043",
+  "card_sprite_type": "精生/水兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "Wixoss简体中文版 角色强化包01森罗轰咆",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM7H7MQ71BNVMA1FGZCVZH"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "宣言1个数字。展示我方牌组顶3张牌。若其中有等级与宣言数字相同的精灵牌，以对方场上1只精灵为对象，将其返回手牌。展示的牌按照任意顺序返回牌组顶。",
+  "card_lines": "小玉好像开始逐渐理解了。～小玉～",
+  "card_lrig_type": "",
+  "card_name": "现代界限",
+  "card_no": "WXD01-SCP06",
+  "card_sprite_type": "",
+  "card_type": "必杀",
+  "coin": "",
+  "color": "白",
+  "cost": "白1无1",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSSTCG简体中文版起始牌组01黑白穿光light cross by chaos",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "SP",
+  "story": "",
+  "team": "",
+  "uid": "01H840RJDN01ERXN1QKQ748AYD"
+}

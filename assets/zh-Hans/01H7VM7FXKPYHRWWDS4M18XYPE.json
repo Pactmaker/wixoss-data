@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 只要我方主分身为蓝色且我方手牌为7张以上，该精灵获得【暗杀】能力。\n【自】: 我方回合结束时，若我方手牌为7张以上，将该精灵从场上放置到废弃区。\n【生命爆发】: 选择其中1项。①抽1张牌。②【能量填充1】",
+  "card_lines": "因为很恐怖，所以要轻轻地。～莱氏拟乌贼～",
+  "card_lrig_type": "",
+  "card_name": "幻水 莱氏拟乌贼",
+  "card_no": "WXC01-SC081",
+  "card_sprite_type": "精生/水兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "Wixoss简体中文版 角色强化包01森罗轰咆",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "8000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM7FXKPYHRWWDS4M18XYPE"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 【暗杀】\n【常】: 【双重击溃】\n【生命爆发】: 以对方场上力量合计为10000以下的任意数量的精灵为对象，将其破坏。",
+  "card_lines": "在激战中穿过了狭窄的登龙门的传说之龙。",
+  "card_lrig_type": "",
+  "card_name": "幻龙神姬 巴哈姆特",
+  "card_no": "WXC01-SC036",
+  "card_sprite_type": "精生/龙兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "Wixoss简体中文版 角色强化包01森罗轰咆",
+  "grow_price": "",
+  "level": "5",
+  "limit": "",
+  "power": "15000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM7H70397DKS3TSKP94ZGB"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 只要我方手牌数为4张以上，该精灵的力量+3000，该精灵获得【暗影（魔法）】的能力。（该精灵不能被对方的魔法取为对象）\n【自】: 该精灵破坏对方1只精灵时，抽1张牌。",
+  "card_lines": "「甘兴第一个上船！」",
+  "card_lrig_type": "",
+  "card_name": "苍将 甘兴",
+  "card_no": "WXN04-SC110",
+  "card_sprite_type": "奏像/武勇",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "10000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJNNJTR7P84JAJ42F680"
+}

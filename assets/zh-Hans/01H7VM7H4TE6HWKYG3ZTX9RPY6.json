@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该精灵攻击时，若该精灵的力量为10000以上，抽1张牌，直到回合结束为止，该精灵获得【枪兵】能力。\n（持有【枪兵】能力的精灵战斗破坏精灵时，击溃对方1张生命护甲）\n【生命爆发】: 选择其中1项。①以对方场上1只力量为12000以上的精灵为对象，将其破坏。②【能量填充1】",
+  "card_lines": "我绝不会弃守此地。～喀戎～",
+  "card_lrig_type": "",
+  "card_name": "幻怪 喀戎",
+  "card_no": "WXC01-SC066",
+  "card_sprite_type": "精生/怪异",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "Wixoss简体中文版 角色强化包01森罗轰咆",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "8000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM7H4TE6HWKYG3ZTX9RPY6"
+}

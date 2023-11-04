@@ -1,0 +1,23 @@
+{
+  "card_effect": "再演-将我方主分身下2张牌放置到分身废弃区\n从以下3项选择1项。\n①从我方牌组检索最多2张持有与我方主分身共通颜色的牌并将其放置到能量区，洗切牌组。\n②此回合中，对方的主分身或者精灵攻击时，若那次攻击为此回合的第一次攻击，将那次攻击无效。\n③直到回合结束为止，对方场上所有精灵失去【暗影】【暗杀】【枪兵】【双重击溃】的能力，不能获得新的上述能力。",
+  "card_lines": "我的回合！～妈妈～",
+  "card_lrig_type": "",
+  "card_name": "决斗文具",
+  "card_no": "PR-SC192",
+  "card_sprite_type": "",
+  "card_type": "必杀",
+  "coin": "",
+  "color": "绿",
+  "cost": "绿1",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 店赛PR包11",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "PR",
+  "story": "",
+  "team": "",
+  "uid": "01H7X7P6F8FGDY3V7HCQ2CBCV4"
+}

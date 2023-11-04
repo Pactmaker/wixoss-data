@@ -1,0 +1,23 @@
+{
+  "card_effect": "若对方主分身的颜色为绿色，该牌的基本费用变为【绿1】。\n将我方牌组顶1张牌加入生命护甲。",
+  "card_lines": "守护至今的，不只有时间。",
+  "card_lrig_type": "",
+  "card_name": "全身全灵",
+  "card_no": "WXD02-SCP06",
+  "card_sprite_type": "",
+  "card_type": "必杀",
+  "coin": "",
+  "color": "绿",
+  "cost": "绿1无3",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文-起始牌组",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "7000",
+  "rarity": "SP",
+  "story": "",
+  "team": "",
+  "uid": "01H7X243S4F2BZRTC2546TDDHW"
+}

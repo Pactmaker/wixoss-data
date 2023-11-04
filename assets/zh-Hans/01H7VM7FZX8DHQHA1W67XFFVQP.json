@@ -1,0 +1,23 @@
+{
+  "card_effect": "【成长】我方主分身的卡牌名包含《游月》。\n【出】: 以对方能量区最多3张牌为对象，将其放置到废弃区。\n【起】【回合1】超越1: 以对方能量区1张牌为对象，将其放置到废弃区。\n【起】超越2: 将我方手牌1张红色魔法牌不支付费用使用。",
+  "card_lines": "欸，露子，我们都会变得幸福的吧。～游月～",
+  "card_lrig_type": "游月",
+  "card_name": "游月·伍",
+  "card_no": "WXC01-SC011",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "Wixoss简体中文版 角色强化包01森罗轰咆",
+  "grow_price": "",
+  "level": "5",
+  "limit": "12",
+  "power": "",
+  "rarity": "LC",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM7FZX8DHQHA1W67XFFVQP"
+}

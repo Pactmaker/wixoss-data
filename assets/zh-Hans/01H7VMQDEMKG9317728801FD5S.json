@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该精灵攻击时，以对方场上1只精灵为对象，若此攻击阶段中有我方精灵从场上被放置到废弃区，直到回合结束为止，其力量-7000。",
+  "card_lines": "盈利超群，这可是买卖的吉祥物哦。～†信乐烧†～",
+  "card_lrig_type": "",
+  "card_name": "惨之游 †信乐烧†",
+  "card_no": "WXN02-SC143",
+  "card_sprite_type": "精武/游具",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "7000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQDEMKG9317728801FD5S"
+}

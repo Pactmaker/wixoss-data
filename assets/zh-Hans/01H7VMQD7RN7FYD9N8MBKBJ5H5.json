@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】将我方场上任意数量的【魅饰】放置到废弃区: 以对方场上1只精灵为对象，直到回合结束为止，用此方法放置到废弃区的【魅饰】每有1张，其力量-7000。\n【起】《黑》【横置】: 将对象的我方废弃区最多3张牌成为对象的我方场上任意数量<恶魔>精灵的【魅视】。",
+  "card_lines": "死刑，立即执行。～妲艾瓦～",
+  "card_lrig_type": "",
+  "card_name": "明灭的罪雅 妲艾瓦",
+  "card_no": "WXN02-SC196",
+  "card_sprite_type": "精像/恶魔",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "10000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQD7RN7FYD9N8MBKBJ5H5"
+}

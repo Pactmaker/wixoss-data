@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】《黑》: 展示我方牌组顶1张牌。若其为<武器>精灵牌，将其加入手牌。",
+  "card_lines": "简单地说，就是所罗门图鉴吧。～盖提亚～",
+  "card_lrig_type": "",
+  "card_name": "小书 盖提亚",
+  "card_no": "WXN04-SC174",
+  "card_sprite_type": "精武/武器",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "2000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJVK4S29V58M4KGTQ63G"
+}

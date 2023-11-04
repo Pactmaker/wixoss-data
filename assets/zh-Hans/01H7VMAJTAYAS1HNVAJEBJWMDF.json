@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】: 若我方能量区的<植物>精灵牌为7张以上，将我方牌组顶1张牌放置到能量区。\n【出】《绿》: 从我方牌组检索1张等级3以下的<植物>精灵牌将其展示并加入手牌，洗切牌组。\n生命爆发: 【能量填充1】",
+  "card_lines": "等等！这样会妨碍扫除的哦。主人。～芒草～",
+  "card_lrig_type": "",
+  "card_name": "罗植 芒草",
+  "card_no": "WXN04-SC160",
+  "card_sprite_type": "精罗/植物",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包04",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "3000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMAJTAYAS1HNVAJEBJWMDF"
+}

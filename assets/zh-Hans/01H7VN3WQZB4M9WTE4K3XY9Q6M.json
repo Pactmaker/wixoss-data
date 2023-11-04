@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】《黑》: 以我方废弃区1张精灵牌为对象，将其加入手牌。\n【起】丢弃手牌2张黑色精灵牌: 以对方场上1只精灵为对象，将其破坏。\n【起】【回合1】超越2（将我方分身下方合计2张牌放置到分身废弃区）: 将我方场上1只黑色精灵放置到废弃区。若如此做，将我方牌组顶1张牌加入生命护甲。",
+  "card_lines": "这是不可击溃的力量...。",
+  "card_lrig_type": "乌莉丝",
+  "card_name": "红莲阎魔 乌莉丝",
+  "card_no": "WXN01-SC018",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "黑3",
+  "level": "4",
+  "limit": "11",
+  "power": "",
+  "rarity": "LR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3WQZB4M9WTE4K3XY9Q6M"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该精灵攻击时，以对方场上1只精灵为对象，可以支付《白》《绿1》。若如此做，将其返回手牌 。\n【自】: 该精灵被破坏时，将我方牌组顶1张牌放置到能量区。\n生命爆发: 从我方牌组检索最多1张白色＜美巧＞精灵牌和最多1张绿色＜美巧＞精灵牌将其展示并加入手牌，洗切牌组。",
+  "card_lines": "来吧，让我们一起闻名世界吧！~亚文化~",
+  "card_lrig_type": "",
+  "card_name": "双演的趣向 “亚文化”",
+  "card_no": "WXN03-SC087",
+  "card_sprite_type": "精像/美巧",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "白",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包03",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VM89H68F6N2M6TKD1Q0Q7P"
+}

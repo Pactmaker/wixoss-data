@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 该精灵攻击时，若该精灵的力量为10000以上，将对象的对方场上1只力量为7000以下的精灵破坏。\n生命爆发: 从以下选1项。①以对方场上1只力量为3000以下的精灵为对象，将其破坏。②【能量填充1】",
+  "card_lines": "战斗即将开始。~零战~",
+  "card_lrig_type": "",
+  "card_name": "骑乘代号 零战",
+  "card_no": "SP09-SC022P",
+  "card_sprite_type": "精械/乘机",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版兔年礼盒",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "5000",
+  "rarity": "强化包",
+  "story": "",
+  "team": "",
+  "uid": "01H7X171JVAGGRC44P50X8YE0X"
+}

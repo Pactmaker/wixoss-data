@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 只要我方废弃区的牌不为18张以上，该精灵不能攻击。\n【自】: 该精灵攻击时，对方以自己场上1只精灵为对象，将其放置到废弃区。\n【起】《横置》: 所有玩家将自己牌组顶3张牌放置到废弃区。",
+  "card_lines": "妈妈，快看快看！～小摇～",
+  "card_lrig_type": "",
+  "card_name": "舞踏的小恶 小摇",
+  "card_no": "WXC02-SC056",
+  "card_sprite_type": "精像/恶魔",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版角色强化包02深渊歌叹",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "3000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMNV476FW7JVKG2WHK4X27"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 1张牌从我方能量区移动到手牌时，可以将该精灵破坏。那之后，若用此效果将该精灵破坏，以我方能量区1张精灵牌为对象，将其以横置状态出场。\n【自】: 该牌从手牌或牌组放置到废弃区时，若我方主分身为<艾娅伊>，将该牌从废弃区放置到能量区。\n生命爆发: 将我方牌组顶1张牌放置到能量区。若其为<游具>精灵牌，追加抽1张牌。",
+  "card_lines": "水流跃，水龙舞！～水滑梯～",
+  "card_lrig_type": "",
+  "card_name": "叁之游 水滑梯",
+  "card_no": "WXN02-SC104",
+  "card_sprite_type": "精武/游具",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "8000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQDK250C29P1VSVRSTGGX"
+}

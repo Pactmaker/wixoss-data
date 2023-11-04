@@ -1,0 +1,23 @@
+{
+  "card_effect": "若对方主分身的颜色为红色，该牌的基本费用变为【蓝1】。\n\n在不查看对方手牌的情况下挑选其中2张，将其丢弃。",
+  "card_lines": "元素飞溅！灭除烈焰！",
+  "card_lrig_type": "",
+  "card_name": "双重除灰",
+  "card_no": "WXD04-SCP06",
+  "card_sprite_type": "",
+  "card_type": "必杀",
+  "coin": "",
+  "color": "蓝",
+  "cost": "蓝1无3",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSSTCG简体中文版起始牌组04苍之链结connect of blueness",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "SP",
+  "story": "",
+  "team": "",
+  "uid": "01H7X20MQ1AW9ZMVTYBDT85S8K"
+}

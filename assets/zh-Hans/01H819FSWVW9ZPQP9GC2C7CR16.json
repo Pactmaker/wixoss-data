@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：该精灵被破坏时，可以支付【绿】。若如此做，从我方牌组检索1张等级2的<龙兽>精灵牌，将其展示并加入手牌，洗切牌组。\n生命爆发:抽1张牌。",
+  "card_lines": "真可惜，就算切掉了尾巴也能重新长回来呢～ ～#壁虎#～",
+  "card_lrig_type": "",
+  "card_name": "幻龙 #壁虎#",
+  "card_no": "PR-SC082",
+  "card_sprite_type": "精生/龙兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》线下店铺比赛物料卡（金包）",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "2000",
+  "rarity": "PR",
+  "story": "",
+  "team": "",
+  "uid": "01H819FSWVW9ZPQP9GC2C7CR16"
+}

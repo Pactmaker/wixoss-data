@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】: 以对方场上1只精灵为对象，可以将对方牌组顶1张牌成为其【魅饰】。（【魅饰】以背面表示附着到精灵下方，1只精灵最多附着1张【魅饰】）\n生命爆发：选择其中1项。①对方场上每有1只精灵，对方将自己牌组顶1张牌成为对方场上1只精灵的【魅饰】。②以对方场上1只精灵为对象，直到回合结束为止，其力量-5000。",
+  "card_lines": "比起屎壳郎还是我比较好看吧？～吉丁虫～",
+  "card_lrig_type": "",
+  "card_name": "幻虫 吉丁虫",
+  "card_no": "WXN02-SC141",
+  "card_sprite_type": "精生/凶虫",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 新世代强化包02",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "8000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMQDEGP2YBEG5TSZ4CK40B"
+}

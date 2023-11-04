@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】: 对方回合结束时，可以将该精灵破坏。若如此做，查看我方牌组顶4张牌，将其中1张牌作为【陷阱】在我方精灵区设置。剩下的牌按任意顺序放置到牌组底。\n【陷阱】: 以我方废弃区1张牌为对象，可以支付《无》。若如此做，该牌获得其陷阱能力，发动那个能力。\n生命爆发: 【能量填充1】",
+  "card_lines": "无精灵操纵的在来线爆弹陷阱、要发射咯！～列车炸弹～",
+  "card_lrig_type": "",
+  "card_name": "小罠 列车炸弹",
+  "card_no": "WXC03-SC045",
+  "card_sprite_type": "精武/机关",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版角色强化包03 万花镜映",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "2000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01H7VMA68HZV422WE3KNPGAYK8"
+}

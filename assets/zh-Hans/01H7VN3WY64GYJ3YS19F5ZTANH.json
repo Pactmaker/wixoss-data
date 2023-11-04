@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】: 我方场上所有绿色精灵的力量+2000。\n【常】: 只要我方场上有绿色精灵，该精灵的基本力量变为5000。",
+  "card_lines": "诶，红玉，我交到朋友了哦。～刚玉～",
+  "card_lrig_type": "",
+  "card_name": "罗石 刚玉",
+  "card_no": "WXN01-SC202",
+  "card_sprite_type": "精罗/宝石",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版超世代强化包01",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "2000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01H7VN3WY64GYJ3YS19F5ZTANH"
+}
