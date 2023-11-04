@@ -1,0 +1,46 @@
+#!/usr/bin/env bash
+
+set -euo pipefail
+shopt -s nullglob
+
+LC_ALL="C"
+LANG="C"
+LANGUAGE="C"
+SCRIPT_DIR="$(dirname "$(realpath "$0")")"
+
+DATA_DIR="$SCRIPT_DIR/../assets/zh-Hans/"
+
+REFERENCE_RESOLUTIONS=(
+    #"513x710"   # Smaller than normal size
+    #"710x513"   # Smaller than normal size
+
+    "750x537"
+    "750x541"
+    "750x542"
+    "750x544"
+    "750x1023"
+    "750x1034"
+    "750x1037"
+    "750x1038"
+    "750x1039"
+    "750x1048"
+    "750x1071"
+)
+
+for i in "$DATA_DIR"*.webp
+do
+    WEBP_INFO="$(webpinfo "$i")"
+
+    if ! RESOLUTION="$(grep "Canvas size" <<< "$WEBP_INFO" | awk '{printf $3"x"$5}')"
+    then
+        echo "$(basename "$i"): no canvas size!"
+    elif [[ ! " ${REFERENCE_RESOLUTIONS[*]} " =~ " $RESOLUTION " ]]
+    then
+        echo "$(basename "$i"): non-standard resolution $RESOLUTION!"
+    fi
+
+    if ! grep "Chunk ALPH" <<< "$WEBP_INFO" &>/dev/null
+    then
+        echo "$(basename "$i"): missing alpha channel!"
+    fi
+done
