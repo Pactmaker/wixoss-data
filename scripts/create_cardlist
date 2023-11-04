@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+
+set -euo pipefail
+shopt -s nullglob
+
+LC_ALL="C"
+LANG="C"
+LANGUAGE="C"
+SCRIPT_DIR="$(dirname "$(realpath "$0")")"
+
+DATA_DIR="$SCRIPT_DIR/../assets/zh-Hans/"
+
+jq -c -s . "$DATA_DIR/"*.json > "$DATA_DIR/cards.json"
