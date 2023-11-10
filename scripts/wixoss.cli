@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+set -euo pipefail
+shopt -s nullglob
+
+LC_ALL="C"
+LANG="C"
+LANGUAGE="C"
+SCRIPT_DIR="$(dirname "$(realpath "$0")")"
+
+dotnet run --project "$SCRIPT_DIR/../../pactmaker.github.io/Wixoss.CLI" -- "$@"
