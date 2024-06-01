@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：我方攻击阶段开始时，若我方手牌为6张以上，可以支付《绿》。若如此做，直到回合结束为止，该精灵获得【枪兵】能力。\n（持有【枪兵】能力的精灵战斗破坏精灵时，击溃对方1张生命护甲）",
+  "card_lines": "「这具身体，可是有储水细胞的哟。」",
+  "card_lrig_type": "",
+  "card_name": "幻水 海花草",
+  "card_no": "WXN05-SC122",
+  "card_sprite_type": "奏生/水兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包05",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "5000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01HFCXS2M9D3VE5YB97TYKHRN8"
+}

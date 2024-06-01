@@ -1,0 +1,23 @@
+{
+  "card_effect": "以我方的1只红色精灵为对象，若其下方没有牌，将该牌放置到其下方。\n【常】：该牌上方的红色精灵获得「【自】：我方攻击阶段开始时，【能量填充1】。」的能力。\n【常】：该牌上方的《加速代号　嘿哈》的力量+2000。\n生命爆发：以对方的1只竖置状态的精灵为对象，将其破坏。",
+  "card_lines": "「嘿呀哈！」～艾克斯～",
+  "card_lrig_type": "",
+  "card_name": "世纪末的暴走",
+  "card_no": "WXDi-PSC01-079",
+  "card_sprite_type": "",
+  "card_type": "魔法",
+  "coin": "",
+  "color": "红",
+  "cost": "红0",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA强化包01",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "R",
+  "story": "无",
+  "team": "",
+  "uid": "01HTHMD0X1C3EDB42RE7Y69K63"
+}

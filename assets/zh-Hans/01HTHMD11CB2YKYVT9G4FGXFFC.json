@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常icon】：我方回合中，我方中央精灵区的精灵的力量+3000。\n【出icon】：抽1张牌并【能量填充1】。\n【起icon】《游戏1icon》《红0icon》：抽2张牌并【能量填充2】。此回合结束时，将我方手牌和能量区的所有牌放置到废弃区。",
+  "card_lines": "「有一些，大胆呢…？」",
+  "card_lrig_type": "平和",
+  "card_name": "迈向闪耀的一步　平和",
+  "card_no": "WXDi-PSC01-002S",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA强化包01",
+  "grow_price": "",
+  "level": "3",
+  "limit": "6",
+  "power": "",
+  "rarity": "SCR",
+  "story": "无",
+  "team": "",
+  "uid": "01HTHMD11CB2YKYVT9G4FGXFFC"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】：查看我方牌组顶1张牌。若其为等级2以下的精灵牌且我方场上没有其他精灵存在，可以将其出场。\n生命爆发：抽1张牌。",
+  "card_lines": "有人呼唤我才飞过来的，没人叫我吗？～炽天～",
+  "card_lrig_type": "",
+  "card_name": "出弓 炽天",
+  "card_no": "WXN05-SC137",
+  "card_sprite_type": "精武/武装",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "白",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包05",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "5000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01HFCXS2PCEA21BG1ABFTWH4PJ"
+}

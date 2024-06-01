@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：对方的1只以上的精灵移动到其他精灵区时，以我方的1只精灵为对象，直到回合结束为止，其力量+2000。\n【出】：以对方的2只精灵为对象，将其位置交换。\n生命爆发：【能量填充1】。此回合中，下次我方因精灵受到伤害时，改为不受到伤害。",
+  "card_lines": "「东京特许许可局。」",
+  "card_lrig_type": "",
+  "card_name": "迷宫代号　东京都厅",
+  "card_no": "WXDi-DSC05-014",
+  "card_sprite_type": "奏械/迷宫",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA出道牌组05 DIAGRAM",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "3000",
+  "rarity": "ST",
+  "story": "无",
+  "team": "",
+  "uid": "01HTHMCB4VGNTKDV7GN5RD6NPE"
+}

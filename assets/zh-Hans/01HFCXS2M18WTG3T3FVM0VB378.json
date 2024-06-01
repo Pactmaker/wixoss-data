@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】：查看我方牌组顶3张牌。将其中1张持有《附属》的精灵牌展示并加入手牌。剩下的牌按任意顺序放置到牌组底。\n生命爆发：抽1张牌。",
+  "card_lines": "让我们献上一些鲜花吧？～菱饼～",
+  "card_lrig_type": "",
+  "card_name": "食用代号 菱饼",
+  "card_no": "WXN05-SC119",
+  "card_sprite_type": "精械/调理",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包05",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "1000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01HFCXS2M18WTG3T3FVM0VB378"
+}

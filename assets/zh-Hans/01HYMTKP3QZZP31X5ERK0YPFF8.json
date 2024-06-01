@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】《回合1》：我方回合中，我方的1只共鸣精灵出场时，从以下3项选择1项。\n①抽1张牌，【能量填充1】。\n②以对方的1只精灵为对象，将其返回手牌。\n③直到回合结束为止，那只共鸣精灵获得「【常】：不会被破坏。」的能力。\n【起】《攻击阶段》《硬币》《硬币》：直到回合结束为止，对方的所有精灵获得「【常】：只要我方不支付《无》《无》则不能攻击。」的能力。",
+  "card_lines": "",
+  "card_lrig_type": "莎榭",
+  "card_name": "快抱的使者　莎榭",
+  "card_no": "WXN06-SC003P",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "2",
+  "color": "白",
+  "cost": "",
+  "env": "",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 超世代强化包06",
+  "grow_price": "白0",
+  "level": "4",
+  "limit": "11",
+  "power": "",
+  "rarity": "LRP",
+  "story": "无",
+  "team": "",
+  "uid": "01HYMTKP3QZZP31X5ERK0YPFF8"
+}

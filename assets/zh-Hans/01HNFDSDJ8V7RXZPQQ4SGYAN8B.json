@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：攻击阶段中，任意玩家将1张牌加入手牌时，以对方的1只精灵为对象，可以支付《白》，将竖置状态的该精灵横置。若如此做，将其返回手牌。\n【出】：若我方废弃区有卡牌名含有《当代》的牌，从我方牌组检索1张<美巧>精灵牌并将其放置到能量区，洗切牌组。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "文脉的攻防　近代",
+  "card_no": "SPEX2-SC096",
+  "card_sprite_type": "精像/美巧",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版选择者收藏包SPEX2",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "7000",
+  "rarity": "C",
+  "story": "无",
+  "team": "无",
+  "uid": "01HNFDSDJ8V7RXZPQQ4SGYAN8B"
+}

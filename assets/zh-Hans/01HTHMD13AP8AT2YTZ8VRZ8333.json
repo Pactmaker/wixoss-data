@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：对方的1只冻结状态的精灵离开场上时，将我方牌组顶1张牌放置到该精灵下方。（以正面放置）\n【自】：各攻击阶段开始时，将该精灵下方1张牌加入手牌或放置到能量区。\n【出】：以对方的最多2只精灵为对象，将其冻结。\n生命爆发：以对方的1只精灵为对象，将其横置并冻结。抽1张牌。",
+  "card_lines": "「轻飘飘、软绵绵、甜蜜蜜、笑嘻嘻！」",
+  "card_lrig_type": "",
+  "card_name": "点单代号　华夫冰淇淋",
+  "card_no": "WXDi-PSC01-063P",
+  "card_sprite_type": "奏械/调理",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA强化包01",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "10000",
+  "rarity": "SRP",
+  "story": "无",
+  "team": "",
+  "uid": "01HTHMD13AP8AT2YTZ8VRZ8333"
+}

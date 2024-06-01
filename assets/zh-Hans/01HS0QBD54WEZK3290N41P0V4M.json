@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：该精灵攻击时，以对方的1只精灵为对象，可以将我方的1只精灵从场上放置到废弃区。若如此做，直到回合结束为止，其力量-5000。",
+  "card_lines": "「今天的战斗请多多指教呢，诶嘿嘿。」～阿里通～\n「什么情况？为什么要这样笑着说啊！」～派蒙～",
+  "card_lrig_type": "",
+  "card_name": "凶魔 派蒙",
+  "card_no": "SP06-SC048",
+  "card_sprite_type": "奏像/恶魔",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 店赛冠军包04",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "5000",
+  "rarity": "SP",
+  "story": "",
+  "team": "",
+  "uid": "01HS0QBD54WEZK3290N41P0V4M"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：我方回合中，我方的附有【灵魂】的精灵正面的精灵的力量-2000。\n【起】《黑0》：以我方的1只精灵为对象，将该分身下方的1张牌成为那只精灵的【灵魂】。\n【起】《游戏1》超越3：以我方废弃区最多3张不持有《防御》的精灵牌为对象，将我方分身牌组的1张碎片牌从游戏除外。若如此做，将其加入手牌。",
+  "card_lines": "「看好了，这就是迪乌斯大人的力量！」",
+  "card_lrig_type": "迪乌斯",
+  "card_name": "迪乌斯・THREE",
+  "card_no": "WXDi-PSC01-005",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA强化包01",
+  "grow_price": "黑2",
+  "level": "3",
+  "limit": "6",
+  "power": "",
+  "rarity": "LR",
+  "story": "无",
+  "team": "DXM",
+  "uid": "01HTHMD0RAPVE9ERZXW114SS25"
+}

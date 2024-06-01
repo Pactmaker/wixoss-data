@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：被该牌作为【灵魂】附有的精灵获得「【自】《回合1》：该精灵攻击时，以对方的1只等级2以下的精灵为对象，将其破坏。」的能力。\n（【灵魂】在精灵上最多附有1张，那只精灵离开场上时，【灵魂】放置到分身废弃区）",
+  "card_lines": "「能理解吗？这便是，力量的差距。」",
+  "card_lrig_type": "玛琪娜",
+  "card_name": "玛琪娜・TWO",
+  "card_no": "WXDi-PSC01-021",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA强化包01",
+  "grow_price": "黑1",
+  "level": "2",
+  "limit": "5",
+  "power": "",
+  "rarity": "LC",
+  "story": "无",
+  "team": "DXM",
+  "uid": "01HTHMD0S9KX0M6G4J69JKR6SB"
+}

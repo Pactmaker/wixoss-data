@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：我方回合中，对方的1只精灵出场时，若那只精灵的力量为8000以下，将其破坏。\n【出】《红》《红》《红》：若我方场上卡牌名含有《烈炎军团》的精灵为3只，将对方的所有精灵破坏。\n生命爆发：以对方的1只精灵为对象，将其破坏。若我方废弃区卡牌名含有《烈炎军团》的精灵牌为10张以上，击溃对方的1张生命护甲。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "击弩炎　烈炎军团大将",
+  "card_no": "WXN06-SC045S",
+  "card_sprite_type": "精武/武器",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 超世代强化包06",
+  "grow_price": "",
+  "level": "5",
+  "limit": "",
+  "power": "15000",
+  "rarity": "SEC",
+  "story": "无",
+  "team": "",
+  "uid": "01HYMTKP88XA43YPQ4P7PEMMRJ"
+}

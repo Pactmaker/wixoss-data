@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】：以对方能量区1张牌为对象，可以将其放置到废弃区。若如此做，对方可以【能量填充1】。\n生命爆发：以对方的1只力量为8000以下的精灵为对象，可以支付《红》。若如此做，将其破坏。",
+  "card_lines": "ー瞄准对方看起来必要的颜色吧！",
+  "card_lrig_type": "",
+  "card_name": "骑乘代号 货运专列",
+  "card_no": "WXDi-PSC01-103",
+  "card_sprite_type": "奏械/乘机",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA强化包01",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "3000",
+  "rarity": "C",
+  "story": "无",
+  "team": "",
+  "uid": "01HTHMD0YG4856V51A9XYN8SC1"
+}

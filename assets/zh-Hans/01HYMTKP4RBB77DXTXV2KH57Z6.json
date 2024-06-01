@@ -1,0 +1,23 @@
+{
+  "card_effect": "【升阶】放置在我方的1只<天使>精灵上方\n【自】：该精灵攻击时，若该精灵下方有白色的<天使>，直到下个对方回合结束为止，该精灵的力量+3000且该精灵获得【暗影（精灵）】能力。若有蓝色的<天使>，抽2张牌。若有绿色的<天使>，【能量填充2】。\n【出】《无》：以我方废弃区1张<天使>精灵牌为对象，将其放置到该精灵下方。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "红天姬　宙斯",
+  "card_no": "WXN06-SC043P",
+  "card_sprite_type": "奏像/天使",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 超世代强化包06",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "10000",
+  "rarity": "SRP",
+  "story": "无",
+  "team": "",
+  "uid": "01HYMTKP4RBB77DXTXV2KH57Z6"
+}

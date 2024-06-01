@@ -1,0 +1,23 @@
+{
+  "card_effect": "以我方场上任意数量的黑色精灵为对象，将其从场上放置到废弃区。那之后，若用此方法放置到废弃区的精灵的等级合计为3以上，以对方场上1只精灵为对象，将其破坏。若等级合计为6以上，抽2张牌。若等级合计为9以上，击溃对方1张生命护甲。若等级合计为12以上，以我方废弃区最多3张精灵牌为对象，将其出场。",
+  "card_lines": "为什么的说！那柄枪的记忆，汝为何！！～乌姆尔～",
+  "card_lrig_type": "",
+  "card_name": "远古·波纹",
+  "card_no": "WXN05-SC007",
+  "card_sprite_type": "",
+  "card_type": "必杀",
+  "coin": "",
+  "color": "黑",
+  "cost": "黑1",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包05",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "LR",
+  "story": "",
+  "team": "",
+  "uid": "01HFCXS2BV078FJQWRXVBK07QN"
+}

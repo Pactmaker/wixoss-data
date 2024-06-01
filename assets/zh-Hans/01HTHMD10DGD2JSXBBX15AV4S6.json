@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】丢弃手牌2张等级1的精灵牌：以我方废弃区1张不持有《防御》的精灵牌为对象，将其加入手牌。\n生命爆发：以对方的1只精灵为对象，可以支付《黑》《无》。若如此做，直到回合结束为止，其力量-12000。",
+  "card_lines": "ー中盘与末盘，丢弃用不上的等级1来回收等级3吧！",
+  "card_lrig_type": "",
+  "card_name": "罗星 苍蝇座",
+  "card_no": "WXDi-PSC01-133",
+  "card_sprite_type": "奏罗/宇宙",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA强化包01",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "8000",
+  "rarity": "C",
+  "story": "无",
+  "team": "",
+  "uid": "01HTHMD10DGD2JSXBBX15AV4S6"
+}

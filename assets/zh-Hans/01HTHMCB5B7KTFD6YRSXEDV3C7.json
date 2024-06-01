@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：对方的1只等级2以下的精灵在该精灵正面的精灵区出场时，可以将该精灵从场上放置到废弃区。若如此做，将正面原有的那只精灵放置到废弃区。\n生命爆发：以对方的1只精灵为对象，可以支付《黑》。若如此做，直到回合结束为止，其力量-8000。",
+  "card_lines": "「开—始造血。」",
+  "card_lrig_type": "",
+  "card_name": "罗原　Ｍｏ",
+  "card_no": "WXDi-DSC05-022",
+  "card_sprite_type": "奏罗/原子",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA出道牌组05 DIAGRAM",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "3000",
+  "rarity": "ST",
+  "story": "无",
+  "team": "",
+  "uid": "01HTHMCB5B7KTFD6YRSXEDV3C7"
+}

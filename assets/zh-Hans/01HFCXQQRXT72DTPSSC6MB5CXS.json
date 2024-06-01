@@ -1,0 +1,23 @@
+{
+  "card_effect": "【队伍】Card Jokey\n【队伍出】：查看我方牌组顶4张牌。将其中最多2张牌加入手牌，剩下的牌放置到废弃区。\n【起】《游戏1》（白0）：直到回合结束为止，该分身获得「【自】：该分身攻击时，那次攻击结束时，若因那次攻击没有给予对方伤害，可以将我方1只竖置状态的等级2的分身横置。若如此做，将该分身竖置。」的能力。",
+  "card_lines": "「What`s up！那么接下来才是高潮部分喵！」",
+  "card_lrig_type": "LION",
+  "card_name": "ＭＣ．ＬＩＯＮ－３ｒｄＶｅｒｓｅ",
+  "card_no": "WXDi-DSC03-004",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "白",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版DIVA出道牌组03-Card Jockey",
+  "grow_price": "白2",
+  "level": "3",
+  "limit": "6",
+  "power": "",
+  "rarity": "ST",
+  "story": "",
+  "team": "Card Jockey",
+  "uid": "01HFCXQQRXT72DTPSSC6MB5CXS"
+}

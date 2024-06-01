@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】：将我方分身废弃区的所有分身牌放置到该牌下方。\n【起】《回合1》超越1：以对方的1只精灵为对象，将其放置到牌组底。\n【起】《主要阶段》《攻击阶段》超越1：以对方的1只精灵为对象，直到回合结束为止，其失去能力，不能获得新能力。",
+  "card_lines": "",
+  "card_lrig_type": "伊绪奈",
+  "card_name": "最幸之巫女 雪",
+  "card_no": "SPEX2-SC002P",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "白",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版选择者收藏包SPEX2",
+  "grow_price": "白2",
+  "level": "5",
+  "limit": "12",
+  "power": "",
+  "rarity": "LRP",
+  "story": "无",
+  "team": "无",
+  "uid": "01HNFDSDMVDH7WH3J6297HSV7Q"
+}

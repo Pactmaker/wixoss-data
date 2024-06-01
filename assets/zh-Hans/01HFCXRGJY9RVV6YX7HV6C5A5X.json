@@ -1,0 +1,23 @@
+{
+  "card_effect": "【队伍】<宇宙之始>\n【队伍出】：抽1张牌。对方丢弃1张手牌。\n【自】：该分身攻击时，若该分身下方的牌为5张以上，抽1张牌。若该分身下方的牌为7张以上，追加对方丢弃1张手牌。\n【起】《游戏1》《蓝0》：将我方其他分身下方的所有牌放置到该分身下方。",
+  "card_lines": "「那么接下来便是大高潮哒！」",
+  "card_lrig_type": "玉子",
+  "card_name": "坚毅 Dr.玉子",
+  "card_no": "WXDi-DSC04-004",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版 DIVA出道牌组04-宇宙之始",
+  "grow_price": "蓝2",
+  "level": "3",
+  "limit": "6",
+  "power": "",
+  "rarity": "ST",
+  "story": "",
+  "team": "宇宙之始",
+  "uid": "01HFCXRGJY9RVV6YX7HV6C5A5X"
+}

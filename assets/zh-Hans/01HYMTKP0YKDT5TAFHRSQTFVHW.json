@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：对方使用魔法牌时，对方丢弃1张手牌。\n【出】将其他1只<原子>精灵从场上放置到废弃区：从我方牌组检索1张费用合计为0的魔法牌将其展示并加入手牌，洗切牌组。\n【起】《攻击阶段》《蓝0》：将我方的1只卡牌名含有《Ne》的精灵和该精灵破坏。若如此做，将对方的所有精灵破坏。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "罗原　Ｘｅ",
+  "card_no": "WXN06-SC106",
+  "card_sprite_type": "精罗/原子",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 超世代强化包06",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "8000",
+  "rarity": "C",
+  "story": "无",
+  "team": "",
+  "uid": "01HYMTKP0YKDT5TAFHRSQTFVHW"
+}

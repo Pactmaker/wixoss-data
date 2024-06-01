@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：该精灵攻击时，对方可以支付《无》《无》《无》。若不如此做，直到回合结束为止，我方的所有<龙兽>精灵获得【暗杀】能力。\n【出】《红》《无》：对方以自己能量区1张牌为对象，将其放置到废弃区。\n【起】《回合1》《绿》：以我方能量区最多2张《幻龙姬 赤龙》以外的<龙兽>精灵牌为对象，将其加入手牌。\n生命爆发：以对方的1只力量为12000以下的精灵为对象，将其破坏。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "幻龙姬 赤龙",
+  "card_no": "SPEX2-SC043S",
+  "card_sprite_type": "精生/龙兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版选择者收藏包SPEX2",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SEC",
+  "story": "无",
+  "team": "无",
+  "uid": "01HNFDSDKG6VH74KK9TTTPG4E7"
+}

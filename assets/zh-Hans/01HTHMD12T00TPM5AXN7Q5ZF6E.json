@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：我方攻击阶段开始时，展示我方牌组顶5张牌，将那些牌洗切并放置到牌组底。那之后，用此方法展示的等级1的精灵牌每有1张，可以从《无》《无》《无》《无》《无》《无》减少《无》的能量费用支付。若如此做，以对方的1只力量为12000以下的精灵为对象，将其破坏。",
+  "card_lines": "「1天5次的限定金苹果卡池。要抽抽看吗？」",
+  "card_lrig_type": "",
+  "card_name": "罗星姬　天龙座",
+  "card_no": "WXDi-PSC01-057P",
+  "card_sprite_type": "奏罗/宇宙",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA强化包01",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SRP",
+  "story": "无",
+  "team": "",
+  "uid": "01HTHMD12T00TPM5AXN7Q5ZF6E"
+}

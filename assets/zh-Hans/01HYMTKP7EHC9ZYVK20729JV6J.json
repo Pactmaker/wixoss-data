@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：对方的攻击阶段开始时，以我方的1张【陷阱】为对象，可以将其返回手牌。若如此做，查看我方牌组顶2张牌。将其中1张牌作为【陷阱】在我方精灵区设置，剩下的牌放置到牌组底。\n【起】《回合1》《攻击阶段》《硬币》：查看我方牌组顶5张牌。将其中最多2张作为【陷阱】在我方精灵区设置。剩下的牌洗切后放置到牌组底。",
+  "card_lines": "",
+  "card_lrig_type": "亚弥",
+  "card_name": "极超亚弥！Ⅳ",
+  "card_no": "WXN06-SC006S",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 超世代强化包06",
+  "grow_price": "蓝0",
+  "level": "4",
+  "limit": "11",
+  "power": "",
+  "rarity": "SEC",
+  "story": "无",
+  "team": "",
+  "uid": "01HYMTKP7EHC9ZYVK20729JV6J"
+}

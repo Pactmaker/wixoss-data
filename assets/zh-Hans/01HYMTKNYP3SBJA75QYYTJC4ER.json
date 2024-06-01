@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：只要该精灵存在于中央精灵区，获得「【自】：该精灵攻击时，以对方的1只精灵为对象，直到回合结束为止，其力量-5000。」的能力。\n【出】：以对方场上的1张【魅饰】为对象，将其放置到废弃区。若用此方法没有将1张【魅饰】放置到废弃区，将该精灵从场上放置到废弃区。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "幻虫　鬼蜻蜓",
+  "card_no": "WXN06-SC082",
+  "card_sprite_type": "精生/凶虫",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 超世代强化包06",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "8000",
+  "rarity": "R",
+  "story": "无",
+  "team": "",
+  "uid": "01HYMTKNYP3SBJA75QYYTJC4ER"
+}

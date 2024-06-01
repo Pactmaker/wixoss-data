@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：该精灵攻击时，以对方的1只精灵为对象，将我方废弃区3张费用合计不同的魔法牌加入牌组洗切。若如此做，抽1张牌，直到回合结束为止，其力量-8000。\n生命爆发：从我方牌组检索1张魔法牌将其展示并加入手牌，洗切牌组。",
+  "card_lines": "雷击完成了……。～皮璐璐可～",
+  "card_lrig_type": "",
+  "card_name": "技术代号　†Ｈ・Ｐ・Ｌ†",
+  "card_no": "WXD12-SC017",
+  "card_sprite_type": "精械/电机",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版传奇预组12",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "8000",
+  "rarity": "ST",
+  "story": "",
+  "team": "",
+  "uid": "01HJPMGP025YTW6A07MBZZKHTX"
+}

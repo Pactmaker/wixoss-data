@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：该精灵被破坏时，可以将我方手牌1张牌作为【陷阱】在我方精灵区设置。\n【出】：以我方的1张【陷阱】为对象，将其返回手牌。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "小罠　冰柱",
+  "card_no": "WXN06-SC101",
+  "card_sprite_type": "精武/机关",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 超世代强化包06",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "2000",
+  "rarity": "C",
+  "story": "无",
+  "team": "",
+  "uid": "01HYMTKP0F9XCZHRWMSRY19XWD"
+}

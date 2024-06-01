@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：我方的1只分身攻击时，可以将我方的3只竖置状态的白色精灵横置并支付《白》。若如此做，将那只分身竖置，直到回合结束为止，那只分身失去能力。",
+  "card_lines": "「又是一刺！」",
+  "card_lrig_type": "",
+  "card_name": "大装 伦戈米尼亚德",
+  "card_no": "WXDi-PSC01-072",
+  "card_sprite_type": "奏武/武装",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "白",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA强化包01",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "10000",
+  "rarity": "R",
+  "story": "无",
+  "team": "",
+  "uid": "01HTHMD0WK9F357Y8GN3B1CE05"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：只要该精灵的力量为12000以上，获得「【常】：不会因对方的效果横置。」的能力。\n【起】《红》《无》《无》：若该精灵的力量为15000以上，直到回合结束为止，该精灵获得【暗杀】能力。\n（持有【暗杀】能力的精灵攻击时不与正前方的精灵战斗，改为给予对方伤害）",
+  "card_lines": "「哈哈，那种手段可不会让俺横置哟！」",
+  "card_lrig_type": "",
+  "card_name": "幻兽 长鼻猴",
+  "card_no": "WXDi-PSC01-076",
+  "card_sprite_type": "奏生/地兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA强化包01",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "8000",
+  "rarity": "R",
+  "story": "无",
+  "team": "",
+  "uid": "01HTHMD0WVCBYEPXHMH11DXNWB"
+}

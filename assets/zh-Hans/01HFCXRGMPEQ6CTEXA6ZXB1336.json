@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】：此回合中，下次我方受到伤害的情况下，改为不受到伤害。\n【出】《绿》《无》：此回合中，下次我方受到伤害的情况下，改为不受到伤害。",
+  "card_lines": "「成长 对其进行反制」",
+  "card_lrig_type": "梆",
+  "card_name": "梆=复奏",
+  "card_no": "WXDi-DSC04-SP004",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版 DIVA出道牌组04-宇宙之始",
+  "grow_price": "无1",
+  "level": "2",
+  "limit": "+1",
+  "power": "",
+  "rarity": "SP",
+  "story": "",
+  "team": "宇宙之始",
+  "uid": "01HFCXRGMPEQ6CTEXA6ZXB1336"
+}

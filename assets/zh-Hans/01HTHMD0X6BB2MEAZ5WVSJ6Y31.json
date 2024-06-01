@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：若此回合我方丢弃过1张以上的手牌，该精灵的力量+3000。\n【常】：若此回合我方丢弃过2张以上的手牌，该精灵获得「【自】：该精灵战斗破坏对方的精灵时，在不查看对方手牌的情况下挑选其中1张，将其丢弃。」的能力。",
+  "card_lines": "「我，将来要成为武人，闻名于天下。」",
+  "card_lrig_type": "",
+  "card_name": "苍将 土方岁三",
+  "card_no": "WXDi-PSC01-082",
+  "card_sprite_type": "奏像/武勇",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA强化包01",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "7000",
+  "rarity": "R",
+  "story": "无",
+  "team": "",
+  "uid": "01HTHMD0X6BB2MEAZ5WVSJ6Y31"
+}

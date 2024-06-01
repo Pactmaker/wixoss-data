@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：只要我方手牌为4张以上，该精灵的力量+4000。\n生命爆发：若我方手牌为4张以上，以对方场上1只竖置状态的精灵为对象，将其破坏。",
+  "card_lines": "「来自洞穴中的问候！」",
+  "card_lrig_type": "",
+  "card_name": "幻水 花园鳗",
+  "card_no": "WXN05-SC151",
+  "card_sprite_type": "奏生/水兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包05",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "3000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01HFCXS2QCTX5JCHMVPAWWP8TS"
+}

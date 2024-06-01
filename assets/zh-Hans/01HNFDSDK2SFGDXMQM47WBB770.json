@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：我方主分身获得以下能力。\n【起】《回合1》《攻击阶段》超越2：以对方的1只精灵为对象，直到回合结束为止，其力量-7000。若我方的生命护甲为0张，改为其力量-12000。\n【常】：我方所有领域的分身牌和精灵牌变为黑色。\n【常】：我方支付能量费用时，我方可以通过将能量区1张黑色牌放置到废弃区支付1张任意颜色能量。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "黑键之巫女 玉依姬",
+  "card_no": "SPEX2-SC015S",
+  "card_sprite_type": "",
+  "card_type": "钥匙",
+  "coin": "",
+  "color": "黑",
+  "cost": "硬币1",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版选择者收藏包SPEX2",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "SEC",
+  "story": "无",
+  "team": "无",
+  "uid": "01HNFDSDK2SFGDXMQM47WBB770"
+}

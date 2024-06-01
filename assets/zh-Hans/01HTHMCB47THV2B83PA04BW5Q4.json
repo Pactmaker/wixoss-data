@@ -1,0 +1,23 @@
+{
+  "card_effect": "【队伍】<DIAGRAM>\n【队伍常】：我方回合中，对方的中央精灵区的精灵的力量-2000。\n【出】：以我方废弃区1张精灵牌为对象，将其加入手牌。\n【起】《游戏1》《黑0》：以我方的1只<DIAGRAM>的等级1的分身为对象，将其返回分身牌组。（下方的牌保留在场上）",
+  "card_lines": "「那么，跟得上我们的动作吗？」",
+  "card_lrig_type": "缪斯伽",
+  "card_name": "ＶＯＧＵＥ３　缪斯伽",
+  "card_no": "WXDi-DSC05-004",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA出道牌组05 DIAGRAM",
+  "grow_price": "",
+  "level": "3",
+  "limit": "6",
+  "power": "",
+  "rarity": "ST",
+  "story": "无",
+  "team": "DIAGRAM",
+  "uid": "01HTHMCB47THV2B83PA04BW5Q4"
+}

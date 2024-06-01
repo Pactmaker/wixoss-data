@@ -1,0 +1,23 @@
+{
+  "card_effect": "以对方场上1只精灵为对象，将其冻结。抽1张牌。那之后，若对方场上的冻结状态的精灵为3只以上，追加在不查看对方手牌的情况下挑选其中1张，将其丢弃。",
+  "card_lines": "「园香的声音，怎么样？」～园香～",
+  "card_lrig_type": "",
+  "card_name": "ＳＰＩＮＮＩＮＧ　ＨＡＲＭＯＮＹ",
+  "card_no": "WXN05-SC113",
+  "card_sprite_type": "",
+  "card_type": "魔法",
+  "coin": "",
+  "color": "蓝",
+  "cost": "蓝1",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包05",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01HFCXS2KJMMSYZK1SC8KT896D"
+}

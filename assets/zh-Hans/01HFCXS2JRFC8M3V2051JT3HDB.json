@@ -1,0 +1,23 @@
+{
+  "card_effect": "使用该魔法牌时，可以追加超越4作为使用费用。（将我方分身下方的合计4张牌放置到分身废弃区）\n查看我方牌组顶5张牌。将其中最多1张牌加入手牌，剩下的牌按任意顺序放置到牌组底。若追加超越4作为使用费用，改为将其中最多2张牌加入手牌，剩下的牌按任意顺序放置到牌组底。",
+  "card_lines": "「一定，能够抽得到的！」～昭乃～",
+  "card_lrig_type": "",
+  "card_name": "奇迹·抽卡",
+  "card_no": "WXN05-SC103",
+  "card_sprite_type": "",
+  "card_type": "魔法",
+  "coin": "",
+  "color": "白",
+  "cost": "白1",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包05",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01HFCXS2JRFC8M3V2051JT3HDB"
+}

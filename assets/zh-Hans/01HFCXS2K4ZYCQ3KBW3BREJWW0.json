@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：该精灵攻击时，若该精灵的力量为8000以上，以对方场上1只力量为3000以下的精灵为对象，将其破坏。若该精灵的力量为12000以上，改为以对方场上1只力量为8000以下的精灵为对象，将其破坏。",
+  "card_lines": "「最喜欢向日葵的种子了！」",
+  "card_lrig_type": "",
+  "card_name": "幻兽 仓鼠",
+  "card_no": "WXN05-SC107",
+  "card_sprite_type": "奏生/地兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包05",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "5000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01HFCXS2K4ZYCQ3KBW3BREJWW0"
+}

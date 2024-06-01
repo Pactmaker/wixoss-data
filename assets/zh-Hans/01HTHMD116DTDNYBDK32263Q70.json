@@ -1,0 +1,23 @@
+{
+  "card_effect": "【使用条件】【队伍icon】<DIAGRAM>&全员等级1以上\n\n以我方的1只等级3的分身为对象，直到回合结束为止，其获得以下的能力。\n『【自icon】：该分身攻击时，从以下2项选择1项。\n①将对方牌组顶15张牌放置到废弃区。\n②以我方废弃区最多3张不持有《防御icon》的精灵牌为对象，将其加入手牌。』",
+  "card_lines": "「你已经没有，下个回合了哟。」～缪斯伽～",
+  "card_lrig_type": "",
+  "card_name": "ｓａｌｖａｇｅ　ｔｈｅ　ｆｕｔｕｒｅ",
+  "card_no": "WXDi-DSC05-011D",
+  "card_sprite_type": "",
+  "card_type": "碎片",
+  "coin": "",
+  "color": "黑/蓝/绿",
+  "cost": "蓝0",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA强化包01",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "DIR",
+  "story": "无",
+  "team": "",
+  "uid": "01HTHMD116DTDNYBDK32263Q70"
+}

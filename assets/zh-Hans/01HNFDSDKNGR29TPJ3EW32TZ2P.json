@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：我方的所有<美巧>精灵不受对方的分身牌和精灵牌的效果影响。\n【自】：该牌因对方的效果从任意领域放置到废弃区时，可以支付《绿》。若如此做，将该精灵牌加入手牌。\n生命爆发：将我方牌组顶1张牌放置到能量区。那之后，若我方能量区的<美巧>精灵牌为5张以上，将我方牌组顶1张牌加入生命护甲。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "不可理解的夸张 当代",
+  "card_no": "SPEX2-SC047S",
+  "card_sprite_type": "精像/美巧",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版选择者收藏包SPEX2",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SEC",
+  "story": "无",
+  "team": "无",
+  "uid": "01HNFDSDKNGR29TPJ3EW32TZ2P"
+}

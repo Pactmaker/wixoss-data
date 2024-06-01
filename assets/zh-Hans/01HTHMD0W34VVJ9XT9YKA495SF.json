@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：对方配置精灵时，可以配置到该精灵的正面的情况下必须配置到该精灵的正面。\n【常】：我方回合中，该精灵不会因对方的效果从场上移动到能量区以外的领域。\n【自】：对方的1只精灵配置到该精灵的正面时，直到回合结束为止，可以将其力量-3000。",
+  "card_lines": "「听说不可以在六本木的中心四处张望？」",
+  "card_lrig_type": "",
+  "card_name": "迷牢代号　六本木",
+  "card_no": "WXDi-PSC01-064",
+  "card_sprite_type": "奏械/迷宫",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA强化包01",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "无",
+  "team": "",
+  "uid": "01HTHMD0W34VVJ9XT9YKA495SF"
+}

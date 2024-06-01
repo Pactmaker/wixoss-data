@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：只要对方的手牌为0张，该精灵不会被破坏。\n【出】：所有玩家丢弃1张手牌。\n【出】：若我方手牌比2张少，抽那个差值的牌。\n生命爆发：抽1张牌。对方丢弃1张手牌。",
+  "card_lines": "在沸腾的牛奶里加入爆炸的鸡蛋，最喜欢整烂活了！～Ｍ・Ｗ・Ｏ～",
+  "card_lrig_type": "",
+  "card_name": "技术代号 M·W·O",
+  "card_no": "WXD12-SC013",
+  "card_sprite_type": "精械/电机",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版传奇预组12",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "ST",
+  "story": "",
+  "team": "",
+  "uid": "01HJPMGNZTFCZXXMR235SC1WKN"
+}

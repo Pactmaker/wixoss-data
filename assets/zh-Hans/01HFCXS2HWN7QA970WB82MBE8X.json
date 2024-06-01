@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】《回合1》：对方的精灵的力量变为0以下时，【能量填充1】。\n【出】《黑》：以对方场上1只精灵为对象，直到回合结束为止，其力量-5000。",
+  "card_lines": "揭示新的过去，最初的少女物语。",
+  "card_lrig_type": "",
+  "card_name": "大装 暗黑源能枪",
+  "card_no": "WXN05-SC091",
+  "card_sprite_type": "奏武/武装",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包05",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "10000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01HFCXS2HWN7QA970WB82MBE8X"
+}

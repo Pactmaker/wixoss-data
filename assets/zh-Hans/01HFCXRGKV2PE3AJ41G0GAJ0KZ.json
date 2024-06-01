@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】《蓝》：抽1张牌。\n（【出】能力的：的左侧为费用。可以选择不支付不发动）\n【起】《回合1》《蓝》《蓝》《蓝》：以对方1只精灵为对象，若我方的手牌比对方多4张以上，将其破坏。\n生命爆发：抽1张牌。对方丢弃1张手牌。",
+  "card_lines": "――使用碎片来与对方扩大手牌差距吧！",
+  "card_lrig_type": "",
+  "card_name": "苍将 新八",
+  "card_no": "WXDi-DSC04-017",
+  "card_sprite_type": "奏像/武勇",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版 DIVA出道牌组04-宇宙之始",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "10000",
+  "rarity": "ST",
+  "story": "",
+  "team": "",
+  "uid": "01HFCXRGKV2PE3AJ41G0GAJ0KZ"
+}

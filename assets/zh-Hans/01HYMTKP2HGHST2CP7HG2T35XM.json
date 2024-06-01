@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：该精灵被破坏时，以对方的1只精灵为对象，直到回合结束为止，其力量-7000。若我方场上有卡牌名含有《高阶该隐》的精灵，改为以对方的最多2只精灵为对象，直到回合结束为止，其力量-7000。\n（力量为0以下的精灵会因为规则而破坏）",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "情爱的反旗　†高阶弗罗†",
+  "card_no": "WXN06-SC123",
+  "card_sprite_type": "精像/天使",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 超世代强化包06",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "7000",
+  "rarity": "C",
+  "story": "无",
+  "team": "",
+  "uid": "01HYMTKP2HGHST2CP7HG2T35XM"
+}

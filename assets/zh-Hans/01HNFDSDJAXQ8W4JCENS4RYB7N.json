@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】：展示我方牌组顶1张牌。若其为等级2以上的<美巧>精灵牌，将其加入手牌。\n【起】《白》《横置》丢弃手牌1张<美巧>精灵牌：以对方的1只等级与用此方法丢弃的精灵牌相同的精灵为对象，将其返回手牌。\n生命爆发：抽1张牌。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "催事的诱导　活动推送",
+  "card_no": "SPEX2-SC097",
+  "card_sprite_type": "精像/美巧",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版选择者收藏包SPEX2",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "1000",
+  "rarity": "C",
+  "story": "无",
+  "team": "无",
+  "uid": "01HNFDSDJAXQ8W4JCENS4RYB7N"
+}

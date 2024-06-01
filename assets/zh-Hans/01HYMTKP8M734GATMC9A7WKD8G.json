@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】《英知=9》《回合1》《绿0》：以对方的1只精灵为对象，将其放置到废弃区。\n【常】《英知=11》：我方的<英知>精灵不受对方的分身的效果影响。\n【出】《绿》：从我方牌组检索最多2张等级合计为5以下的<英知>精灵牌将其展示并加入手牌，洗切牌组。\n生命爆发：以对方的最多2只等级合计为4的精灵为对象，将其破坏。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "相英的理论　爱因斯坦",
+  "card_no": "WXN06-SC053S",
+  "card_sprite_type": "精像/英知",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 超世代强化包06",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SEC",
+  "story": "无",
+  "team": "",
+  "uid": "01HYMTKP8M734GATMC9A7WKD8G"
+}

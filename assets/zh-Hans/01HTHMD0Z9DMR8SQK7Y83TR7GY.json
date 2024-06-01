@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：该精灵被破坏时，抽1张牌。\n【出】：我方丢弃1张手牌。\n（没有费用的【出】能力必须发动）\n生命爆发：以对方的1只分身或精灵为对象。此回合中，其攻击时，只要对方不丢弃3张手牌，那次攻击无效。",
+  "card_lines": "「前进，前进！嘟嘟噜嘟ー♪」",
+  "card_lrig_type": "",
+  "card_name": "苍魔 汉帕",
+  "card_no": "WXDi-PSC01-115",
+  "card_sprite_type": "奏像/恶魔",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA强化包01",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "12000",
+  "rarity": "C",
+  "story": "无",
+  "team": "",
+  "uid": "01HTHMD0Z9DMR8SQK7Y83TR7GY"
+}

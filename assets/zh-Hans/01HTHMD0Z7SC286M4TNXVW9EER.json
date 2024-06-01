@@ -1,0 +1,23 @@
+{
+  "card_effect": "生命爆发：以对方的1只精灵为对象，可以丢弃2张手牌。若如此做，将其放置到牌组底。",
+  "card_lines": "「太棒了啊！这束光才是真正的圣光！与古老书籍中读到的一模一样呢。」",
+  "card_lrig_type": "",
+  "card_name": "罗植　葡萄风信子",
+  "card_no": "WXDi-PSC01-114",
+  "card_sprite_type": "奏罗/植物",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA强化包01",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "10000",
+  "rarity": "C",
+  "story": "无",
+  "team": "",
+  "uid": "01HTHMD0Z7SC286M4TNXVW9EER"
+}

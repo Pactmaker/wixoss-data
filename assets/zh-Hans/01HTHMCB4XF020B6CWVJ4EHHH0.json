@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：对方的1只精灵攻击时，若其正面没有精灵，可以将该精灵配置到那只攻击的精灵的正面。\n【自】：场上的该精灵移动到其他精灵区时，可以支付《无》《无》。若如此做，将该精灵与我方能量区的1张精灵牌交换位置。（那只精灵的【出】能力发动）",
+  "card_lines": "――迷宫精灵的战略是位置移动！",
+  "card_lrig_type": "",
+  "card_name": "迷宫代号　熊熊牧场",
+  "card_no": "WXDi-DSC05-015",
+  "card_sprite_type": "奏械/迷宫",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA出道牌组05 DIAGRAM",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "2000",
+  "rarity": "ST",
+  "story": "无",
+  "team": "",
+  "uid": "01HTHMCB4XF020B6CWVJ4EHHH0"
+}

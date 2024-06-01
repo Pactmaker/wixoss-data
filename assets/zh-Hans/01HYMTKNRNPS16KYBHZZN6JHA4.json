@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：我方废弃区的卡牌名含有《烈炎军团》的牌每有7张，成长为该牌的费用减少《红1》。\n【自】：我方的1只卡牌名含有《烈炎军团》的精灵离开场上时，可以将我方手牌1张比那只精灵等级低的，卡牌名含有《烈炎军团》的精灵牌以横置状态出场。\n【起】《回合2》超越1：以我方废弃区1张卡牌名含有《烈炎军团》的精灵牌为对象，将其加入手牌。",
+  "card_lines": "",
+  "card_lrig_type": "花代",
+  "card_name": "炎・花代・伍",
+  "card_no": "WXN06-SC019",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 超世代强化包06",
+  "grow_price": "红3",
+  "level": "5",
+  "limit": "12",
+  "power": "",
+  "rarity": "LC",
+  "story": "无",
+  "team": "",
+  "uid": "01HYMTKNRNPS16KYBHZZN6JHA4"
+}

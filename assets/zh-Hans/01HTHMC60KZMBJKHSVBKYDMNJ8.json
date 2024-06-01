@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】：此回合中，对方的力量为10000以下的精灵不能攻击。\n【出】丢弃最多3张手牌：以用此方法丢弃的牌的相同数量的对方的精灵为对象，直到回合结束为止，那些精灵的力量-5000。",
+  "card_lines": "「欢迎陷入这片漆黑的世界～！」",
+  "card_lrig_type": "真帆帆",
+  "card_name": "真帆帆☆叮",
+  "card_no": "WXDi-DSC06-010",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA出道牌组06 可可爱爱",
+  "grow_price": "",
+  "level": "2",
+  "limit": "+1",
+  "power": "",
+  "rarity": "ST",
+  "story": "无",
+  "team": "可可爱爱~☆",
+  "uid": "01HTHMC60KZMBJKHSVBKYDMNJ8"
+}

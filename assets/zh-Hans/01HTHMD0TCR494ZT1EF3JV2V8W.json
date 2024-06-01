@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】：以我方废弃区1张精灵牌为对象，将其出场。那只精灵的【出】能力不发动。\n【出】：以我方的1只精灵为对象，将我方分身废弃区1张分身牌成为其【灵魂】。\n（【灵魂】在精灵上最多附有1张，那只精灵离开场上时，【灵魂】放置到分身废弃区）",
+  "card_lines": "「那种东西，我绝不认可！」",
+  "card_lrig_type": "迪乌斯",
+  "card_name": "迪乌斯挖掘",
+  "card_no": "WXDi-PSC01-037",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA强化包01",
+  "grow_price": "",
+  "level": "2",
+  "limit": "+1",
+  "power": "",
+  "rarity": "LC",
+  "story": "无",
+  "team": "DXM",
+  "uid": "01HTHMD0TCR494ZT1EF3JV2V8W"
+}

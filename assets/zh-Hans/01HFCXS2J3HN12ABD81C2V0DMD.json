@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】：将我方2张生命护甲放置到废弃区。若如此做，将对方的所有精灵放置到废弃区。（没有费用的【出】能力必须发动。若我方生命护甲为1张，则将那1张生命护甲放置到废弃区）\n生命爆发：以对方场上1只精灵为对象，直到回合结束为止，其力量-10000。",
+  "card_lines": "「冥界音乐，就算是你也一定能懂，单纯明了。」",
+  "card_lrig_type": "",
+  "card_name": "凶魔姬 埃列什基伽勒",
+  "card_no": "WXN05-SC094",
+  "card_sprite_type": "奏像/恶魔",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包05",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "13000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01HFCXS2J3HN12ABD81C2V0DMD"
+}

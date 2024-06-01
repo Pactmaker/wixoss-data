@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：我方回合结束时，若对方场上的冻结状态的精灵为2只以上，以对方的1只冻结状态的精灵为对象，将其放置到牌组底。\n【出】：以对方的中央精灵区的1只精灵为对象，将其冻结。",
+  "card_lines": "「冰雪之美即为永恒。」",
+  "card_lrig_type": "",
+  "card_name": "迷宫代号 雪凇",
+  "card_no": "WXDi-PSC01-080",
+  "card_sprite_type": "奏械/迷宫",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA强化包01",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "2000",
+  "rarity": "R",
+  "story": "无",
+  "team": "",
+  "uid": "01HTHMD0X35SZ34W91561E4QY5"
+}

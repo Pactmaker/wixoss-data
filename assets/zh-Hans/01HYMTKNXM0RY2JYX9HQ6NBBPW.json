@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：该精灵攻击时，以对方的1只等级为【陷阱】的数量以下的精灵为对象，可以支付《蓝》。若如此做，将其返回手牌。\n【起】展示作为【陷阱】的该牌：若与该【陷阱】相同的精灵区没有精灵，将该【陷阱】以正面表示变为精灵。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "大罠　水上漂",
+  "card_no": "WXN06-SC071",
+  "card_sprite_type": "精武/机关",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 超世代强化包06",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "7000",
+  "rarity": "R",
+  "story": "无",
+  "team": "",
+  "uid": "01HYMTKNXM0RY2JYX9HQ6NBBPW"
+}

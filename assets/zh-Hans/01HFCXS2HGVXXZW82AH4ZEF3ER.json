@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：该精灵被破坏时，可以将该精灵从能量区放置到牌组底。若如此做，展示我方牌组顶1张牌。若其为等级3的精灵牌，可以将那张精灵牌以横置状态出场。\n【自】：我方回合结束时，以我方能量区最多1张精灵牌为对象，将其加入手牌。\n生命爆发：以对方场上1只力量为7000以上的精灵为对象，将其破坏。",
+  "card_lines": "「雨点落下，泥土凝固，渗入地下，一统万花。」",
+  "card_lrig_type": "",
+  "card_name": "罗植姬 蒲颓子",
+  "card_no": "WXN05-SC086",
+  "card_sprite_type": "奏生/植物",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包05",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "10000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01HFCXS2HGVXXZW82AH4ZEF3ER"
+}

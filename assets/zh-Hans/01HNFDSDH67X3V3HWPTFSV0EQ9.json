@@ -1,0 +1,23 @@
+{
+  "card_effect": "从以下2项选择1项。\n①以我方的1只精灵为对象，将其破坏。若如此做，抽1张牌，将该牌从游戏除外。\n②以我方的1只精灵为对象，将其破坏。若如此做，将我方牌组顶1张牌放置到能量区，将该牌从游戏除外。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "选择的物语",
+  "card_no": "SPEX2-SC077",
+  "card_sprite_type": "",
+  "card_type": "魔法",
+  "coin": "",
+  "color": "无",
+  "cost": "无0",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版选择者收藏包SPEX2",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "R",
+  "story": "无",
+  "team": "无",
+  "uid": "01HNFDSDH67X3V3HWPTFSV0EQ9"
+}

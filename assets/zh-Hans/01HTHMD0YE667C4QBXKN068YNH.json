@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：只要该精灵为竖置状态，该精灵的力量+5000。\n【常】：只要该精灵为竖置状态，与该精灵相邻的我方的精灵的力量+3000。",
+  "card_lines": "「跟随能天使的脚步，狙击敌军吧！」",
+  "card_lrig_type": "",
+  "card_name": "圣将 黄忠",
+  "card_no": "WXDi-PSC01-102",
+  "card_sprite_type": "奏像/武勇",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "白",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA强化包01",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "10000",
+  "rarity": "C",
+  "story": "无",
+  "team": "",
+  "uid": "01HTHMD0YE667C4QBXKN068YNH"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：该精灵被破坏时，可以丢弃手牌2张<恶魔>精灵牌。若如此做，将该精灵牌从能量区以横置状态出场。",
+  "card_lines": "「要一起来建造吗？」",
+  "card_lrig_type": "",
+  "card_name": "凶魔 玛帕斯",
+  "card_no": "WXDi-PSC01-090",
+  "card_sprite_type": "奏像/恶魔",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA强化包01",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "3000",
+  "rarity": "R",
+  "story": "无",
+  "team": "",
+  "uid": "01HTHMD0XPHVMMKYFKKRMVC5EX"
+}

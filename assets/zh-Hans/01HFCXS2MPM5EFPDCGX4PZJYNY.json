@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：只要我方场上存在卡牌名含有《帕特农》或《巴勒贝克》的精灵，该精灵的力量+5000。\n【常】：只要我方废弃区存在卡牌名含有《帕特农》或《巴勒贝克》的精灵，该精灵的力量+5000。\n【自】：该精灵攻击时，以对方场上1只精灵为对象，若该精灵的力量为20000以上，将其破坏。",
+  "card_lines": "诶嘿嘿嘿，你应该喜欢大的吧！～卫城～",
+  "card_lrig_type": "",
+  "card_name": "古兵代号 卫城",
+  "card_no": "WXN05-SC127",
+  "card_sprite_type": "精械/古代兵器",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包05",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "10000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01HFCXS2MPM5EFPDCGX4PZJYNY"
+}

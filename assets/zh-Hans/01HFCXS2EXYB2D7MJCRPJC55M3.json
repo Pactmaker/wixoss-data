@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】：双方玩家将自己的精灵区和废弃区的所有牌加入牌组洗切。那之后，双方玩家查看自己牌组顶7张牌，将其中任意张数的精灵牌出场，剩下的牌放置到废弃区。那些精灵的【出】能力不发动。",
+  "card_lines": "「成长 进行重置」",
+  "card_lrig_type": "梆",
+  "card_name": "梆=大爆炸",
+  "card_no": "WXN05-SC050",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包05",
+  "grow_price": "无7",
+  "level": "2",
+  "limit": "+1",
+  "power": "",
+  "rarity": "LC",
+  "story": "",
+  "team": "宇宙之始",
+  "uid": "01HFCXS2EXYB2D7MJCRPJC55M3"
+}

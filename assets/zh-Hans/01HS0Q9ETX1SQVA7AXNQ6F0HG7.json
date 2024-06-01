@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：只要我方废弃区的牌为15张以上，该精灵获得【枪兵】能力。\n【自】：该精灵攻击时，以对方的1只精灵为对象，若我方废弃区的牌为30张以上，将其破坏。",
+  "card_lines": "以漆黑之力…痛扁一顿！～黑龙～",
+  "card_lrig_type": "",
+  "card_name": "幻龙 黑龙",
+  "card_no": "SP15-SC023P",
+  "card_sprite_type": "精生/龙兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版-新店赛PR包01",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "5000",
+  "rarity": "SP",
+  "story": "",
+  "team": "",
+  "uid": "01HS0Q9ETX1SQVA7AXNQ6F0HG7"
+}

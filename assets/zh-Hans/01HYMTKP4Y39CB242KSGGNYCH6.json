@@ -1,0 +1,23 @@
+{
+  "card_effect": "【升阶】放置在我方的1只<原子>精灵上方\n【常】：对方回合中，下方的牌为1张以上的该精灵因对方的效果离开场上时，可以改为将该精灵下方所有牌放置到废弃区。\n【自】：该精灵攻击时，抽1张牌，或对方丢弃1张手牌。\n生命爆发：抽2张牌。将我方手牌最多1张<原子>精灵牌出场。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "罗原姬　Ｈ２Ｏ",
+  "card_no": "WXN06-SC047P",
+  "card_sprite_type": "奏罗/原子",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 超世代强化包06",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "13000",
+  "rarity": "SRP",
+  "story": "无",
+  "team": "",
+  "uid": "01HYMTKP4Y39CB242KSGGNYCH6"
+}

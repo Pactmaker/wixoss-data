@@ -1,0 +1,23 @@
+{
+  "card_effect": "【和声】2只分身（该精灵出场时，只要不将我方2只竖置状态的分身横置，将该精灵横置）\n【常】：只要我方分身牌组的牌为1张以下，该精灵的力量+3000。\n【自】：我方攻击阶段开始时，若该精灵为竖置状态，以对方场上1只精灵为对象，可以丢弃3张手牌。若如此做，将其破坏。",
+  "card_lines": "「地球是球体！向西出发就能到达东方了！」",
+  "card_lrig_type": "",
+  "card_name": "苍将姬 哥伦布",
+  "card_no": "WXN05-SC077",
+  "card_sprite_type": "奏像/武勇",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包05",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01HFCXS2GV9Z3W7E115Y32G5C5"
+}

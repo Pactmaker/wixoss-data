@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】：对方丢弃1张手牌。若我方废弃区的<电机>精灵牌为6张以上，抽2张牌。\n【起】《回合1》《攻击阶段》丢弃手牌2张<电机>精灵牌：以对方的1只精灵为对象，将其横置并冻结。\n【起】《硬币》：下一个回合中，对方只能抽合计最多1张牌。",
+  "card_lines": "我不会让任何人妨碍我。～皮璐璐可～",
+  "card_lrig_type": "皮璐璐可",
+  "card_name": "代号·皮璐璐可 EC",
+  "card_no": "WXD12-SC001",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "3",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版传奇预组12",
+  "grow_price": "蓝0",
+  "level": "4",
+  "limit": "11",
+  "power": "",
+  "rarity": "ST",
+  "story": "",
+  "team": "",
+  "uid": "01HJPMGNZ1P18377EA5ZMN85BK"
+}

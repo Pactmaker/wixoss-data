@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】：以我方废弃区最多2张<龙兽>精灵牌为对象，将其放置到该精灵下方。\n【自】：该精灵攻击时，将该精灵下方的1张牌放置到废弃区。若如此做，将我方牌组顶1张牌放置到能量区。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "幻龙 #阿马加龙#",
+  "card_no": "SPEX2-SC069",
+  "card_sprite_type": "精生/龙兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版选择者收藏包SPEX2",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "2000",
+  "rarity": "R",
+  "story": "无",
+  "team": "无",
+  "uid": "01HNFDSDGQ5BENESFB2X9RFNHN"
+}

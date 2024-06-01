@@ -1,0 +1,23 @@
+{
+  "card_effect": "我方手牌的张数减去对方手牌的张数，每有1张该必杀牌的使用费用减少《蓝1》。\n以对方的最多2只精灵为对象，将其横置。",
+  "card_lines": "这个世界上，满溢而出的愿望。～皮璐璐可～",
+  "card_lrig_type": "",
+  "card_name": "禁止移动",
+  "card_no": "WXD12-SC009",
+  "card_sprite_type": "",
+  "card_type": "必杀",
+  "coin": "",
+  "color": "蓝",
+  "cost": "蓝6",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版传奇预组12",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "ST",
+  "story": "",
+  "team": "",
+  "uid": "01HJPMGNZJ9Q5MWT3EV0WW1NPC"
+}

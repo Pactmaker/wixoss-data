@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】：将我方牌组顶2张牌放置到废弃区。那之后，以我方废弃区各最多1张红色和黑色的精灵牌为对象，将其加入手牌。\n【自】：该牌作为超越的费用放置到分身废弃区时，以我方废弃区1张红色或黑色的精灵牌为对象，可以丢弃1张手牌。若如此做，将其加入手牌。",
+  "card_lines": "「要是磨磨蹭蹭的可就要丢下你了哟！！」",
+  "card_lrig_type": "迪乌斯",
+  "card_name": "迪乌斯复原",
+  "card_no": "WXDi-PSC01-034",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA强化包01",
+  "grow_price": "",
+  "level": "1",
+  "limit": "0",
+  "power": "",
+  "rarity": "LC",
+  "story": "无",
+  "team": "DXM",
+  "uid": "01HTHMD0T5G1XCV31JSGY4DVA7"
+}

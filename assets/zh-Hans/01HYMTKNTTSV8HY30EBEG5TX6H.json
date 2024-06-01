@@ -1,0 +1,23 @@
+{
+  "card_effect": "【重合】我方的<怪异>精灵获得《重合》的能力\n《重合》【常】：对方的攻击阶段中，该精灵获得【暗影】能力。\n【常】：对方跳过自己的分身攻击步骤。\n生命爆发：将我方废弃区1张<怪异>精灵牌加入手牌。那之后，以对方的1只用此方法加入手牌的精灵牌的等级以下的精灵为对象，将其返回手牌。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "幻怪妖姬　玉藻前",
+  "card_no": "WXN06-SC041",
+  "card_sprite_type": "精生/怪异",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "白",
+  "cost": "",
+  "env": "",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 超世代强化包06",
+  "grow_price": "",
+  "level": "5",
+  "limit": "",
+  "power": "15000",
+  "rarity": "SR",
+  "story": "无",
+  "team": "",
+  "uid": "01HYMTKNTTSV8HY30EBEG5TX6H"
+}

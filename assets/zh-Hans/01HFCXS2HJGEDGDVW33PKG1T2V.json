@@ -1,0 +1,23 @@
+{
+  "card_effect": "【和声】1只蓝色分身（该精灵出场时，只要不将我方1只竖置状态的蓝色分身横置，将该精灵横置）\n【自】：该精灵攻击时，以对方场上最多2只力量为10000以上的精灵为对象，可以支付《绿》《绿》《绿》《无》《无》《无》。若如此做，将其破坏。\n【自】《回合1》：该精灵成为对方的能力或效果的对象时，抽1张牌并【能量填充1】。",
+  "card_lines": "「流感也是有很多种类型的呀！」",
+  "card_lrig_type": "",
+  "card_name": "Drei=流感D型",
+  "card_no": "WXN05-SC087",
+  "card_sprite_type": "奏武/毒牙",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包05",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01HFCXS2HJGEDGDVW33PKG1T2V"
+}

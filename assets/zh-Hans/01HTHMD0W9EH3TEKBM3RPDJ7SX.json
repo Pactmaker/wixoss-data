@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：我方回合中，对方的分身成长时，以我方废弃区1张黑色精灵牌为对象，将其加入手牌。\n【起】《回合1》《黑》：将我方牌组顶5张牌放置到废弃区。那之后，以我方废弃区1张黑色精灵牌为对象，将其出场。",
+  "card_lines": "「你每次成长的时候，我也能发光发热！」",
+  "card_lrig_type": "",
+  "card_name": "罗原姬　Ａｃ",
+  "card_no": "WXDi-PSC01-067",
+  "card_sprite_type": "奏罗/原子",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA强化包01",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "10000",
+  "rarity": "SR",
+  "story": "无",
+  "team": "",
+  "uid": "01HTHMD0W9EH3TEKBM3RPDJ7SX"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【队伍】<Card Jockey>\n【队伍起】《横置》：【能量填充2】\n【出】：直到回合结束为止，该分身获得「【常】：我方的精灵的力量+5000。」的能力。\n【起】《游戏1》《绿0》：直到回合结束为止，该分身获得「【起】将1只竖置状态的等级2的分身横置：将该分身竖置。」的能力。",
+  "card_lines": "「对立的精神，崇高的誓约！」",
+  "card_lrig_type": "ＷＯＬＦ",
+  "card_name": "ＶＪ．ＷＯＬＦ－３ｒｄＶｅｒｓｅ",
+  "card_no": "WXN05-SC045",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包05",
+  "grow_price": "绿2",
+  "level": "3",
+  "limit": "6",
+  "power": "",
+  "rarity": "LC",
+  "story": "",
+  "team": "Card Jockey",
+  "uid": "01HFCXS2EJBCA9PYQE4B6HQMYA"
+}

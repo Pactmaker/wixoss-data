@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：我方回合中，我方的<武器>精灵不会因对方的效果横置。\n【常】：对方回合中，我方的<武装>精灵不会因对方的效果破坏。\n【出】：从我方牌组检索1张<武装>精灵牌和1张<武器>精灵牌将其展示并加入手牌，洗切牌组。",
+  "card_lines": "雪！小玉来助你一臂之力！～小玉～",
+  "card_lrig_type": "小玉",
+  "card_name": "红翼之巫女 玉依姬",
+  "card_no": "WXD11-SC001",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "2",
+  "color": "白/红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版传奇预组11",
+  "grow_price": "白0",
+  "level": "4",
+  "limit": "11",
+  "power": "",
+  "rarity": "ST",
+  "story": "",
+  "team": "",
+  "uid": "01HJPMGB1G57H3S892H33YFM30"
+}

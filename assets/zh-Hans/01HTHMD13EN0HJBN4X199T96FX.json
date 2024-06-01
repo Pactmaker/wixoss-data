@@ -1,0 +1,23 @@
+{
+  "card_effect": "【和声】1只红色分身（该精灵出场时，只要不将我方1只竖置状态的红色分身横置，将该精灵横置）\n【常】：我方的其他精灵的力量+3000。\n【自】：该精灵攻击时，【能量填充1】。那之后，若此回合从我方牌组移动到能量区的牌为3张以上，可以支付《绿》《红》《无》。若如此做，以对方的1只精灵为对象，将其破坏。",
+  "card_lines": "「给我洗干净牙齿等着吧。」",
+  "card_lrig_type": "",
+  "card_name": "幻兽神　剑齿虎",
+  "card_no": "WXDi-PSC01-065P",
+  "card_sprite_type": "奏生/地兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA强化包01",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SRP",
+  "story": "无",
+  "team": "",
+  "uid": "01HTHMD13EN0HJBN4X199T96FX"
+}

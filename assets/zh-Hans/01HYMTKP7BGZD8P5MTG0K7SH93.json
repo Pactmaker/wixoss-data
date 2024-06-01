@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】：展示我方牌组顶2张牌。将其中1张<原子>精灵牌和1张魔法牌加入手牌，剩下的牌放置到废弃区。\n【起】《回合1》丢弃手牌2张<原子>精灵牌：从我方牌组检索1张牌并将其加入手牌，洗切牌组。\n【起】《魔法切入》《硬币》：以1张魔法牌为对象，将其效果取消。",
+  "card_lines": "",
+  "card_lrig_type": "米璐璐恩",
+  "card_name": "米璐璐恩・阿摩罗",
+  "card_no": "WXN06-SC005S",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "1",
+  "color": "蓝",
+  "cost": "",
+  "env": "",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 超世代强化包06",
+  "grow_price": "蓝0",
+  "level": "4",
+  "limit": "11",
+  "power": "",
+  "rarity": "SEC",
+  "story": "无",
+  "team": "",
+  "uid": "01HYMTKP7BGZD8P5MTG0K7SH93"
+}

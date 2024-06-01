@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：该精灵可以附有任意张数的【附属】。\n【自】：该精灵攻击时，若该精灵被3张以上的牌附属，将该精灵附有的所有【附属】和对方能量区的所有牌和对方的所有精灵放置到废弃区。\n【出】：将我方牌组顶2张牌放置到能量区。\n生命爆发：从我方牌组检索最多2张持有《附属》的牌并将其放置到能量区，洗切牌组。",
+  "card_lines": "喜欢吃什么就随心所欲地吃！～自助餐～",
+  "card_lrig_type": "",
+  "card_name": "美味代号 自助餐",
+  "card_no": "WXN05-SC081",
+  "card_sprite_type": "精械/调理",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包05",
+  "grow_price": "",
+  "level": "5",
+  "limit": "",
+  "power": "15000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01HFCXS2H4AJJ7NJ61ZPJG1KDT"
+}

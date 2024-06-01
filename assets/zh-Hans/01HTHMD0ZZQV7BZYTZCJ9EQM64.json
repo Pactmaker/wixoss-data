@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：只要我方手牌为4张以上，该精灵的力量+3000。\n【出】《绿》：抽1张牌。\n生命爆发：抽1张牌并【能量填充2】。",
+  "card_lines": "「有做好拟态吗…？」",
+  "card_lrig_type": "",
+  "card_name": "幻水 剃刀鱼",
+  "card_no": "WXDi-PSC01-126",
+  "card_sprite_type": "奏生/水兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA强化包01",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "10000",
+  "rarity": "C",
+  "story": "无",
+  "team": "",
+  "uid": "01HTHMD0ZZQV7BZYTZCJ9EQM64"
+}

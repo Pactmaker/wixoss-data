@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：该精灵攻击时，展示我方牌组顶1张牌。那之后，若其为等级1的精灵牌，以我方废弃区1张不持有《防御》的精灵牌为对象，将其加入手牌。若用此方法将精灵牌加入手牌，丢弃1张手牌。",
+  "card_lines": "「Hurry,趁着时钟的指针还没有移动。」",
+  "card_lrig_type": "",
+  "card_name": "罗星 时钟座",
+  "card_no": "WXN05-SC176",
+  "card_sprite_type": "奏罗/宇宙",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包05",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "1000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01HFCXS2S5GR6T4MNQBE9C76M2"
+}

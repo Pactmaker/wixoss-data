@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：我方的持有《交错》的<美巧>精灵不会因对方的效果破坏。\n【自】：该精灵被破坏时，可以支付《绿》。若如此做，从我方牌组检索1张等级3以下的《终末之回旋 大提琴》以外的<美巧>精灵牌将其展示并加入手牌或出场，洗切牌组。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "终末之回旋 大提琴",
+  "card_no": "SP15-SC017",
+  "card_sprite_type": "精像/美巧",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版-新店赛PR包01",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "3000",
+  "rarity": "SP",
+  "story": "无",
+  "team": "无",
+  "uid": "01HNHJ7R8MX8SERKB5MHBHJZWQ"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：【万花色】\n【出】：从主牌组、手牌、精灵区、废弃区中指定1个。\n【常】：存在于该精灵【出】能力所指定的领域的对方的精灵牌失去种族和颜色，获得<精元>。\n生命爆发：以我方废弃区最多2张持有《防御》的精灵牌为对象，将其加入手牌。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "侍从 ∞",
+  "card_no": "SPEX2-SC053",
+  "card_sprite_type": "精元",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "无",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版选择者收藏包SPEX2",
+  "grow_price": "",
+  "level": "5",
+  "limit": "",
+  "power": "15000",
+  "rarity": "SR",
+  "story": "无",
+  "team": "无",
+  "uid": "01HNFDSDFVM0RK492Z71QDRY95"
+}

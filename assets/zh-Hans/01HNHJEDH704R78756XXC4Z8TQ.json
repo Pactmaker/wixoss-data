@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】《横置》: 以对方的1只力量为2000以下的精灵为对象，将其破坏。若该精灵的力量为5000以上，改为以对方的1只力量为5000以下的精灵为对象，将其破坏。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "红将 岳举",
+  "card_no": "SP06-SC041",
+  "card_sprite_type": "奏像/武勇",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 店赛冠军包04",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "2000",
+  "rarity": "SP",
+  "story": "无",
+  "team": "无",
+  "uid": "01HNHJEDH704R78756XXC4Z8TQ"
+}

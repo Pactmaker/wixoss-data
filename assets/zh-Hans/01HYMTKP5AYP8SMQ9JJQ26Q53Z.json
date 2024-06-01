@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：该精灵攻击时，以我方废弃区1张精灵牌为对象，可以将我方的其他1只精灵从场上放置到废弃区并支付《黑》。若如此做，将其加入手牌。\n【自】：对方的攻击阶段开始时，以我方废弃区1张黑色精灵牌为对象，可以支付《黑》。若如此做，将其加入手牌。\n生命爆发：以我方废弃区最多2张精灵牌为对象，将其加入手牌。丢弃1张手牌。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "大装　村正",
+  "card_no": "WXN06-SC055P",
+  "card_sprite_type": "奏武/武装",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 超世代强化包06",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "10000",
+  "rarity": "SRP",
+  "story": "无",
+  "team": "",
+  "uid": "01HYMTKP5AYP8SMQ9JJQ26Q53Z"
+}

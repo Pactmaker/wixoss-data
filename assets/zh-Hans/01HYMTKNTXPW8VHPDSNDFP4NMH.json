@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】《回合1》：我方的1只红色的精灵成为对方的能力或效果的对象时，对方选择自己能量区1张牌放置到废弃区。\n【出】丢弃1张手牌：查看我方牌组顶2张牌。将其中1张牌加入手牌，剩下的牌放置到废弃区。\n生命爆发：选择其中1项。①以对方的1只竖置状态的精灵为对象，将其破坏。②抽1张牌。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "罗婚石　钻石新娘",
+  "card_no": "WXN06-SC042",
+  "card_sprite_type": "奏罗/宝石",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 超世代强化包06",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "无",
+  "team": "",
+  "uid": "01HYMTKNTXPW8VHPDSNDFP4NMH"
+}

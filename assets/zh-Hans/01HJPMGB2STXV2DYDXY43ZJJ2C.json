@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】：展示我方牌组顶1张牌。若其为等级4的精灵牌，将其加入手牌。\n【出】《白》：以对方的1只精灵为对象，若我方场上有卡牌名含有《皇家铠》的精灵，将其返回手牌。\n【出】丢弃手牌1张卡牌名含有《皇家铠》的精灵牌：以对方的1只精灵为对象，将其返回手牌。",
+  "card_lines": "COME ON！姐姐！（啊，被人带坏了）～护腿～",
+  "card_lrig_type": "",
+  "card_name": "胫当 护腿",
+  "card_no": "WXD11-SC020",
+  "card_sprite_type": "精武/武装",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "白",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版传奇预组11",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "5000",
+  "rarity": "ST",
+  "story": "",
+  "team": "",
+  "uid": "01HJPMGB2STXV2DYDXY43ZJJ2C"
+}

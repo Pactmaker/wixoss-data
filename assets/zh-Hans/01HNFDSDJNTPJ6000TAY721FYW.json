@@ -1,0 +1,23 @@
+{
+  "card_effect": "从以下2项选择其中1项。\n①以我方的1只白色精灵为对象，将其破坏。若如此做，从我方牌组检索1张白色精灵牌将其展示并加入手牌，洗切牌组。\n②将对象的我方的1只黑色精灵破坏。若如此做，直到回合结束为止，对象的对方的1只精灵的力量-7000。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "拷问之鞭",
+  "card_no": "SPEX2-SC103",
+  "card_sprite_type": "",
+  "card_type": "魔法",
+  "coin": "",
+  "color": "黑",
+  "cost": "黑0",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版选择者收藏包SPEX2",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "C",
+  "story": "无",
+  "team": "无",
+  "uid": "01HNFDSDJNTPJ6000TAY721FYW"
+}

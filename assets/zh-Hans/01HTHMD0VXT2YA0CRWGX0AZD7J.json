@@ -1,0 +1,23 @@
+{
+  "card_effect": "【和声】1只黑色分身\n【自】：该精灵攻击时，以对方的1只精灵为对象，可以支付《无》。若如此做，直到回合结束为止，其力量-3000。若此回合对方丢弃过2张以上手牌，改为直到回合结束为止，其力量-8000。\n【出】《蓝》：抽1张牌，或在不查看对方手牌的情况下挑选其中1张，将其丢弃。",
+  "card_lines": "「显色阶段第一名！」",
+  "card_lrig_type": "",
+  "card_name": "罗原姬 ZrO2",
+  "card_no": "WXDi-PSC01-061",
+  "card_sprite_type": "奏罗/原子",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA强化包01",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "无",
+  "team": "",
+  "uid": "01HTHMD0VXT2YA0CRWGX0AZD7J"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：只要我方废弃区卡牌名含有《侍从》的精灵牌为10种类以上，该精灵获得所有颜色。\n【自】：该精灵攻击时，以对方的1只与该精灵持有相同颜色的精灵为对象，将其放置到废弃区。\n【起】《回合1》《无》《无》：从我方牌组检索4张等级各不相同，能力相同的精灵牌将其展示并加入手牌，洗切牌组。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "侍从 G",
+  "card_no": "SPEX2-SC054",
+  "card_sprite_type": "精元",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "无",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版选择者收藏包SPEX2",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "无",
+  "team": "无",
+  "uid": "01HNFDSDFWNBAQGE3XS0AGZH81"
+}

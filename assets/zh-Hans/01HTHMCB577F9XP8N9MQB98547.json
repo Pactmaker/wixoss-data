@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】：将我方牌组顶2张牌放置到废弃区。那之后，若用此方法将1张以上的魔法牌放置到废弃区，以对方的1只精灵为对象，直到回合结束为止，其力量-2000。",
+  "card_lines": "「就让我当个家里蹲吧…。」",
+  "card_lrig_type": "",
+  "card_name": "技术代号　无用箱",
+  "card_no": "WXDi-DSC05-020",
+  "card_sprite_type": "奏械/电机",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA出道牌组05 DIAGRAM",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "2000",
+  "rarity": "ST",
+  "story": "无",
+  "team": "",
+  "uid": "01HTHMCB577F9XP8N9MQB98547"
+}

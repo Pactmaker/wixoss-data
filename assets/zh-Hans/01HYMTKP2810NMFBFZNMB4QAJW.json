@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】：若我方场上有精灵附有的牌或精灵下方放置的牌，以对方的1只精灵为对象，直到回合结束为止，其力量-1000。\n（力量为0以下的精灵会因为规则而破坏）",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "幻虫　天牛",
+  "card_no": "WXN06-SC120",
+  "card_sprite_type": "奏生/凶虫",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 超世代强化包06",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "2000",
+  "rarity": "C",
+  "story": "无",
+  "team": "",
+  "uid": "01HYMTKP2810NMFBFZNMB4QAJW"
+}

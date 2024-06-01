@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】《回合1》：我方回合中，我方的1只分身下方1张牌移动时，以对方的1只精灵为对象，可以支付《无》。若如此做，直到回合结束为止，其力量-8000。\n【起】将2只竖置状态的等级2的分身横置：该牌从废弃区出场。",
+  "card_lines": "「蒸汽加农步枪！」",
+  "card_lrig_type": "",
+  "card_name": "群集古兵代号　蒸汽朋克",
+  "card_no": "WXDi-PSC01-068P",
+  "card_sprite_type": "奏械/古代兵器",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA强化包01",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "10000",
+  "rarity": "SRP",
+  "story": "无",
+  "team": "",
+  "uid": "01HTHMD13MMHV7CC5VCZBAQ7DN"
+}

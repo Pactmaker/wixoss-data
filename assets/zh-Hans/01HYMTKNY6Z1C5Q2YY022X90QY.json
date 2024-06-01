@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：我方的【英知】能力的条件参照该精灵的等级时，该精灵的等级视为1和2和3。\n（实际的等级不变。例如若该精灵以外有等级2和等级3的<英知>精灵，则满足《英知=6》和《英知=7》和《英知=8》的所有条件）",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "变英的額面　＃网络货币＃",
+  "card_no": "WXN06-SC077",
+  "card_sprite_type": "精像/英知",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 超世代强化包06",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "7000",
+  "rarity": "R",
+  "story": "无",
+  "team": "",
+  "uid": "01HYMTKNY6Z1C5Q2YY022X90QY"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：我方主分身获得以下能力。\n「【起】《回合1》《攻击阶段》超越1：直到回合结束为止，对象的我方场上1只精灵变为与我方废弃区对象的1张精灵牌相同的牌。」\n【出】：从我方牌组检索最多2张等级4的精灵牌将其展示并加入手牌，洗切牌组。\n【起】《攻击阶段》将场上的该钥匙放置到分身废弃区：直到回合结束为止，对方场上的所有精灵变为《侍从 ZERO》。",
+  "card_lines": "喂—，太狡猾了。只有你一个人舒服了。～嘉年华～",
+  "card_lrig_type": "",
+  "card_name": "嘉年华 －Ｋ－",
+  "card_no": "WXN05-SC010",
+  "card_sprite_type": "",
+  "card_type": "钥匙",
+  "coin": "",
+  "color": "红",
+  "cost": "硬币1",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包05",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "LR",
+  "story": "",
+  "team": "",
+  "uid": "01HFCXS2C24ZPCCN6XXQN09S76"
+}

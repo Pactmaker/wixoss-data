@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】《回合1》丢弃手牌1张<原子>精灵牌：抽2张牌。\n【起】《攻击阶段》《蓝》：以对方的1只精灵为对象，将该精灵与其破坏。\n【起】《攻击阶段》《蓝》《无》：将我方废弃区10张名字不同的非无色的精灵牌加入牌组洗切。若如此做，将该精灵牌从废弃区出场。\n生命爆发：抽1张牌。那之后，若我方手牌为4张以下，抽1张牌。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "罗原姬　Ｚｒ",
+  "card_no": "WXN06-SC048",
+  "card_sprite_type": "精罗/原子",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 超世代强化包06",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "无",
+  "team": "",
+  "uid": "01HYMTKNVFJESQA09FHY31139T"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：该精灵被附有【灵魂】时，将我方或对方牌组顶2张牌放置到废弃区。\n【出】《黑》《红》《无》《无》：以我方废弃区1张精灵牌为对象，将其出场。那之后，以对方的1只力量比出场的精灵低的精灵为对象，将其破坏。",
+  "card_lines": "ー通过迪乌斯屏障大量的增加废弃区，复活喜欢的精灵吧！",
+  "card_lrig_type": "",
+  "card_name": "古兵代号 方尖碑",
+  "card_no": "WXDi-PSC01-092",
+  "card_sprite_type": "奏械/古代兵器",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA强化包01",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "10000",
+  "rarity": "R",
+  "story": "无",
+  "team": "",
+  "uid": "01HTHMD0XT77750XQ32QQGMVMW"
+}

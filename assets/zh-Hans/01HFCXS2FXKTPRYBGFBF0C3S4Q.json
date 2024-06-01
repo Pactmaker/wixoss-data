@@ -1,0 +1,23 @@
+{
+  "card_effect": "【和声】1只红色分身（该精灵出场时，只要不将我方1只竖置状态的红色分身横置，将该精灵横置）\n【自】《回合1》：我方【防御】时，抽1张牌。\n【自】：该精灵攻击时，以我方废弃区1张持有《防御》的精灵牌为对象，可以支付《白》《无》。若如此做，将其加入手牌。",
+  "card_lines": "「八重的完美阻…防御战略的说！」",
+  "card_lrig_type": "",
+  "card_name": "大装 八重弦",
+  "card_no": "WXN05-SC064",
+  "card_sprite_type": "奏武/武装",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "白",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包05",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01HFCXS2FXKTPRYBGFBF0C3S4Q"
+}

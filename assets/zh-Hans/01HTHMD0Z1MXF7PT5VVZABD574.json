@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：只要我方废弃区的等级1的精灵牌为2张以上，该精灵的力量+4000。\n生命爆发：查看我方牌组顶3张牌。将其中1张精灵牌展示并加入手牌或出场，剩下的牌按任意顺序放置到牌组底。",
+  "card_lines": "「拜访我水蛇座是想寻找何物？」",
+  "card_lrig_type": "",
+  "card_name": "罗星 水蛇座",
+  "card_no": "WXDi-PSC01-111",
+  "card_sprite_type": "奏罗/宇宙",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA强化包01",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "3000",
+  "rarity": "C",
+  "story": "无",
+  "team": "",
+  "uid": "01HTHMD0Z1MXF7PT5VVZABD574"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】《回合1》：我方的1只<天使>精灵因效果出场时，以对方的1只精灵为对象，直到回合结束为止，其力量-7000。（该精灵因效果出场时也发动）\n【出】：将我方牌组顶3张牌放置到废弃区。\n生命爆发：将我方牌组顶3张牌放置到废弃区。那之后，以我方废弃区1张非无色的精灵牌为对象，将其加入手牌。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "无法忘却的幻葬　†瓦尔基里†",
+  "card_no": "WXN06-SC083",
+  "card_sprite_type": "精像/天使",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 超世代强化包06",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "7000",
+  "rarity": "R",
+  "story": "无",
+  "team": "",
+  "uid": "01HYMTKNYS065P4VCGV70XKHNB"
+}

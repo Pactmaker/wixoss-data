@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：只要我方场上存在2只持有相同颜色的分身，该精灵的力量+2000。只要存在3只，改为该精灵的力量+3000。\n【自】：该精灵攻击时，若我方场上存在力量为15000以上的精灵，【能量填充1】。\n生命爆发：选择其中1项。①以对方的1只竖置状态的精灵为对象，将其破坏。②【能量填充1】",
+  "card_lines": "「我开动了！」",
+  "card_lrig_type": "",
+  "card_name": "幻兽 变色龙",
+  "card_no": "WXDi-PSC01-087",
+  "card_sprite_type": "奏生/地兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA强化包01",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "12000",
+  "rarity": "R",
+  "story": "无",
+  "team": "",
+  "uid": "01HTHMD0XGKVKEKXSZBHMS1TDZ"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出现条件】【主要阶段】将我方场上1只《核心代号 Ｖ・Ａ・Ｃ》和1只不为共鸣的<电机>精灵放置到废弃区。\n【自】: 我方使用蓝色魔法牌时，以场上1只精灵为对象，将其竖置。\n【出】: 以我方废弃区1张费用合计为3以下的蓝色魔法牌为对象，可以将其不支付费用使用。",
+  "card_lines": "这份力量，一定是……。～皮璐璐可～",
+  "card_lrig_type": "",
+  "card_name": "蔚蓝核心代号 Ｖ・＠・Ｃ",
+  "card_no": "WXD12-SC006",
+  "card_sprite_type": "精械/电机",
+  "card_type": "共鸣",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版传奇预组12",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "15000",
+  "rarity": "ST",
+  "story": "",
+  "team": "",
+  "uid": "01HJPMGNZCA8JZHKF6CD468JXB"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：我方的1只精灵被附有【灵魂】时，可以丢弃1张手牌。若如此做，抽1张牌。\n【起】《红0》：以我方的1只精灵为对象，将该分身下方的1张牌成为那只精灵的【灵魂】。\n【起】《游戏1》超越3：以我方的最多2只红色精灵为对象，将我方分身牌组的1张碎片牌从游戏除外。若如此做，直到回合结束为止，那些精灵获得【暗杀】能力。",
+  "card_lines": "「我有说过吧，给我使出全力！！！」",
+  "card_lrig_type": "艾克斯",
+  "card_name": "艾克斯・THREE",
+  "card_no": "WXDi-PSC01-003",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA强化包01",
+  "grow_price": "红2",
+  "level": "3",
+  "limit": "6",
+  "power": "",
+  "rarity": "LR",
+  "story": "无",
+  "team": "DXM",
+  "uid": "01HTHMD0R63P3VY3AGB63FBZPE"
+}

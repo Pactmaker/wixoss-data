@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：被该牌作为【灵魂】附有的精灵获得「【自】《回合1》：该精灵攻击时，以对方的1只力量为12000以下的精灵为对象，将其破坏。」的能力。\n（【灵魂】在精灵上最多附有1张，那只精灵离开场上时，【灵魂】放置到分身废弃区）",
+  "card_lines": "「虽然很抱歉，但可不能在这种地方磨蹭啊！」",
+  "card_lrig_type": "艾克斯",
+  "card_name": "艾克斯・TWO",
+  "card_no": "WXDi-PSC01-015",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA强化包01",
+  "grow_price": "红1",
+  "level": "2",
+  "limit": "5",
+  "power": "",
+  "rarity": "LC",
+  "story": "无",
+  "team": "DXM",
+  "uid": "01HTHMD0RXSZ98XNDMZER0FEVE"
+}

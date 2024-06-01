@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：我方攻击阶段开始时，若我方场上的<天使>精灵为3只以上，抽1张牌。\n【自】：该精灵攻击时，若我方废弃区的<天使>精灵牌为15张以上，以对方场上1只分身为对象，可以支付《蓝》《无》。若如此做，将其冻结。\n生命爆发：从我方废弃区，将1张对象的等级2的<天使>精灵牌加入手牌，将1张对象的等级1的<天使>精灵牌出场。",
+  "card_lines": "「让大家的创意为我带来力量。」",
+  "card_lrig_type": "",
+  "card_name": "苍天姬 阿玛比埃",
+  "card_no": "WXN05-SC075",
+  "card_sprite_type": "奏像/天使",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包05",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01HFCXS2GPG9DBW3CWHCAWRVFV"
+}

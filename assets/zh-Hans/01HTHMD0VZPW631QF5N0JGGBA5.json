@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：该精灵攻击时，对方可以丢弃2张手牌。若如此做，该攻击无效。\n【自】：我方攻击阶段开始时，以该精灵正面的1只精灵为对象，可以支付《蓝》《蓝》。若如此做，将其以背面表示。该回合结束时，用此方法以背面表示的精灵，若相同精灵区没有精灵存在，以正面表示。若相同精灵区有精灵存在，放置到废弃区。",
+  "card_lines": "「正好呢！我们缺少一起跳舞的小丑哟！」",
+  "card_lrig_type": "",
+  "card_name": "大罠　哈默尔恩",
+  "card_no": "WXDi-PSC01-062",
+  "card_sprite_type": "奏武/机关",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA强化包01",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "10000",
+  "rarity": "SR",
+  "story": "无",
+  "team": "",
+  "uid": "01HTHMD0VZPW631QF5N0JGGBA5"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】：以对方的最多2只精灵为对象，直到回合结束为止，其获得「【自】：该精灵攻击时，直到回合结束为止，该精灵的力量-20000。」的能力。\n【出】《黑》《无》《无》：以对方的1只精灵为对象，直到回合结束为止，其获得「【自】：该精灵攻击时，直到回合结束为止，该精灵的力量-20000。」的能力。",
+  "card_lines": "「已经向你展现了我的全部。」",
+  "card_lrig_type": "玛琪娜",
+  "card_name": "玛琪娜缠绕",
+  "card_no": "WXDi-PSC01-042",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA强化包01",
+  "grow_price": "",
+  "level": "2",
+  "limit": "+1",
+  "power": "",
+  "rarity": "LC",
+  "story": "无",
+  "team": "DXM",
+  "uid": "01HTHMD0TP6GC3G7M54YM8KA84"
+}

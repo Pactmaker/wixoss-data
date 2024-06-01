@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】《回合1》：我方的卡牌名含有《烈炎军团》的精灵攻击时，以其他1只卡牌名含有《烈炎军团》的精灵为对象，将其竖置。\n【出】：以我方废弃区最多5张卡牌名含有《烈炎军团》的精灵牌为对象，将其加入牌组洗切。那之后，以对方的1只与用此方法加入牌组的张数等级相同的精灵为对象，将其破坏。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "轰炎　烈炎军团准尉",
+  "card_no": "WXN06-SC063",
+  "card_sprite_type": "精武/武器",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 超世代强化包06",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "8000",
+  "rarity": "R",
+  "story": "无",
+  "team": "",
+  "uid": "01HYMTKNWWMC6HQQAWNNBJGECT"
+}

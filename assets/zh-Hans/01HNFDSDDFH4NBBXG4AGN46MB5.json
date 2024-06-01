@@ -1,0 +1,23 @@
+{
+  "card_effect": "下注—《硬币》《硬币》《硬币》\n\n以对方的1只精灵为对象，将其横置，抽1张牌。若我方已下注，改为以对方的3只精灵为对象，将其横置，抽3张牌。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "禁止响应",
+  "card_no": "SPEX2-SC011",
+  "card_sprite_type": "",
+  "card_type": "必杀",
+  "coin": "",
+  "color": "蓝",
+  "cost": "蓝2",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版选择者收藏包SPEX2",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "LR",
+  "story": "无",
+  "team": "无",
+  "uid": "01HNFDSDDFH4NBBXG4AGN46MB5"
+}

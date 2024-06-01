@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】《回合1》：我方在抽牌阶段以外抽1张牌时，可以丢弃1张手牌。若如此做，抽1张牌。\n生命爆发：以对方的1只精灵为对象，将其横置并冻结。抽1张牌。\n（被冻结的精灵在下一个自己的竖置阶段不能竖置）",
+  "card_lines": "其宝石的寓意乃自信。",
+  "card_lrig_type": "",
+  "card_name": "罗石　蓝锥石",
+  "card_no": "WXDi-DSC06-017",
+  "card_sprite_type": "奏罗/宝石",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA出道牌组06 可可爱爱",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "3000",
+  "rarity": "ST",
+  "story": "无",
+  "team": "",
+  "uid": "01HTHMC61CRG6A9Y126BZDVZTH"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "下注—《硬币》\n\n从我方牌组检索1张等级4以下的白色或黑色的精灵牌并将其以横置状态出场，洗切牌组。那之后，若我方已下注，追加以我方废弃区1张用此方法出场的精灵的交错条件含有的精灵为对象，将其出场。",
+  "card_lines": "来吧，犹格索托斯。让我们开启狂气的宴乐吧♪～莎布尼古拉丝～",
+  "card_lrig_type": "",
+  "card_name": "演出·开始",
+  "card_no": "SP15-SC024",
+  "card_sprite_type": "",
+  "card_type": "必杀",
+  "coin": "",
+  "color": "白",
+  "cost": "白1黑1",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版-新店赛PR包01",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "SP",
+  "story": "",
+  "team": "",
+  "uid": "01HS0Q9ETV6BBECW9RV2FXTJHX"
+}

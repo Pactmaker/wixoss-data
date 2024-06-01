@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：该精灵攻击时，查看我方牌组顶3张牌。将其中1张魔法牌展示并加入手牌，剩下的牌按任意顺序放置到牌组底。",
+  "card_lines": "——电机精灵的战略是活用魔法牌哒！",
+  "card_lrig_type": "",
+  "card_name": "技术代号 手电筒",
+  "card_no": "WXDi-DSC03-018",
+  "card_sprite_type": "奏械/电机",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "白",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版DIVA出道牌组03-Card Jockey",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "1000",
+  "rarity": "ST",
+  "story": "",
+  "team": "",
+  "uid": "01HFCXQQSV4WJA3RK80D57G2CT"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "以我方的1只精灵为对象，直到回合结束为止，其获得【枪兵】能力。直到回合结束为止，对方的所有精灵失去能力，那些精灵的基本力量变为10000。\n生命爆发：选择其中1项。①直到回合结束为止，我方的所有精灵的力量+10000。②查看我方牌组顶3张牌。将其中1张精灵牌展示并加入手牌或出场，剩下的牌按任意顺序放置到牌组底。",
+  "card_lines": "「将你，就此贯穿。」～桑伽～",
+  "card_lrig_type": "",
+  "card_name": "豪枪",
+  "card_no": "WXDi-PSC01-088",
+  "card_sprite_type": "",
+  "card_type": "魔法",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA强化包01",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "R",
+  "story": "无",
+  "team": "",
+  "uid": "01HTHMD0XJ5QDNT3RC21QQ4NSV"
+}

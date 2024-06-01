@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：只要我方场上不存在其他精灵，该精灵获得「【自】：该精灵攻击时，可以支付《绿》《无》。若如此做，将对方的所有精灵放置到能量区。」的能力。\n【自】：我方攻击阶段开始时，以我方场上最多2只精灵为对象，可以将其以背面表示。该回合结束时，若用此方法以背面表示的精灵，所在的精灵区没有精灵存在，将其以正面表示。",
+  "card_lines": "「快躲起来，不然连你们也射哟。」",
+  "card_lrig_type": "",
+  "card_name": "翠将姬 罗宾汉",
+  "card_no": "WXN05-SC084",
+  "card_sprite_type": "奏像/武勇",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包05",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01HFCXS2HBXTAGJSCZ6CHDVBV1"
+}

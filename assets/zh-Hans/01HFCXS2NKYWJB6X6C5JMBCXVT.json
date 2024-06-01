@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：该精灵因费用或效果从场上放置到废弃区时，以我方废弃区1张等级2以下的黑色精灵牌为对象，可以支付《无》。若如此做，将其以横置状态出场。\n【出】《无》：以我方废弃区1张不持有《防御》的牌为对象，将其放置到能量区。\n生命爆发：以我方废弃区1张不持有《防御》的精灵牌为对象，将其加入手牌或将其出场。",
+  "card_lines": "「下次再一起玩游戏吧！」",
+  "card_lrig_type": "",
+  "card_name": "迷牢代号 涂鸦墙",
+  "card_no": "WXN05-SC131",
+  "card_sprite_type": "奏械/迷宫",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包05",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "12000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01HFCXS2NKYWJB6X6C5JMBCXVT"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】:该精灵正前方的精灵失去能力。\n【常】:只要对方场上有2只以上不持有能力的精灵，该精灵的力量+3000。\n【自】:对方的1只精灵从场上移动到牌组时，从我方牌组检索1张<迷宫>精灵牌将其展示并加入手牌，洗切牌组。\n生命爆发:下一个我方回合中，对方场上所有精灵失去能力。抽1张牌。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "迷牢代号 卢浮宫",
+  "card_no": "SPEX2-SC040S",
+  "card_sprite_type": "精械/迷宫",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "白",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版选择者收藏包SPEX2",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SEC",
+  "story": "无",
+  "team": "无",
+  "uid": "01HNFDSDKC1GNAFRP27K7KGM1G"
+}

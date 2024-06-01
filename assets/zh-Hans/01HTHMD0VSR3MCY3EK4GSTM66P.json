@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：只要该精灵下方有牌，该精灵的力量+5000，获得「【自】：该精灵攻击时，以对方的1只力量为8000以下的精灵为对象，可以支付《红》《红》。若如此做，将其破坏。」的能力。\n【出】：以我方的1只等级3的精灵为对象，可以将其放置到该精灵下方。（以我方场上的精灵为对象）",
+  "card_lines": "「嘿呀哈ー！」",
+  "card_lrig_type": "",
+  "card_name": "加速代号　嘿哈",
+  "card_no": "WXDi-PSC01-059",
+  "card_sprite_type": "奏械/乘机",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA强化包01",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "3000",
+  "rarity": "SR",
+  "story": "无",
+  "team": "",
+  "uid": "01HTHMD0VSR3MCY3EK4GSTM66P"
+}

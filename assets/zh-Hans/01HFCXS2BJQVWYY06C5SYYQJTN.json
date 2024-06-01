@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】：以我方废弃区最多3张卡牌名不同的持有《附属》的精灵牌为对象，将其放置到能量区。\n【起】《回合1》《攻击阶段》《绿0》：使我方能量区1张持有《附属》的卡牌成为我方场上1只精灵的【附属】。\n【起】《主要阶段》《攻击阶段》《硬币》：以我方能量区1张<调理>精灵牌为对象，将其出场。",
+  "card_lines": "拥有思念之人的话，一定能。",
+  "card_lrig_type": "梅露",
+  "card_name": "梅露=斯皮亚图斯",
+  "card_no": "WXN05-SC003",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包05",
+  "grow_price": "绿2",
+  "level": "5",
+  "limit": "12",
+  "power": "",
+  "rarity": "LR",
+  "story": "",
+  "team": "",
+  "uid": "01HFCXS2BJQVWYY06C5SYYQJTN"
+}

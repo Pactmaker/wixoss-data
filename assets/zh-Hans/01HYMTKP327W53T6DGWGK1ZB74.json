@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】《回合1》《黑0》：以对方的1只精灵为对象，将我方废弃区1张黑色的<天使>精灵牌和1张黑色的<古代兵器>精灵牌按任意顺序放置到牌组底。若如此做，将其放置到废弃区。\n【起】《攻击阶段》超越2：以我方废弃区1张黑色的精灵牌为对象，将其出场或将我方手牌1张黑色的精灵牌出场。用此方法出场的精灵的【出】能力不发动。",
+  "card_lines": "",
+  "card_lrig_type": "乌姆尔",
+  "card_name": "白亚之键主　乌鲁托姆",
+  "card_no": "WXN06-SC-BE02",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "3",
+  "color": "白/黑",
+  "cost": "",
+  "env": "",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 超世代强化包06",
+  "grow_price": "黑3",
+  "level": "4",
+  "limit": "11",
+  "power": "",
+  "rarity": "BE",
+  "story": "无",
+  "team": "",
+  "uid": "01HYMTKP327W53T6DGWGK1ZB74"
+}

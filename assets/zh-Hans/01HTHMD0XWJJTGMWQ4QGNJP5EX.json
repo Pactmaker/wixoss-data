@@ -1,0 +1,23 @@
+{
+  "card_effect": "此回合中，对方的精灵的力量因我方的精灵的效果减少的情况下，改为减少2倍。\n若我方废弃区的牌为25张以上，以我方废弃区1张不持有《防御》的精灵牌为对象，将其加入手牌。\n生命爆发：以对方的1只竖置状态的精灵为对象，直到回合结束为止，其力量-15000。",
+  "card_lines": "「我的双脚是很特别的哦~。来吧，随我起舞吧？」～缪斯伽～",
+  "card_lrig_type": "",
+  "card_name": "暗流・涌动",
+  "card_no": "WXDi-PSC01-093",
+  "card_sprite_type": "",
+  "card_type": "魔法",
+  "coin": "",
+  "color": "黑",
+  "cost": "黑1无1",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA强化包01",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "R",
+  "story": "无",
+  "team": "",
+  "uid": "01HTHMD0XWJJTGMWQ4QGNJP5EX"
+}

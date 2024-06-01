@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】《回合2》：我方在抽牌阶段以外抽1张牌时，直到回合结束为止，我方的所有精灵的力量+1000。\n【自】：我方攻击阶段开始时，可以丢弃手牌1张<天使>精灵牌。若如此做，抽1张牌。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "苍天　欧德姆布拉",
+  "card_no": "WXN06-SC066",
+  "card_sprite_type": "奏像/天使",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 超世代强化包06",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "3000",
+  "rarity": "R",
+  "story": "无",
+  "team": "",
+  "uid": "01HYMTKNX50D9NAVMDMGE68RD2"
+}

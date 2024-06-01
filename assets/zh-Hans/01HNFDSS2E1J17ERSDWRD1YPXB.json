@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：该精灵每回合只能攻击1次。\n【出】《绿》：直到回合结束为止，该精灵获得「【常】：只要该精灵正面的精灵的力量为3000以下，获得【枪兵】能力。」的能力。\n（持有【枪兵】能力的精灵战斗破坏精灵时，击溃对方1张生命护甲）",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "翠将　野蛮人",
+  "card_no": "SP18-SC005",
+  "card_sprite_type": "奏像/武勇",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 DIVA赛事包01",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "3000",
+  "rarity": "SP",
+  "story": "无",
+  "team": "无",
+  "uid": "01HNFDSS2E1J17ERSDWRD1YPXB"
+}

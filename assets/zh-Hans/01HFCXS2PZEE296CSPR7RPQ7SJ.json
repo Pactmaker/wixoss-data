@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：只要我方废弃区有魔法牌，该精灵的力量+3000。\n【出】《红》《红》《红》：若我方废弃区的魔法牌为5张以上，直到回合结束为止，该精灵获得【暗杀】能力。\n（持有【暗杀】能力的精灵攻击时不与正前方的精灵战斗，改为给予对方伤害）",
+  "card_lines": "「迅速点火！」",
+  "card_lrig_type": "",
+  "card_name": "技术代号 火炉",
+  "card_no": "WXN05-SC145",
+  "card_sprite_type": "奏械/电机",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包05",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "7000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01HFCXS2PZEE296CSPR7RPQ7SJ"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：被该牌作为【灵魂】附有的精灵获得「【自】《回合1》：该精灵攻击时，以对方的1只力量为12000以下的精灵为对象，将其破坏。」的能力。\n（【灵魂】在精灵上最多附有1张，那只精灵离开场上时，【灵魂】放置到分身废弃区）",
+  "card_lines": "「我就承认吧，你这家伙很强，我要使出全力了！」",
+  "card_lrig_type": "迪乌斯",
+  "card_name": "迪乌斯・THREE",
+  "card_no": "WXDi-PSC01-005D",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA强化包01",
+  "grow_price": "",
+  "level": "3",
+  "limit": "6",
+  "power": "",
+  "rarity": "DIR",
+  "story": "无",
+  "team": "DXM",
+  "uid": "01HTHMD10VJB10K7DN6AANBXYR"
+}

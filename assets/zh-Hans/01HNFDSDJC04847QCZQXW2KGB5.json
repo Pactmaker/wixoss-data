@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】《绿0》：以我方的1只精灵为对象，将该牌从能量区成为其【附属】。\n【常】：被该牌附属的<调理>精灵获得「【常】：该精灵不受对方的精灵的效果影响。」的能力。\n（1只精灵最多只能附有1张【附属】)",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "食用代号 煎蛋",
+  "card_no": "SPEX2-SC098",
+  "card_sprite_type": "精械/调理",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版选择者收藏包SPEX2",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "5000",
+  "rarity": "C",
+  "story": "无",
+  "team": "无",
+  "uid": "01HNFDSDJC04847QCZQXW2KGB5"
+}

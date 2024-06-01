@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自icon】：该分身攻击时，可以将该分身下方的1张牌放置到分身废弃区。若如此做，在不查看对方手牌的情况下挑选其中1张，将其丢弃。\n【自icon】：对方因我方的效果丢弃1张手牌时，以对方的1只精灵为对象，将其冻结。\n【起icon】《游戏1icon》《蓝0icon》：所有玩家抽2张牌。在不查看对方手牌的情况下挑选其中2张，将其丢弃。",
+  "card_lines": "「现在是嗨翻天的狂欢哟！」",
+  "card_lrig_type": "玉子",
+  "card_name": "无畏　Ｄｒ．玉子",
+  "card_no": "WXDi-PSC01-004S",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA强化包01",
+  "grow_price": "",
+  "level": "3",
+  "limit": "6",
+  "power": "",
+  "rarity": "SCR",
+  "story": "无",
+  "team": "",
+  "uid": "01HTHMD11E8VD4S78A323HDGN6"
+}

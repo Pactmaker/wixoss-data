@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：我方回合中，该精灵正面的精灵的等级每有1级，那只精灵的力量-1000。\n（力量为0以下的精灵会因为规则而破坏）",
+  "card_lines": "「瑟瑟发抖了吧？」",
+  "card_lrig_type": "",
+  "card_name": "Zwei＝火蚁",
+  "card_no": "WXDi-DSC05-025",
+  "card_sprite_type": "奏武/毒牙",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA出道牌组05 DIAGRAM",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "5000",
+  "rarity": "ST",
+  "story": "无",
+  "team": "",
+  "uid": "01HTHMCB5HAPGTTT98NEQPQ78B"
+}

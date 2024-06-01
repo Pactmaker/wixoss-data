@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：只要我方废弃区的<龙兽>精灵牌为5张以上，该精灵的基本力量变为12000。\n【出】：以对方的1只力量为「我方废弃区的<龙兽>精灵牌的数量×1000」以下的精灵为对象，将其破坏。\n【起】《横置》丢弃手牌1张<龙兽>精灵牌：从我方牌组检索1张《幻龙 雷龙》以外的<龙兽>精灵牌并将其出场，洗切牌组。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "幻龙 雷龙",
+  "card_no": "SPEX2-SC044",
+  "card_sprite_type": "精生/龙兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版选择者收藏包SPEX2",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "7000",
+  "rarity": "SR",
+  "story": "无",
+  "team": "无",
+  "uid": "01HNFDSDFBZ7EYJKHRZ0R7Y54J"
+}

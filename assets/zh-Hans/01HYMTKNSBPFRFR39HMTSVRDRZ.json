@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】：展示我方牌组顶4张牌。将其中选择名字不同的任意张数的<原子>精灵牌加入手牌，剩下的牌放置到废弃区。\n【起】《回合2》《魔法切入》《蓝0》：以1张费用合计为1以下的魔法牌为对象，将其效果取消。若如此做，抽1张牌。\n【起】《攻击阶段》超越1：以对方的1只精灵为对象，丢弃手牌1张<原子>精灵牌。若如此做，将其破坏。",
+  "card_lines": "",
+  "card_lrig_type": "米璐璐恩",
+  "card_name": "米璐璐恩・摩尔",
+  "card_no": "WXN06-SC026",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 超世代强化包06",
+  "grow_price": "蓝3",
+  "level": "4",
+  "limit": "11",
+  "power": "",
+  "rarity": "LC",
+  "story": "无",
+  "team": "",
+  "uid": "01HYMTKNSBPFRFR39HMTSVRDRZ"
+}

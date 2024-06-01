@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】：直到回合结束为止，对方的所有精灵获得「【自】：该精灵被破坏时，该精灵的等级每有1级，将我方牌组顶2张牌放置到废弃区。」的能力。\n【出】《无》《无》《无》：以对方的1只精灵为对象，将其破坏。那之后，以我方废弃区1张与那只精灵等级相同的精灵牌为对象，将其出场。",
+  "card_lines": "「是那样的吗？笨蛋小姐？」",
+  "card_lrig_type": "缪斯伽",
+  "card_name": "缪斯伽//振动",
+  "card_no": "WXDi-PSC01-050",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA强化包01",
+  "grow_price": "",
+  "level": "2",
+  "limit": "+1",
+  "power": "",
+  "rarity": "LC",
+  "story": "无",
+  "team": "DIAGRAM",
+  "uid": "01HTHMD0V7DQ3RP382CTBR3ZNN"
+}

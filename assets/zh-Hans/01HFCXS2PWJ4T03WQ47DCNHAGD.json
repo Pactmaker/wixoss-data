@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】：从我方牌组检索最多1张<古代兵器>精灵牌并将其放置到废弃区，洗切牌组。\n【起】《回合1》丢弃手牌1张<古代兵器>精灵牌：以对方场上1只力量为8000以下的精灵为对象，将我方废弃区2张等级合计为5的<古代兵器>精灵牌按任意顺序放置到牌组底。若如此做，将其破坏。",
+  "card_lines": "在下是执掌祭祀之人…。～奈芙蒂斯～",
+  "card_lrig_type": "",
+  "card_name": "古兵代号 奈芙蒂斯",
+  "card_no": "WXN05-SC144",
+  "card_sprite_type": "精械/古代兵器",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包05",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "8000",
+  "rarity": "C",
+  "story": "",
+  "team": "",
+  "uid": "01HFCXS2PWJ4T03WQ47DCNHAGD"
+}

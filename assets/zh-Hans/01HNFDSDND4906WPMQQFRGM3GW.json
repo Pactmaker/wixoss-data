@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】《回合1》：我方的<美巧>精灵从手牌以外出场时，以对方的1只精灵为对象，若为我方回合，可以支付《绿》或《白》。若如此做，将其返回手牌。\n【出】：查看我方牌组顶4张牌。将其中1张绿色牌展示并加入手牌，将其中1张白色牌放置到能量区，剩下的牌按任意顺序放置到牌组底。\n【起】《回合1》《硬币》：【能量填充2】",
+  "card_lines": "",
+  "card_lrig_type": "安",
+  "card_name": "再调的彩蝶　安＝FOURTH",
+  "card_no": "SPEX2-SC-BE04",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "1",
+  "color": "绿/白",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版选择者收藏包SPEX2",
+  "grow_price": "绿0",
+  "level": "4",
+  "limit": "11",
+  "power": "",
+  "rarity": "BE",
+  "story": "无",
+  "team": "无",
+  "uid": "01HNFDSDND4906WPMQQFRGM3GW"
+}

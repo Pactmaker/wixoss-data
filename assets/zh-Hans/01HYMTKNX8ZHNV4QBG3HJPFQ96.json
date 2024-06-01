@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：该精灵被破坏时，可以将该精灵从能量区作为【陷阱】在我方精灵区设置。\n【陷阱】：以对方的1只精灵为对象，若此回合我方的精灵被破坏过，可以支付《蓝》。若如此做，将其破坏。\n生命爆发：抽1张牌。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "中罠　鸽子帽",
+  "card_no": "WXN06-SC067",
+  "card_sprite_type": "精武/机关",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 超世代强化包06",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "5000",
+  "rarity": "R",
+  "story": "无",
+  "team": "",
+  "uid": "01HYMTKNX8ZHNV4QBG3HJPFQ96"
+}

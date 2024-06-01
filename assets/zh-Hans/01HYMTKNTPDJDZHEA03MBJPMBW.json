@@ -1,0 +1,23 @@
+{
+  "card_effect": "【重合】我方的<怪异>精灵获得《重合》的能力\n《重合》【常】：因该精灵击溃的对方的牌的生命爆发不发动。\n【出】：从我方牌组检索最多2张<怪异>精灵牌并将其放置到废弃区，洗切牌组。直到回合结束为止，该精灵获得用此方法放置到废弃区的精灵牌的所有《重合》的能力。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "幻怪姬　鵺",
+  "card_no": "WXN06-SC040",
+  "card_sprite_type": "精生/怪异",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "白",
+  "cost": "",
+  "env": "",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 超世代强化包06",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "10000",
+  "rarity": "SR",
+  "story": "无",
+  "team": "",
+  "uid": "01HYMTKNTPDJDZHEA03MBJPMBW"
+}

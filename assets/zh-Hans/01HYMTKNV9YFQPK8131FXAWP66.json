@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】《回合1》：我方的1张【陷阱】被设置时，抽1张牌或【能量填充1】。\n【出】：以对方的1只精灵为对象，将我方牌组顶1张牌放置到废弃区。若那张牌为持有《陷阱》的牌，将其破坏。\n【陷阱】：可以支付《蓝》。若如此做，将对方的横置状态的所有精灵破坏。\n生命爆发：以对方的1只精灵为对象，将其横置。抽1张牌。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "超罠　电击枪",
+  "card_no": "WXN06-SC046",
+  "card_sprite_type": "精武/机关",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 超世代强化包06",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "无",
+  "team": "",
+  "uid": "01HYMTKNV9YFQPK8131FXAWP66"
+}

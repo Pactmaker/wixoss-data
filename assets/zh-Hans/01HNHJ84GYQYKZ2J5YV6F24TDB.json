@@ -1,0 +1,23 @@
+{
+  "card_effect": "我方主分身每有1级，该必杀的使用费用减少《无2》。\n将对方能量区的所有白色、红色、蓝色、绿色、黑色的牌和对方场上的所有精灵放置到废弃区。若我方的主分身为<绿子>，追加将对方能量区的所有牌放置到废弃区。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "因果应报",
+  "card_no": "SP10-SC012",
+  "card_sprite_type": "",
+  "card_type": "必杀",
+  "coin": "",
+  "color": "绿",
+  "cost": "绿6无12",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 店铺月赛包01",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "SP",
+  "story": "无",
+  "team": "无",
+  "uid": "01HNHJ84GYQYKZ2J5YV6F24TDB"
+}

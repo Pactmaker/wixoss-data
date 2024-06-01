@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】《回合1》：我方的精灵成为对方的能力或效果的对象时，指定对方的1个精灵区。此回合中，对方的那个精灵区的精灵不能攻击。\n【自】：我方回合结束时，将我方的所有精灵竖置。\n生命爆发：选择其中1项。①以对方的1只竖置状态的精灵为对象，将其返回手牌。②抽1张牌。",
+  "card_lines": "「能天使，现在开始执行武力介入精灵区行动。」",
+  "card_lrig_type": "",
+  "card_name": "圣天姬　能天使",
+  "card_no": "WXDi-PSC01-055",
+  "card_sprite_type": "奏像/天使",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "白",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA强化包01",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "无",
+  "team": "",
+  "uid": "01HTHMD0VHSTGPG20SKTBJCYGX"
+}

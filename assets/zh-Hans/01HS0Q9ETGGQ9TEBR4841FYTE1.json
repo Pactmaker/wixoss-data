@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：我方回合中，我方主分身每有1级，该精灵的力量+2000。\n【常】：只要该精灵的力量为8000以上，该精灵获得「【自】：该精灵攻击时，可以丢弃1张手牌。若如此做，抽1张牌。」的能力。\n生命爆发：以对方的1只力量为12000以下的精灵为对象，可以支付《红》《无》。若如此做，将其破坏。",
+  "card_lines": "「讲解时间到了汪。主分身为等级3时，力量有多少汪？」",
+  "card_lrig_type": "",
+  "card_name": "幻兽 柯基",
+  "card_no": "SP15-SC021P",
+  "card_sprite_type": "奏生/地兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版-新店赛PR包01",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "2000",
+  "rarity": "SP",
+  "story": "",
+  "team": "",
+  "uid": "01HS0Q9ETGGQ9TEBR4841FYTE1"
+}

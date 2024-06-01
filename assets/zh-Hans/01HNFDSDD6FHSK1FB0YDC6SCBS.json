@@ -1,0 +1,23 @@
+{
+  "card_effect": "将该牌加入分身牌组的情况下，我方的分身牌组最多只能加入3张必杀牌。\n【常】: 我方可以出场任意张数的钥匙牌。\n【起】《回合1》《无》: 获得《硬币》。此局游戏中，我方场上的《梦限 -P-》的基本等级和基本界限变为与对象的对方1只主分身相同数值。若此局游戏中我方已使用该【起】能力5次，将该分身翻面。",
+  "card_lines": "",
+  "card_lrig_type": "梦限",
+  "card_name": "梦限 -P-",
+  "card_no": "SPEX2-SC007A",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "无",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版选择者收藏包SPEX2",
+  "grow_price": "无0",
+  "level": "1",
+  "limit": "2",
+  "power": "",
+  "rarity": "LR",
+  "story": "无",
+  "team": "无",
+  "uid": "01HNFDSDD6FHSK1FB0YDC6SCBS"
+}

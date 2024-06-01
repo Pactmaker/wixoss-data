@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：对方的魔法牌的使用费用增加《无1》。\n【常】：只要我方废弃区有魔法牌，该精灵的力量+3000，因为该精灵被破坏的精灵放置到能量区时，改为放置到废弃区。\n生命爆发：以我方废弃区最多1张精灵牌和最多1张魔法牌为对象，将其加入手牌。",
+  "card_lines": "——废弃区没有魔法的话，就用手电筒去检索魔法牌吧！",
+  "card_lrig_type": "",
+  "card_name": "技术代号 枝形吊灯",
+  "card_no": "WXDi-DSC03-014",
+  "card_sprite_type": "奏械/电机",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "白",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版DIVA出道牌组03-Card Jockey",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "10000",
+  "rarity": "ST",
+  "story": "",
+  "team": "",
+  "uid": "01HFCXQQSK98JNVVAC40CCG5D9"
+}

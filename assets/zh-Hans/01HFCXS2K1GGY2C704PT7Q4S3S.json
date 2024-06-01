@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】《无》：以我方场上1只等级3的精灵为对象，直到回合结束为止，那只精灵获得「【自】：该精灵攻击时，以对方场上1只力量为8000以下的精灵为对象，将其破坏。」的能力。",
+  "card_lines": "「烛台就由我来斩落吧！」",
+  "card_lrig_type": "",
+  "card_name": "中装 烛台切光忠",
+  "card_no": "WXN05-SC106",
+  "card_sprite_type": "奏武/武装",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包05",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "5000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01HFCXS2K1GGY2C704PT7Q4S3S"
+}

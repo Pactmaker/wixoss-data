@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】从手牌丢弃2张&lt;原子&gt;精灵牌：以对方1只精灵为对象，直到回合结束为止，其力量-8000。\n（力量为0以下的精灵会因为规则而破坏）",
+  "card_lines": "「没错、这便是深海的景象哟—。」",
+  "card_lrig_type": "",
+  "card_name": "罗原 Pa",
+  "card_no": "SP15-SC009",
+  "card_sprite_type": "奏罗/原子",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "sc",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版-新店赛PR包01",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "2000",
+  "rarity": "SP",
+  "story": "",
+  "team": "",
+  "uid": "01HGFRTWZ0ZX4WQV703JW0EW31"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：我方回合结束时，以我方能量区最多1张精灵牌为对象，将其加入手牌。\n【出】：从以下2项选择1项。以我方场上1只力量比其卡面记述的力量高的<电机>精灵为对象，直到回合结束为止，那只精灵获得我方所选择的能力。\n①「【常】：不会因对方的效果横置。」\n②「【常】：不会因对方的效果返回手牌。」",
+  "card_lines": "接力棒接好，老姐！～Ｒ・Ｌ・Ｃ～",
+  "card_lrig_type": "",
+  "card_name": "技术代号 Ｒ・Ｌ・Ｃ",
+  "card_no": "WXN05-SC120",
+  "card_sprite_type": "精械/电机",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包05",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "5000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01HFCXS2M4WTHPG2N25PWWT8KX"
+}

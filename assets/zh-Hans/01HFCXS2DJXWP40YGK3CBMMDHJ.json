@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】：以对方场上最多2只精灵为对象，直到回合结束为止，其失去能力。\n【出】《白》《无》《无》：以对方场上1只不持有能力的精灵为对象，将其返回手牌。\n【出】丢弃3张手牌：以对方场上1只精灵为对象，直到回合结束为止，其获得「【常】：不能攻击。」的能力。",
+  "card_lines": "「失去一切吧，连同你胜利的可能性一起！」",
+  "card_lrig_type": "诺瓦",
+  "card_name": "诺瓦=放逐",
+  "card_no": "WXN05-SC031",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "白",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包05",
+  "grow_price": "无3",
+  "level": "2",
+  "limit": "+1",
+  "power": "",
+  "rarity": "LC",
+  "story": "",
+  "team": "宇宙之始",
+  "uid": "01HFCXS2DJXWP40YGK3CBMMDHJ"
+}

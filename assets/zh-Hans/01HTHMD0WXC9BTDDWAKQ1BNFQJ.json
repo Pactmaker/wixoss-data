@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：只要我方废弃区有魔法牌，该精灵的力量+3000。\n【出】：查看我方牌组顶5张牌。将其中任意张数的魔法牌展示并加入手牌，剩下的牌按任意顺序放置到牌组底。用此方法加入手牌的牌每有1张，丢弃1张手牌。\n生命爆发：以我方废弃区最多2张魔法牌为对象，将其加入手牌。",
+  "card_lines": "「一起进来暖呼呼吧。」",
+  "card_lrig_type": "",
+  "card_name": "技术代号 电热毯",
+  "card_no": "WXDi-PSC01-077",
+  "card_sprite_type": "奏械/电机",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA强化包01",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "10000",
+  "rarity": "R",
+  "story": "无",
+  "team": "",
+  "uid": "01HTHMD0WXC9BTDDWAKQ1BNFQJ"
+}

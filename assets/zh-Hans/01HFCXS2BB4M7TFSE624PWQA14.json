@@ -1,0 +1,23 @@
+{
+  "card_effect": "【成长】将我方分身牌组1张<小玉>或<伊绪奈>的分身牌展示并放置到我方的主分身下方。\n【出】：将我方分身废弃区所有分身牌放置到该牌下方，将对象的最多2张必杀牌加入分身牌组。\n【起】超越2：将对方场上所有精灵放置到废弃区。展示对方牌组顶2张牌。对方将其中最多2张精灵牌出场，剩下的牌放置到废弃区。",
+  "card_lines": "此时此刻，……新世界就此诞生！",
+  "card_lrig_type": "小玉/伊绪奈",
+  "card_name": "真名之巫女 茧",
+  "card_no": "WXN05-SC001",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "白",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包05",
+  "grow_price": "白0",
+  "level": "5",
+  "limit": "12",
+  "power": "",
+  "rarity": "LR",
+  "story": "",
+  "team": "",
+  "uid": "01HFCXS2BB4M7TFSE624PWQA14"
+}

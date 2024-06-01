@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】《回合2》：该精灵击溃对方的1张生命护甲时，若对方的生命护甲比我方多，将该精灵竖置。\n【出】：若对方的手牌为6张以上，对方将自己的手牌丢弃至3张。\n生命爆发：选择其中1项。①若对方的手牌比我方多，抽2张牌。②以对方的1只精灵为对象，若对方的生命护甲的张数比我方多，将其破坏。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "罗星姬 ≡宇宙塔≡",
+  "card_no": "SPEX2-SC045",
+  "card_sprite_type": "精罗/宇宙",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版选择者收藏包SPEX2",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "无",
+  "team": "无",
+  "uid": "01HNFDSDFCRVD8SPJFA9RZV7SG"
+}

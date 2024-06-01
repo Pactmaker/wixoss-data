@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：该精灵攻击时，若此回合从我方牌组移动到能量区的牌为1张以上，以对方的1只力量为8000以下的精灵为对象，可以支付《绿》《无》。若如此做，将其破坏。",
+  "card_lines": "「对于我来说就算是8000也就洒洒水啦。」",
+  "card_lrig_type": "",
+  "card_name": "幻水 大鳞海猪鱼",
+  "card_no": "WXDi-PSC01-119",
+  "card_sprite_type": "奏生/水兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA强化包01",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "2000",
+  "rarity": "C",
+  "story": "无",
+  "team": "",
+  "uid": "01HTHMD0ZH8E8MC7MTMY88Q6SC"
+}

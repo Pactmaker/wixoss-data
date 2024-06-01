@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：对方能量区的牌失去【万花色】且不受对方的效果影响。\n【自】《回合1》：对方1只精灵被破坏时，以对方场上1只力量比那只被破坏的精灵低的精灵为对象，将其破坏。\n【起】《回合1》《红》：以我方废弃区1张等级3以下的红色精灵牌为对象，将其出场。\n生命爆发：以我方废弃区2张持有相同颜色的精灵牌为对象，将其加入手牌。",
+  "card_lines": "地狱大爆炸！～地狱衔尾蛇～",
+  "card_lrig_type": "",
+  "card_name": "古兵代号 地狱衔尾蛇",
+  "card_no": "WXN05-SC070",
+  "card_sprite_type": "精械/古代兵器",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包05",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01HFCXS2GB54VARY4H2H3WTXYG"
+}

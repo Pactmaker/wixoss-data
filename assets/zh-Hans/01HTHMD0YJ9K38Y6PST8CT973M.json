@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】《横置》：将该精灵放置到我方的其他1只红色精灵下方。\n【常】：该牌上方的红色精灵的力量+2000。\n生命爆发：以对方的1只力量为12000以下的精灵为对象，可以支付《红》《无》。若如此做，将其破坏。",
+  "card_lines": "「混凝土大炮，接招吧！」",
+  "card_lrig_type": "",
+  "card_name": "骑乘代号 混凝土搅拌车",
+  "card_no": "WXDi-PSC01-104",
+  "card_sprite_type": "奏械/乘机",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA强化包01",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "3000",
+  "rarity": "C",
+  "story": "无",
+  "team": "",
+  "uid": "01HTHMD0YJ9K38Y6PST8CT973M"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：我方攻击阶段开始时，对方以自己能量区1张牌为对象，若对方能量区的牌为5张以上，将其放置到废弃区。\n【出】：对方宣言1个颜色。对方从自己能量区将持有宣言的颜色以外的颜色的所有牌放置到废弃区。\n【起】《回合1》《硬币》：击溃我方1张生命护甲。若如此做，抽3张牌。",
+  "card_lines": "",
+  "card_lrig_type": "游月",
+  "card_name": "游月·四篝",
+  "card_no": "SPEX2-SC004",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "2",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版选择者收藏包SPEX2",
+  "grow_price": "红0",
+  "level": "4",
+  "limit": "11",
+  "power": "",
+  "rarity": "LR",
+  "story": "无",
+  "team": "无",
+  "uid": "01HNFDSDCNG2DHTX79XXW32BC1"
+}

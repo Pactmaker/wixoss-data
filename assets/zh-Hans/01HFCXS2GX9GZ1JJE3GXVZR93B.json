@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：对方回合中，对方的精灵离场时，改为放置到废弃区。\n【自】：对方回合结束时，抽1张牌。\n【起】丢弃手牌1张等级1的精灵牌：将对方场上的所有精灵冻结。\n生命爆发：以对方场上1只精灵为对象，将其横置并冻结。抽1张牌。",
+  "card_lines": "「你前行的终点只有1个，那便是我猎户座大人的麾下。」",
+  "card_lrig_type": "",
+  "card_name": "罗星姬 猎户座",
+  "card_no": "WXN05-SC078",
+  "card_sprite_type": "奏罗/宇宙",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包05",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "",
+  "team": "",
+  "uid": "01HFCXS2GX9GZ1JJE3GXVZR93B"
+}

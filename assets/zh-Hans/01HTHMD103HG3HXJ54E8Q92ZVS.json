@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】：若我方场上的<天使>精灵为3只以上，以对方的1只精灵为对象，直到回合结束为止，其力量-2000。\n（力量为0以下的精灵会因为规则而破坏）",
+  "card_lines": "「没错，黑夜天使是自由的。就像厄瑞玻斯姐姐一样呢。」",
+  "card_lrig_type": "",
+  "card_name": "凶天 倪克斯",
+  "card_no": "WXDi-PSC01-128",
+  "card_sprite_type": "奏像/天使",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA强化包01",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "2000",
+  "rarity": "C",
+  "story": "无",
+  "team": "",
+  "uid": "01HTHMD103HG3HXJ54E8Q92ZVS"
+}

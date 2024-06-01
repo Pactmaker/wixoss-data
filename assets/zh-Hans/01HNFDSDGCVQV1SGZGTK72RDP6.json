@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】：展示我方牌组顶3张牌。若用此方法将3张<天使>精灵牌展示，将其中1张加入手牌，剩下的牌按任意顺序返回牌组顶。\n生命爆发：抽1张牌。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "淳朴的光辉 阿格莱亚",
+  "card_no": "SPEX2-SC063",
+  "card_sprite_type": "精像/天使",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "白",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版选择者收藏包SPEX2",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "1000",
+  "rarity": "R",
+  "story": "无",
+  "team": "无",
+  "uid": "01HNFDSDGCVQV1SGZGTK72RDP6"
+}

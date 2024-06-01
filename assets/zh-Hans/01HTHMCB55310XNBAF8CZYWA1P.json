@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：该牌从我方牌组放置到废弃区时，若为我方回合，以对方的1只精灵为对象，可以支付《黑》。若如此做，直到回合结束为止，其力量-3000。",
+  "card_lines": "「灰尘都看不上你呢。」",
+  "card_lrig_type": "",
+  "card_name": "凶魔　加麦基",
+  "card_no": "WXDi-DSC05-019",
+  "card_sprite_type": "奏像/恶魔",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA出道牌组05 DIAGRAM",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "1000",
+  "rarity": "ST",
+  "story": "无",
+  "team": "",
+  "uid": "01HTHMCB55310XNBAF8CZYWA1P"
+}

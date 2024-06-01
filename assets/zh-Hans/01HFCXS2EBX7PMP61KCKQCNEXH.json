@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：各攻击阶段开始时，从我方分身牌组将1张<游具>共鸣精灵牌无视出现条件出场。\n【起】《回合1》《绿》：以我方能量区最多3张精灵牌为对象，将其加入手牌。\n【起】《回合1》超越2：在这个回合最初的攻击阶段后，追加1个攻击阶段。用此方法增加的攻击阶段开始时，将我方场上的所有<游具>精灵放置到检查区。那之后，将其出场，将该分身竖置。",
+  "card_lines": "呀咿呀—咿，连续突击！～艾娅伊～",
+  "card_lrig_type": "艾娅伊",
+  "card_name": "艾娅伊★皇家同花顺",
+  "card_no": "WXN05-SC042",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包05",
+  "grow_price": "绿2",
+  "level": "5",
+  "limit": "12",
+  "power": "",
+  "rarity": "LC",
+  "story": "",
+  "team": "",
+  "uid": "01HFCXS2EBX7PMP61KCKQCNEXH"
+}

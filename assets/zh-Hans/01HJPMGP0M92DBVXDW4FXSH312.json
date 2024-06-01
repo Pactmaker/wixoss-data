@@ -1,0 +1,23 @@
+{
+  "card_effect": "对方丢弃2张手牌。那之后，若对方的手牌为0张，抽1张牌。\n生命爆发：在不查看对方手牌的情况下挑选其中1张，将其丢弃。",
+  "card_lines": "砰！",
+  "card_lrig_type": "",
+  "card_name": "ＳＮＡＴＣＨＥＲ",
+  "card_no": "WXD12-SC026",
+  "card_sprite_type": "",
+  "card_type": "魔法",
+  "coin": "",
+  "color": "蓝",
+  "cost": "蓝2无1",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "WIXOSS简体中文版传奇预组12",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "ST",
+  "story": "",
+  "team": "",
+  "uid": "01HJPMGP0M92DBVXDW4FXSH312"
+}

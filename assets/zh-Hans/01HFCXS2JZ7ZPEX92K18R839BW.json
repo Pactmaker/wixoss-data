@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：我方回合中，我方的红色精灵的力量+2000。\n【起】《回合1》将我方1只竖置状态的主分身横置：从我方牌组检索1张等级在我方主分身等级以下的红色精灵牌将其展示并加入手牌，洗切牌组。",
+  "card_lines": "不要着急，不要紧张。～牛车～",
+  "card_lrig_type": "",
+  "card_name": "古代乘机 牛车",
+  "card_no": "WXN05-SC105",
+  "card_sprite_type": "精械/乘机/古代兵器",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包05",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "5000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01HFCXS2JZ7ZPEX92K18R839BW"
+}

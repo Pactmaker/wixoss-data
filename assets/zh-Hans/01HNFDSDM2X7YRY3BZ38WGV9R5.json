@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】《回合1》:我方的1只精灵被附属时，可以将我方手牌1张<调理>精灵牌放置到能量区。若如此做，抽1张牌。\n（该效果1回合只能发动1次。若选择不将牌放置到能量区，也包含在1次内）\n生命爆发:【能量填充1】",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "食用代号 炸薯条",
+  "card_no": "SPEX2-SC068S",
+  "card_sprite_type": "精械/调理",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版选择者收藏包SPEX2",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "2000",
+  "rarity": "SEC",
+  "story": "无",
+  "team": "无",
+  "uid": "01HNFDSDM2X7YRY3BZ38WGV9R5"
+}

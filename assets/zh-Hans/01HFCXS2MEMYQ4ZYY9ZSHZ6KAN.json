@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：各攻击阶段开始时，以场上1只精灵为对象，直到回合结束为止，该精灵的基本力量变为与那只精灵的力量相同的数值。\n【自】《回合1》：我方的1只力量为15000以上的精灵攻击时，【能量填充1】。\n生命爆发：【能量填充1】。此回合中，下一次精灵攻击时，那次攻击无效。",
+  "card_lines": "「那份力量，我要享用了—♪」",
+  "card_lrig_type": "",
+  "card_name": "幻兽 耳廓狐",
+  "card_no": "WXN05-SC124",
+  "card_sprite_type": "奏生/地兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包05",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "10000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01HFCXS2MEMYQ4ZYY9ZSHZ6KAN"
+}

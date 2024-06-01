@@ -1,0 +1,23 @@
+{
+  "card_effect": "【队伍】＜D・X・M＞\n【队伍自】：我方攻击阶段开始时，若对方能量区的牌为2张以上且此回合我方丢弃过1张以上的牌，对方选择自己能量区1张牌放置到废弃区。\n【起】《红》《红》《无》：直到回合结束为止，该精灵获得【双重击溃】能力。（因攻击造成伤害时击溃2张生命护甲）",
+  "card_lines": "ー等级3的艾克斯附有【灵魂】后就可以发动能力哦！",
+  "card_lrig_type": "",
+  "card_name": "加速代号　鸥翼式",
+  "card_no": "WXDi-PSC01-060",
+  "card_sprite_type": "奏械/乘机",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA强化包01",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "无",
+  "team": "",
+  "uid": "01HTHMD0VVGRJ4D0WXP0JF453W"
+}

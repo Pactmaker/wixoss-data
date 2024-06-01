@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】《横置》：选择白、红、蓝、黑其中1个颜色。展示我方牌组顶1张牌，若其为持有选择的颜色的精灵牌，将其放置到能量区。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "罗植 仙客来",
+  "card_no": "SPEX2-SC092",
+  "card_sprite_type": "精生/植物",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版选择者收藏包SPEX2",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "1000",
+  "rarity": "C",
+  "story": "无",
+  "team": "无",
+  "uid": "01HNFDSDJ16XP5BVZSBB1QGWFM"
+}

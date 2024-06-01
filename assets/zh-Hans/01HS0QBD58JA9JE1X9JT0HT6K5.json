@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：该精灵攻击时，展示我方牌组顶1张牌。那之后，若其为等级1的精灵牌，以对方的1只力量为8000以下的精灵为对象，可以支付《无》。若如此做，将其破坏。",
+  "card_lines": "「火势恰到好处呢。」",
+  "card_lrig_type": "",
+  "card_name": "罗星 船底座",
+  "card_no": "SP06-SC047",
+  "card_sprite_type": "奏罗/宇宙",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 店赛冠军包04",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "5000",
+  "rarity": "SP",
+  "story": "",
+  "team": "",
+  "uid": "01HS0QBD58JA9JE1X9JT0HT6K5"
+}

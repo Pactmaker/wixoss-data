@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：该精灵因为<游具>共鸣精灵的出现条件从场上放置到废弃区时，直到下个我方回合为止，那只共鸣精灵不会被破坏。\n【出】：此回合中，下次击溃的对方的生命护甲最上方的牌的生命爆发不发动。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "肆之游　橡皮车",
+  "card_no": "WXN06-SC078",
+  "card_sprite_type": "精武/游具",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 超世代强化包06",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "10000",
+  "rarity": "R",
+  "story": "无",
+  "team": "",
+  "uid": "01HYMTKNY9Z8RZD1TWFGK14HHP"
+}

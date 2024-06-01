@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：只要我方废弃区的牌为5张以上，该精灵的力量+4000。\n【出】：将我方牌组顶3张牌放置到废弃区。",
+  "card_lines": "ー增加废弃区并通过玛琪娜来回收吧！",
+  "card_lrig_type": "",
+  "card_name": "凶魔 巴风特",
+  "card_no": "WXDi-PSC01-127",
+  "card_sprite_type": "奏像/恶魔",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA强化包01",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "3000",
+  "rarity": "C",
+  "story": "无",
+  "team": "",
+  "uid": "01HTHMD101ZNDYS7H48JQVBRS9"
+}

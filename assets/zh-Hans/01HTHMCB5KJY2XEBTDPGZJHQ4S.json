@@ -1,0 +1,23 @@
+{
+  "card_effect": "【队伍】<DIAGRAM>\n【队伍自】：该精灵攻击时，将我方或对方牌组顶5张牌放置到废弃区。\n【出】《黑》：以对方的1只精灵为对象，直到回合结束为止，其力量-5000。若我方废弃区的牌为20张以上，改为直到回合结束为止，其力量-10000。",
+  "card_lines": "音容兼美陵王也。",
+  "card_lrig_type": "",
+  "card_name": "Drei＝兰陵王",
+  "card_no": "WXDi-DSC05-026",
+  "card_sprite_type": "奏武/毒牙",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA出道牌组05 DIAGRAM",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "12000",
+  "rarity": "ST",
+  "story": "无",
+  "team": "",
+  "uid": "01HTHMCB5KJY2XEBTDPGZJHQ4S"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "所有玩家将自己牌组顶3张牌放置到废弃区。那之后，若我方废弃区的牌为25张以上，以我方废弃区1张不持有《防御》的精灵牌为对象，将其加入手牌。",
+  "card_lines": "「来自黑暗的思绪，乃通向胜利的道路哦~。」～缪斯伽～",
+  "card_lrig_type": "",
+  "card_name": "探寻・光芒",
+  "card_no": "WXDi-DSC05-031",
+  "card_sprite_type": "",
+  "card_type": "魔法",
+  "coin": "",
+  "color": "黑",
+  "cost": "黑1",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA出道牌组05 DIAGRAM",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "ST",
+  "story": "无",
+  "team": "",
+  "uid": "01HTHMCB5XWT6X5Q4DF0E8QEZ1"
+}

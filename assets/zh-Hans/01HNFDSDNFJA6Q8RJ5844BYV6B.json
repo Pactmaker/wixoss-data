@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】《回合1》：我方的1只<游具>精灵从废弃区出场时，以我方废弃区1张等级比那只精灵低的<游具>精灵牌为对象，若为我方回合，将其出场。\n【出】：查看我方牌组顶5张牌。将其中1张牌加入手牌，将其中1张牌放置到废弃区，剩下的牌按任意顺序放置到牌组底。",
+  "card_lines": "",
+  "card_lrig_type": "迟钝子",
+  "card_name": "悲壮的驮姬　迟钝子",
+  "card_no": "SPEX2-SC-BE05",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版选择者收藏包SPEX2",
+  "grow_price": "黑0",
+  "level": "4",
+  "limit": "11",
+  "power": "",
+  "rarity": "BE",
+  "story": "无",
+  "team": "无",
+  "uid": "01HNFDSDNFJA6Q8RJ5844BYV6B"
+}

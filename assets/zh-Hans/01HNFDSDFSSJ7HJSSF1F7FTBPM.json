@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】《攻击阶段》《黑》《黑》《无》：将我方废弃区等级不同且非无色的4张精灵牌放置到牌组底。若如此做，将该精灵牌从废弃区出场，洗切牌组。（该能力只能在该精灵牌存在于废弃区的情况下使用）\n生命爆发：将我方牌组顶3张牌放置到废弃区。那之后，以我方废弃区1张非无色的精灵牌为对象，将其加入手牌。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "古兵代号 七星龙渊",
+  "card_no": "SPEX2-SC052",
+  "card_sprite_type": "精械/古代兵器",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版选择者收藏包SPEX2",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "8000",
+  "rarity": "SR",
+  "story": "无",
+  "team": "无",
+  "uid": "01HNFDSDFSSJ7HJSSF1F7FTBPM"
+}

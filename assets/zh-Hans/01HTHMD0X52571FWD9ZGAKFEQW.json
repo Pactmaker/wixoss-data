@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：该精灵攻击时，对方抽1张牌，我方在不查看对方手牌的情况下挑选其中1张，将其丢弃。\n【出】《蓝》：若我方场上存在《罗原姬 ＺｒＯ２》，以对方的1只精灵为对象，直到回合结束为止，其力量-4000。",
+  "card_lines": "「显色阶段第二名！」",
+  "card_lrig_type": "",
+  "card_name": "罗原 CZ",
+  "card_no": "WXDi-PSC01-081",
+  "card_sprite_type": "奏罗/原子",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA强化包01",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "2000",
+  "rarity": "R",
+  "story": "无",
+  "team": "",
+  "uid": "01HTHMD0X52571FWD9ZGAKFEQW"
+}

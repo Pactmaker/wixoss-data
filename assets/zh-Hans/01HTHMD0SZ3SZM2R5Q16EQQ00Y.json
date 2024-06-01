@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】：以对方的1只精灵为对象，那只精灵的等级每有1级，可以支付《无》。若如此做，将其破坏。\n【出】：以对方能量区最多2张与对方主分身不持有相同颜色的牌为对象，将其放置到废弃区。",
+  "card_lines": "「唔喔喔喔！成长！」",
+  "card_lrig_type": "艾克斯",
+  "card_name": "艾克斯交错烈焰",
+  "card_no": "WXDi-PSC01-031",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "WIXOSS 简体中文版 DIVA强化包01",
+  "grow_price": "无0",
+  "level": "2",
+  "limit": "+1",
+  "power": "",
+  "rarity": "LC",
+  "story": "无",
+  "team": "DXM",
+  "uid": "01HTHMD0SZ3SZM2R5Q16EQQ00Y"
+}

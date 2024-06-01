@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：我方的<天使>精灵的力量+2000。\n【常】：该精灵不会因对方的效果横置。\n【自】：该精灵被破坏时，以对方的1只比该精灵力量低的精灵为对象，可以将其破坏。\n【出】：以对方的1只精灵为对象，若我方场上的<天使>精灵为3只，将其破坏。\n生命爆发：以对方的1只力量为12000以下的精灵为对象，将其破坏。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "远矢的名手　≡阿波罗≡",
+  "card_no": "WXN06-SC044P",
+  "card_sprite_type": "精像/天使",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 超世代强化包06",
+  "grow_price": "",
+  "level": "4",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SRP",
+  "story": "无",
+  "team": "",
+  "uid": "01HYMTKP4VESX8XVT7CVJF9JFF"
+}

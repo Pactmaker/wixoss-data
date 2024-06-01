@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】《横置》：展示我方牌组顶1张牌。若其为<武勇>精灵牌，将其加入手牌。\n生命爆发：抽1张牌。",
+  "card_lines": "有效范围：狗、鸡、猴、武将。～装满糯米团子的包袱袋～",
+  "card_lrig_type": "",
+  "card_name": "备中的桃将 吉备津彦命",
+  "card_no": "WXN05-SC104",
+  "card_sprite_type": "精像/武勇",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包05",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "1000",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01HFCXS2JX9JE0G0XZAM2TG07Q"
+}

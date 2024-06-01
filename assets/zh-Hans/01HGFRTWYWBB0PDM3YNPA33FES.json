@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】《回合1》：我方其他1只精灵作为费用从场上放置到废弃区时，以对方1只精灵为对象，直到回合结束为止，放置到废弃区的精灵的等级每有1级，其力量-1000。\n【出】从手牌丢弃1张精灵牌：以我方废弃区1张与用此方法丢弃的精灵牌持有相同种族的等级2以下的精灵牌为对象，将其加入手牌。\n生命爆发：【能量填充1】",
+  "card_lines": "请哥哥放心。一定能够像原来一样…。～阿廖努什卡～",
+  "card_lrig_type": "",
+  "card_name": "兄妹的原童话 阿廖努什卡",
+  "card_no": "SP15-SC010P",
+  "card_sprite_type": "精像/美巧/精罗/原子",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "sc",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版-新店赛PR包01",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "5000",
+  "rarity": "SP",
+  "story": "",
+  "team": "",
+  "uid": "01HGFRTWYWBB0PDM3YNPA33FES"
+}

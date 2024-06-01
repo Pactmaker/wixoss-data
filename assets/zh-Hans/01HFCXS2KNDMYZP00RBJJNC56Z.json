@@ -1,0 +1,23 @@
+{
+  "card_effect": "使用该魔法牌时，可以追加超越4作为使用费用。（将我方分身下方的合计4张牌放置到分身废弃区）\n抽2张牌，丢弃1张手牌。若追加超越4作为使用费用，改为抽3张牌。（若支付了超越4，「抽2张牌，丢弃1张手牌」改为抽3张牌）",
+  "card_lines": "「危机便是转机，不要停下来啊！」～令～",
+  "card_lrig_type": "",
+  "card_name": "ＴＨＲＩＬＬＩＮＧ",
+  "card_no": "WXN05-SC114",
+  "card_sprite_type": "",
+  "card_type": "魔法",
+  "coin": "",
+  "color": "蓝",
+  "cost": "蓝1",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版超世代强化包05",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "R",
+  "story": "",
+  "team": "",
+  "uid": "01HFCXS2KNDMYZP00RBJJNC56Z"
+}

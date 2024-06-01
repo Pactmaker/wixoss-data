@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】《回合1》：我方的1只力量为10000以上的<龙兽>精灵攻击时，抽1张牌。\n生命爆发：抽1张牌。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "幻龙　野槌蛇",
+  "card_no": "SPEX2-SC086",
+  "card_sprite_type": "精生/龙兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版选择者收藏包SPEX2",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "5000",
+  "rarity": "C",
+  "story": "无",
+  "team": "无",
+  "uid": "01HNFDSDHP5095AHZM7GVP0F49"
+}

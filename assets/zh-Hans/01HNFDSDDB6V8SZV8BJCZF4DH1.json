@@ -1,0 +1,23 @@
+{
+  "card_effect": "该必杀牌的使用费用含有的《无》费用，只能以白色或黑色进行支付。\n【连锁】《白》《白》《黑》《黑》\n\n从以下3项选择最多2项。\n①以对方的1只精灵为对象，将其放置到废弃区。\n②以我方废弃区1张与我方主分身持有相同颜色的精灵牌为对象，将其出场。\n③以我方分身废弃区1张费用合计为2以上的必杀牌为对象，将其加入分身牌组。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "阿瓦隆·投影",
+  "card_no": "SPEX2-SC009",
+  "card_sprite_type": "",
+  "card_type": "必杀",
+  "coin": "",
+  "color": "白/黑",
+  "cost": "无5",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版选择者收藏包SPEX2",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "LR",
+  "story": "无",
+  "team": "无",
+  "uid": "01HNFDSDDB6V8SZV8BJCZF4DH1"
+}
