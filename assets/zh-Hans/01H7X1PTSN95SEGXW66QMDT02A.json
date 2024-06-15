@@ -1,10 +1,10 @@
 {
-  "card_effect": "【重合】我方场上的<怪异>精灵获得《重合》的能力\n《重合》【常】：该精灵的力量+2000。",
+  "card_effect": "【重合】我方场上的&lt;怪异&gt;精灵获得《重合》的能力\n《重合》【常】：该精灵的力量+2000。",
   "card_lines": "呜呜呜！～子泣爷爷～\n欸呀呀，怎么了？～猴面包树～",
   "card_lrig_type": "",
   "card_name": "幻怪 子泣爷爷",
   "card_no": "WXD09-SC011",
-  "card_sprite_type": "精像/幻怪",
+  "card_sprite_type": "精像/怪异",
   "card_type": "精灵",
   "coin": "",
   "color": "白",

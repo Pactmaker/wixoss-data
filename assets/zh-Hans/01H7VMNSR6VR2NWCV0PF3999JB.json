@@ -1,7 +1,7 @@
 {
-  "card_effect": "从以下2项选择1项。\n①将对象的我方场上1只<迷宫>精灵放置到废弃区。若如此做，将对象的我方废弃区1张<迷宫>精灵牌加入手牌。\n②【能量填充1】",
+  "card_effect": "从以下2项选择1项。\n①将对象的我方场上1只&lt;迷宫&gt;精灵放置到废弃区。若如此做，将对象的我方废弃区1张&lt;迷宫&gt;精灵牌加入手牌。\n②【能量填充1】",
   "card_lines": "挖到了不少东西呢。～乌姆尔～",
-  "card_lrig_type": "起",
+  "card_lrig_type": "",
   "card_name": "BRIGHTNESS",
   "card_no": "WXC02-SC100",
   "card_sprite_type": "",
