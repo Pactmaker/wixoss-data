@@ -25,6 +25,8 @@ REFERENCE_RESOLUTIONS=(
     "750x1039"
     "750x1048"
     "750x1071"
+    "1537x2127"
+    "2127x1536"
 )
 
 for i in "$DATA_DIR"*.webp
