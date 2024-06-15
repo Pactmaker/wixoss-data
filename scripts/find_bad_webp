@@ -31,18 +31,26 @@ REFERENCE_RESOLUTIONS=(
 
 for i in "$DATA_DIR"*.webp
 do
+    BAD_IMAGE="false"
     WEBP_INFO="$(webpinfo "$i")"
 
     if ! RESOLUTION="$(grep "Canvas size" <<< "$WEBP_INFO" | awk '{printf $3"x"$5}')"
     then
+        BAD_IMAGE="true"
         echo "$(basename "$i"): no canvas size!"
     elif [[ ! " ${REFERENCE_RESOLUTIONS[*]} " =~ " $RESOLUTION " ]]
     then
+        BAD_IMAGE="true"
         echo "$(basename "$i"): non-standard resolution $RESOLUTION!"
     fi
 
     if ! grep "Chunk ALPH" <<< "$WEBP_INFO" &>/dev/null
     then
+        BAD_IMAGE="true"
         echo "$(basename "$i"): missing alpha channel!"
+    fi
+
+    if [[ $BAD_IMAGE == "true" ]] && [[ ${1:-} == "-d" ]]; then
+        rm "$i"
     fi
 done
