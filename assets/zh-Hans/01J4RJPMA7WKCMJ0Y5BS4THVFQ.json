@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：该精灵攻击时，对方丢弃1张手牌。\n【出】：我方丢弃1张手牌。\n（没有费用的【出】能力必须发动）",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "苍魔 斯库拉",
+  "card_no": "WXDi-PSC02-086",
+  "card_sprite_type": "奏像/恶魔",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 DIVA强化包02",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "3000",
+  "rarity": "R",
+  "story": "无",
+  "team": "",
+  "uid": "01J4RJPMA7WKCMJ0Y5BS4THVFQ"
+}

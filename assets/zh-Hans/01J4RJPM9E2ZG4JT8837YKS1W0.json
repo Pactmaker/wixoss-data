@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：对方攻击阶段开始时，以对方的最多1只等级2以下的精灵为对象，可以将该精灵从场上返回手牌。若如此做，直到回合结束为止，其获得「【常】：不能攻击。」的能力。\n生命爆发：以对方的1只精灵为对象，直到回合结束为止，其获得「【常】：不能攻击。」的能力。抽1张牌。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "罗星 诺瓦//回忆",
+  "card_no": "WXDi-PSC02-076",
+  "card_sprite_type": "奏罗/宇宙",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "白",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 DIVA强化包02",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "8000",
+  "rarity": "R",
+  "story": "无",
+  "team": "",
+  "uid": "01J4RJPM9E2ZG4JT8837YKS1W0"
+}

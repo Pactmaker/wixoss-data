@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：该精灵攻击时，以对方的1只精灵为对象，可以从我方废弃区将4张等级不同的黑色精灵牌加入牌组。若如此做，洗切牌组，直到回合结束为止，其力量减少该精灵的力量的一半的数值。\n【起】《回合2》《黑》：以我方的1只黑色精灵为对象，直到回合结束为止，其力量+5000。将我方牌组顶3张牌放置到废弃区。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "幻武龙 坂本龙马",
+  "card_no": "SP15-SC035",
+  "card_sprite_type": "精生/龙兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版-新店赛PR包01",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "7000",
+  "rarity": "SP",
+  "story": "无",
+  "team": "",
+  "uid": "01J4RJRX61JMJA8G4VB6KCYVGW"
+}

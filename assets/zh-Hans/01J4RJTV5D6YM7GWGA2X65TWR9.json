@@ -1,0 +1,23 @@
+{
+  "card_effect": "使用该碎片牌时，可以追加超越4作为使用费用。\n（将我方分身下方的合计4张牌放置到分身废弃区）\n查看我的牌组顶5张牌。将其中最多1张不持有《防御》的精灵牌展示并加入手牌，剩下的牌按任意顺序放置到牌组底。若追加超越4作为使用费用，改为将其中最多2张不持有《防御》的精灵牌展示并加入手牌，剩下的牌按任意顺序放置到牌组底。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "RHAPSODY PARTY",
+  "card_no": "SP18S-SC003",
+  "card_sprite_type": "",
+  "card_type": "碎片",
+  "coin": "",
+  "color": "无",
+  "cost": "无0",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 DIVA赛事包01",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "SP",
+  "story": "无",
+  "team": "",
+  "uid": "01J4RJTV5D6YM7GWGA2X65TWR9"
+}

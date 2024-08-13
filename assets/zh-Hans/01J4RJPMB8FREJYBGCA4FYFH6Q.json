@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：我方回合结束时，若该精灵为竖置状态，展示我方牌组顶1张牌。若那张牌为白色，抽1张牌。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "圣将 柳生宗矩",
+  "card_no": "WXDi-PSC02-099",
+  "card_sprite_type": "奏像/武勇",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "白",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 DIVA强化包02",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "2000",
+  "rarity": "C",
+  "story": "无",
+  "team": "",
+  "uid": "01J4RJPMB8FREJYBGCA4FYFH6Q"
+}

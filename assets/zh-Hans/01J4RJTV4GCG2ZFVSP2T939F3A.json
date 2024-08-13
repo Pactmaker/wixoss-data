@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：我方攻击阶段开始时，以对方能量区1张与对方主分身不持有相同颜色的牌为对象，可以丢弃手牌1张等级1的精灵牌。若如此做，将其放置到废弃区。\n生命爆发：以对方的1只力量为12000以下的精灵为对象，可以丢弃1张手牌。若如此做，将其破坏。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "罗星 天炉座",
+  "card_no": "SP18-SC019",
+  "card_sprite_type": "奏罗/宇宙",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 DIVA赛事包01",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "2000",
+  "rarity": "SP",
+  "story": "无",
+  "team": "",
+  "uid": "01J4RJTV4GCG2ZFVSP2T939F3A"
+}

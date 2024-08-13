@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：我方攻击阶段开始时，直到回合结束为止，我方的所有精灵的力量+3000。\n【自】：我方回合结束时，若我方场上的精灵的力量合计为30000以上，抽1张牌。\n【出】《红》《无》：以我方废弃区1张等级2以下的<地兽>精灵牌为对象，将其出场。直到回合结束为止，其力量+4000。\n生命爆发：以对方的1只力量为10000以下的精灵为对象，将其破坏。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "幻兽神 纯血马",
+  "card_no": "WXDi-PSC02-061",
+  "card_sprite_type": "奏生/地兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 DIVA强化包02",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "无",
+  "team": "",
+  "uid": "01J4RJPM86EKVTDTMB0Q1VTAH4"
+}

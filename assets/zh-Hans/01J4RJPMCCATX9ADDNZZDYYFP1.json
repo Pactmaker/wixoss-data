@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】：展示我方牌组顶3张牌，将那些牌按任意顺序放置到牌组底。那之后，若用此方法展示的所有牌为等级1的精灵牌，以对方的1只力量为3000以下的精灵为对象，将其破坏。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "罗星 屈光度",
+  "card_no": "WXDi-PSC02-113",
+  "card_sprite_type": "奏罗/宇宙",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 DIVA强化包02",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "5000",
+  "rarity": "C",
+  "story": "无",
+  "team": "",
+  "uid": "01J4RJPMCCATX9ADDNZZDYYFP1"
+}

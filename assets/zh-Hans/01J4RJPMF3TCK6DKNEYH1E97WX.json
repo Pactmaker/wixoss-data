@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】《回合1》：该分身攻击时，可以将我方的2只竖置状态的精灵横置并支付《白》《无》。若如此做，将该分身竖置，直到回合结束为止，该分身失去能力。\n【出】：查看我方牌组顶4张牌。将其中最多2张牌加入手牌，剩下的牌按任意顺序放置到牌组底。\n【起】《游戏1》《白0》：直到回合结束为止，该分身获得「【自】《回合1》：该分身攻击时，将我方的所有精灵竖置。」的能力。",
+  "card_lines": "",
+  "card_lrig_type": "小玉",
+  "card_name": "奏月之巫女 玉依姬",
+  "card_no": "WXDi-PSC02-001P",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "0",
+  "color": "白",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 DIVA强化包02",
+  "grow_price": "白2",
+  "level": "3",
+  "limit": "6",
+  "power": "",
+  "rarity": "LRP",
+  "story": "无",
+  "team": "",
+  "uid": "01J4RJPMF3TCK6DKNEYH1E97WX"
+}

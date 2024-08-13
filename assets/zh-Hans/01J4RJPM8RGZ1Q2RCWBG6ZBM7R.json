@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：只要该精灵存在于中央精灵区，该精灵的力量+3000，该精灵获得「【常】：只要我方能量区的绿色的牌为3张以上，该精灵不会因对方的效果横置。」的能力。\n【自】：该精灵攻击时，若此回合我方使用过碎片牌，指定对方的1个精灵区。下一个对方的回合中，对方的那个精灵区的精灵不能攻击。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "幻怪姬 翠子//回忆",
+  "card_no": "WXDi-PSC02-068",
+  "card_sprite_type": "奏生/怪异",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 DIVA强化包02",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "无",
+  "team": "",
+  "uid": "01J4RJPM8RGZ1Q2RCWBG6ZBM7R"
+}

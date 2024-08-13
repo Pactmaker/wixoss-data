@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：我方攻击阶段开始时，展示我方牌组顶1张牌，抽1张牌。那之后，若用此效果展示的牌为<宝石>精灵牌，可以支付《蓝》《红》《无》。若如此做，以对方的1只精灵为对象，将其破坏。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "罗辉石 蔚蓝金刚",
+  "card_no": "WXDi-PSC02-063",
+  "card_sprite_type": "奏罗/宝石",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 DIVA强化包02",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "10000",
+  "rarity": "SR",
+  "story": "无",
+  "team": "",
+  "uid": "01J4RJPM8BM7TSGXHTEVESANPX"
+}

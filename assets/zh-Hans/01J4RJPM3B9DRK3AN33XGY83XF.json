@@ -1,0 +1,23 @@
+{
+  "card_effect": "【使用条件】【梦幻队伍】持有合计3种类以上的颜色（我方场上的3只分身满足这个条件）\n以我方的1只等级3的分身为对象，直到回合结束为止，其获得以下能力。\n『【自】《回合1》：该分身攻击时，击溃对方的1张生命护甲。若对方选择使用那张牌的生命爆发，可以支付《无》《无》。若如此做，那张牌的生命爆发不发动。』",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "一霸一络",
+  "card_no": "WXDi-PSC02-010",
+  "card_sprite_type": "",
+  "card_type": "碎片",
+  "coin": "",
+  "color": "红",
+  "cost": "红1",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 DIVA强化包02",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "LR",
+  "story": "无",
+  "team": "",
+  "uid": "01J4RJPM3B9DRK3AN33XGY83XF"
+}

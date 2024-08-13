@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：我方攻击阶段开始时，以我方的1只精灵为对象，直到回合结束为止，其力量+5000。\n【出】：以我方废弃区最多2张不持有《防御》的精灵牌为对象，将其放置到能量区。\n【起】《游戏1》从能量区将7张不持有相同种族的精灵牌放置到废弃区：将对方的所有精灵放置到能量区，【能量填充2】。",
+  "card_lines": "",
+  "card_lrig_type": "亚特",
+  "card_name": "开启之门 亚特＝Tre",
+  "card_no": "WXDi-PSC02-031S",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "0",
+  "color": "绿",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 DIVA强化包02",
+  "grow_price": "绿2",
+  "level": "3",
+  "limit": "6",
+  "power": "",
+  "rarity": "SCR",
+  "story": "无",
+  "team": "远古惊叹",
+  "uid": "01J4RJPMJK6FPENE65CGZ1YZBJ"
+}

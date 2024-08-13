@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】：若为我方回合，直到下一个对方的回合结束为止，该分身获得「【常】：我方的精灵的力量+10000。」的能力。\n【出】：若为对方回合，直到回合结束为止，该分身获得「【常】：我方的精灵获得【暗影】能力。」的能力。\n（持有【暗影】能力的精灵不会被对方取为对象）",
+  "card_lines": "",
+  "card_lrig_type": "安",
+  "card_name": "安 - 彩染",
+  "card_no": "WXDi-PSC02-056",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "0",
+  "color": "绿",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 DIVA强化包02",
+  "grow_price": "无2",
+  "level": "2",
+  "limit": "+2",
+  "power": "",
+  "rarity": "LC",
+  "story": "无",
+  "team": "",
+  "uid": "01J4RJPM7SJ02GABKJ9PN4W3AD"
+}

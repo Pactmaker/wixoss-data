@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】《回合2》：我方的1只<天使>精灵出场时，可以抽1张牌。若如此做，丢弃1张手牌。\n【自】《回合1》：我方的1只<天使>精灵攻击时，在不查看对方手牌的情况下挑选其中1张，将其丢弃。\n生命爆发：选择其中1项。①以对方的1只精灵为对象，可以丢弃2张手牌。若如此做，将其破坏。②在不查看对方手牌的情况下挑选其中1张，将其丢弃。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "苍天姬 布伦希尔德",
+  "card_no": "WXDi-PSC02-064",
+  "card_sprite_type": "奏像/天使",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 DIVA强化包02",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "10000",
+  "rarity": "SR",
+  "story": "无",
+  "team": "",
+  "uid": "01J4RJPM8EE6JHDVRXCWX6JYS9"
+}

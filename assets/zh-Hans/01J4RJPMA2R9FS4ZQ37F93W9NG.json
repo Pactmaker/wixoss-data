@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：对方回合中，只要我方手牌的张数为对方手牌的张数以上，该精灵获得【暗影（等级2以下的精灵）】能力。（该精灵不会被对方的等级2以下的精灵取为对象）\n生命爆发：以对方的1只分身或精灵为对象。此回合中，其攻击时，只要对方不丢弃3张手牌，那次攻击无效。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "苍美 二濑//回忆",
+  "card_no": "WXDi-PSC02-084",
+  "card_sprite_type": "奏像/美巧",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 DIVA强化包02",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "3000",
+  "rarity": "R",
+  "story": "无",
+  "team": "",
+  "uid": "01J4RJPMA2R9FS4ZQ37F93W9NG"
+}

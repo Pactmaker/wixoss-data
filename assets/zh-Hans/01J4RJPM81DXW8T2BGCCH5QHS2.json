@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：只要该精灵为觉醒状态，该精灵的力量+2000，该精灵获得【暗影（等级3以上的精灵）】能力。\n【自】：该精灵攻击时，展示我方牌组顶1张牌。若那张牌为精灵牌，可以将那张精灵牌与我方的1只竖置状态的精灵交换位置。那只精灵的【出】能力不发动。\n【自】：该精灵战斗破坏对方的1只精灵时，该精灵觉醒。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "大装 小玉//回忆",
+  "card_no": "WXDi-PSC02-059",
+  "card_sprite_type": "奏武/武装",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "白",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 DIVA强化包02",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "无",
+  "team": "",
+  "uid": "01J4RJPM81DXW8T2BGCCH5QHS2"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：只要该精灵为觉醒状态，该精灵的力量+2000，该精灵获得「【自】：该精灵攻击时，【能量填充1】。」的能力。\n【自】：我方回合结束时，该精灵觉醒。（精灵觉醒后在场上保持觉醒状态）",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "翠将 杰罗尼莫",
+  "card_no": "WXDi-PSC02-125",
+  "card_sprite_type": "奏像/武勇",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 DIVA强化包02",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "3000",
+  "rarity": "C",
+  "story": "无",
+  "team": "",
+  "uid": "01J4RJPMDBW581J2A1A4VNGN77"
+}

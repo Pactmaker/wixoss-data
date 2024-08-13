@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：我方攻击阶段开始时，若我方能量区没有牌，直到下一个对方的回合结束为止，该精灵的基本等级变为3，基本力量变为12000。\n【自】：我方攻击阶段开始时，以对方的1只该精灵等级以下的精灵为对象，可以丢弃手牌合计2张红色的牌或<宝石>精灵牌。若如此做，将其破坏。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "罗辉石 花代//回忆",
+  "card_no": "WXDi-PSC02-062",
+  "card_sprite_type": "奏罗/宝石",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 DIVA强化包02",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "5000",
+  "rarity": "SR",
+  "story": "无",
+  "team": "",
+  "uid": "01J4RJPM89P4DGWFR7YM23C94J"
+}

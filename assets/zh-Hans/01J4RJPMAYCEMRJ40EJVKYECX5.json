@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：该精灵攻击时，若此回合该精灵从废弃区出场，抽1张牌。\n【起】丢弃2张手牌：该牌从废弃区出场。（该能力只能在该牌存在于废弃区的情况下使用）",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "古兵代号 乌姆尔//回忆",
+  "card_no": "WXDi-PSC02-095",
+  "card_sprite_type": "奏械/古代兵器",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 DIVA强化包02",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "1000",
+  "rarity": "R",
+  "story": "无",
+  "team": "",
+  "uid": "01J4RJPMAYCEMRJ40EJVKYECX5"
+}

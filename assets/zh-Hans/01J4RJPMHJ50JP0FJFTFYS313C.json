@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：该精灵正面的精灵可以攻击的情况下必须进行攻击。（必须在其他精灵攻击前进行攻击）\n【自】：该精灵攻击时，以对方的1只力量与其卡面记述的力量不同的精灵为对象，可以支付《黑》《黑》。若如此做，将其破坏。\n【出】：该精灵从废弃区出场时，以对方的1只精灵为对象，直到回合结束为止，其力量-1000。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "群集古兵代号 伊绪奈//回忆",
+  "card_no": "WXDi-PSC02-071P",
+  "card_sprite_type": "奏械/古代兵器",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 DIVA强化包02",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "10000",
+  "rarity": "SRP",
+  "story": "无",
+  "team": "",
+  "uid": "01J4RJPMHJ50JP0FJFTFYS313C"
+}

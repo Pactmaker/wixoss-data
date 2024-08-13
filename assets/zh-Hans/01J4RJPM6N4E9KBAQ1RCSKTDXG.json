@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】：此回合中，下一次我方的生命爆发发动时，改为那个生命爆发发动两次。\n【出】击溃1张生命护甲：洗切我方牌组并将牌组顶1张牌加入生命护甲。\n（【出】能力的：的左侧为费用。可以选择不支付不发动）",
+  "card_lines": "",
+  "card_lrig_type": "艾尔德拉",
+  "card_name": "艾尔德拉！爆发・突袭！",
+  "card_no": "WXDi-PSC02-042",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "0",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 DIVA强化包02",
+  "grow_price": "无0",
+  "level": "2",
+  "limit": "+2",
+  "power": "",
+  "rarity": "LC",
+  "story": "无",
+  "team": "",
+  "uid": "01J4RJPM6N4E9KBAQ1RCSKTDXG"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：只要我方废弃区的牌为10张以上，该精灵的力量+3000，该精灵获得【暗影（等级2以下的精灵）】能力。\n【常】：我方的场上和能量区的精灵牌追加获得黑色。\n【自】《回合1》：我方的1只黑色精灵在我方主要阶段以外离开场上时，将对方牌组顶2张牌放置到废弃区。\n生命爆发：以对方的1只等级2以下的精灵为对象，将其破坏。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "凶天姬 小玉//回忆",
+  "card_no": "WXDi-PSC02-069",
+  "card_sprite_type": "奏像/天使",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 DIVA强化包02",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "10000",
+  "rarity": "SR",
+  "story": "无",
+  "team": "",
+  "uid": "01J4RJPM8VBBP6NQV4AR8RKDW9"
+}

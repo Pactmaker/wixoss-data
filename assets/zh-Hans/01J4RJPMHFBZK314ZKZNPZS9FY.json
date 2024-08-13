@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：我方攻击阶段开始时，以对方的1只精灵为对象，直到回合结束为止，我方场上的黑色分身每有1只，其力量-2000。若因此效果将其力量变为0以下，将对方牌组顶2张牌放置到废弃区。\n【起】《回合1》丢弃2张手牌：以我方废弃区1张黑色精灵牌为对象，将其加入手牌。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "凶魔姬 路西法",
+  "card_no": "WXDi-PSC02-070P",
+  "card_sprite_type": "奏像/恶魔",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 DIVA强化包02",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "10000",
+  "rarity": "SRP",
+  "story": "无",
+  "team": "",
+  "uid": "01J4RJPMHFBZK314ZKZNPZS9FY"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【起】《游戏1》《无》：以我方的最多2只精灵为对象，直到回合结束为止，其获得「【常】：只要该精灵正面的精灵的力量为10000以上，获得【暗杀】能力。」的能力。\n（持有【暗杀】能力的精灵攻击时不与正前方的精灵战斗，改为给予对方伤害）",
+  "card_lines": "",
+  "card_lrig_type": "游月",
+  "card_name": "游月・红绿柱石",
+  "card_no": "WXDi-PSC02-036",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "0",
+  "color": "红",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 DIVA强化包02",
+  "grow_price": "无0",
+  "level": "2",
+  "limit": "+2",
+  "power": "",
+  "rarity": "LC",
+  "story": "无",
+  "team": "",
+  "uid": "01J4RJPM65J5QGQW2MB5Q9TFWQ"
+}

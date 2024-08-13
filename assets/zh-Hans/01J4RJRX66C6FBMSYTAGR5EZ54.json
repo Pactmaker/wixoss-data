@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：只要该牌在牌组或手牌或废弃区，因我方的1个能力或效果参照该精灵牌的等级的情况下，可以视为等级4。\n【出】：展示我方牌组顶1张牌。若其为等级4的精灵牌，将其放置到能量区。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "罗星 ≡满天≡",
+  "card_no": "SP15-SC033",
+  "card_sprite_type": "精罗/宇宙",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版-新店赛PR包01",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "5000",
+  "rarity": "SP",
+  "story": "无",
+  "team": "",
+  "uid": "01J4RJRX66C6FBMSYTAGR5EZ54"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：我方回合结束时，若对方能量区的牌为3张以上，对方从自己能量区选择1张牌放置到废弃区。\n【出】：对方从自己能量区选择1张牌放置到废弃区。\n【起】《游戏1》《红0》：以我方的1只红色精灵为对象，直到回合结束为止，其获得【双重击溃】能力。",
+  "card_lines": "",
+  "card_lrig_type": "LOVIT",
+  "card_name": "DJ.LOVIT 3rdVerse-ALT",
+  "card_no": "WXDi-PSC02-007P",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "0",
+  "color": "红",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 DIVA强化包02",
+  "grow_price": "红2",
+  "level": "3",
+  "limit": "6",
+  "power": "",
+  "rarity": "LRP",
+  "story": "无",
+  "team": "Card Jackey",
+  "uid": "01J4RJPMFJ54RQWF17Y5X0FDFD"
+}

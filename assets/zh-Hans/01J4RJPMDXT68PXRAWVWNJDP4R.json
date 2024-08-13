@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：只要我方废弃区的牌为10张以上，该精灵的力量+4000。\n【自】：该精灵被破坏时，将我方或对方牌组顶2张牌放置到废弃区。\n生命爆发：以我方废弃区1张不持有《防御》的等级2以下的精灵牌为对象，将其加入手牌或出场。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "罗星 后发座",
+  "card_no": "WXDi-PSC02-132",
+  "card_sprite_type": "奏罗/宇宙",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 DIVA强化包02",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "3000",
+  "rarity": "C",
+  "story": "无",
+  "team": "",
+  "uid": "01J4RJPMDXT68PXRAWVWNJDP4R"
+}

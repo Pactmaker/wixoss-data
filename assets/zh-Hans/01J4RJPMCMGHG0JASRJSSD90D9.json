@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】丢弃1张手牌：此回合结束时，【能量填充1】。\n（【出】能力的：的左侧为费用。可以选择不支付不发动）\n生命爆发：抽2张牌并【能量填充1】。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "罗植 风信子",
+  "card_no": "WXDi-PSC02-116",
+  "card_sprite_type": "奏罗/植物",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 DIVA强化包02",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "2000",
+  "rarity": "C",
+  "story": "无",
+  "team": "",
+  "uid": "01J4RJPMCMGHG0JASRJSSD90D9"
+}

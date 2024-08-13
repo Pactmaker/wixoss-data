@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】：以我方废弃区最多2张黑色精灵牌为对象，将其加入手牌。\n【起】《回合1》《黑0》：宣言1~3的1个数字。从我方牌组顶将与宣言数字相同张数的牌放置到废弃区。\n【起】《游戏1》丢弃2张手牌：直到回合结束为止，该分身获得「【自】《回合1》：该分身攻击时，以我方废弃区1张不持有【生命爆发】的牌为对象，将其加入生命护甲。」的能力。",
+  "card_lines": "",
+  "card_lrig_type": "乌莉丝",
+  "card_name": "狂骚的阎魔 乌莉丝",
+  "card_no": "WXDi-PSC02-005",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "0",
+  "color": "黑",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 DIVA强化包02",
+  "grow_price": "黑2",
+  "level": "3",
+  "limit": "6",
+  "power": "",
+  "rarity": "LR",
+  "story": "无",
+  "team": "",
+  "uid": "01J4RJPM2YKT2KPPQZVDB9CVVH"
+}

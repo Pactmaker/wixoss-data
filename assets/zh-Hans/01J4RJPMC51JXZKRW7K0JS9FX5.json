@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：只要我方废弃区有魔法牌，该精灵的力量+4000。\n【出】丢弃1张魔法牌：以对方的1只力量为2000以下的精灵为对象，将其破坏。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "技术代号 炸薯条机",
+  "card_no": "WXDi-PSC02-110",
+  "card_sprite_type": "奏械/电机",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 DIVA强化包02",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "3000",
+  "rarity": "C",
+  "story": "无",
+  "team": "",
+  "uid": "01J4RJPMC51JXZKRW7K0JS9FX5"
+}

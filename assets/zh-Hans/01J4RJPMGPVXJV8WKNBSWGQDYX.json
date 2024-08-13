@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：该精灵在我方主要阶段以外离开场上时，抽1张牌。\n【出】：丢弃所有手牌。那之后，若用此方法丢弃了2张牌，以对方的1只力量为10000以下的精灵为对象，将其破坏。若丢弃了3张以上，改为以对方的1只精灵为对象，将其破坏。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "红魔姬 湿婆",
+  "card_no": "WXDi-PSC02-060P",
+  "card_sprite_type": "奏像/恶魔",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 DIVA强化包02",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "10000",
+  "rarity": "SRP",
+  "story": "无",
+  "team": "",
+  "uid": "01J4RJPMGPVXJV8WKNBSWGQDYX"
+}

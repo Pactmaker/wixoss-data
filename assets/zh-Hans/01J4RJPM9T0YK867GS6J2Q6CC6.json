@@ -1,0 +1,23 @@
+{
+  "card_effect": "【升阶】放置在我方的1只等级1的精灵上方（不满足该条件则不能出场）\n【常】：该精灵不会因对方的效果获得新能力。\n【自】：该精灵攻击时，可以丢弃1张手牌。若如此做，抽1张牌。\n生命爆发：以对方的1只力量为12000以下的精灵为对象，可以丢弃1张手牌。若如此做，将其破坏。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "技术代号 拉拉・露//回忆",
+  "card_no": "WXDi-PSC02-081",
+  "card_sprite_type": "奏械/电机",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 DIVA强化包02",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "12000",
+  "rarity": "R",
+  "story": "无",
+  "team": "",
+  "uid": "01J4RJPM9T0YK867GS6J2Q6CC6"
+}

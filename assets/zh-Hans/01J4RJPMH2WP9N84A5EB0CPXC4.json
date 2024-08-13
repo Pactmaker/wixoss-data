@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：我方手牌每有2张，该精灵的力量+1000。\n【自】：该精灵攻击时，查看我方牌组顶3张牌。将其中任意张数的持有【生命爆发】的牌展示并加入手牌，剩下的牌按任意顺序放置到牌组底。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "幻水姬 艾尔德拉//回忆",
+  "card_no": "WXDi-PSC02-065P",
+  "card_sprite_type": "奏生/水兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 DIVA强化包02",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "10000",
+  "rarity": "SRP",
+  "story": "无",
+  "team": "",
+  "uid": "01J4RJPMH2WP9N84A5EB0CPXC4"
+}

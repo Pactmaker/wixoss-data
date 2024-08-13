@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：我方回合结束时，若该精灵为竖置状态，展示我方牌组顶1张牌。若那张牌为蓝色，抽1张牌。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "罗石 蓝晶石",
+  "card_no": "WXDi-PSC02-115",
+  "card_sprite_type": "奏罗/宝石",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 DIVA强化包02",
+  "grow_price": "",
+  "level": "1",
+  "limit": "",
+  "power": "2000",
+  "rarity": "C",
+  "story": "无",
+  "team": "",
+  "uid": "01J4RJPMCHSSAHF1WQWXEJ2PZX"
+}

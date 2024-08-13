@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：该分身攻击时，以我方废弃区1张牌为对象，可以将该分身下方的1张牌放置到分身废弃区。若如此做，将其放置到牌组顶。\n【出】：查看我方牌组顶3张牌。将其中最多1张牌返回牌组顶，剩下的牌按任意顺序放置到牌组底。\n【起】《游戏1》《白0》：以我方废弃区1张白色精灵牌为对象，将其放置到牌组顶。此回合结束时，抽2张牌。",
+  "card_lines": "",
+  "card_lrig_type": "诺瓦",
+  "card_name": "运鸣 诺瓦",
+  "card_no": "WXDi-PSC02-030S",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "0",
+  "color": "白",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 DIVA强化包02",
+  "grow_price": "白2",
+  "level": "3",
+  "limit": "6",
+  "power": "",
+  "rarity": "SCR",
+  "story": "无",
+  "team": "宇宙之始",
+  "uid": "01J4RJPMJHDZPG3N6VTWT3CK6A"
+}
