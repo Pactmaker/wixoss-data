@@ -1,0 +1,23 @@
+{
+  "card_effect": "以我方的1只精灵为对象，将其破坏。若如此做，所有玩家将自己的牌组顶3张牌放置到废弃区。之后，从我方的废弃区将1张非无色的等级1的精灵牌加入手牌。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "死亡·绽放",
+  "card_no": "SP15-SC039P",
+  "card_sprite_type": "",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版-新店赛PR包01",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "SP",
+  "story": "无",
+  "team": "",
+  "uid": "01J8YG7Y0NFNJCJNVVCDFY68ND"
+}

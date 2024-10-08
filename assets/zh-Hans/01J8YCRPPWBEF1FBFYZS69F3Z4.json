@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：我方攻击阶段开始时，若我方场上的精灵的力量合计为30000，【能量填充2】。\n【自】：该精灵攻击时，若该精灵的力量为13000，直到下一个对方的回合结束为止，该精灵获得【暗影（力量为10000以下的精灵）】能力。\n【起】《硬币》：直到下一个对方的回合结束为止，该精灵的力量+3000。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "翠英姬　妈妈//回忆",
+  "card_no": "WXDi-PSC03-SC068",
+  "card_sprite_type": "奏生/怪异",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 DIVA强化包03",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "无",
+  "team": "",
+  "uid": "01J8YCRPPWBEF1FBFYZS69F3Z4"
+}

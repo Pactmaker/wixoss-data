@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：我方攻击阶段开始时，若此回合中我方支付过合计1张以上的《硬币》，以对方的1只力量为8000以下的精灵为对象，将其破坏。\n【出】《红》《无》：以我方废弃区1张持有《升阶》的精灵牌为对象，将其出场。\n【起】《硬币》：对方从自己分身牌组展示1张牌。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "红将姬　莉露//回忆",
+  "card_no": "WXDi-PSC03-SC064",
+  "card_sprite_type": "奏像/天使",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 DIVA强化包03",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "10000",
+  "rarity": "SR",
+  "story": "无",
+  "team": "",
+  "uid": "01J8YCRPPKCNTETQDJZ079E2F6"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "下注—《硬币》（使用该魔法牌时，可以作为使用费用追加支付《硬币》）\n抽2张牌，丢弃2张手牌。若我方已下注，改为抽3张牌，丢弃2张手牌。\n此回合中，我方不能使用魔法牌。\n生命爆发：以对方的1只竖置状态的精灵为对象，可以丢弃1张手牌。若如此做，将其放置到牌组底。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "RECOVERY",
+  "card_no": "WXDi-PSC03-SC108",
+  "card_sprite_type": "",
+  "card_type": "魔法",
+  "coin": "",
+  "color": "",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 DIVA强化包03",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "C",
+  "story": "无",
+  "team": "",
+  "uid": "01J8YCRPSQD1VCR65HM5ZJRGDH"
+}

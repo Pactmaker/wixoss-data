@@ -1,0 +1,23 @@
+{
+  "card_effect": "每个精灵区最多放置1个【病毒】。\n与【病毒】存在于相同精灵区的精灵为感染状态。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "【病毒】",
+  "card_no": "WXDi-PSC03-TK04B",
+  "card_sprite_type": "奏生/水兽",
+  "card_type": "",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 DIVA强化包03",
+  "grow_price": "",
+  "level": "2",
+  "limit": "",
+  "power": "8000",
+  "rarity": "TK",
+  "story": "无",
+  "team": "",
+  "uid": "01J8YCRPVGFFP3CM4PTZQ122WW"
+}

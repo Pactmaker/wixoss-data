@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】：将我方牌组顶2张牌放置到该精灵下方。（以正面放置）\n【起】《绿》：查看我方牌组顶2张牌。将其中1张放置到该精灵下方，剩下的牌按任意顺序放置到牌组底。\n【起】将该精灵下方2张同名的牌放置到废弃区：直到回合结束为止，该精灵获得【枪兵】能力。\n【起】《硬币》：直到回合结束为止，该精灵的力量+5000。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "点单代号　梅露//回忆",
+  "card_no": "WXDi-PSC03-SC070",
+  "card_sprite_type": "奏像/恶魔",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 DIVA强化包03",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "10000",
+  "rarity": "SR",
+  "story": "无",
+  "team": "",
+  "uid": "01J8YCRPQ0TRWPTG8ZX2AH9GK0"
+}

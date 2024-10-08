@@ -1,0 +1,23 @@
+{
+  "card_effect": "【升阶】将我方废弃区的2张<武勇>精灵牌重叠在下方出场（在空的精灵区出场）\n【常】：该精灵被破坏的情况下，可以改为执行「将竖置状态的该精灵横置，将该精灵下方1张牌和我方能量区1张牌放置到废弃区。」。\n【常】：我方中央精灵区的精灵的力量+3000。\n生命爆发：以对方的1只力量为10000以下的精灵为对象，将其破坏。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "红将姬　库丘林",
+  "card_no": "WXDi-PSC03-SC063",
+  "card_sprite_type": "奏罗/宝石",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 DIVA强化包03",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "10000",
+  "rarity": "SR",
+  "story": "无",
+  "team": "",
+  "uid": "01J8YCRPPHR3V8TDFZGGTT6RNX"
+}

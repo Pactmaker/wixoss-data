@@ -1,0 +1,23 @@
+{
+  "card_effect": "【常】：只要该精灵为觉醒状态，该精灵的力量+3000，该精灵获得「【自】：该精灵被破坏时，只要对方不丢弃1张手牌，将该精灵牌从能量区以横置状态出场。」的能力。\n【自】：我方攻击阶段开始时，对方丢弃1张手牌。那之后，若对方的手牌为0张，该精灵觉醒。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "罗菌姬　美琴琴//回忆",
+  "card_no": "WXDi-PSC03-SC066",
+  "card_sprite_type": "奏像/美巧",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "绿",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 DIVA强化包03",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "无",
+  "team": "",
+  "uid": "01J8YCRPPQ275KAASRCJZ7P4Z2"
+}

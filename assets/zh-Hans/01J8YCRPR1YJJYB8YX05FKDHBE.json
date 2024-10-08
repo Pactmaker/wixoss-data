@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】：查看我方牌组顶1张牌。可以将那张牌放置到牌组底。\n【起】将该精灵从场上放置到牌组底：展示我方牌组顶1张牌。若那张牌为《迷宫代号　乌姆尔//回忆》以外的精灵牌，可以将那张精灵牌出场。\n生命爆发：查看我方牌组顶3张牌。将其中1张精灵牌展示并加入手牌或出场，剩下的牌按任意顺序放置到牌组底。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "迷宫代号　乌姆尔//回忆",
+  "card_no": "WXDi-PSC03-SC083",
+  "card_sprite_type": "",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 DIVA强化包03",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "R",
+  "story": "无",
+  "team": "",
+  "uid": "01J8YCRPR1YJJYB8YX05FKDHBE"
+}

@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】《回合1》：我方主要阶段中，我方丢弃1张精灵牌时，将那张牌从废弃区出场。\n【自】《我方回合》《回合1》：我方的1只精灵从手牌以外的领域出场时，以对方的1只精灵为对象，将其冻结，直到回合结束为止，其力量-2000。\n【起】《回合1》《硬币》《硬币》：对方丢弃1张手牌。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "大幻虫　阿洛斯・皮璐璐可//回忆",
+  "card_no": "WXDi-PSC03-SC065",
+  "card_sprite_type": "奏生/水兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "蓝",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 DIVA强化包03",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "10000",
+  "rarity": "SR",
+  "story": "无",
+  "team": "",
+  "uid": "01J8YCRPPN3H5BJJ8TH7T4R2NZ"
+}

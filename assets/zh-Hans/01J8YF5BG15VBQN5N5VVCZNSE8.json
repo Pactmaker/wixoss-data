@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：我方攻击阶段开始时，展示我方牌组顶1张牌。之后，若其为等级1的精灵，以对方的能量区中与对方主分身不持有共通颜色的1张牌为对象，将其放置到废弃区。\n生命爆发：丢弃1张手牌，抽3张牌。（没有丢弃手牌也能可以执行抽牌）",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "罗星 霍金",
+  "card_no": "SP18-SC027P",
+  "card_sprite_type": "",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 DIVA赛事包01",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "SP",
+  "story": "无",
+  "team": "",
+  "uid": "01J8YF5BG15VBQN5N5VVCZNSE8"
+}

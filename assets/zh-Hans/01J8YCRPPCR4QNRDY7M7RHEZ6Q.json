@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：我方攻击阶段开始时，以对方的1只等级为我方场上的白色精灵的数量以下的精灵为对象，可以支付《白》《白》。若如此做，将其返回手牌。\n【起】《白》：直到下一个对方的回合结束为止，该精灵获得「【常】：对方回合中，获得【暗影】能力。」的能力。\n【起】《白》《白》《无》《无》《无》将废弃区的该牌从游戏除外：以我方废弃区1张持有《防御》的精灵牌为对象，将其加入手牌。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "群集古兵代号　奥西里斯",
+  "card_no": "WXDi-PSC03-SC061",
+  "card_sprite_type": "奏生/地兽",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 DIVA强化包03",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "12000",
+  "rarity": "SR",
+  "story": "无",
+  "team": "",
+  "uid": "01J8YCRPPCR4QNRDY7M7RHEZ6Q"
+}

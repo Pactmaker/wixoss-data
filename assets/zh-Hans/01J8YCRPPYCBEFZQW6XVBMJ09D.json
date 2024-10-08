@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：我方攻击阶段开始时，若我方场上的精灵的等级合计为偶数，【能量填充1】。\n【自】：该精灵攻击时，以对方的1只精灵为对象，可以从我方能量区将等级合计为8的任意张数的精灵牌放置到废弃区。若如此做，将其破坏。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "翠英姬　爱因斯坦",
+  "card_no": "WXDi-PSC03-SC069",
+  "card_sprite_type": "奏像/天使",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "黑",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 DIVA强化包03",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "10000",
+  "rarity": "SR",
+  "story": "无",
+  "team": "",
+  "uid": "01J8YCRPPYCBEFZQW6XVBMJ09D"
+}

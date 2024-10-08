@@ -1,0 +1,23 @@
+{
+  "card_effect": "下注—《硬币》\n抽1张牌。那之后，宣言1个颜色。以我方的1只精灵为对象，直到下一个对方的回合结束为止，其获得①。若我方已下注，改为获得②。\n①「【常】：对方回合中，其获得【暗影（宣言的颜色的精灵）】能力。」\n②「【常】：对方回合中，其获得【暗影（宣言的颜色）】能力。」\n生命爆发：以对方的1只竖置状态的精灵为对象，将其返回手牌。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "奉献・色彩",
+  "card_no": "WXDi-PSC03-SC098",
+  "card_sprite_type": "",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 DIVA强化包03",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "C",
+  "story": "无",
+  "team": "",
+  "uid": "01J8YCRPS1F65F2S5QEYGGEYHY"
+}

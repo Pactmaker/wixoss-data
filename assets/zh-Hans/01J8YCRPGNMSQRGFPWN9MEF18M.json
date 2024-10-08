@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：该分身攻击时，展示对方牌组顶1张牌。若其为等级1的精灵牌，执行①。若其为等级2的精灵牌，执行②。若其为等级3的精灵牌，执行①或②。若其为魔法牌，执行①和②。\n①抽1张牌。\n②对方丢弃1张手牌。\n【起】《游戏1》《蓝0》：以对方的1只精灵为对象，将其以背面表示。各攻击阶段开始时，若背面表示的那只精灵的相同精灵区没有精灵存在，对方可以支付《无》《无》或丢弃2张手牌。若如此做，将其以正面表示。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "数码亚弥！Ⅲ",
+  "card_no": "WXDi-PSC03-SC003",
+  "card_sprite_type": "",
+  "card_type": "分身",
+  "coin": "",
+  "color": "",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 DIVA强化包03",
+  "grow_price": "",
+  "level": "",
+  "limit": "",
+  "power": "",
+  "rarity": "LR",
+  "story": "无",
+  "team": "",
+  "uid": "01J8YCRPGNMSQRGFPWN9MEF18M"
+}

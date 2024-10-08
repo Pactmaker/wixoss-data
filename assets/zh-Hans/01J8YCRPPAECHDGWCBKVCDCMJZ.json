@@ -1,0 +1,23 @@
+{
+  "card_effect": "【自】：该精灵被破坏时，可以将我方的1张生命护甲放置到废弃区。若如此做，将该精灵牌从能量区加入生命护甲。\n生命爆发：选择其中1项。①以对方的1只竖置状态的精灵为对象，将其返回手牌。②查看我方牌组顶4张牌。将其中最多2张牌加入手牌，剩下的牌按任意顺序放置到牌组底。",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "大盗罠　鲁邦",
+  "card_no": "WXDi-PSC03-SC060",
+  "card_sprite_type": "奏像/恶魔",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 DIVA强化包03",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "10000",
+  "rarity": "SR",
+  "story": "无",
+  "team": "",
+  "uid": "01J8YCRPPAECHDGWCBKVCDCMJZ"
+}

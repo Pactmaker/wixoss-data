@@ -1,0 +1,23 @@
+{
+  "card_effect": "【出】《红》《硬币》《硬币》《硬币》：以对方的1只精灵为对象，直到回合结束为止，其变为《侍从 ZERO》。（《侍从 ZERO》是等级1、<精元>、力量1000、无色且不持有能力的精灵）\n【起】《回合1》《红0》：以1只不持有【】的精灵为对象。将该精灵附有的所有牌和下方放置的所有牌放置到废弃区。直到回合结束为止，该精灵变为与那只精灵相同的牌。（【】包含【升阶】和【和声】）",
+  "card_lines": "",
+  "card_lrig_type": "",
+  "card_name": "罗星姬　嘉年华//回忆",
+  "card_no": "WXDi-PSC03-SC062",
+  "card_sprite_type": "奏罗/宝石",
+  "card_type": "精灵",
+  "coin": "",
+  "color": "红",
+  "cost": "",
+  "env": "SC/DIVA",
+  "faq": "",
+  "goods_name": "《WIXOSS》简体中文版 DIVA强化包03",
+  "grow_price": "",
+  "level": "3",
+  "limit": "",
+  "power": "5000",
+  "rarity": "SR",
+  "story": "无",
+  "team": "",
+  "uid": "01J8YCRPPF43EXP0Q4CN11KX5R"
+}
